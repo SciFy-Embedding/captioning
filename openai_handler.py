@@ -170,20 +170,18 @@ class OpenAIHandler:
         # Extract relevant sections and truncate if needed
         relevant_content = self.truncate_paper_content(paper_content)
         
-        # Create messages with system prompt and user request
+        # Create messages with system prompt from config and minimal user request
         messages = [
             {
                 "role": "system",
-                "content": PROMPTS["caption_generation"]["system_prompt"]
+                "content": PROMPTS["openai"]["caption_system"]
             },
             {
                 "role": "user", 
                 "content": [
                     {
                         "type": "text",
-                        "text": PROMPTS["caption_generation"]["user_prompt"].format(
-                            paper_content=relevant_content
-                        )
+                        "text": f"Paper context:\n{relevant_content}\n\nAnalyze this figure and generate a caption:"
                     },
                     {
                         "type": "image_url",
@@ -216,18 +214,15 @@ class OpenAIHandler:
         # Extract relevant sections and truncate if needed  
         relevant_content = self.truncate_paper_content(paper_content)
         
-        # Create messages for query generation
+        # Create messages for query generation using config system prompt
         messages = [
             {
                 "role": "system", 
-                "content": PROMPTS["query_generation"]["system_prompt"]
+                "content": PROMPTS["openai"]["query_system"]
             },
             {
                 "role": "user",
-                "content": PROMPTS["query_generation"]["user_prompt"].format(
-                    caption=caption,
-                    paper_content=relevant_content
-                )
+                "content": f"Paper context:\n{relevant_content}\n\nFigure caption: {caption}\n\nGenerate search queries:"
             }
         ]
         

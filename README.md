@@ -100,16 +100,24 @@ paper_directory/
 ## 🎛️ Configuration
 
 Edit `config.py` to customize:
-- **Query generation toggle** - Set `generate_queries: False` for caption-only processing
+- **--no-queries generation toggle** - Set `generate_queries: False` for caption-only processing
+  - **Important:** Changing this config requires new assistant creation (affects cached assistants)
+  - Runtime `--no-queries` flag overrides this setting for individual runs
 - Concurrent processing settings
 - API timeouts and retries
-- Prompt templates
 - Cost tracking
+
+- **System prompts** - All AI instructions centralized in `config.py`
 
 **Caption-only benefits:**
 - ~50% faster processing
 - ~30% cost reduction  
 - Perfect for workflows that only need figure descriptions
+
+**Assistant Optimization:**
+- Assistants are cached based on configuration settings
+- Different `generate_queries` settings create different assistants
+- Query-disabled assistants have optimized instructions (no query generation prompts)
 
 ## 🔧 Troubleshooting
 

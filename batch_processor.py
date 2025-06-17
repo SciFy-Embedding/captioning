@@ -124,7 +124,14 @@ class BatchProcessor:
         
         if not papers_to_process:
             logger.info("No papers to process")
-            return {"processed": 0, "successful": 0, "failed": 0, "papers": []}
+            return {
+                "processed": 0, 
+                "successful": 0, 
+                "failed": 0, 
+                "success_rate": 0.0,
+                "duration": 0.0,
+                "papers": []
+            }
         
         results = []
         
@@ -414,15 +421,30 @@ class BatchProcessor:
         print("\n" + "=" * 60)
         print("PROCESSING SUMMARY")
         print("=" * 60)
-        print(f"Total papers processed: {results['processed']}")
-        print(f"Successful: {results['successful']}")
-        print(f"Failed: {results['failed']}")
-        print(f"Success rate: {results['success_rate']:.1%}")
-        print(f"Total duration: {results['duration']:.0f} seconds")
+        
+        processed = results.get('processed', 0)
+        successful = results.get('successful', 0)
+        failed = results.get('failed', 0)
+        
+        print(f"Total papers processed: {processed}")
+        print(f"Successful: {successful}")
+        print(f"Failed: {failed}")
+        
+        # Calculate success rate if not present
+        if 'success_rate' in results:
+            success_rate = results['success_rate']
+        else:
+            success_rate = successful / processed if processed > 0 else 0
+            
+        print(f"Success rate: {success_rate:.1%}")
+        
+        duration = results.get('duration', 0)
+        print(f"Total duration: {duration:.0f} seconds")
         print("=" * 60)
         
         # Show failed papers if any
-        failed_papers = [r for r in results['papers'] if not r.get('success', False)]
+        papers = results.get('papers', [])
+        failed_papers = [r for r in papers if not r.get('success', False)]
         if failed_papers:
             print(f"\nFailed papers ({len(failed_papers)}):")
             for paper in failed_papers:
@@ -430,7 +452,7 @@ class BatchProcessor:
                 print(f"  ❌ {paper['paper_path']}: {error}")
         
         # Show successful papers summary
-        successful_papers = [r for r in results['papers'] if r.get('success', False)]
+        successful_papers = [r for r in papers if r.get('success', False)]
         if successful_papers:
             total_figures = sum(p.get('figures_processed', 0) for p in successful_papers)
             print(f"\n✅ Successfully processed {len(successful_papers)} papers with {total_figures} figures total")

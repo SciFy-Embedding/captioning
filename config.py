@@ -11,46 +11,103 @@ OPENAI_CONFIG = {
 
 # Prompts Configuration
 PROMPTS = {
+ "assistants": {
+        "base_system": (
+            "You are an expert in analyzing scientific figures and generating accurate, detailed captions and search queries.\n\n"
 
-    "user_prompt": """The figure is extracted from a scientific paper markdown in the json file. If the figure is a line graph, give decontextualized one sentence caption about the title, axies, curves, trend for each figure, and one sentence for its meaning. The caption should be literal, data‐driven, descriptive of the plot's number and slopes. If the figure is not a line graph, do your best to give a  detailed description and meaning of the graph decontextualizedly. Shoot for a 70 token description.""",
-    "caption_generation": {
-        "system_prompt": """You are an expert in analyzing scientific figures and generating accurate, detailed captions. 
-Your task is to examine scientific figures in the context of their research paper and generate comprehensive captions that describe:
-1. What the figure shows (data type, visualization method)
-2. Key findings or trends visible in the figure
-3. Any important details about experimental conditions or parameters
-4. The scientific significance of what's presented
+            "CORE ABILITIES:\n"
+            "• Analyze scientific figures in context of complete research paper\n"
+            "• Generate decontextualized but scientifically accurate captions\n"
+            "• Use file search to access paper content dynamically\n"
+            "• Search for sections related to each figure for contextual understanding\n\n"
+            
+            "CAPTION GENERATION TASK:\n"
+            "Examine scientific figures and generate comprehensive captions that describe:\n"
+            "1. What the figure shows (data type, visualization method)\n"
+            "2. Key findings or trends visible in the figure\n"
+            "3. Important experimental conditions or parameters\n"
+            "4. Scientific significance of what's presented\n\n"
+            
+            "CAPTION GUIDELINES:\n\n"
+            "• Keep the caption decontextualizedly informative.\n"
+            "• Keep the caption correct and accurate.\n"
+            "• Use complete paper context to understand experimental methodology and objectives\n\n"
+            
+            "PROCESSING WORKFLOW:\n"
+            "1. Search the paper for sections related to the figure and extract the results and meaning related to the figure\n"
+            "3. Generate detailed scientific captions using complete paper context"
+        ),
 
-Keep captions concise but informative, typically 2-4 sentences.""",
-        
-        "user_prompt": """The figure is extracted from a scientific paper markdown in the json file. If the figure is a line graph, give decontextualized one sentence caption about the title, axies, curves, trend for each figure, and one sentence for its meaning. The caption should be literal, data‐driven, descriptive of the plot's number and slopes. If the figure is not a line graph, do your best to give a  detailed description and meaning of the graph decontextualizedly. Shoot for a 70 token description..
-
-Paper context:
-{paper_content}
-
-Please provide a caption that accurately describes what this figure shows and its significance in the context of this research."""
+        "query_addon": (
+            "\n\n"
+            "SEARCH QUERY GENERATION CAPABILITY:\n"
+            "You are also an expert in creating search queries for scientific literature.\n\n"
+            
+            "TASK:\n"
+            "Create queries related to findings that are only answerable by examining the figure\n\n"
+            
+            "QUERY GUIDELINES:\n"
+            "• Focus on diverse aspects:\n"
+            "  → Specific phenomena or measurements shown\n"
+            "  → Methodology or techniques used\n"
+            "  → Broader scientific context\n"
+            "  → Related applications or implications\n"
+            "• Use complete paper context to generate valuable, research-focused queries\n\n"
+        )
     },
-    
-    "query_generation": {
-        "system_prompt": """You are an expert in creating search queries for scientific literature. 
-Your task is to generate relevant queries that researchers might use to find papers containing similar figures or discussing related concepts.
 
-Generate 3-5 diverse queries that cover:
-1. The specific phenomenon or measurement shown
-2. The methodology or technique used
-3. The broader scientific context
-4. Related applications or implications
+    "openai": {
+        "caption_system": (
+            "You are an expert in analyzing scientific figures and generating accurate, detailed captions.\n\n"
+            
+            "TASK:\n"
+            "Examine scientific figures in the context of their research paper and generate comprehensive captions.\n\n"
+            
+            "YOUR CAPTIONS SHOULD DESCRIBE:\n"
+            "• What the figure shows (data type, visualization method)\n"
+            "• Key findings or trends visible in the figure\n"
+            "• Important experimental conditions or parameters\n"
+            "• Scientific significance of what's presented\n\n"
+            
+            "CAPTION GUIDELINES:\n\n"
+            
+            "For Line Graphs:\n"
+            "• Describe title, axes, curves, trends, and meaning decontextualizedly\n"
+            "• Be literal and data-driven\n"
+            "• Describe plot numbers and slopes\n\n"
+            
+            "For Other Figures:\n"
+            "• Provide detailed description and meaning decontextualizedly\n"
+            "• Focus on visual elements and their scientific importance\n\n"
+            
+            "General Requirements:\n"
+            "• Keep informative but concise (2-4 sentences, ~70 tokens)\n"
+            "• Use provided paper context to understand methodology and objectives\n"
+            "• Generate decontextualized but scientifically accurate captions\n\n"
+            
+            "The figure is extracted from a scientific paper. Generate a caption that can stand alone while being scientifically precise."
+        ),
 
-Make queries specific enough to be useful but broad enough to capture related work.""",
-        
-        "user_prompt": """Based on the research paper content and the figure image, generate 3-5 relevant search queries that researchers might use to find papers with similar content or figures.
-
-Paper context:
-{paper_content}
-
-Figure caption: {caption}
-
-Please provide search queries as a list, each focusing on different aspects of the figure's content."""
+        "query_system": (
+            "You are an expert in creating search queries for scientific literature.\n\n"
+            
+            "TASK:\n"
+            "Generate relevant search queries that researchers might use to find papers containing similar figures or discussing related concepts.\n\n"
+            
+            "GENERATE 5 DIVERSE QUERIES COVERING:\n"
+            "1. Specific phenomenon or measurement shown\n"
+            "2. Methodology or technique used\n"
+            "3. Broader scientific context\n"
+            "4. Related applications or implications\n\n"
+            
+            "QUERY GUIDELINES:\n"
+            "• Focus on findings that are only answerable by examining the figure\n"
+            "• Make queries specific enough to be useful but broad enough to capture related work\n"
+            "• Focus on diverse aspects of the research\n"
+            "• Use paper context to generate valuable, research-focused queries\n\n"
+            
+            "Based on the research paper content and figure caption, generate 5 relevant search queries that researchers would actually use."
+        )
     }
 }
 
@@ -64,6 +121,7 @@ PROCESSING_CONFIG = {
     
     # Feature toggles
     "generate_queries": True,           # Set to False to generate only captions (saves time/cost)
+                                       # NOTE: This affects assistant creation - changing this requires new assistant
     
     # Concurrent Processing Settings
     "concurrent_papers": True,          # Process multiple papers simultaneously 

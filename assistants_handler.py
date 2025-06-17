@@ -55,9 +55,10 @@ class AssistantsHandler:
     
     def create_assistant(self) -> str:
         """Create or reuse the figure analysis assistant."""
-        # Create a cache key based on the prompt content
-        system_prompt = PROMPTS["caption_generation"]["system_prompt"]
-        cache_key = hash(system_prompt)
+        # Create a cache key based on the query generation setting only
+        # (system prompts are now from config with nested structure)
+        generate_queries_default = PROCESSING_CONFIG.get("generate_queries", True)
+        cache_key = hash(f"figure_analyzer_nested_v1_{generate_queries_default}")
         
         # Check if we already have a cached assistant
         if cache_key in self._assistant_cache:
@@ -68,19 +69,12 @@ class AssistantsHandler:
         if self.assistant_id:
             return self.assistant_id
         
-        # Use the original system prompt from config as instructions
-        # Enhanced with file search capability
-        system_instructions = system_prompt + """
-
-Additionally, you have access to the complete research paper through file search. 
-Use this full context to provide more accurate and detailed analysis than would be possible with truncated content.
-
-When processing figures:
-1. Search the paper for relevant sections related to the figure
-2. Generate detailed scientific captions using complete paper context
-3. Create relevant search queries based on comprehensive understanding
-
-No paper content will be provided in prompts - use file search to access what you need."""
+        # Use system instructions from config
+        system_instructions = PROMPTS["assistants"]["base_system"]
+        
+        # Add query generation instructions if enabled
+        if generate_queries_default:
+            system_instructions += PROMPTS["assistants"]["query_addon"]
         
         assistant = self.client.beta.assistants.create(
             name="Scientific Figure Analyzer",
@@ -94,7 +88,7 @@ No paper content will be provided in prompts - use file search to access what yo
         # Cache the assistant for reuse
         self._assistant_cache[cache_key] = self.assistant_id
         
-        logger.info(f"Created and cached assistant: {self.assistant_id}")
+        logger.info(f"Created and cached assistant: {self.assistant_id} (queries: {generate_queries_default})")
         return self.assistant_id
     
     def upload_paper_content(self, paper_path: str) -> str:
@@ -193,15 +187,8 @@ PDF Path: {paper_data.get('pdf_path', 'Unknown')}
             logger.info(f"Uploaded image file: {image_file_id} for {image_path}")
             
             # Request caption using attached files
-            caption_request = """Please analyze this figure and generate a detailed scientific caption.
-
-You have access to the complete research paper. Please use the full paper context to understand:
-- The experimental context and methodology
-- How this figure relates to the research objectives
-- Key findings and their significance
-- Any relevant technical details or parameters
-
-Generate a comprehensive caption using the complete paper context."""
+            # Runtime prompt that works with comprehensive system instructions
+            caption_request = """Analyze this figure and generate a detailed and decontextualized scientific caption using the complete paper context."""
             
             # Create message for caption generation with both paper and image file attachments
             message = self.client.beta.threads.messages.create(
@@ -239,17 +226,10 @@ Generate a comprehensive caption using the complete paper context."""
             queries = []
             if generate_queries:
                 # Generate queries using the caption and complete paper access
-                query_request = f"""Based on the figure and the caption you just generated, create 3-5 relevant search queries.
+                # Runtime prompt that works with comprehensive system instructions
+                query_request = f"""Based on the caption and complete paper context, create 5 diverse search queries related to findings that are only answerable by examining the figure.
 
-Generated caption: {caption}
-
-Use the complete paper context to understand the broader research context and generate diverse queries that researchers might use to find:
-- Papers with similar experimental approaches
-- Related phenomena or findings  
-- Comparable methodologies or techniques
-- Applications in similar research areas
-
-Use the complete paper context to make queries specific and valuable."""
+Caption: {caption}"""
                 
                 # Create message for query generation with file attachment (only paper, not image)
                 query_message = self.client.beta.threads.messages.create(
