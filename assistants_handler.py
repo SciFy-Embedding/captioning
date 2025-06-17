@@ -283,6 +283,22 @@ Caption: {caption}"""
                 pass
             raise
     
+    def _clean_citation_markers(self, text: str) -> str:
+        """Remove citation markers from assistant responses.
+        
+        Citation markers appear as【4:0†source】【4:1†source】etc. when the assistant
+        references the uploaded paper file.
+        """
+        import re
+        # Remove citation markers like 【4:0†source】【4:1†source】
+        pattern = r'【\d+:\d+†source】'
+        cleaned_text = re.sub(pattern, '', text)
+        
+        # Clean up any extra spaces that might be left
+        cleaned_text = ' '.join(cleaned_text.split())
+        
+        return cleaned_text.strip()
+    
     def _wait_for_completion(self, thread_id: str, run_id: str, max_wait: int = 60) -> str:
         """Wait for assistant run to complete with optimized polling to reduce API calls."""
         start_time = time.time()
@@ -309,7 +325,7 @@ Caption: {caption}"""
                 )
                 
                 if messages.data:
-                    return messages.data[0].content[0].text.value
+                    return self._clean_citation_markers(messages.data[0].content[0].text.value)
                 else:
                     raise Exception("No response received")
             
