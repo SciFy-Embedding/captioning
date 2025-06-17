@@ -416,11 +416,11 @@ Use the complete paper context to make queries specific and valuable."""
             # Create ONE thread for this entire paper
             thread = self.client.beta.threads.create()
             thread_id = thread.id
-            logger.info(f"Created thread {thread_id} for paper: {os.path.basename(paper_path)}")
             
-            # Find and upload ALL images at once
+            # Get all image files
             images_dir = os.path.join(paper_path, "images")
             if not os.path.exists(images_dir):
+                logger.warning(f"Images directory not found: {images_dir}")
                 return {}
             
             image_files = []
@@ -435,31 +435,43 @@ Use the complete paper context to make queries specific and valuable."""
                 logger.warning(f"No valid images found in {images_dir}")
                 return {}
             
-            # Upload ALL images
-            logger.info(f"Uploading {len(image_files)} images for batch processing")
-            image_attachments = []
+            # OpenAI has a 10 content item limit per API call (1 text + 9 images max)
+            MAX_IMAGES_PER_BATCH = 9
+            all_results = {}
             
-            for image_file, image_path in image_files:
-                with open(image_path, "rb") as img_file:
-                    image_upload = self.client.files.create(
-                        file=img_file,
-                        purpose='vision'
-                    )
+            # Process images in batches of 10
+            for batch_start in range(0, len(image_files), MAX_IMAGES_PER_BATCH):
+                batch_end = min(batch_start + MAX_IMAGES_PER_BATCH, len(image_files))
+                batch_images = image_files[batch_start:batch_end]
                 
-                uploaded_image_files.append(image_upload.id)
-                image_attachments.append({
-                    "type": "image_file",
-                    "image_file": {"file_id": image_upload.id}
-                })
+                logger.info(f"Processing batch {batch_start//MAX_IMAGES_PER_BATCH + 1}: images {batch_start+1}-{batch_end} of {len(image_files)}")
                 
-                # Track for cost calculation
-                image_size = os.path.getsize(image_path)
-                self.track_file_upload(image_upload.id, image_size)
-                logger.info(f"Uploaded {image_file}: {image_upload.id}")
-            
-            # Process ALL figures in ONE API call
-            if generate_queries:
-                batch_request = f"""Please analyze ALL {len(image_files)} figures in this research paper and provide:
+                # Upload images for this batch
+                batch_uploaded_files = []
+                image_attachments = []
+                
+                for image_file, image_path in batch_images:
+                    with open(image_path, "rb") as img_file:
+                        image_upload = self.client.files.create(
+                            file=img_file,
+                            purpose='vision'
+                        )
+                    
+                    batch_uploaded_files.append(image_upload.id)
+                    uploaded_image_files.append(image_upload.id)
+                    image_attachments.append({
+                        "type": "image_file",
+                        "image_file": {"file_id": image_upload.id}
+                    })
+                    
+                    # Track for cost calculation
+                    image_size = os.path.getsize(image_path)
+                    self.track_file_upload(image_upload.id, image_size)
+                    logger.info(f"Uploaded {image_file}: {image_upload.id}")
+                
+                # Create batch request
+                if generate_queries:
+                    batch_request = f"""Please analyze these {len(batch_images)} figures from the research paper and provide:
 
 1. **Detailed Scientific Caption** for each figure
 2. **3-5 Search Queries** for each figure
@@ -480,12 +492,12 @@ Please format your response as JSON:
     "caption": "detailed caption here", 
     "queries": ["query 1", "query 2", "query 3", "query 4", "query 5"]
   }}
-  // ... continue for all figures
+  // ... continue for all figures in this batch
 }}
 
-Figure filenames: {[img[0] for img in image_files]}"""
-            else:
-                batch_request = f"""Please analyze ALL {len(image_files)} figures in this research paper and provide:
+Figure filenames in this batch: {[img[0] for img in batch_images]}"""
+                else:
+                    batch_request = f"""Please analyze these {len(batch_images)} figures from the research paper and provide:
 
 1. **Detailed Scientific Caption** for each figure
 
@@ -503,43 +515,47 @@ Please format your response as JSON:
   "figure_2_filename": {{
     "caption": "detailed caption here"
   }}
-  // ... continue for all figures
+  // ... continue for all figures in this batch
 }}
 
-Figure filenames: {[img[0] for img in image_files]}"""
+Figure filenames in this batch: {[img[0] for img in batch_images]}"""
+                
+                # Create message with batch images and paper attachment
+                message_content = [{"type": "text", "text": batch_request}]
+                message_content.extend(image_attachments)
+                
+                message = self.client.beta.threads.messages.create(
+                    thread_id=thread_id,
+                    role="user",
+                    content=message_content,
+                    attachments=[{
+                        "file_id": paper_file_id,
+                        "tools": [{"type": "file_search"}]
+                    }]
+                )
+                
+                # Run the assistant for this batch
+                logger.info(f"Processing {len(batch_images)} figures in batch API call")
+                run = self.client.beta.threads.runs.create(
+                    thread_id=thread_id,
+                    assistant_id=self.assistant_id
+                )
+                
+                # Wait for completion
+                start_time = time.time()
+                response = self._wait_for_completion(thread_id, run.id, max_wait=180)
+                total_time = time.time() - start_time
+                
+                logger.info(f"Batch processing completed in {total_time:.2f}s")
+                
+                # Parse the JSON response for this batch
+                batch_results = self._parse_batch_response(response, batch_images)
+                all_results.update(batch_results)
+                
+                # Don't clean up batch files yet - wait until all batches are done
+                logger.info(f"Batch {batch_start//MAX_IMAGES_PER_BATCH + 1} completed with {len(batch_results)} results")
             
-            # Create message with ALL images and paper attachment
-            message_content = [{"type": "text", "text": batch_request}]
-            message_content.extend(image_attachments)
-            
-            message = self.client.beta.threads.messages.create(
-                thread_id=thread_id,
-                role="user",
-                content=message_content,
-                attachments=[{
-                    "file_id": paper_file_id,
-                    "tools": [{"type": "file_search"}]
-                }]
-            )
-            
-            # Run the assistant ONCE for ALL figures
-            logger.info(f"Processing ALL {len(image_files)} figures in single API call")
-            run = self.client.beta.threads.runs.create(
-                thread_id=thread_id,
-                assistant_id=self.assistant_id
-            )
-            
-            # Wait for completion
-            start_time = time.time()
-            response = self._wait_for_completion(thread_id, run.id, max_wait=180)  # Longer timeout for batch
-            total_time = time.time() - start_time
-            
-            logger.info(f"Batch processing completed in {total_time:.2f}s")
-            
-            # Parse the JSON response
-            figure_analysis = self._parse_batch_response(response, image_files)
-            
-            # Clean up all uploaded image files
+            # Clean up ALL uploaded image files after all batches are complete
             for image_file_id in uploaded_image_files:
                 try:
                     self.client.files.delete(image_file_id)
@@ -547,8 +563,8 @@ Figure filenames: {[img[0] for img in image_files]}"""
                 except Exception as e:
                     logger.warning(f"Could not delete image file {image_file_id}: {e}")
             
-            logger.info(f"Successfully processed {len(figure_analysis)} figures in batch")
-            return figure_analysis
+            logger.info(f"Successfully processed {len(all_results)} figures across {(len(image_files)-1)//MAX_IMAGES_PER_BATCH + 1} batches")
+            return all_results
             
         except Exception as e:
             logger.error(f"Error in batch processing: {e}")
