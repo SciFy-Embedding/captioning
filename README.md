@@ -125,3 +125,4 @@ Edit `config.py` to customize:
 **API errors?** Verify `OPENAI_API_KEY` is set correctly  
 **High costs?** Use `--method chat` for faster, cheaper processing  
 **Need support?** Check logs for detailed error information
+**Failed to Parse Josn**: run debug_batch_repsonse.py to findout parse failure and use python debug_batch_response.py reprocess ./path_to_docs

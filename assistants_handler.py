@@ -651,15 +651,64 @@ Figure filenames in this batch: {[img[0] for img in batch_images]}"""
             import json
             import re
             
-            # Try to extract JSON from the response
-            # Sometimes the response includes extra text before/after the JSON
-            json_match = re.search(r'\{.*\}', response_text, re.DOTALL)
-            if json_match:
-                json_str = json_match.group()
-                batch_data = json.loads(json_str)
-            else:
-                # Fallback: try to parse the entire response as JSON
-                batch_data = json.loads(response_text)
+            # Clean citation markers first
+            cleaned_response = self._clean_citation_markers(response_text)
+            
+            logger.debug(f"Original response length: {len(response_text)}")
+            logger.debug(f"Cleaned response length: {len(cleaned_response)}")
+            logger.debug(f"First 500 chars of cleaned response: {cleaned_response[:500]}")
+            
+            # Try multiple strategies to extract JSON
+            batch_data = None
+            
+            # Strategy 1: Try to find JSON block with ```json markers
+            json_block_match = re.search(r'```json\s*(.*?)\s*```', cleaned_response, re.DOTALL | re.IGNORECASE)
+            if json_block_match:
+                try:
+                    batch_data = json.loads(json_block_match.group(1).strip())
+                    logger.debug("Successfully parsed JSON from ```json block")
+                except json.JSONDecodeError:
+                    pass
+            
+            # Strategy 2: Try to find any JSON object (largest one)
+            if not batch_data:
+                json_objects = re.findall(r'\{[^{}]*(?:\{[^{}]*\}[^{}]*)*\}', cleaned_response, re.DOTALL)
+                for json_str in sorted(json_objects, key=len, reverse=True):  # Try largest first
+                    try:
+                        batch_data = json.loads(json_str)
+                        logger.debug(f"Successfully parsed JSON object of length {len(json_str)}")
+                        break
+                    except json.JSONDecodeError:
+                        continue
+            
+            # Strategy 3: Try parsing the entire cleaned response
+            if not batch_data:
+                try:
+                    batch_data = json.loads(cleaned_response.strip())
+                    logger.debug("Successfully parsed entire response as JSON")
+                except json.JSONDecodeError:
+                    pass
+            
+            # Strategy 4: Extract content between first { and last }
+            if not batch_data:
+                first_brace = cleaned_response.find('{')
+                last_brace = cleaned_response.rfind('}')
+                if first_brace != -1 and last_brace != -1 and last_brace > first_brace:
+                    try:
+                        json_content = cleaned_response[first_brace:last_brace+1]
+                        batch_data = json.loads(json_content)
+                        logger.debug(f"Successfully parsed JSON between braces: {len(json_content)} chars")
+                    except json.JSONDecodeError:
+                        pass
+            
+            if not batch_data:
+                raise ValueError("Could not extract valid JSON from response")
+            
+            # Ensure batch_data is a dictionary
+            if not isinstance(batch_data, dict):
+                raise ValueError(f"Expected JSON object, got {type(batch_data)}")
+            
+            logger.info(f"Parsed batch data with {len(batch_data)} top-level keys: {list(batch_data.keys())}")
             
             figure_analysis = {}
             
@@ -667,20 +716,26 @@ Figure filenames in this batch: {[img[0] for img in batch_images]}"""
             for image_file, image_path in image_files:
                 # Try to find the figure data in various possible formats
                 figure_data = None
+                matched_key = None
                 
                 # Try exact filename match first
                 if image_file in batch_data:
                     figure_data = batch_data[image_file]
+                    matched_key = image_file
                 else:
                     # Try without extension
                     filename_no_ext = os.path.splitext(image_file)[0]
                     if filename_no_ext in batch_data:
                         figure_data = batch_data[filename_no_ext]
+                        matched_key = filename_no_ext
                     else:
-                        # Try other common patterns
+                        # Try other common patterns (case-insensitive partial matching)
                         for key in batch_data.keys():
-                            if image_file.lower() in key.lower() or filename_no_ext.lower() in key.lower():
+                            if (image_file.lower() in key.lower() or 
+                                filename_no_ext.lower() in key.lower() or
+                                key.lower() in image_file.lower()):
                                 figure_data = batch_data[key]
+                                matched_key = key
                                 break
                 
                 if figure_data and isinstance(figure_data, dict):
@@ -688,33 +743,50 @@ Figure filenames in this batch: {[img[0] for img in batch_images]}"""
                     caption = figure_data.get('caption', '')
                     queries = figure_data.get('queries', [])
                     
+                    # Clean caption of any remaining artifacts
+                    if caption:
+                        caption = self._clean_citation_markers(caption)
+                    
                     # Ensure queries is a list
                     if isinstance(queries, str):
                         queries = [queries]
                     elif not isinstance(queries, list):
                         queries = []
                     
+                    # Clean queries of citation markers
+                    cleaned_queries = []
+                    for query in queries:
+                        if isinstance(query, str) and query.strip():
+                            cleaned_query = self._clean_citation_markers(query.strip())
+                            if cleaned_query:
+                                cleaned_queries.append(cleaned_query)
+                    
                     figure_analysis[image_file] = {
                         "caption": caption,
-                        "queries": queries[:5],  # Limit to 5 queries
+                        "queries": cleaned_queries[:5],  # Limit to 5 queries
                         "image_path": image_path,
                         "method": "assistants_api_batch",
-                        "context_used": "complete_paper"
+                        "context_used": "complete_paper",
+                        "matched_key": matched_key  # For debugging
                     }
+                    
+                    logger.debug(f"Successfully parsed {image_file} (matched key: {matched_key})")
                 else:
                     # Fallback if figure not found in response
-                    logger.warning(f"Could not find data for {image_file} in batch response")
+                    logger.warning(f"Could not find data for {image_file} in batch response keys: {list(batch_data.keys())}")
                     figure_analysis[image_file] = {
                         "error": "Not found in batch response",
                         "image_path": image_path,
-                        "method": "assistants_api_batch"
+                        "method": "assistants_api_batch",
+                        "available_keys": list(batch_data.keys())[:5]  # Show first 5 keys for debugging
                     }
             
+            logger.info(f"Successfully parsed {len([k for k, v in figure_analysis.items() if 'error' not in v])} out of {len(image_files)} figures")
             return figure_analysis
             
         except json.JSONDecodeError as e:
             logger.error(f"Failed to parse batch response as JSON: {e}")
-            logger.debug(f"Response text: {response_text[:500]}...")
+            logger.error(f"Response text (first 1000 chars): {response_text[:1000]}")
             
             # Fallback: create error entries for all figures
             figure_analysis = {}
@@ -722,12 +794,14 @@ Figure filenames in this batch: {[img[0] for img in batch_images]}"""
                 figure_analysis[image_file] = {
                     "error": "Failed to parse batch response",
                     "image_path": image_path,
-                    "method": "assistants_api_batch"
+                    "method": "assistants_api_batch",
+                    "parse_error": str(e)
                 }
             return figure_analysis
             
         except Exception as e:
             logger.error(f"Error parsing batch response: {e}")
+            logger.error(f"Response text (first 1000 chars): {response_text[:1000]}")
             
             # Fallback: create error entries for all figures
             figure_analysis = {}
