@@ -1,0 +1,114 @@
+{
+  "paper_id": "843d29d4b753d56e5fa0543794784ad3",
+  "pdf_path": "apl/Superconductors/arXiv:2008.03830.pdf",
+  "processing_timestamp": "2025-06-23T14:31:32.168356",
+  "figure_analysis": {
+    "0__page_8_Figure_3.jpeg": {
+      "caption": "Figure 4 shows the frequency of element usage in bcc HEA superconductors, as depicted on a periodic table. This visualization highlights the predominant selection of elements such as Hf, Zr, Ti, Ta, Nb, and V, revealing that HEAs with a VEC around 4 to 5 are preferred due to their compliance with the Matthias rule. The chart distinctly illustrates that a majority of the frequently used elements belong to the second and third transition series, contributing to the optimal VEC range and enhancing superconducting properties. The scientific significance lies in guiding the selection of elemental compositions for designing effective bcc HEA superconductors, emphasizing the role of these specific elements in achieving desired properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.03830/images/0__page_8_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_3.jpeg"
+    },
+    "0__page_9_Figure_1.jpeg": {
+      "caption": "Figure 5 presents (a) the VEC dependence of *T*c for hcp and hcp-related HEA superconductors compared to crystalline and amorphous superconductors, represented by dotted lines. Part (b) illustrates the *δ* and VEC dependence of *T*c for these superconductors. The data indicate that most HEAs exhibit enhanced *T*c at a lower VEC of around 7. The plots reveal that, while *T*c enhances with decreasing VEC, it remains lower than those of both crystalline and amorphous superconductors. This analysis underscores the complexity and challenge of optimizing superconducting properties in hcp-related HEAs, where minor phases may emerge below a VEC of 7, and emphasizes the necessity for wide-ranging VEC studies in hcp phase research.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.03830/images/0__page_9_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_1.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "Figure 6 catalogs the elemental frequency in hcp and hcp-related HEA superconductors using a periodic table illustration. Elements such as Ti, Nb, Mo, Re, Ru, and Rh are prominently featured, each contributing to varying VEC values, thereby stabilizing hcp structures. This distribution contrasts sharply with that of bcc HEAs, prompting further investigation into the significance of group 13 and 14 elements in hcp superconductor design. The chart provides critical insights into structural stabilization factors and elemental prevalence for developing new hcp HEAs.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.03830/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "1__page_16_Figure_5.jpeg": {
+      "caption": "Figure 11 depicts XRD patterns of Mn5Si3-type high-entropy alloys (HEAs), with simulations for comparison. The arrangement elucidates crystallographic structural details, confirming hexagonal symmetry and emphasizing lattice parameter determination using Rietveld refinement, critical for validating structural models of HEAs. The findings highlight the existence of HEA alloys within the Mn5Si3-type structure, aiding in the study of superconducting phases in complex alloys.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.03830/images/1__page_16_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_16_Figure_5.jpeg"
+    },
+    "0__page_12_Figure_0.jpeg": {
+      "caption": "Figure 7 presents the phase selection diagram for bcc and hcp HEA superconductors based on VEC and e/a values. This diagram aids in understanding the stability of various crystal structures, indicating that while e/a values are widely distributed in bcc HEAs, they cluster narrowly within hcp HEAs. This suggests e/a is more critical for phase stability in hcp HEAs. This analysis facilitates informed material design decisions regarding structural stability in HEAs.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.03830/images/0__page_12_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_0.jpeg"
+    },
+    "1__page_18_Figure_0.jpeg": {
+      "caption": "Figure 12 investigates temperature dependencies of ac magnetization (*χ*ac) and electrical resistivity (ρ) for the HEA alloy Al5Nb24Ti40V5Zr26. This figure demonstrates superconducting characteristics below approximately 5 K, specifically showing diamagnetic signaling and zero resistivity. The study underscores the potential of gum metal-like HEAs for applications in superconducting wire technologies due to their structural advantages and stable superconductivity upon mechanical deformation.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.03830/images/1__page_18_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Figure_0.jpeg"
+    },
+    "0__page_15_Figure_1.jpeg": {
+      "caption": "Figure 9 illustrates (a) VEC dependence of *T*c and (b) the *δ* versus VEC relationship for multi-site HEA superconductors. Various alloys are compared against crystalline and amorphous superconductors. The insensitivity of *T*c to *δ* across systems implies robust superconducting behavior despite atomic size mismatch. The correlation between *T*c and VEC emphasizes the density of states' critical role in influencing superconductivity, though deviations indicate complex structure-property relationships.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.03830/images/0__page_15_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_1.jpeg"
+    },
+    "1__page_16_Figure_1.jpeg": {
+      "caption": "Figure 10 displays XRD patterns for several multi-element high-entropy alloys (HEAs), identifying a face-centered cubic (fcc) structural phase using Rietveld refinement parameters. The patterns offer fundamental insights into the crystal structure, facilitating the comparison of theoretical models and experimental data. This analysis is pivotal for understanding phase stabilization within HEAs, which plays a critical role in superconductor design.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.03830/images/1__page_16_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_16_Figure_1.jpeg"
+    },
+    "0__page_10_Figure_4.jpeg": {
+      "caption": "Figure 8 addresses phase stability and VEC correlations in CsCl-type and A15 HEAs. The plots highlight dependencies of superconducting temperatures on electronic configuration, essential for tailoring HEAs' properties. These findings support the development of advanced materials with optimized superconducting characteristics through strategic electronic design.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.03830/images/0__page_10_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_4.jpeg"
+    },
+    "_page_1_Figure_1.jpeg": {
+      "caption": "Figure 1 illustrates the crystal structures of BCC and A15-type HEAs. Part (a) represents a body-centered cubic (bcc) structure with uniform elemental distribution. Parts (b) and (c) depict the A15 (Cr3Si-type) structures, showing the atomic positions marked as 2a and 6d. These structural visualizations are critical for understanding phase transitions and superconducting behaviors of HEAs. The figure aids in visualizing the spatial arrangements that are integral to the polymorphic transformations observed in these alloys when subjected to thermal treatments, impacting their superconducting properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.03830/images/_page_1_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_1.jpeg"
+    },
+    "_page_6_Figure_1.jpeg": {
+      "caption": "Figure 2 presents the relationship between high-entropy and binary alloy superconductors based on Δ S_mix /R. Figures highlight (a) the ratio of observed superconducting temperatures T_c(obs) to baseline temperatures T_c(base) and (b) the atomic size difference parameter δ. This study uses fixed VEC of 4.67 illustrating the impacts of high Δ S_mix /R values in enhancing superconductivity, indicated by higher T_c(obs)/T_c(base) values. The δ values provide insights into structural stability amidst atomic size variance, showcasing the robustness of bcc HEA systems compared to binary alloys.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.03830/images/_page_6_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_1.jpeg"
+    },
+    "0__page_8_Figure_0.jpeg": {
+      "caption": "Figure 3 displays the dependence of superconducting transition temperature T_c on VEC and δ for bcc HEA superconductors compared to crystalline and amorphous systems. Graph (a) demonstrates T_c variations across varying VEC values, while (b) shows the dynamism of T_c against δ and VEC. The findings underscore the robustness of the bcc structure to significant δ changes, which stabilizes superconductivity despite deviations in atomic arrangements. This suggests that high mixing entropy allows greater flexibility in compositional configurations without jeopardizing superconducting phases.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.03830/images/0__page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1308,
+    "api_cost": 0.1308,
+    "file_storage_cost": 0.0,
+    "total_time": 101.29,
+    "request_count": 2,
+    "average_cost_per_request": 0.0654,
+    "average_time_per_request": 50.64,
+    "files_uploaded": 13,
+    "total_file_size": 570876
+  }
+}

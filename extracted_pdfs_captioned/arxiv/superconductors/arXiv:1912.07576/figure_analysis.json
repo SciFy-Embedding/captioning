@@ -1,0 +1,106 @@
+{
+  "paper_id": "dbb32f884de06c803f68624d1946bc13",
+  "pdf_path": "apl/Superconductors/arXiv:1912.07576.pdf",
+  "processing_timestamp": "2025-06-23T14:20:19.946020",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "Figure 6 presents the estimated excess tin on the cavity surface over time during the Nb3Sn coating process. The x-axis represents time in hours, while the y-axis shows the excess tin in arbitrary units. The figure illustrates distinct phases: nucleation, temperature ramp with rapid growth, slower growth, and annealing. Initially, excess tin increases, associated with the nucleation stage and early rapid growth as temperature ramps, followed by a decline as the coating process progresses and ends with an annealing phase. The variation indicates the complex dynamics of the tin supply and consumption in Nb3Sn growth, significant for achieving desired stoichiometry in superconducting applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1912.07576/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "_page_5_Figure_2.jpeg": {
+      "caption": "Figure 8 illustrates the experimental (grey squares) and calculated (black circles) critical temperature (T_c) across varying stoichiometries of A15 Nb-Sn, plotted against stoichiometry levels in at% Sn. Critical temperature decreases notably in a tin-rich stoichiometry, reaching a minimum around 5 Kelvin. This highlights the sensitivity of superconducting properties to compositional variations in Nb3Sn, critical for optimizing SRF cavity performances .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1912.07576/images/_page_5_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_2.jpeg"
+    },
+    "_page_3_Figure_0.jpeg": {
+      "caption": "Figure 4 depicts a convex hull calculation at T=790 K to determine stoichiometry limits for bcc and A15 phases of Nb-Sn, with linear tangent lines connecting these limits. The energy on the y-axis is calculated in milli-Hartree per atom, and stoichiometry (Sn content in at%) is shown on the x-axis. It identifies phase boundaries and provides insights into phase stability and potential phase transitions important for understanding material behavior under specific temperature conditions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1912.07576/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "_page_5_Figure_8.jpeg": {
+      "caption": "Figure 9 shows a simulation of the superconducting order parameter in a tin-rich grain boundary within the Nb-Sn system. The visualized penetration of vortices is an example of how tin segregation at grain boundaries can weaken superconducting properties by allowing magnetic flux entry at lower fields than anticipated, a vital consideration for enhancing Nb3Sn cavity performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1912.07576/images/_page_5_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_8.jpeg"
+    },
+    "_page_1_Figure_8.jpeg": {
+      "caption": "Figure 1 provides the calculated density of states (DOS) as a function of energy (eV) for pure Nb3Sn. A prominent peak at the Fermi level emphasizes its importance for determining electronic and superconducting properties. Fluctuations in DOS can significantly impact the material's superconducting transition temperature, T_c.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1912.07576/images/_page_1_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_8.jpeg"
+    },
+    "_page_1_Figure_10.jpeg": {
+      "caption": "Figure 2 displays the calculated antisite defect concentration in 25% Sn Nb3Sn across a range of temperatures. Two scenarios are considered: with and without corrections for electronic entropy effects, shown in red and black lines respectively. Accounting for electronic entropy dramatically reduces defect concentrations, suggesting its crucial role in controlling defect dynamics and ultimately affecting superconducting properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1912.07576/images/_page_1_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_10.jpeg"
+    },
+    "_page_5_Figure_15.jpeg": {
+      "caption": "Figure 10 shows a correlation between critical temperature (T_c) and Fermi-level density of states in A15 Nb-Sn phases of different stoichiometries. It demonstrates a linear relationship, highlighting the influence of electronic structure variations on superconducting transition temperatures, providing insights for material optimization in superconducting applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1912.07576/images/_page_5_Figure_15.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_15.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Figure 3 visualizes the real-space changes in Fermi-level density of states due to niobium and tin antisite defects using a 1x1x12 supercell. The two-dimensional representation exhibits how defects alter the electronic landscape, influencing superconducting properties by modifying electron scattering mechanisms.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1912.07576/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "Figure 11 compares the calculated temperature dependency of the tin-rich stoichiometry limits in A15 Nb-Sn. Different lines indicate calculated (black) and reduced antisite energy contributions by 25% (dark red) and 50% (light red). The extension of the tin-rich limit beyond typical levels is critical for understanding the formation conditions of high-tin regions essential for superconducting applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1912.07576/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    },
+    "_page_5_Figure_0.jpeg": {
+      "caption": "Figure 7 presents phonon spectral function calculations for Nb3Sn (black line), and three different Sn percentages: 26.6% (dark red line), 29.2% (red line), and 31.3% (light red line) within A15 cells. The x-axis represents energy in millielectronvolts (meV), and the y-axis depicts the phonon density of states, specifically the electron-phonon coupling function α²F(ω). The plot shows that as the tin content increases beyond the 25% stoichiometry, the overall value of α²F(ω) decreases, suggesting a reduced electron-phonon interaction strength with higher tin content. This trend illustrates the complex interplay between electron-phonon interactions and stoichiometry, influencing superconducting properties such as the critical temperature (T_c)【8:5†file】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1912.07576/images/_page_5_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_0.jpeg"
+    },
+    "_page_3_Figure_2.jpeg": {
+      "caption": "Figure 5 illustrates the calculated phase diagram for the Nb-Sn binary system. The phase diagram maps phases over a range of stoichiometries (x-axis, at.% Sn) and temperatures (y-axis, in Kelvin), showing boundaries between phases: BCC, BCC + A15, A15, and A15 + Nb6Sn5. Thick solid lines represent calculated phase boundaries, while dashed lines indicate experimentally determined limits, providing a comparison. This phase diagram is crucial for identifying stoichiometry conditions under which each phase is stable, thus aiding in optimizing Nb3Sn superconducting properties through controlled growth processes【8:9†file】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1912.07576/images/_page_3_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_2.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1247,
+    "api_cost": 0.1247,
+    "file_storage_cost": 0.0,
+    "total_time": 93.53,
+    "request_count": 2,
+    "average_cost_per_request": 0.0624,
+    "average_time_per_request": 46.77,
+    "files_uploaded": 12,
+    "total_file_size": 271692
+  }
+}

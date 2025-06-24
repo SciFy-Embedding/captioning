@@ -1,0 +1,95 @@
+{
+  "paper_id": "382097c10702315994fa6bc6c086ec38",
+  "pdf_path": "apl/Superconductors/arXiv:2005.14348.pdf",
+  "processing_timestamp": "2025-06-23T14:28:26.205240",
+  "figure_analysis": {
+    "_page_0_Figure_16.jpeg": {
+      "caption": "Figure 1 illustrates the crystal structures of V3Ga in two phases: D0₃ Heusler phase (left) and A15 superconductor phase (right). The D0₃ phase features a G-type antiferromagnetism with vanadium (V) and gallium (Ga) atoms arranged in a highly symmetric cubic structure, while the A15 phase displays a different coordination, associated with its superconducting properties. These structural differences underlie the varying physical properties and applications, highlighting the dual-phase nature and its significance in understanding the magnetic and superconducting behaviors within V3Ga systems.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2005.14348/images/_page_0_Figure_16.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_0_Figure_16.jpeg"
+    },
+    "_page_3_Figure_0.jpeg": {
+      "caption": "Figure 5 presents the relationship between Neél temperature (T_N) and disorder degree (x) in V3Ga, based on calculations involving the SPR-KKR-CPA approach. The inset shows the crystal structure model, indicating the substitution of Ga atoms with nonmagnetic V atoms, affecting the antiferromagnetic coupling within the lattice. The graph illustrates a decline in T_N as disorder increases, emphasizing the sensitivity of magnetic transition temperatures to atomic substitutions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2005.14348/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "Figure 3 depicts the partial magnetization of V3Ga with the D0₃ structure as a function of distance (d/a) at zero magnetic field, capturing the variation in magnetization for different V atom sites. This trend suggests complex magnetic interactions integral to the stability and characteristics of the D0₃ phase, crucial for potential technological applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2005.14348/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_13_Figure_1.jpeg": {
+      "caption": "In Figure 5, both the temperature-dependent dimensionless magnetic susceptibility at 500 Oe and isothermal magnetization at 10 K of V3Ga sample mixtures are shown. The data underpin the superconducting properties of the A15 phase and the impact of the concomitant D0₃ phase. The measurements confirm the mixed-phase nature of the sample, enlightening the scientific understanding of phase transitions and superconductivity in V3Ga.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2005.14348/images/0__page_13_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_1.jpeg"
+    },
+    "_page_1_Figure_4.jpeg": {
+      "caption": "Figure 2 displays the magnetization curve of V3Ga as a function of magnetic field at low temperatures under Zero Field Cooling (ZFC). The hysteresis around H = 0 reflects flux pinning characteristic of type-II superconductors. The inset graph further delineates the Meissner effect corroborating the superconducting transition at T_C = 13.6 K, offering insight into the magnetic properties of the A15 phase.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2005.14348/images/_page_1_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_4.jpeg"
+    },
+    "0__page_12_Figure_1.jpeg": {
+      "caption": "Figure 4 illustrates high-resolution synchrotron X-ray diffraction patterns for V3Ga ingots at 295 K, with phase identification through Rietveld refinement analysis. The phases include A15, D0₃, and minor impurity phases. The lattice parameters and compositional details from the refinement offer critical insights into phase composition and structural transition temperatures, aiding in the understanding of superconducting and magnetic properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2005.14348/images/0__page_12_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_1.jpeg"
+    },
+    "_page_1_Figure_6.jpeg": {
+      "caption": "Figure 3 describes the magnetic properties of V3Ga, indicating a peak at T = 360 K under 500 Oe, suggesting a magnetic transition. The inset shows the magnetic moment at T = 300 K, revealing behavior characteristic of the AFM phase of the compound. Such findings are pivotal in understanding the thermal and magnetic behaviors of V3Ga.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2005.14348/images/_page_1_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_6.jpeg"
+    },
+    "_page_2_Figure_7.jpeg": {
+      "caption": "Figure 4 shows the Density of States (DOS) calculation for the D0₃ phase of V3Ga, comparing results from various methodological approaches: LDA, GGA, GGA+U, and SCAN. The lower figure concentrates on the electronic region near the Fermi level. These analyses highlight differences in electronic structure potentially impacting magnetic properties and material usability across applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2005.14348/images/_page_2_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_7.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "Figure 1 details the types of magnetic ordering considered in V3Ga calculations for D0₃ and A15 structures, denoting V atoms with labels to represent distinct sites. The figure serves to clarify the foundations in computational analysis by establishing models for understanding the magnetic exchange interactions crucial for these material phases.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2005.14348/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    },
+    "0__page_8_Figure_0.jpeg": {
+      "error": "Could not extract valid JSON from response",
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2005.14348/images/0__page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1242,
+    "api_cost": 0.1242,
+    "file_storage_cost": 0.0,
+    "total_time": 86.91,
+    "request_count": 2,
+    "average_cost_per_request": 0.0621,
+    "average_time_per_request": 43.45,
+    "files_uploaded": 11,
+    "total_file_size": 535344
+  }
+}

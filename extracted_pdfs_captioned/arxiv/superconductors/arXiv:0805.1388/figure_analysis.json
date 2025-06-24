@@ -1,0 +1,138 @@
+{
+  "paper_id": "9b929b0748c0864cf0c3ffa6296b0145",
+  "pdf_path": "apl/Superconductors/arXiv:0805.1388.pdf",
+  "processing_timestamp": "2025-06-23T13:19:04.784761",
+  "figure_analysis": {
+    "3__page_44_Figure_0.jpeg": {
+      "caption": "Figure 4. This plot displays the critical current density (Jc) against the applied field (μ0H) in Tesla, for various MgB2 films synthesized using different methods. Each data point represents results from different studies and methods such as e-beam evaporation, thermal co-evaporation, hybrid physical-chemical vapor deposition, and pulsed-laser deposition (PLD), either in-situ or ex-situ. Key findings indicate that variations in fabrication techniques influence the critical current density of MgB2 films. This figure highlights how optimizing synthesis techniques can improve superconducting performance, vital for applications requiring high current densities under magnetic fields【4:0†temp_paper_9b929b0748c0864cf0c3ffa6296b0145.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0805.1388/images/3__page_44_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_44_Figure_0.jpeg"
+    },
+    "4__page_54_Figure_0.jpeg": {
+      "caption": "Figure 13. This graph depicts the temperature dependence of measured resistivity (ρm) for binary and doped MgB2 samples. The y-axis shows resistivity in micro-ohm centimeters, and the x-axis displays temperature in Kelvin. Different symbols correspond to different samples: MB700, MBTi800, and MBSiC700. The resistivity varies with temperature and doping. Results suggest that doping affects the resistivity and connectivity of the MgB2 samples, which is crucial for their potential use in superconducting applications【4:8†temp_paper_9b929b0748c0864cf0c3ffa6296b0145.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0805.1388/images/4__page_54_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "4__page_54_Figure_0.jpeg"
+    },
+    "4__page_50_Figure_0.jpeg": {
+      "caption": "Figure 9b. The graph presents the electronic specific heat capacity (Cp) of pure, SiC-doped, and TiB2-doped MgB2, plotted against temperature (T) in Kelvin. The y-axis measures Cp in mJ/(mol·K). Results demonstrate distinct peaks near 35 K, suggesting that doping affects the superconducting transition temperatures and modifies the electronic environment. Understanding these effects is vital for improving superconducting properties in practical applications【4:1†temp_paper_9b929b0748c0864cf0c3ffa6296b0145.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0805.1388/images/4__page_50_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "4__page_50_Figure_0.jpeg"
+    },
+    "3__page_43_Figure_0.jpeg": {
+      "caption": "Figure 3. The plot illustrates the temperature dependence of the irreversibility field (Hirr) for MgB2 samples doped with 7.5 mol% ZrB2. The y-axis represents the irreversibility field in Tesla, while the x-axis shows temperature in Kelvin. This figure also includes the trend of percentage increases in Hirr with temperature. The results indicate that doping with ZrB2 enhances the irreversibility field, thereby potentially improving the performance of MgB2 in superconducting applications【4:1†temp_paper_9b929b0748c0864cf0c3ffa6296b0145.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0805.1388/images/3__page_43_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_43_Figure_0.jpeg"
+    },
+    "3__page_47_Figure_0.jpeg": {
+      "caption": "Figure 7. This figure presents a comparison of the critical current densities (Jc) of thin-film MgB2 and those of recent measurements on MgB2 strands with various dopants. Various fabrication techniques and material modifications are juxtaposed to assess their effects on performance. The data highlight advancements in MgB2 strand performance, showcasing the potential for thin-film techniques to inform strand production for improved Jc values【4:1†temp_paper_9b929b0748c0864cf0c3ffa6296b0145.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0805.1388/images/3__page_47_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_47_Figure_0.jpeg"
+    },
+    "3__page_49_Figure_0.jpeg": {
+      "caption": "Figure 9a. This graph shows the total low-temperature specific heat of binary MgB2 compared to SiC and TiB2 doped samples, measured in J/mol·K across a temperature range. The analysis reveals changes due to doping, which are significant for understanding the thermodynamic properties affecting superconductivity. These changes are crucial for tailoring materials for specific superconducting applications【4:1†temp_paper_9b929b0748c0864cf0c3ffa6296b0145.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0805.1388/images/3__page_49_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_49_Figure_0.jpeg"
+    },
+    "4__page_51_Picture_0.jpeg": {
+      "caption": "Figure 10. An SEM micrograph reveals the microstructure of an Mg1.15B2 monocore powder-in-tube (PIT) strand after processing at 700°C for 40 minutes. The scale represents 100 µm, showcasing dense areas and porosity, with the BSE mode highlighting compositional differences. This micrograph helps in understanding the influence of processing on the microstructural features critical for the superconducting performance【4:6†temp_paper_9b929b0748c0864cf0c3ffa6296b0145.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0805.1388/images/4__page_51_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "4__page_51_Picture_0.jpeg"
+    },
+    "3__page_48_Figure_0.jpeg": {
+      "caption": "Figure 8. This plot displays the normalized bulk pinning force curves for an MgB2 strand doped with 5% SiC at various reduced fields (H/Hirr) and temperatures from 10 K to 27.5 K. The analysis suggests optimized pinning at particular field-temperature combinations, indicating strategies for enhancing superconductor performance through controlled dopant incorporation【4:1†temp_paper_9b929b0748c0864cf0c3ffa6296b0145.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0805.1388/images/3__page_48_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_48_Figure_0.jpeg"
+    },
+    "4__page_55_Figure_0.jpeg": {
+      "caption": "Figure 14. The graph depicts the field dependence of the bulk pinning force density (Fp) for present-day MgB2 strands, projecting potential improvements assuming increased connectivity. Results are compared to HEP-class Nb3Sn conductors, indicating room for significant enhancement in Fp with optimized microstructural connectivity, crucial for advancing MgB2 competitiveness in high-field applications【4:2†temp_paper_9b929b0748c0864cf0c3ffa6296b0145.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0805.1388/images/4__page_55_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "4__page_55_Figure_0.jpeg"
+    },
+    "3__page_46_Figure_0.jpeg": {
+      "caption": "Figure 6. The graph presents the critical current density (Jc) versus applied field (μ0H) in Tesla for different configurations of MgB2 strands and films, including 19-filament Mg1.1B2, monofilament Mg1.15B2, and monofilament Mg1.15B2 with 5% SiC doping. This comparison highlights the influence of composition and structural design on the superconductive properties. The trends suggest that increasing Mg content and SiC doping can enhance the Jc, beneficial for improving the functional capabilities of superconductors in varied magnetic environments.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0805.1388/images/3__page_46_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_46_Figure_0.jpeg"
+    },
+    "3__page_42_Figure_0.jpeg": {
+      "caption": "Figure 2. Differential Scanning Calorimetry (DSC) traces illustrate the thermal decomposition and reactions involving SiC, magnesium (Mg), and magnesium diboride (MgB2). The plot compares heat flow (W/g) over a temperature range, highlighting key thermal events: the decomposition of SiC at approx. 524°C, the melting of Mg at 650°C, and the formation of MgB2 near 615°C. These findings provide insights into the thermal stability and reaction kinetics crucial for optimizing processing conditions for MgB2 superconductors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0805.1388/images/3__page_42_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_42_Figure_0.jpeg"
+    },
+    "3__page_45_Figure_0.jpeg": {
+      "caption": "Figure 5. This graph compares the critical current densities (Jc) of commercially produced MgB2 wires and selected thin film data, all measured at low temperatures. The thin film samples show higher Jc values compared to early wires. This figure underlines the role of advanced fabrication techniques and material optimization in achieving superior superconducting performance, emphasizing the potential for thin films as performance benchmarks.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0805.1388/images/3__page_45_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_45_Figure_0.jpeg"
+    },
+    "4__page_53_Picture_0.jpeg": {
+      "caption": "Figure 12. Diagrammatic representation indicating the presence of pores and intergranular films within the sample structure, illustrating porosity and lack of connectivity. This schematic is crucial for understanding microstructural impediments to current transport in MgB2, which affects its superconducting properties. Insight into these factors is essential for developing strategies to enhance density and connectivity, thereby improving overall superconducting performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0805.1388/images/4__page_53_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "4__page_53_Picture_0.jpeg"
+    },
+    "3__page_41_Figure_0.jpeg": {
+      "caption": "Figure 1. The plot shows the parallel critical field (μ0Hc2//) against temperature (K) for various MgB2 films. It highlights how critical fields vary with temperature for these films, providing key insights into their robustness against applied magnetic fields. Understanding the critical field behavior is essential for refining superconducting materials' applications under high-field conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0805.1388/images/3__page_41_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_41_Figure_0.jpeg"
+    },
+    "4__page_52_Figure_0.jpeg": {
+      "caption": "Figure 11. A graph depicting the relationship between initial packing densities (Pi) of Mg+2B powders and resulting MgB2 fractions. Two models are considered: equi-sized and bimodal packing. The data reveal how starting material characteristics influence final superconductor density, crucial information for optimizing manufacturing processes that seek to enhance superconductive performance through improved material packing and connectivity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0805.1388/images/4__page_52_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "4__page_52_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1349,
+    "api_cost": 0.1349,
+    "file_storage_cost": 0.0,
+    "total_time": 104.13,
+    "request_count": 2,
+    "average_cost_per_request": 0.0675,
+    "average_time_per_request": 52.06,
+    "files_uploaded": 16,
+    "total_file_size": 1709256
+  }
+}

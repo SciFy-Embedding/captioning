@@ -1,0 +1,50 @@
+{
+  "paper_id": "06176c9569112b4d297db8ffc3e54f0b",
+  "pdf_path": "apl/Superconductors/arXiv:cond-mat_0308363.pdf",
+  "processing_timestamp": "2025-06-23T15:39:40.090456",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "Figure 2 illustrates the relationship between the Nb3Sn superconductor thickness and the maximum trappable magnetic field. The x-axis represents the superconductor thickness in the cylinder wall (in millimeters), while the y-axis shows the trapped field in kilo-Oersted (kOe). Data points indicate the experimental results for various thicknesses of the superconductor layers. A clear upward trend is observed, where an increase in thickness results in a higher trapped field, reaching up to 22.4 kOe for the thickest wall tested. This relationship underscores the dependence of the trappable magnetic field on the wall thickness, highlighting the potential for enhanced magnetic storage capabilities in superconductors with increased thickness. The experiment utilized procedure I, where the external field was applied before cooling the superconducting cylinder.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0308363/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "_page_1_Figure_3.jpeg": {
+      "caption": "Figure 1 presents a schematic diagram of the experimental arrangement and the trapping configuration inside Nb3Sn superconducting cylinders. It details the field lines of trapped magnetic fields and the use of magnets to apply fields during experiments. The illustration provides an end view of the superconducting field trapping cylinder, depicting the internal geometry and field orientation post-experimentation. This figure is critical to understanding the experimental setup used to achieve field trapping, demonstrating the method by which superconducting cylinders were able to store high-fidelity magnetic fields once an external field was removed. The schematic emphasizes the configuration’s alignment with achieving successful field trapping and depicts the influence of helical winding on field trapping efficacy.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0308363/images/_page_1_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_3.jpeg"
+    },
+    "_page_4_Figure_2.jpeg": {
+      "caption": "Figure 3 shows the results of trapping a 21.2 kOe field in a 44-ribbon-layer Nb3Sn cylinder using procedure II. The x-axis represents the external applied field in kOe, while the y-axis indicates the field measured at the center of the cylinder in kOe. The data illustrate how the field penetrates into the cylinder and becomes trapped, with an initial steep increase in trapped field up to a plateau. Notably, the applied field at which field penetration begins is approximately equal to the magnitude of the trapped field. This suggests that achieving a greater maximum trappable field is closely tied to surpassing the shielding limit of the superconductor. The results provide insights into optimizing field trapping by addressing the superconducting material’s thresholds and the applied procedures.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0308363/images/_page_4_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_2.jpeg"
+    },
+    "_page_5_Figure_1.jpeg": {
+      "caption": "Figure 4 provides a profile of the trapped dipole field along the length of a Nb3Sn superconducting cylinder with 44 wraps. The horizontal axis denotes the distance from the cylinder's center (in centimeters), while the vertical axis displays the trapped field in kOe. The graph reveals a uniform trapping of the magnetic field over the central 2 cm of the cylinder, with only a minor decrease in field strength over the central 4 cm out of the total 7.62 cm length. Beyond this central region, the trapped field drops more rapidly. This spatial distribution of the trapped field demonstrates the efficacy of field trapping within central sections of the cylinder, which may be leveraged in designing superconducting systems for various applications like magnetic storage or magnetic lens design.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0308363/images/_page_5_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0287,
+    "api_cost": 0.0287,
+    "file_storage_cost": 0.0,
+    "total_time": 46.48,
+    "request_count": 1,
+    "average_cost_per_request": 0.0287,
+    "average_time_per_request": 46.48,
+    "files_uploaded": 5,
+    "total_file_size": 142431
+  }
+}

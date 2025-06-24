@@ -1,0 +1,130 @@
+{
+  "paper_id": "b282448913e4d8d591f54424fdcbc8c6",
+  "pdf_path": "apl/Superconductors/arXiv:2305.02467.pdf",
+  "processing_timestamp": "2025-06-23T15:04:13.592983",
+  "figure_analysis": {
+    "0__page_9_Figure_0.jpeg": {
+      "caption": "This figure shows the XPS binding energy analysis of Nb in various chemical states, including metallic Nb, carbide, suboxide, monoxide, dioxide, and pentoxide. The binding energies are presented as points with colors corresponding to their chemical identification. Panels (b), (c), and (d) display representative XPS spectra at room temperature, after sputtering 3 nm, and at 500 °C, respectively, highlighting the characteristic peaks used for peak fitting. The intensity units are arbitrary, emphasizing the qualitative rather than quantitative analysis. This analysis is crucial for understanding the surface chemistry of Nb, which is pivotal for optimizing its superconducting properties .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2305.02467/images/0__page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_0.jpeg"
+    },
+    "1__page_18_Figure_4.jpeg": {
+      "caption": "Depth-dependent XPS 3p3/2 spectra of Nb coupons showing varied responses based on acid/polishing and oxidizer exposure treatments. Subfigures (a) through (c) depict conditions of BCP’ed, EP’ed, and HF soaked samples stored in air for less than three days. Subfigures (d) through (f) show samples after prolonged exposure to oxidizers, illustrating distinct spectral characteristics for BCP’ed, EP'ed with O2/N2 flow, and ozone-treated samples. This depth analysis underscores the effect of environmental exposure on oxidation profiles, valuable for tailoring surface treatments in Nb superconducting applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2305.02467/images/1__page_18_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Figure_4.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "This figure illustrates structural profiles of UHV-baked Nb, showing the depth-resolved proportion of Nb motifs from XPS peak fitting of Nb 3d spectra across various temperatures: room temperature, 200°C, 500°C, 120°C, 300°C, 400°C, and 800°C. The results reveal significant transformation at 500°C with carbide dominance, important for controlling oxidation and surface chemistry during Nb processing.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2305.02467/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_14_Figure_0.jpeg": {
+      "caption": "The graph details the correlation between suboxide layer thickness and the surface carbide ratio, derived through various thermo-chemical processes including UHV baking and N2 processing. This correlation is significant in optimizing the surface layers of Nb for enhanced superconducting performance by managing the underlying carbide content .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2305.02467/images/0__page_14_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_0.jpeg"
+    },
+    "_page_8_Figure_2.jpeg": {
+      "caption": "Shows structural details of native oxides on EP'ed Nb at room temperature captured using cross-sectional STEM, EELS, XPS, and ARXPS. The figure illustrates a layered oxide structure topped with Nb2O5/NbO2 before transitioning to NbO. These multilayer oxides are crucial for understanding and adjusting surface properties in superconducting Nb materials .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2305.02467/images/_page_8_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_2.jpeg"
+    },
+    "1__page_20_Figure_0.jpeg": {
+      "caption": "Profiles concentration-depth of Nb, Sn, O, and C in vapor-diffused Nb3Sn during in situ UHV heating at 200°C and 500°C. This dataset aids in defining oxide characteristics responsible for affecting superconducting performance in Nb3Sn cavities, as these conditions are relevant for maintaining or improving SRF cavity efficiency .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2305.02467/images/1__page_20_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_0.jpeg"
+    },
+    "0__page_12_Figure_3.jpeg": {
+      "caption": "Depicts the depth profiles of carbon, oxygen, and nitrogen in N2-processed Nb, revealing minimal detectable nitrogen despite a significant nitride surface grain presence. This finding emphasizes challenges in N2 doping attempts and highlights the impact of such processing on surface chemistry.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2305.02467/images/0__page_12_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_3.jpeg"
+    },
+    "0__page_15_Figure_2.jpeg": {
+      "caption": "The valence spectral analysis in UHV-baked and N2-processed Nb shows electron population shifts across different processing steps, contributing to understanding electron distribution and its implications on material properties under varied thermal and chemical environments .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2305.02467/images/0__page_15_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_2.jpeg"
+    },
+    "0__page_16_Figure_0.jpeg": {
+      "caption": "Illustrates electrons' depth-dependent population in UHV-baked and N2-processed Nb samples, exploring the intrinsic effects of baking temperature and processing methods on Nb, O, and C electrons, offering insight for optimizing superconducting niobium's microstructural features .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2305.02467/images/0__page_16_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_16_Figure_0.jpeg"
+    },
+    "0__page_15_Figure_0.jpeg": {
+      "caption": "The figure displays valence spectral analysis in UHV-baked Nb across different temperatures, depicting in situ spectra at 0 nm (panel a-1) and 9 nm (panel a-2). It also shows peak fitting at 1 nm during 800°C baking (panel b-1) and spectra comparison at 55 nm (panel b-2). The binding energy varies with temperature, showing significant spectral shifts related to structural changes, crucial for understanding Nb's surface chemistry under thermal treatment .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2305.02467/images/0__page_15_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_0.jpeg"
+    },
+    "0__page_11_Figure_0.jpeg": {
+      "caption": "This figure presents depth-dependent concentration profiles of carbon and oxygen in UHV-baked Nb samples, analyzing variations at temperatures from 500°C to 800°C, with focus on depths at 10 nm, 20 nm, and 40 nm. The findings highlight the alterations in impurity profiles due to temperature, illustrating effects like oxygen uptake and carbide-induced passivation, which are important for improving SRF cavity performance .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2305.02467/images/0__page_11_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_0.jpeg"
+    },
+    "0__page_17_Figure_4.jpeg": {
+      "caption": "Oxygen concentration as a function of depth is analyzed on Nb coupons with differing treatments measured using the SSX-100 XPS. This includes EP'ed, BCP'ed, HF soaked, 800°C baked, and N2-processed samples. The data reveal treatment-specific oxidation characteristics, underpinning the necessity of precise surface manipulation for superconducting applications. The EP-treated samples show substantial high-order oxides, significant for enhancing cavity surface characteristics .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2305.02467/images/0__page_17_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_17_Figure_4.jpeg"
+    },
+    "0__page_13_Figure_4.jpeg": {
+      "caption": "The figure illustrates structural profiles of N2-processed Nb coupons, detailing depth variations post pre-EP, in situ N2 processing, air exposure, and re-EP treatments. This figure emphasizes the growth of suboxide layers and alteration in impurity compositions, crucial for tailoring Nb surface for superconducting applications. The comparison between N2 and UHV treatments provides insight into the effects of nitrogen exposure on surface chemistry .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2305.02467/images/0__page_13_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_4.jpeg"
+    },
+    "1__page_19_Figure_4.jpeg": {
+      "caption": "This figure depicts native oxides on Nb3Sn at room temperature, shown through cross-sectional STEM images and EELS O-K edge spectra. The XPS spectra for Nb 3d and Sn 3d reflect the evolution of surface oxides, crucial for understanding mechanisms that affect Nb3Sn superconducting properties and SRF cavity performance. The mixed oxide composition provides a basis for investigating quench mechanisms in Nb3Sn cavities .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2305.02467/images/1__page_19_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_19_Figure_4.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1298,
+    "api_cost": 0.1298,
+    "file_storage_cost": 0.0,
+    "total_time": 98.44,
+    "request_count": 2,
+    "average_cost_per_request": 0.0649,
+    "average_time_per_request": 49.22,
+    "files_uploaded": 15,
+    "total_file_size": 1526077
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "paper_id": "ce21a1c12e658522f22afe5928c6b560",
+  "pdf_path": "apl/Superconductors/arXiv:1401.3931.pdf",
+  "processing_timestamp": "2025-06-23T13:38:39.647852",
+  "figure_analysis": {
+    "_page_4_Figure_1.jpeg": {
+      "caption": "Figure 5 shows the HQ time margin versus the local field detailed in Figure 1. The x-axis represents the magnetic field strength in Tesla (T), ranging from 0 to 15 T, and the y-axis depicts the time margin in milliseconds (ms), ranging from 0 to 50 ms. The plot illustrates the inverse relationship between field strength and time margin, indicating that as the local magnetic field increases, the time margin decreases. This figure is significant as it emphasizes the importance of considering field variations within superconducting magnets for quench protection and highlights the challenge of maintaining a sufficient time margin in high-field regions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3931/images/_page_4_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_1.jpeg"
+    },
+    "_page_1_Figure_20.jpeg": {
+      "caption": "Figure 1 displays the cross-sectional comparison of two design strategies for the Q4 quadrupole intended for the LHC upgrade. The left section illustrates the one-layer coil option, and the right shows the two-layer coil design. This figure illustrates the structural differences and spatial arrangement of sections related to the quench protection strategy evaluation. Selecting between these coil designs impacts both the electromagnetic properties and the quench protection strategies, where the internal quench across various cable layers is a central feature when achieving reliable magnet performance at high currents .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3931/images/_page_1_Figure_20.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_20.jpeg"
+    },
+    "_page_6_Figure_4.jpeg": {
+      "caption": "Figure 7 presents an estimation of inductive voltages occurring during quenching in four Nb3Sn magnets, and two Nb-Ti magnets, demonstrating effects when the outer layer is entirely quenched and the inner layer remains superconductive. The y-axis represents the voltage in volts (V) which peaks between 500 and 1000 V, approximately. This analysis is critical in understanding how internal magnetic instabilities might lead to tolerances reaching the threshold, stressing the need for balanced designs in coil configurations to maintain functional safety and performance limits under operational conditions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3931/images/_page_6_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_4.jpeg"
+    },
+    "_page_3_Figure_14.jpeg": {
+      "caption": "Figure 5 provides a graph of the time margin against the current density for both Nb-Ti (represented by black circles) and Nb3Sn (indicated with blue triangles) magnets. The x-axis denotes the current density in A/mm², while the y-axis marks the time margin in ms. This figure is pivotal in demonstrating the critical link between current density and time margin, where denser currents present lower time margins, posing challenges for quench protection of high-performance magnets .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3931/images/_page_3_Figure_14.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_14.jpeg"
+    },
+    "_page_2_Figure_18.jpeg": {
+      "caption": "Figure 3 energetically defines the time margin for quench protection by showing a schematic comparison wherein curves profile current (I) behavior over time (t). The graph features a decay curve identifying areas as Γ_q and I_q(t) signifying the integral representation of protected and consumed quench capital. It illustrates a theoretical discharge indicating essential strategies to maximize magnet effectiveness without requiring additional external resistance, thereby highlighting critical quench management techniques.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3931/images/_page_2_Figure_18.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_18.jpeg"
+    },
+    "_page_5_Figure_6.jpeg": {
+      "caption": "Figure 7 analyzes delay times required by quench heaters versus external magnetic field exposure in HQ magnets. The x-axis corresponds to the magnetic field in Tesla (T); the y-axis details the delay time in arbitrary units with a plotted downward trend, identifying necessary interventions to address field-specific quench propagation issues. It highlights gaps in current thermal management under field orientation variances within superconducting magnets, a cornerstone for developing high-field stability solutions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3931/images/_page_5_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_6.jpeg"
+    },
+    "_page_3_Figure_12.jpeg": {
+      "caption": "Figure 4 showcases the relationship between time margin and copper to non-copper ratio in superconducting magnets. Nb-Ti magnets are shown as black circles, and Nb3Sn magnets as blue triangles, representing important benchmarks in materials science implications on operations. This is vital for understanding component efficiency and mandatory adjustments to balance thermal management with increased design complexity .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3931/images/_page_3_Figure_12.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_12.jpeg"
+    },
+    "_page_2_Figure_12.jpeg": {
+      "caption": "Figure 2 illustrates internal energy density distribution within insulated coils for various superconducting materials like Nb-Ti (black circles) and Nb3Sn (blue triangles), plotted against strand current density. Essential for recognizing limits in integral specific heats for different materials, acknowledging that exceeding these values risks component integrity during high-energy operations .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3931/images/_page_2_Figure_12.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_12.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0615,
+    "api_cost": 0.0615,
+    "file_storage_cost": 0.0,
+    "total_time": 39.66,
+    "request_count": 1,
+    "average_cost_per_request": 0.0615,
+    "average_time_per_request": 39.66,
+    "files_uploaded": 9,
+    "total_file_size": 216828
+  }
+}

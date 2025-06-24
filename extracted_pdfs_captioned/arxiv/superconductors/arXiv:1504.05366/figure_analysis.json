@@ -1,0 +1,50 @@
+{
+  "paper_id": "f22285ddc2907d5d3d17a19f4e328666",
+  "pdf_path": "apl/Superconductors/arXiv:1504.05366.pdf",
+  "processing_timestamp": "2025-06-23T13:48:41.919737",
+  "figure_analysis": {
+    "_page_3_Figure_0.jpeg": {
+      "caption": "Figure 4 illustrates the impact of radiation induced changes on the volume pinning force of multifilamentary Nb3Sn wires. The plot juxtaposes the theoretical normalized pinning force functions for grain boundary (GB) pinning and point-pinning, shown as dashed and dot-dashed lines, with actual volume pinning force post-irradiation, represented by solid lines. The dashed curve indicates a theoretical grain boundary pinning, while dot-dashed shows point-pinning, both normalized to a peak of unity (left axis). The unirradiated state is depicted by the solid blue line, while the solid red line shows data at a fluence of 8.9·10^21 m^-2 as obtained from magnetometry (right axis). A clear shift to higher field values and increased magnitude in the pinning function after irradiation suggests an enhancement in the critical current density (Jc) due to added pinning centers. This illustrates neutron irradiation's role in improving the performance of Nb3Sn superconductors through defect induction, making it crucial for high-field applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1504.05366/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "_page_2_Figure_6.jpeg": {
+      "caption": "Figure 3 depicts the increase in the upper critical field, Bc2, of the examined Nb3Sn wire due to fast neutron irradiation. Blue points and solid red lines indicate experimental data and modeled fits, respectively. Measured data reveal a subtle Bc2 enhancement (approximately 2% at 4.2 K) post-irradiation at a fluence of 1.1·10^22 m^-2, as fitted using Helfand-Werthamer theory. The minor Bc2 elevation is insufficient to explain the significant critical current density (Jc) enhancement, underscoring the paramount influence of induced pinning centers over Bc2 increase in this context. This finding is vital for understanding the distinct mechanisms contributing to superconducting performance improvements in irradiated Nb3Sn wires.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1504.05366/images/_page_2_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_6.jpeg"
+    },
+    "_page_1_Figure_7.jpeg": {
+      "caption": "Figure 1 presents a comparison of transport critical current (Ic) and non-Cu critical current density (Jc) as functions of applied magnetic field, both before and after neutron irradiation at different fluences. Data points indicate experimental values, while solid lines are fits. Irradiation to fluences of 3.8·10^21 m^-2 and 8.9·10^21 m^-2 induced substantial Jc enhancements at 12 T and 15 T, reaching non-Cu values of up to 4.09·10^9 A/m^2 and 2.27·10^9 A/m^2, respectively, representing approximately 60% improvement from unirradiated states. This result highlights neutron irradiation's effectiveness in enhancing pinning force within Nb3Sn by introducing additional point-pinning centers, offering potential for superior superconducting wire performance in high-field applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1504.05366/images/_page_1_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_7.jpeg"
+    },
+    "_page_2_Figure_1.jpeg": {
+      "caption": "Figure 2 shows the relative change in critical current density Jc(4.2 K, 6 T) as a function of fast neutron fluence, evaluated using SQUID magnetometry. The plot displays experimental data as squares and a moving average as a solid line with ±3σ error bars. The Jc enhancement increases progressively with fluence, culminating at approximately 2.5·10^22 m^-2, substantiating a significant improvement in superconducting properties due to induced radiation defects. This is pivotal for advancing understanding and optimization of Nb3Sn superconductors, suggesting that higher fluences could potentially yield even greater enhancements, thus informing future strategies for pinning landscape engineering.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1504.05366/images/_page_2_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0579,
+    "api_cost": 0.0579,
+    "file_storage_cost": 0.0,
+    "total_time": 61.1,
+    "request_count": 1,
+    "average_cost_per_request": 0.0579,
+    "average_time_per_request": 61.1,
+    "files_uploaded": 5,
+    "total_file_size": 148736
+  }
+}

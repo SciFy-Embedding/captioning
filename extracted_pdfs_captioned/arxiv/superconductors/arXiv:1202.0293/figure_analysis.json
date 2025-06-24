@@ -1,0 +1,74 @@
+{
+  "paper_id": "35f35c3d1948e429e1aa57933ef2cea4",
+  "pdf_path": "apl/Superconductors/arXiv:1202.0293.pdf",
+  "processing_timestamp": "2025-06-23T13:30:23.334972",
+  "figure_analysis": {
+    "_page_1_Figure_17.jpeg": {
+      "caption": "Figure 5 shows the distribution of coil stress under different conditions: at room temperature after assembly, at operational temperature and zero current, and at 1.9 K with a field gradient of 130 T/m. The stress analysis, performed using ANSYS with plastic properties of the coil material, reveals that the maximum room-temperature stress in the coil is 70 MPa, increasing to ~110 MPa after cooldown. This level of stress ensures the coil turns remain compressed even at a nominal gradient of 130 T/m. To safely operate at 150 T/m, the coil pre-stress would need to be increased to 90 MPa, with maximum stress not exceeding 170 MPa, supporting Nb3Sn magnet safety.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1202.0293/images/_page_1_Figure_17.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_17.jpeg"
+    },
+    "_page_1_Figure_11.jpeg": {
+      "caption": "Figure 1 provides the cross-sections of quadrupole coils with (left) and without (right) mid-plane spacers. The spacer's inclusion, 1 cm thick azimuthally, eliminates about four turns near each coil mid-plane, reducing areas with maximum radiation heat and dose. Both coil designs use a Rutherford-type cable with 40 strands. This configuration helps mitigate radiation-induced thermal effects, improving operational efficiency and extending magnet lifespan.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1202.0293/images/_page_1_Figure_11.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_11.jpeg"
+    },
+    "_page_1_Figure_8.jpeg": {
+      "caption": "Figure 3 shows the load lines for quadrupole magnets affected by the yoke saturation. The diagram highlights the relationship between operational current and magnetic field with and without mid-plane spacers. Due to the design's large distance between coil and yoke, saturation effects remain minimal, causing only minor variations in the b6 harmonic, maintaining performance within desired parameters.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1202.0293/images/_page_1_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_8.jpeg"
+    },
+    "_page_0_Figure_11.jpeg": {
+      "caption": "Figure 1, highlighting the cross-sections of coils with and without mid-plane spacers, illustrates the physical differences induced by spacer integration. The aluminum mid-plane spacers optimize space utilization by minimizing the volume in mid-plane areas susceptible to high radiation heat deposition, enhancing the quadrupole's cooling and heat transfer capabilities.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1202.0293/images/_page_0_Figure_11.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_0_Figure_11.jpeg"
+    },
+    "_page_1_Figure_10.jpeg": {
+      "caption": "Figure 4 examines the influence of yoke saturation on b6 harmonic for quadrupoles with and without mid-plane spacers. While yoke saturation typically distorts magnetic field harmonics, the distance from coil to yoke in this design limits these effects, allowing stable performance across a gradient range of 0-130 T/m without additional corrections.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1202.0293/images/_page_1_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_10.jpeg"
+    },
+    "_page_2_Figure_6.jpeg": {
+      "caption": "Figure 6 depicts the longitudinal distribution of peak power density in the quadrupole with and without aluminum mid-plane spacers when operating at a luminosity of 10^35 cm^-2 s^-1. The integration of spacers significantly reduces the peak load in the coil, effectively meeting the thermal design goals, doubling particle transparency to improve radial distribution of radiation and alleviating thermal stress on the cryogenic systems.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1202.0293/images/_page_2_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_6.jpeg"
+    },
+    "_page_0_Figure_15.jpeg": {
+      "caption": "Figure 2 provides a detailed cross-section of a quadrupole cold mass utilizing aluminum mid-plane spacers, highlighting features such as aluminum collars and a stainless steel skin. The design facilitates improved heat exchange and stresses distribution, essential for supporting high-gradient operations in radiation-intense environments typical of hadron collider interaction regions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1202.0293/images/_page_0_Figure_15.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_0_Figure_15.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0356,
+    "api_cost": 0.0356,
+    "file_storage_cost": 0.0,
+    "total_time": 34.27,
+    "request_count": 1,
+    "average_cost_per_request": 0.0356,
+    "average_time_per_request": 34.27,
+    "files_uploaded": 8,
+    "total_file_size": 184748
+  }
+}

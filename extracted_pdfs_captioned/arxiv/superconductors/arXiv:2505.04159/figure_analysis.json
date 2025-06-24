@@ -1,0 +1,42 @@
+{
+  "paper_id": "25edfdacb644adbb52de88bcb8208a72",
+  "pdf_path": "apl/Superconductors/arXiv:2505.04159.pdf",
+  "processing_timestamp": "2025-06-23T15:31:19.555789",
+  "figure_analysis": {
+    "_page_3_Figure_1.jpeg": {
+      "caption": "Figure 1 illustrates the comprehensive visualization of thermomagnetic behaviors in multifilamentary superconducting wires. Figure 1a shows an image of the sample used for experiments with a scanning electron microscope (SEM) image of its cross-section. Figure 1b presents the experimental magnetization loops for the sample subjected to a magnetic field ramping rate of 10 mT/s across different temperatures, indicating the progressive suppression of flux jumps with increasing temperature. Figure 1c maps the thermomagnetic stability diagram in the Ha-T plane, highlighting regions susceptible to flux jumps and illustrating the onset and termination conditions. Figure 1d provides a schematic of the numerical model employed for simulations. Figure 1e shows the simulated magnetizations under equivalent experimental conditions, and Figure 1f reproduces the experimental stability diagram through simulation. The findings demonstrate that increasing operating temperature significantly mitigates the occurrence of flux jumps in multifilamentary superconducting wires, a critical aspect for practical superconducting applications in achieving operational stability.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2505.04159/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "_page_4_Figure_1.jpeg": {
+      "caption": "Figure 2 captures the correlation between magnetization, critical current density, and their variations with applied magnetic fields at varying temperatures for multifilamentary wires. Figure 2a shows experimental magnetization loops for a short multifilamentary wire when exposed to a sweeping magnetic field of ±12 T. Figure 2b depicts the derived critical current density Jc as a function of magnetic field and temperature, serving as a crucial piece for understanding the wire’s capability under different conditions. Figure 2c illustrates alterations in Jc along four distinct temperature trajectories, emphasizing the impact of temperature on magnetization characteristics. Figure 2d compares experimental with computational simulations of magnetization during ramp-down of temperature, underscoring high accuracy in simulations developed using a CUDA-optimized numerical framework. These insights are pivotal for enhancing superconducting wire designs by indicating how temperature manipulations can preserve or enhance magnetic performance by managing flux jumps.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2505.04159/images/_page_4_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_1.jpeg"
+    },
+    "0__page_7_Figure_0.jpeg": {
+      "caption": "Figure 3 discusses the complexities and control of thermomagnetic instabilities within a solenoid superconducting coil model. Figure 3a outlines the coil’s numerical model, showing its cross-sectional configurations with Nx×Ny winding turns. Figure 3b details how critical current density varies with magnetic field under various heat conditions. Figures 3c and 3d provide thermomagnetic stability diagrams and quench current trajectories in the Ia-T plane for coils with distinct turn configurations (40x40 and 20x20), indicating the critical points where stability transitions to instability. Figures 3e and 3f track maximal temperature variations during progressive cooling from higher to nominal temperatures in current ramp-up scenarios. The research effectively demonstrates innovative cooling strategies that suppress flux jumps, crucial for stabilizing superconducting systems operating at the critical boundary of flux-jump regimes, thus informing strategies to ensure operational integrity of high-field superconductor magnets.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2505.04159/images/0__page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0556,
+    "api_cost": 0.0556,
+    "file_storage_cost": 0.0,
+    "total_time": 64.04,
+    "request_count": 1,
+    "average_cost_per_request": 0.0556,
+    "average_time_per_request": 64.04,
+    "files_uploaded": 4,
+    "total_file_size": 363797
+  }
+}

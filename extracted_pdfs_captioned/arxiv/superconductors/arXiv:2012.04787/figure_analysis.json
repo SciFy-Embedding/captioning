@@ -1,0 +1,314 @@
+{
+  "paper_id": "6b10e497e58c47d1fda85bd38c96fd5f",
+  "pdf_path": "apl/Superconductors/arXiv:2012.04787.pdf",
+  "processing_timestamp": "2025-06-23T14:39:46.529416",
+  "figure_analysis": {
+    "3__page_41_Figure_3.jpeg": {
+      "caption": "Figure 3 displays the band structure of the La-Y-H compound, with the energy (in eV) plotted on the vertical axis and the wave vector across various high-symmetry points in the Brillouin zone on the horizontal axis. The colors represent different atomic contributions to the bands: green for Lanthanum (La), brown for Yttrium (Y), and blue for Hydrogen (H). The Fermi level is set to 0 eV. The plot reveals that the compound exhibits metallic character with several bands crossing the Fermi level, which is pivotal for understanding its electronic properties and possible superconductivity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/3__page_41_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_41_Figure_3.jpeg"
+    },
+    "1__page_25_Figure_4.jpeg": {
+      "caption": "Figure 4 shows the energy-dispersive X-ray (EDX) analysis of a La-Y-H sample, with the energy in keV on the horizontal axis and the count number on the vertical axis. Prominent peaks correspond to various elements detected: Lα peaks for La, Y, and H are visible, indicating their presence in the sample. A quantitative analysis inset provides weight percentages and atomic percentages for Y (17.31 wt%, 5.00 at%), indicating its significant contribution to the sample's composition【4:9†temp_paper_6b10e497e58c47d1fda85bd38c96fd5f.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/1__page_25_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_25_Figure_4.jpeg"
+    },
+    "1__page_29_Figure_0.jpeg": {
+      "caption": "Figure S16 presents the diamond anvil culets of various DACs (M1, M2, SL1, SL1_S, SL3, and SL3_S) loaded with La-Y alloys and NH3BH3, after laser heating. This image analysis is crucial for understanding the structural transformations and superconducting phase development during and after high-pressure and high-temperature conditions【4:7†temp_paper_6b10e497e58c47d1fda85bd38c96fd5f.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/1__page_29_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_29_Figure_0.jpeg"
+    },
+    "3__page_43_Figure_0.jpeg": {
+      "caption": "Figure S34 presents the electronic density of states (DOS) calculations at 180 GPa for different La-Y-H phases: (a) 3̅-LaH10, (b) 3̅-YH6, (c) 3̅-LaYH20, and (d) cubic La4YH50. The horizontal axis shows energy relative to the Fermi level, while the vertical axis denotes DOS in states/eV/unit cell. The plots highlight significant electron-phonon interactions in these phases, affecting their superconductivity potential【4:14†temp_paper_6b10e497e58c47d1fda85bd38c96fd5f.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/3__page_43_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_43_Figure_0.jpeg"
+    },
+    "2__page_31_Figure_2.jpeg": {
+      "caption": "Figure S20 illustrates the Le Bail refinement of pseudocubic P1 (distorted Fm3̅m)-(La, Y)H10, alongside its experimental X-ray diffraction (XRD) pattern at 171 GPa in DAC SL1_S. The pattern, model fit, and residues are plotted in red, black, and green, respectively, showing consistency with cubic crystals and providing insights into the material's structural characteristics【4:10†temp_paper_6b10e497e58c47d1fda85bd38c96fd5f.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/2__page_31_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_31_Figure_2.jpeg"
+    },
+    "1__page_25_Figure_2.jpeg": {
+      "caption": "Figure S11 depicts the powder X-ray diffraction (XRD) analysis of the initial LaY4 alloy at 0 GPa. The diffraction peaks are highlighted, with identified phases marked for α-Y in green. The diffraction pattern is used to verify the crystalline phase and composition of the alloy before transformation under high-pressure conditions【4:9†temp_paper_6b10e497e58c47d1fda85bd38c96fd5f.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/1__page_25_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_25_Figure_2.jpeg"
+    },
+    "1__page_23_Figure_0.jpeg": {
+      "caption": "Figure S7 shows a scanning electron microscopy (SEM) image and energy dispersive X-ray (EDX) analysis of the initial LaY4 alloy at 0 GPa. This analysis provides a visual and compositional insight into the sample homogeneity, showcasing a uniform distribution of elements across the scanned area【4:8†temp_paper_6b10e497e58c47d1fda85bd38c96fd5f.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/1__page_23_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_23_Figure_0.jpeg"
+    },
+    "2__page_33_Figure_0.jpeg": {
+      "caption": "Figure S23 displays the Raman spectra of 3̅-(La,Y)H10 samples in DACs (a) M1-2, SL1,3; (b) SL1 and SL3 at 170–180 GPa, post-laser heating. The spectra highlight vibrational modes, providing insights into the structural integrity and bonding characteristics in these synthesized high-pressure phases【4:10†temp_paper_6b10e497e58c47d1fda85bd38c96fd5f.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/2__page_33_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_33_Figure_0.jpeg"
+    },
+    "1__page_27_Figure_0.jpeg": {
+      "caption": "Figure S15 shows the dependencies of unit cell parameters of La-Y alloys, adopting the α-La structure, as a function of lanthanum concentration (atom %). The linear fit indicated by the dashed line, alongside blue circles marking new experimental data, underscores the systematic variation in lattice parameters with compositional changes【4:16†temp_paper_6b10e497e58c47d1fda85bd38c96fd5f.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/1__page_27_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_27_Figure_0.jpeg"
+    },
+    "2__page_34_Figure_0.jpeg": {
+      "caption": "Figure S25 displays Raman spectra of (La,Y)H10 samples obtained from La2Y alloy at 196 GPa, both before and after laser heating. The top spectrum (before heating) shows typical Raman active modes, and the bottom spectrum (after heating) features a peak at 3935 cm−1 indicative of H2 vibron, suggesting complete hydrogen absorption. This Raman analysis is crucial for confirming the structural changes in the alloy under high-pressure and high-temperature conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/2__page_34_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_34_Figure_0.jpeg"
+    },
+    "1__page_20_Figure_0.jpeg": {
+      "caption": "Figure S2 shows a SEM image and elemental distribution maps of the initial La2Y alloy at 0 GPa, delineating the spatial arrangement and concentration of Yttrium (Y) and Lanthanum (La). The EDX spectra analysis collected from specific points highlights the distinct composition, essential for understanding the alloy's baseline material properties before high-pressure experimentation.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/1__page_20_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_0.jpeg"
+    },
+    "2__page_30_Figure_0.jpeg": {
+      "caption": "Figure S17 depicts the Le Bail refinement of the Fm3̅m-(La,Y)H10 phase and its experimental XRD pattern at 180 GPa in DAC M2, La2Y. The presence of well-defined diffraction peaks indicates a high degree of crystallinity, providing insights into the compound's structural configuration under extreme conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/2__page_30_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_30_Figure_0.jpeg"
+    },
+    "2__page_37_Figure_1.jpeg": {
+      "caption": "Figure S29 shows ab initio calculated harmonic Eliashberg functions and electron–phonon coupling (EPC) parameters for various La-Y-H hydrides at 180 GPa. The plots illustrate strong coupling and high critical temperatures predicted by the Allen–Dynes formula, which is pivotal for developing superconducting materials.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/2__page_37_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_37_Figure_1.jpeg"
+    },
+    "1__page_24_Figure_0.jpeg": {
+      "caption": "Figure S9 provides a SEM image of a LaY4 alloy region with non-uniform Y and La distribution. The EDX spectra recorded at specified points detail the variations in elemental composition, which are significant for assessing material homogeneity and potential phase segregations at ambient pressure.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/1__page_24_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_24_Figure_0.jpeg"
+    },
+    "1__page_22_Figure_2.jpeg": {
+      "caption": "Figure S6 displays a SEM image and EDX analysis across an entire area of the initial La4Y alloy at 0 GPa, showcasing homogeneity in elemental distribution. This characterization step is critical prior to compressing the alloy in DACs for high-pressure experiments.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/1__page_22_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Figure_2.jpeg"
+    },
+    "2__page_32_Figure_2.jpeg": {
+      "caption": "Figure S22 presents the Le Bail refinement and XRD patterns of Fm3̅m-LaH10 and P63mc-LaH10 phases at 171 GPa (DAC SL3_S, pure La). The detailed structural fit evidenced by distinct diffraction peaks supports the existence and stability of these complex phases under extreme pressures.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/2__page_32_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_32_Figure_2.jpeg"
+    },
+    "2__page_35_Figure_3.jpeg": {
+      "caption": "Figure S27 showcases electrical resistance and critical temperature (Tc) plots of the (La,Y)H10 sample under varying magnetic fields and pressures, derived from La2Y. These measurements highlight superconducting properties and their modulation by external magnetic fields, providing essential data for superconductivity research.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/2__page_35_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_35_Figure_3.jpeg"
+    },
+    "1__page_26_Figure_2.jpeg": {
+      "caption": "Figure S14 highlights the powder X-ray diffraction analysis of initial LaY alloy at 0 GPa, indicating the presence of hcp-Y, hcp-La, and R3̅m-LaY phases with corresponding reflection positions. This initial phase identification is foundational for subsequent high-pressure synthesis experiments.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/1__page_26_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_26_Figure_2.jpeg"
+    },
+    "1__page_25_Figure_0.jpeg": {
+      "caption": "Figure S10. Powder X-ray diffraction analysis of the initial La4Y alloy at 0 GPa. The experimental data is depicted in red, while the positions of Bragg reflections for the α-La phase (marked in blue) correspond to refined parameters with space group P63/mmc, a = 3.744 Å, c = 12.062 Å. This data confirms the crystalline structure before high-pressure processing.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/1__page_25_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_25_Figure_0.jpeg"
+    },
+    "2__page_31_Figure_0.jpeg": {
+      "caption": "Figure S19. Le Bail refinement conducted for Fm3̅m-(La,Y)H10, Imm2-YH7, and Cmcm-LaH3 phases, showcasing the experimental XRD patterns at 170 GPa (DAC SL3, LaY4). The plots include experimental data in red, model fit in black, and residues in green. These patterns help identify phase purity and crystalline structures under substantial pressure.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/2__page_31_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_31_Figure_0.jpeg"
+    },
+    "2__page_33_Figure_2.jpeg": {
+      "caption": "Figure S24. Raman spectra of (La,Y)H10 samples derived from La2Y alloy, focused on electric transport measurements at 194 GPa. The absence of an H2 vibron suggests complete hydrogen integration within the crystal lattice, providing insights valuable for optimizing superconducting properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/2__page_33_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_33_Figure_2.jpeg"
+    },
+    "1__page_23_Figure_2.jpeg": {
+      "caption": "Figure S8. SEM image and corresponding elemental distribution maps within the initial LaY4 alloy showcasing a region with nonuniform distribution of Yttrium (Y) and Lanthanum (La). The image reveals compositional inhomogeneity at about 15 μm scale, critical for assessing material preparation prior to further processing.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/1__page_23_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_23_Figure_2.jpeg"
+    },
+    "2__page_30_Figure_2.jpeg": {
+      "caption": "Figure S18. XRD patterns and Le Bail refinement of Fm3̅m-(La,Y)H10, Imm2-YH7, and Cmcm-LaH3 phases at 180 GPa (DAC M1, LaY). The data displayed (red for experimental, black for fitted model, and green for residues) emphasizes understanding structural transformations influenced by high pressure and temperature.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/2__page_30_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_30_Figure_2.jpeg"
+    },
+    "1__page_20_Figure_2.jpeg": {
+      "caption": "Figure S3. Selected Area Electron Diffraction (SAED) of the La2Y alloy, illustrating the crystalline orientation and confirming the hexagonal crystal lattice structure. The image supports the understanding of microstructural properties essential for predicting superconducting behavior.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/1__page_20_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_2.jpeg"
+    },
+    "1__page_26_Figure_0.jpeg": {
+      "caption": "Figure S13. X-ray Fluorescence (XRF) analysis of a sample from the initial LaY (1:1) alloy at 0 GPa, which offers a comparative analysis of elemental composition, highlighting the quality constraints for subsequent superconducting material studies.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/1__page_26_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_26_Figure_0.jpeg"
+    },
+    "2__page_35_Figure_1.jpeg": {
+      "caption": "Figure S26. Electrical resistance and critical temperature Tc of the (La, Y)H10 sample obtained from La2Y alloy in an external magnetic field (0–16 T) at 183 GPa. The chart includes temperature-dependent resistance at various fields, upper critical field extrapolation, and Tc field-dependence, vital for gauging superconducting phase stability.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/2__page_35_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_35_Figure_1.jpeg"
+    },
+    "2__page_32_Figure_0.jpeg": {
+      "caption": "Figure S21. Le Bail refinement of Fm3̅m-LaH10 and the experimental XRD pattern for pure La at 171 GPa (DAC SL3_S). It highlights structural refinement to confirm phase purity and integrity under high-pressure experimental conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/2__page_32_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_32_Figure_0.jpeg"
+    },
+    "1__page_22_Figure_0.jpeg": {
+      "caption": "Figure S5. Powder X-ray diffraction analysis of the initial La2Y alloy at 0 GPa is detailed, showing experimental peaks in red with fitted profiles of La0.65Y0.35, Y, and Ta in blue, green, and azure, respectively. These highlight the impurity of tantalum from the crucible, critical for crystallographic examinations before synthesis.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/1__page_22_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Figure_0.jpeg"
+    },
+    "2__page_36_Figure_0.jpeg": {
+      "caption": "Figure S28. (a) The scaling of normalized volume pinning forces of (La,Y)H10 at 186 GPa from La4Y alloy against reduced field indicates surface-type normal pinning. (b) Electrical resistance's temperature dependence of (La,Y)Hx at 176 GPa from LaY4 alloy shows transition features due to impurities like 3̅-YH6, key for interpreting superconducting behaviors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/2__page_36_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_36_Figure_0.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Figure 1. Ternary convex hulls of the La-Y-H system at 200 GPa across temperatures (0 K, 1000 K, 1500 K, and 2000 K). These depict phase stability where stable and metastable phases appear in red and blue, respectively, providing a basis for understanding phase transformations driven by temperature.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    },
+    "3__page_41_Figure_1.jpeg": {
+      "caption": "Figure S32. Band structure of 3̅-LaYH20 at 180 GPa shows significant electronic features around the Fermi level, indicating non-trivial band crossings that suggest potential superconducting behavior due to electron-phonon interactions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/3__page_41_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_41_Figure_1.jpeg"
+    },
+    "3__page_42_Figure_0.jpeg": {
+      "caption": "Figure S33. Detailed DOS calculations at 180 GPa for various phases: 3̅-LaH10, 3̅-YH6, 3̅-LaYH20, and cubic La4YH50. These DOS plots are essential for assessing electron-phonon coupling strengths contributing to superconductivity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/3__page_42_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_42_Figure_0.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "Figure 4. Superconducting transitions for 3̅-LaYH10: (a) Resistance vs. Temperature for La4Y at 183 GPa emphasizes a drop indicative of superconducting onset, corroborated by (b) La2Y at 196 and 188 GPa. Magnetic field effects on Tc (c, e), reveal an extrapolated Hc2 lower than YH6, signaling different superconducting mechanisms.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    },
+    "_page_5_Figure_0.jpeg": {
+      "caption": "Figure 3. XRD of La-Y hydrides in DAC M2_S at 175 and 180 GPa, displaying patterns with Le Bail refinements in red, black, and green. Optical images show experimental setup. Pressure-volume correlation supports structural stability of various compositions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/_page_5_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_0.jpeg"
+    },
+    "0__page_19_Figure_3.jpeg": {
+      "caption": "Figure S1. Light microscopy and SEM imaging of La2Y alloy at 0 GPa in different zones reveal compositional uniformity, supported by EDX spectra indicating elemental distribution critical for validating preparative consistency.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/0__page_19_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_19_Figure_3.jpeg"
+    },
+    "1__page_21_Picture_2.jpeg": {
+      "caption": "Figure S4. High-resolution TEM of La2Y alloy in [0001] zone axis, showing lattice fringes and moiré patterns. TEM confirms distinct crystalline organization informing microstructural study precluding high-pressure modifications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/1__page_21_Picture_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Picture_2.jpeg"
+    },
+    "_page_3_Figure_2.jpeg": {
+      "caption": "Figure 2 presents an X-ray diffraction study of La-Y hydrides conducted using Le Bail refinement techniques. Panel (a) shows the diffraction pattern for the 3̅-(La,Y)H10 phase obtained from DAC SL1, where the experimental data, fitted model, and residues are represented in red, black, and green lines, respectively. Panel (b) depicts the patterns for *Imm*2-YH7 and *Cmcm*-LaH3 phases within DAC M1, highlighting the structural and compositional analysis required for accurate phase identification under high pressures. Panel (c) illustrates a fragment of the (La,Y)H10 crystal structure where Y and La atoms are neighbors, which aids in visualizing the atomic arrangements within the lattice. Panel (d) shows a pressure versus unit cell volume diagram for fcc LaH10, overlaying experimental data with theoretical calculations to elucidate the effects of pressure on structural properties. Lastly, panel (e) provides estimates of Y content in (La,Y)H10 and (La,Y)H6 derived from experimental unit cell volumes, illustrating compositional variations and their significance for understanding material properties at elevated pressures .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2012.04787/images/_page_3_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_2.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.4132,
+    "api_cost": 0.4132,
+    "file_storage_cost": 0.0,
+    "total_time": 297.44,
+    "request_count": 5,
+    "average_cost_per_request": 0.0826,
+    "average_time_per_request": 59.49,
+    "files_uploaded": 38,
+    "total_file_size": 4530957
+  }
+}

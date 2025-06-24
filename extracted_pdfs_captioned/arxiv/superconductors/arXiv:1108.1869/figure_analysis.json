@@ -1,0 +1,138 @@
+{
+  "paper_id": "550ba45cc5d864794110beafbfca3d34",
+  "pdf_path": "apl/Superconductors/arXiv:1108.1869.pdf",
+  "processing_timestamp": "2025-06-23T13:26:10.550954",
+  "figure_analysis": {
+    "_page_7_Figure_1.jpeg": {
+      "caption": "Figure 15: LM01 and LM02 training quenches at 4.5 K. The figure presents a scatter plot comparing quench current against quench number at two different scenarios for dipole coils LM01 and LM02 tested at 4.5 K. The x-axis denotes the quench number, and the y-axis represents quench current in Amperes. LM01 is denoted by solid blue diamonds, and LM02 by pink squares. The figure includes a horizontal pink dotted line indicating the short sample limit (SSL) for each configuration. This research, guided by objectives to enhance Nb3Sn magnet technology, indicates the influence of strand technology on quench performance and robustness crucial for high-energy accelerators.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1869/images/_page_7_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_1.jpeg"
+    },
+    "_page_0_Picture_9.jpeg": {
+      "caption": "Figure 1: HFDA dipole cross-section. This technical drawing illustrates the cross-sectional design of the HFDA dipole magnet, showcasing a two-layer coil structure with a cold iron yoke and stainless steel components. The diagram aims to represent the structural and functional aspects of the dipole model designed for Very Large Hadron Collider (VLHC) applications, emphasizing its potential for industrial scalability and efficient magnetic field utilization. The design focuses on achieving a nominal field of 10-11 T, thereby underlining the effort to optimize performance parameters while reducing production costs through strategic material choices and design simplification.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1869/images/_page_0_Picture_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_0_Picture_9.jpeg"
+    },
+    "_page_6_Figure_2.jpeg": {
+      "caption": "Figure 13: Coil TQ34 temperature dependence. Illustrated here is the graph depicting the relationship between quench current and temperature for coil TQ34 with three pre-stress configurations, TQM03a/b/c. The x-axis represents temperature in Kelvin, while the y-axis shows quench current in Amperes. This figure reflects experiments that highlight the temperature's impact on quench stability and performance. Key findings emphasize coil response to temperature shifts, with notable performance stability above 3.5 K. The study’s significance lies in optimizing coil design for varied temperature conditions, aimed at enhancing Nb3Sn magnet reliability in different thermal environments.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1869/images/_page_6_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_2.jpeg"
+    },
+    "_page_6_Picture_12.jpeg": {
+      "caption": "Figure 14: 4-m long Nb3Sn dipole coil (left) and LM02 cold mass (right). This image presents a visual of the 4-meter long Nb3Sn dipole coil and its corresponding LM02 cold mass. It highlights the scale-up of technology from short models to longer coils, addressing challenges in fabrication, handling, and performance of brittle superconductor materials like Nb3Sn. The depiction underpins the successful enlargement of the coil technology, indicating practical progress toward integrating longer dipole magnets in particle accelerators and demonstrating key methodologies for managing Nb3Sn-based components.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1869/images/_page_6_Picture_12.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Picture_12.jpeg"
+    },
+    "_page_2_Picture_3.jpeg": {
+      "caption": "Figure 4: Insulation types and cost: a) 0.125 × 13 mm² ceramic tape (~20 $/m), b) 0.125 mm S2-glass sleeve (~10 $/m), c) 0.075 × 13 mm² E-glass tape (~0.2 $/m), and d) 0.125 × 13 mm² S2/E-glass combination tape (~6 $/m). This diagram classifies the different materials evaluated for cable insulation in Nb3Sn dipole and quadrupole models. It emphasizes diverse mechanical and electrical attributes post-reaction and the trade-offs between cost and performance. The results aim to guide material selection to optimize coil reliability and reduce costs in magnet systems, reflecting on extensive R&D efforts to match stringent superconductor operational conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1869/images/_page_2_Picture_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Picture_3.jpeg"
+    },
+    "_page_4_Figure_1.jpeg": {
+      "caption": "Figure 8: Dipole training quenches at 4.5 (solid markers) and 2.2 K (open markers) in thermal cycles TCI/TCII. The plot shows quench current progression over multiple quench cycles for different dipole models at two distinct temperatures. The x-axis indicates the quench number and the y-axis shows quench current in Amperes. Solid symbols represent performance at 4.5 K, whereas open symbols denote behavior at 2.2 K. This visual data reveals the impacts of thermal cycling on superconducting performance, with models evolving from MJR strand issues to robust behavior using PIT strand, thus painting a picture of incremental advancements in magnet technology design.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1869/images/_page_4_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_1.jpeg"
+    },
+    "_page_2_Picture_4.jpeg": {
+      "caption": "Figure 9: Quadrupole model training quenches at 4.5 K. This graph illustrates the quench current evolution across training cycles for quadrupole models at 4.5 K. The presentation of training data for multiple strands showcases different strand technologies (MJR, RRP) employed within the quadrupole structures, contributing to the understanding of the achievable performance limits and training processes. The axes indicate quench number and quench current in Amperes respectively, revealing the consistency and stability of the Nb3Sn technology applied to accelerator magnets in high-field applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1869/images/_page_2_Picture_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Picture_4.jpeg"
+    },
+    "_page_5_Figure_8.jpeg": {
+      "caption": "Figure 11: Dipole coil training quenches at 4.5 K (solid markers) and 2.2 K (open markers). The graph captures quench performance across multiple cycles for different dipole coil designs, differentiating the temperature effects at 4.5 K and 2.2 K. The x-axis marks quench number, while the y-axis aligns with quench current in Amperes. The significance lies in the evaluation of strand recipes—PIT, RRP—under varied thermal and stress conditions, contributing to the overall goal of enhancing quench predictability and stability across potential accelerator deployment scenarios.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1869/images/_page_5_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_8.jpeg"
+    },
+    "_page_3_Picture_1.jpeg": {
+      "caption": "Figure 4: Insulation types and cost: a) 0.125 × 13 mm² ceramic tape (~20 $/m), b) 0.125 mm S2-glass sleeve (~10 $/m), c) 0.075 × 13 mm² E-glass tape (~0.2 $/m), and d) 0.125 × 13 mm² S2/E-glass combination tape (~6 $/m). Depicting different insulation materials, this figure emphasizes the mechanical and cost parameters based on various fabrications for Nb3Sn dipoles and quadrupoles. Developed through R&D trials, these materials promise to optimize cost-performance metrics vital to designing superconducting technology for larger scale accelerator use, demonstrating progress in addressing coil insulation challenges with growing complexity and requirements.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1869/images/_page_3_Picture_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Picture_1.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "Figure 12: Quadrupole coil training quenches at 4.5 K (solid markers) and 1.9 K (open markers). This plot illustrates the training quench performance of quadrupole coils under different pre-stress conditions at two operating temperatures. Quench current is plotted against quench number, showcasing the differences between pre-stress setups TQM03a/b/c. The data provides insights into how coil pre-stress impacts quench behavior and maximum quench currents, critical for optimizing magnet performance. The study emphasizes stable performance at higher temperatures, illustrating objectives in enhancing coil reliability in diverse operational environments.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1869/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    },
+    "_page_3_Picture_12.jpeg": {
+      "caption": "Figure 7: Quadrupole CTS (quadrupole mirror). The image shows the mechanical assembly used for testing quadrupole coils, known as the Coil Test Structure (CTS). The CTS is composed of an iron yoke and stainless steel skin preloading the coils axially, crucial for simulating operational conditions in particle accelerators. It highlights innovations in Nb3Sn coil technology, allowing researchers to assess mechanical and magnetic performance pre-integration into larger systems.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1869/images/_page_3_Picture_12.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Picture_12.jpeg"
+    },
+    "_page_1_Figure_14.jpeg": {
+      "caption": "Figure 3: Cross-sections of Nb3Sn strands used in dipole and quadrupole models. This figure compares cross-sectional images of various Nb3Sn strands, highlighting differences in sub-element geometry essential for strand performance. The strands, made via different processes such as MJR and RRP, demonstrate characteristics like critical current density and instability issues that impact quench performance. This visualization aids in understanding material choices relevant for optimizing superconducting properties in Nb3Sn-based accelerator magnets.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1869/images/_page_1_Figure_14.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_14.jpeg"
+    },
+    "_page_0_Figure_15.jpeg": {
+      "caption": "Figure: HFDA dipole cross-section. The schematic displays the cross-section of the HFDA dipole magnet engineered for high-field applications like the Very Large Hadron Collider (VLHC). Key components include the two-layer coil and cold iron yoke. This design captures efforts to achieve high magnetic fields efficiently while maintaining structural integrity through innovative mechanical layouts and material selection, reflecting the ongoing development to advance Nb3Sn magnet technology.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1869/images/_page_0_Figure_15.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_0_Figure_15.jpeg"
+    },
+    "_page_4_Figure_3.jpeg": {
+      "caption": "Figure 9: Quadrupole model training quenches at 4.5 K. The figure depicts the progression of quench current across multiple training cycles for quadrupole models utilizing high-Jc RRP strands. The x-axis represents quench number, and the y-axis quench current. Findings from this analysis provide insights into achieving maximum field gradients and enhancing performance consistency crucial for high-field magnets in colliders, supporting project objectives to fine-tune superconducting magnet designs.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1869/images/_page_4_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_3.jpeg"
+    },
+    "_page_2_Picture_1.jpeg": {
+      "caption": "Figure 6: Dipole CTS (dipole mirror). The image highlights the coil test structure specifically for dipole coils, showing the support and alignment mechanisms used for evaluating coil performance under realistic conditions. This apparatus is integral in testing the mechanical and electromagnetic stability of Nb3Sn dipole coils, further aiding in refining Nb3Sn technology for larger scale and more complex accelerator magnets.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1869/images/_page_2_Picture_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Picture_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1379,
+    "api_cost": 0.1379,
+    "file_storage_cost": 0.0,
+    "total_time": 87.74,
+    "request_count": 2,
+    "average_cost_per_request": 0.0689,
+    "average_time_per_request": 43.87,
+    "files_uploaded": 16,
+    "total_file_size": 458792
+  }
+}

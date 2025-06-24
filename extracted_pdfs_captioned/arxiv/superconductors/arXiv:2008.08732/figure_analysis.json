@@ -1,0 +1,50 @@
+{
+  "paper_id": "742b5c77534bc4418720eec6fa6d5166",
+  "pdf_path": "apl/Superconductors/arXiv:2008.08732.pdf",
+  "processing_timestamp": "2025-06-23T14:32:29.723249",
+  "figure_analysis": {
+    "_page_3_Figure_1.jpeg": {
+      "caption": "Figure 1 (a) presents the density of states (DOS) of the two equivalent Γ<sup>12</sup> electronic bands and (b) the total DOS at the Fermi level under finite lattice distortions compared to its equilibrium values (D0, g0). The x-axis represents lattice distortion (10<sup>3</sup> Å), highlighting variations in DOS due to lattice changes. The inset in (a) details the schematic of Γ<sup>12</sup> bands under varying distortion, while (b) shows two E<sup>u</sup> phonon modes through Nb atoms' lattice vibration along three directions. The findings demonstrate that DOS for Γ<sup>12</sup> bands undergoes a sharp increase leading to a twofold enhancement of critical transition phase T*, doubling the equilibrium Martensitic phase temperature (T<sup>M</sup>). This increase in DOS signifies a novel non-equilibrium phase modulation driven by intense terahertz (THz) fields, allowing exploration of enhanced properties at lower energies.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.08732/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "_page_1_Figure_5.jpeg": {
+      "caption": "Figure 5 (a) illustrates the temperature dependence of THz pump induced change in transmission (ΔETHz) under different excitation conditions, using 5 meV (black circles) and 1.55 eV (red squares) excitations. This plot also marks the Martensitic transition temperatures (T<sup>M</sup> at ~48K and T*<sup>M</sup> for vanishing ΔETHz at ~100K). Unlike the NbN superconductor (with T<sub>c</sub> = 14K, shown in the inset), Nb3Sn demonstrates a clear phase transition signal across both temperature ranges. Subfigure (b) presents the field dependence of ΔETHz at 18K, which shows a significant increase beyond a threshold electric field (Eth) of approximately 130 kV/cm. This distinctive behavior indicates a structural phase transition driven by non-equilibrium dynamics. These results significantly reveal a light-enhanced stability in Martensitic phases and illustrate a unique threshold-dependent phase transition, pivotal for ultrafast optoelectronic applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.08732/images/_page_1_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_5.jpeg"
+    },
+    "_page_2_Figure_4.jpeg": {
+      "caption": "Figure 4 (a) shows integrated spectral weight change (ΔSW) for energy range 2-10 meV under high driving THz excitation fields, at normal state temperatures. The negative shift (ΔSW < 0) captured below an enhanced transition temperature T*<sup>M</sup> suggests spectral component migration to high energy states. (b)-(e) contrast this with real part conductivity spectra σ1(ω) against thermal-equilibrium measurements across multiple temperatures; corresponding σ2(ω) (imaginary part) shown in insets. The temporal dynamics of ΔETHz/E at 620 kV/cm and 18K (f) further exhibit persistent non-equilibrium states lasting up to 1 ns, indicating THz-driven perturbation implications for tuning Martensitic orders. This assortment of measurements substantiates the crucial ability of THz fields to manipulate electronic structures significantly beyond equilibrium, pivotal for controlling phase transitions in advanced materials.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.08732/images/_page_2_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_4.jpeg"
+    },
+    "_page_1_Figure_1.jpeg": {
+      "caption": "Figure 1 (a) illustrates the experimental setup for inducing a Martensitic phase using intense THz pulses. (b) shows the pump-probe THz transmission spectrum covering ~1-10 meV, with significant focus on structural changes with marked shifts denoting the superconducting transition (T<sub>c</sub> = 16K) and THz-induced critical temperature (T*<sup>M</sup> = 100K). (c) provides a 2D color plot of the THz transmission spectra from 4 K to 110 K, with transitions becoming prominent above T<sub>c</sub>. Subfigures (d) and (e) outline transmitted field changes (ΔETHz) across this temperature spectrum. This setup and resultant data showcase THz field's potential to create and study non-equilibrium Martensitic phases, essential for understanding material phase control crucial to future quantum materials applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.08732/images/_page_1_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0555,
+    "api_cost": 0.0555,
+    "file_storage_cost": 0.0,
+    "total_time": 46.3,
+    "request_count": 1,
+    "average_cost_per_request": 0.0555,
+    "average_time_per_request": 46.3,
+    "files_uploaded": 5,
+    "total_file_size": 290830
+  }
+}

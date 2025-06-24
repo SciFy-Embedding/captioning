@@ -1,0 +1,82 @@
+{
+  "paper_id": "bbea9463c6ffc7210262ec4b72d7e3a8",
+  "pdf_path": "apl/Superconductors/arXiv:2104.01267.pdf",
+  "processing_timestamp": "2025-06-23T14:38:15.624683",
+  "figure_analysis": {
+    "_page_3_Figure_1.jpeg": {
+      "caption": "This figure illustrates the surface resistance of Nb3Sn as a function of temperature (T). The black squares represent the BCS surface resistance calculated using the SRIMP model, while the red line is a fit using the equation Rs(T) = 0.001 * e^(49.452/T). The x-axis shows the temperature (T) in Kelvin, ranging from 2 to 20 K, and the y-axis represents the surface resistance in nano-ohms (nΩ), presented on a logarithmic scale from 10^0 to 10^5 nΩ. This graphical representation helps validate the SRIMP calculations with an explicit fitting function used for simulations. The findings emphasize how closely the model fits the calculated data, providing insights into the thermal management capabilities of Nb3Sn, particularly crucial in superconducting applications where precise predictions of surface resistance are necessary for optimizing performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2104.01267/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "_page_7_Figure_1.jpeg": {
+      "caption": "The graph depicts the critical thickness (d) as a function of the applied magnetic field (B) for varying residual surface resistances. The x-axis represents the magnetic field (B) in millitesla (mT) ranging from 50 to 350 mT, while the y-axis shows the critical thickness (d) in micrometers (μm) on a logarithmic scale from 10^0 to 10^4 μm. Different colored markers indicate assumptions of residual resistance values: 1000 nΩ (blue), 100 nΩ (green), 10 nΩ (red), and 1 nΩ (purple). The findings demonstrate that an increase in residual surface resistance leads to a substantial decrease in critical thickness. This phenomenon points to the significant impact of surface resistance on the onset of thermal instabilities in Nb3Sn films, underlining the necessity to manage surface resistance to prevent thermal runaway in superconductor applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2104.01267/images/_page_7_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_1.jpeg"
+    },
+    "_page_6_Figure_2.jpeg": {
+      "caption": "This figure shows simulation results for critical thickness as a function of the applied magnetic field for different helium bath temperatures (2 K, 4 K, 6 K) with a residual surface resistance of 10 nΩ. The x-axis represents the magnetic field (B) in millitesla (mT) and the y-axis shows the critical thickness (d) in micrometers (μm) on a logarithmic scale. The data points for each temperature are highlighted in different colors: 2K (cyan), 4K (red), and 6K (blue). The results indicate that lowering the helium bath temperature can significantly improve the critical thickness, especially at higher fields, suggesting that optimizing cooling conditions can enhance the thermal stability of Nb3Sn films in RF cavities.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2104.01267/images/_page_6_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_2.jpeg"
+    },
+    "_page_1_Figure_3.jpeg": {
+      "caption": "The schematic demonstrates the conceptual model used to simulate thermal runaway in Nb3Sn. It emphasizes the progressive increase in thickness of the Nb3Sn RF layer and illustrates the point at which global thermal runaway occurs—termed as the 'critical thickness.' Denoted in a hypothetical superconductor with an inner RF surface experiencing 50 mT, 1.3 GHz RF field, this setup uses a liquid helium bath for cooling. This model links the concept of thermal management with material thickness, highlighting critical parameters for avoiding thermal instability in superconductors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2104.01267/images/_page_1_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_3.jpeg"
+    },
+    "_page_1_Figure_5.jpeg": {
+      "caption": "This illustration details the HEAT simulation program's mesh used to model defect influence on thermal instability. It places emphasis on a two-dimensional mesh representation, owing to the symmetry of the problem with a focus on the defect—a lossy area causing increased heating—on Nb3Sn surfaces. The model is fundamentally utilized to predict thermal breakdown onset, helping advance our understanding of defect impact on superconductor thermal conductance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2104.01267/images/_page_1_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_5.jpeg"
+    },
+    "_page_5_Figure_4.jpeg": {
+      "caption": "This figure presents the simulated critical thickness for varying thermal conductivities at two helium bath temperatures—2 K and 4 K. The x-axis shows the applied magnetic field (B) in mT, and the y-axis displays the critical thickness (d) in μm on a logarithmic scale. Conductivities are varied by a factor of 0.5, 1, 2, and 3, represented in different marker colors: + (red), ∘ (green), ✕ (blue). The results establish that thermal conductivity significantly influences the critical thickness; enhanced thermal conductivity increases the thickness tolerance up to which thermal stability is maintained. This highlights the direct correlation between thermal conductivity and cooling efficiency in superconductor applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2104.01267/images/_page_5_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_4.jpeg"
+    },
+    "_page_2_Figure_5.jpeg": {
+      "caption": "The plot illustrates the thermal conductivity of Nb3Sn as a function of temperature, based on data from previous studies. The x-axis denotes the temperature in Kelvin (T), and the y-axis measures the thermal conductivity in W/m·K. An associated polynomial fit is used in simulations to fast-track resistance calculations in superconducting RF applications. This analysis is crucial as it characterizes the Nb3Sn’s heat conduction properties, essential for improving RF cavity performance by addressing limits arising from thermal impedance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2104.01267/images/_page_2_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_5.jpeg"
+    },
+    "_page_4_Figure_4.jpeg": {
+      "caption": "The graph examines the critical thickness as a function of magnetic field for varying Kapitza resistances of annealed and unannealed niobium at 2 K with a consistent residual resistance of 10 nΩ. The x-axis reflects the magnetic field (B) in mT, while the y-axis displays the critical thickness (d) in μm, shown in logarithmic scale. Different markers indicate varying Kapitza resistances: annealed (blue) and unannealed (red). It establishes that the Kapitza resistance minimally impacts the thermal breakdown threshold, illustrating that interfaces between the Nb3Sn surface and liquid He barely impede the heat removal process. This informs efforts to fine-tune Nb3Sn films for achieving optimal superconductor performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2104.01267/images/_page_4_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_4.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0415,
+    "api_cost": 0.0415,
+    "file_storage_cost": 0.0,
+    "total_time": 79.86,
+    "request_count": 1,
+    "average_cost_per_request": 0.0415,
+    "average_time_per_request": 79.86,
+    "files_uploaded": 9,
+    "total_file_size": 390182
+  }
+}

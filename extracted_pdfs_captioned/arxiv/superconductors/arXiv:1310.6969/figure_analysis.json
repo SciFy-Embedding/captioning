@@ -1,0 +1,66 @@
+{
+  "paper_id": "c17301270b2237060ad6d02e031ef597",
+  "pdf_path": "apl/Superconductors/arXiv:1310.6969.pdf",
+  "processing_timestamp": "2025-06-23T13:36:30.792174",
+  "figure_analysis": {
+    "_page_5_Figure_2.jpeg": {
+      "caption": "This figure presents the 133Cs NMR (T1T)−1 on the left vertical axis and the shift data on the right vertical axis at a pressure just above the critical pressure pc of approximately 5.1 kbar for a nearly pure A15 Cs3C60 sample. The figure highlights the emergence of bulk superconductivity below about 30K at this pressure. The plots illustrate the transition from magnetic insulating to superconducting ground states, with the absence of structural changes implying that electronic degrees of freedom dominate evolution under pressure. This data is instrumental in understanding electronic property transitions from paramagnetic insulators to paramagnetic metallic states.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6969/images/_page_5_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_2.jpeg"
+    },
+    "_page_4_Figure_6.jpeg": {
+      "caption": "This phase diagram illustrates the critical temperature, Tc, against the unit volume per C60, VC60, for two Cs3C60 isomer phases, alongside pressure scales on the upper axis. The diagram identifies a Mott transition region, marked by a hatched bar, and presents transition data for other known fcc-A3C60 compounds. Shown are the superconducting (SC) and magnetic insulating (MI) phases with MI occurring below 10 K in fcc-Cs3C60. The figure supports findings that superconductivity is closely related to volume and electronic excitations, highlighting the distinctions between structural and electronic phase influences.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6969/images/_page_4_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_6.jpeg"
+    },
+    "_page_5_Figure_8.jpeg": {
+      "caption": "Figure 6 showcases 133Cs (T1T)−1 measurements taken at incremental pressures on the T' site of fcc-Cs3C60. It captures the low T Mott transition around a critical pressure of 3.9 kbar, noting a sharp decrease in (T1T)−1 at the insulator-metal transition and its progression in the metallic state. The figure reveals the system's return to an insulating state at higher temperatures due to lattice expansion. This data underlines the role of electronic interactions in superconductive transitions and the distinct high-temperature behavior of insulating and metallic states.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6969/images/_page_5_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_8.jpeg"
+    },
+    "_page_1_Figure_7.jpeg": {
+      "caption": "This figure displays the variation of the superconducting transition temperature, Tc, with respect to the fcc lattice parameter, altered either by alkali exchange (M /M') or by pressure, causing a decrease in the density of states (DOS) and Tc. The trend indicates distinct Tc behaviors for cubic Pa-3 versus Fm-3m structure samples. This visualization marks a crucial observation in understanding how lattice compression affects superconductivity in fcc-A3C60 compounds.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6969/images/_page_1_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_7.jpeg"
+    },
+    "_page_3_Figure_5.jpeg": {
+      "caption": "The left side of the figure depicts unit cell structures for the A15 and fcc isomeric phases of Cs3C60, while the right side illustrates corresponding 133Cs NMR spectra at 1 bar and 300 K. The spectra reveal phase-specific magnetic properties and highlight distinctions between the phases: the A15 with a single Cs site spectral signature versus the fcc with spectral features typical for all fcc-A3C60 compounds. This differentiation aids in examining phase-specific electronic and structural behaviors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6969/images/_page_3_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_5.jpeg"
+    },
+    "_page_4_Figure_2.jpeg": {
+      "caption": "This figure illustrates paramagnetic behavior as detected by SQUID measurements matched against the anisotropic shift Kax from 13C NMR for two Cs3C60 isomeric phases, demonstrating similarities at temperatures above 100 K. The effective magnetic moment aligns with low spin states resulting from Jahn-Teller stabilization, rendering insights into the distinct magnetic ground states for each phase. Key phase transitions, such as the Néel order emergence below 47 K in the A15 phase, are clearly marked.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6969/images/_page_4_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_2.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0577,
+    "api_cost": 0.0577,
+    "file_storage_cost": 0.0,
+    "total_time": 47.41,
+    "request_count": 1,
+    "average_cost_per_request": 0.0577,
+    "average_time_per_request": 47.41,
+    "files_uploaded": 7,
+    "total_file_size": 205728
+  }
+}

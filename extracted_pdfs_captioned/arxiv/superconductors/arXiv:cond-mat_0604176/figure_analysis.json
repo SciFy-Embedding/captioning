@@ -1,0 +1,74 @@
+{
+  "paper_id": "60e4958c084f777c2a5a2f31a8cc0eec",
+  "pdf_path": "apl/Superconductors/arXiv:cond-mat_0604176.pdf",
+  "processing_timestamp": "2025-06-23T15:45:26.290995",
+  "figure_analysis": {
+    "0__page_9_Figure_0.jpeg": {
+      "caption": "Figure 3: This figure displays the specific heat C of the superconductor Nb3Sn as a function of magnetic field μ₀H at various temperatures between 11 K and 17.7 K. The main graph shows C increasing sharply near the transition fields, indicating the transition to the normal state, with jumps becoming broader at higher fields. An inset graph compares the superconducting contribution C_SC to the specific heat with the reversible part of the isothermal magnetocaloric coefficient M_T^rev, highlighting the close relationship between these two thermodynamic quantities. The lambda anomaly observed just below the jump at H_c2 suggests the presence of a vortex liquid phase due to thermal fluctuations, emphasizing thermal disorder's role in altering vortex phase stability .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0604176/images/0__page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_0.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "Figure 5: The graph contrasts the isothermal magnetocaloric coefficient M_T* against magnetic field μ₀H at T=13.5 K, illustrating significant differences between data sets that employ 'vortex shaking' and those that do not. Vortex shaking, achieved through adding a small AC field, markedly alters the behavior near H_c2 by eliminating the hysteresis loop evident when no shaking is applied, replaced by a pronounced spike reflective of a latent heat signature associated with a first-order vortex melting transition. This observation directly correlates with previously known first-order vortex transitions in other superconductors .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0604176/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_7_Figure_0.jpeg": {
+      "caption": "Figure 1: Magnetization M versus magnetic field μ₀H for various temperatures below T_c of Nb3Sn is presented. The graph reveals both reversible and irreversible contributions to M, with distinct peaks (peak effect) occurring as temperatures decrease. At T < 15 K, a hysteresis below H_c2 signifies the peak effect tied to maximum critical current densities J_C. There is symmetry between ascending and descending curves, attributed to thermodynamic and irreversible contributions from vortex pinning and dynamics .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0604176/images/0__page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_0.jpeg"
+    },
+    "0__page_10_Figure_2.jpeg": {
+      "caption": "Figure 6: This phase diagram incorporates several critical fields in the analysis of vortex states in Nb3Sn, such as H_P (peak effect maximum), H_l (lambda anomaly maximum), and H_m (vortex melting transitions). The data derived from multiple methodologies, including magnetization and magnetocaloric measurements, map out transitions within the superconductor, such as the peak effect to vortex melting, underscoring the impact of thermal fluctuations on vortex phase dynamics .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0604176/images/0__page_10_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_2.jpeg"
+    },
+    "0__page_10_Figure_3.jpeg": {
+      "caption": "Figure 5: The inset of this figure exhibits the magnetocaloric coefficient M_T recorded under the influence of a minor AC field, superimposed on the DC field at T=13.5 K. The AC field markedly changes the coefficient's behavior around H_c2 compared to original non-AC field data, suggesting the presence of a first-order phase transition vortex melting, theorized to create a latent heat spike. These observations imply that while irreversible loops mark peak effects, the reversible characteristic spike indicates thermodynamic origins .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0604176/images/0__page_10_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_3.jpeg"
+    },
+    "0__page_9_Figure_2.jpeg": {
+      "caption": "Figure 4: This figure juxtaposes magnetization M, isothermal magnetocaloric coefficient M_T (inverted), and specific heat C for T=13.5 K measured concurrently. Notable is the feature that M_T and M reach maximum at the onset of a fluctuation anomaly at H_l, related to vortex liquid formation. The results align peak effects with the onset of enhanced thermal fluctuations that destabilize magnetic field properties, explaining flux-line lattice softening .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0604176/images/0__page_9_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_2.jpeg"
+    },
+    "0__page_8_Figure_0.jpeg": {
+      "caption": "Figure 2: Panel a) depicts the isothermal magnetocaloric coefficient M_T as a function of magnetic field μ₀H at various temperatures, confirming reversible and irreversible interactions within vortex matters. Panel b) delineates disparities by separating these contributions, indicating MT_irr for fields affected by dynamical vortex interactions and flux pinning. Together, these demonstrate the role of friction and thermal forces in shaping the vortex matter behavior across varied conditions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0604176/images/0__page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0592,
+    "api_cost": 0.0592,
+    "file_storage_cost": 0.0,
+    "total_time": 59.61,
+    "request_count": 1,
+    "average_cost_per_request": 0.0592,
+    "average_time_per_request": 59.61,
+    "files_uploaded": 8,
+    "total_file_size": 594669
+  }
+}

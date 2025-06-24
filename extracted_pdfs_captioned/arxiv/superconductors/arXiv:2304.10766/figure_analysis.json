@@ -1,0 +1,50 @@
+{
+  "paper_id": "d51ad83552d2e2e41981b4b8597e5eea",
+  "pdf_path": "apl/Superconductors/arXiv:2304.10766.pdf",
+  "processing_timestamp": "2025-06-23T15:00:58.897619",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "Figure 2 displays a series of dI/dV spectra, depicting the superconducting properties of the V3Si (111) surface under various conditions. (a) Illustrates a typical large scale dI/dV spectrum on the V3Si surface. (b) Shows the superconducting gap spectrum with a U-shaped structure and coherence peaks at ±1.36 meV and ±1.90 meV, revealing a multi-band superconductivity characteristic in V3Si. Both single-gap and two-band fitting curves are presented, emphasizing the two-band model's alignment with the experimental data. (c) Demonstrates temperature-dependent changes, with the gap disappearing near 16K, suggesting weaker surface superconductivity or a hidden larger gap not detected here. (d) Compares defect and defect-free spectra, showing no in-gap bound states on defects. (e) Depicts the spectrum over Mn adatoms, illustrating in-gap states which support s-wave pairing due to magnetic impurity effects.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2304.10766/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "_page_2_Figure_3.jpeg": {
+      "caption": "Figure 1 provides a structural analysis of the V3Si (111) surface using Scanning Tunneling Microscopy (STM). The atomic arrangement is described with the V3Si cubic structure shown from several perspectives: (a) The cubic structure with Si as the central atom and V atoms forming a trimer lattice. (b) Side view of the (111) surface showing V and Si planes. (c) Introduces the reconstructed V-terminated surface observed as a √3×√3 R30° superstructure, indicative of V-atom density reduction and surface reconstruction. (d-f) Present topographical data showing STM images at various scales, illustrating uniform height terraces with a V-terminated surface. Defect sites, identified as vacancies or adatoms, are highlighted without significantly impacting the observed superconducting properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2304.10766/images/_page_2_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_3.jpeg"
+    },
+    "_page_7_Figure_0.jpeg": {
+      "caption": "Figure 4 details the effects of external magnetic fields on the superconducting vortices in V3Si. (a) Displays dI/dV spectra across a vortex core, showing suppressed superconducting gaps at core centers. (b) Shows field-dependent changes in superconducting spectra, including emerging double-gap features at higher fields, aligning with multi-band superconductivity theories. (c) Plots vortex core FWHM versus magnetic field strength, showing strong field-dependence consistent with interference from a larger 'hidden' gap influencing vortex overlap. (d) Compares experimental zero-bias conductance (ZBC) with simulations, validating field-induced effects are tied to surface characteristics and hidden band interactions. (e) Provides simulated vortex lattices for variable fields, aligning with experimental FWHM findings at lower fields.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2304.10766/images/_page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_0.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "Figure 3 engages with vortex imaging on the V3Si (111) surface under various magnetic fields. (a-g) Zero-bias conductance maps visually capture the transition to hexagonal vortex patterns from 0.5T to 10T, indicating typical superconducting vortex arrangements affected by increased magnetic fields. (h) Presents vortex core line profiles with their FWHM fitted using theoretical models, establishing coherence length greater than bulk measurements, a characteristic indicating extended superconducting states possibly due to underlying band interactions not visible in surface tunneling spectra.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2304.10766/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0573,
+    "api_cost": 0.0573,
+    "file_storage_cost": 0.0,
+    "total_time": 41.21,
+    "request_count": 1,
+    "average_cost_per_request": 0.0573,
+    "average_time_per_request": 41.21,
+    "files_uploaded": 5,
+    "total_file_size": 389600
+  }
+}

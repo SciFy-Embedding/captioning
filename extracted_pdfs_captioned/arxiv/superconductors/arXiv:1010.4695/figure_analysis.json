@@ -1,0 +1,58 @@
+{
+  "paper_id": "64c4b615d5378eeab2c71bad30199240",
+  "pdf_path": "apl/Superconductors/arXiv:1010.4695.pdf",
+  "processing_timestamp": "2025-06-23T13:22:29.231479",
+  "figure_analysis": {
+    "_page_2_Figure_3.jpeg": {
+      "caption": "FIG. 4. (a) Field-cooled magnetization vs. temperature measured at different magnetic fields in a BaK-122 crystal shows that the magnetic moment becomes increasingly negative at higher fields except near Tc. This behavior indicates the presence of superconductivity as the diamagnetic response is near expected values at and below transition. (b) Comparison of the MZFC and MFC at 5 K with magnetization above Tc shows the extent of superconductivity, with deviations from weak paramagnetic response above Tc affirming this state. Inset data for 20 K highlights stronger effects than at 5 K. These observations in BaK-122 are consistent with prior studies on FeCo-122 and mark a departure from traditional type-II superconductor behavior, providing insight into the unique characteristics of pnictide superconductors. The study highlights both the applied field and temperature dependencies of the superconducting state, illustrating that the field-cooled effect is intrinsically tied to these conditions【4:1†temp_paper_64c4b615d5378eeab2c71bad30199240.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1010.4695/images/_page_2_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_3.jpeg"
+    },
+    "_page_1_Figure_6.jpeg": {
+      "caption": "FIG. 2. Magnetization measurement in a FeCo-122 crystal at 5 K and 15 K showing field-cooled magnetization (MFC) compared to zero-field-cooled magnetization divided by 40 (MZFC/40), as the field sweeps up to 5.5 T. This comparison underscores a unique increase in negative amplitude as a function of field strength, distinct from conventional type-II superconductors. This behavior is observed consistently as the magnetic moment becomes progressively more negative, contrary to expectations of decreased magnitude. The findings suggest novel magnetic interactions in Fe-based superconductors due to field-induced effects related to the superconducting state【4:6†temp_paper_64c4b615d5378eeab2c71bad30199240.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1010.4695/images/_page_1_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_6.jpeg"
+    },
+    "_page_2_Figure_7.jpeg": {
+      "caption": "FIG. 5. This figure presents the magnetic susceptibility, 4πχ calculated as M/(VH), across a range of temperatures in a BaK-122 crystal. It shows measurements below Tc (at 5 K and 20 K) and above Tc (at 40 K). Notably, the susceptibility remains small, negative, and almost field-independent at lower temperatures, affirming the robust nature of the superconducting state. A particular data point for T = 5 K and H = 350 Oe illustrates an exceptionally low susceptibility of -0.013, far from the ideal -1, suggesting the presence of underlying superconducting features not accounted for by typical paramagnetic or conventional model predictions【4:4†temp_paper_64c4b615d5378eeab2c71bad30199240.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1010.4695/images/_page_2_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_7.jpeg"
+    },
+    "_page_1_Figure_1.jpeg": {
+      "caption": "FIG. 1. Magnetic moment measured following two protocols in conventional type-II superconductors: noble metal V3Si and intermetallic compound LuNi2B2C. (a) Field-cooled magnetization (MFC) for V3Si, and (b) for LuNi2B2C, both show a marked increase in vortex density above a characteristic field (Hp), as indicated by a drop in both ZFC and FC magnetic moments. The experimental setup ensured field alignment along the ab-plane to reduce demagnetization, with notable scaling factors applied for clarity: a factor of 20 in V3Si and 10 in LuNi2B2C. The data serve as baseline classics of type-II superconductivity in non-magnetic systems, ensuring a comparative framework for the study's focus on pnictide superconductivity【4:5†temp_paper_64c4b615d5378eeab2c71bad30199240.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1010.4695/images/_page_1_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_1.jpeg"
+    },
+    "_page_2_Figure_1.jpeg": {
+      "caption": "FIG. 3. (a) Magnetization upon field-cooling at variable magnetic fields (350 Oe to 7 T) against temperature for FeCo-122 reveals enhanced negative MFC values rising with field intensity, except near Tc. Major deviations from typical type-II behavior are emphasized. (b) Presents comparison between MZFC and MFC at 5 K against magnetization curve above Tc, where MFC becomes notably negative in magnitude as opposed to the expected weak paramagnetic response. These observations point towards unique superconducting dynamics in iron-based pnictides, potentially influenced by intrinsic magnetic scatterer effects and field-induced phenomena. The distinct separation of normal and superconducting responses highlights fundamental differences that illuminate the robust nature of pnictide superconductivity, offering new insights rare in classic superconductors【4:0†temp_paper_64c4b615d5378eeab2c71bad30199240.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1010.4695/images/_page_2_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0523,
+    "api_cost": 0.0523,
+    "file_storage_cost": 0.0,
+    "total_time": 35.73,
+    "request_count": 1,
+    "average_cost_per_request": 0.0523,
+    "average_time_per_request": 35.73,
+    "files_uploaded": 6,
+    "total_file_size": 208882
+  }
+}

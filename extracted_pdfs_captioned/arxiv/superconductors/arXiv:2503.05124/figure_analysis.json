@@ -1,0 +1,74 @@
+{
+  "paper_id": "335cd463158b2f91cbbb2ee43842c0d6",
+  "pdf_path": "apl/Superconductors/arXiv:2503.05124.pdf",
+  "processing_timestamp": "2025-06-23T15:29:13.515472",
+  "figure_analysis": {
+    "_page_3_Figure_0.jpeg": {
+      "caption": "This figure presents the Rutherford Backscattering Spectrometry (RBS) spectra of a vanadium film deposited on a silicon dioxide/silicon substrate (V/SiO2/Si) in its as-deposited state. The x-axis represents the channel number, which corresponds to energy, while the y-axis shows the normalized yield of backscattered ions detected by the spectrometer. The experimental data are shown as black triangles, while the red line represents the simulated RBS spectrum. The spectra components signify the Si, O/SiO2, and V layers, with 'O/SiO2' indicating oxygen from the silicon dioxide layer. Key observations include strong alignment between experimental and simulated data, confirming the Si, SiO2, and V layer thicknesses. This analysis provides a foundational understanding of the unreacted state of the V film, crucial for further studies on the transformation into superconducting V3Si films during annealing .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2503.05124/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "_page_3_Figure_6.jpeg": {
+      "caption": "This RBS spectra diagram illustrates the sample composition following thermal annealing at 750°C, exhibiting the transformation into layers of VOx and V3Si. The detected signals include Si, SiO2, V3Si, and VOx. The x-axis represents the energy in channels, while the y-axis shows normalized yield. Data arrangement and peaks indicate the V3Si layer's formation (63 nm thick) beneath a 280 nm thick VOx layer, signifying the phase transformation enabled by heat treatment. This spectral analysis is integral to confirming the multilayer structure, where annealing leads to elemental diffusion and compound formation, critical for developing vanadium silicide superconducting devices .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2503.05124/images/_page_3_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_6.jpeg"
+    },
+    "_page_3_Figure_5.jpeg": {
+      "caption": "The figure displays RBS spectra post 800°C anneal of V/SiO2/Si samples, showcasing further thickness increase in the VOx (up to 313 nm) and V3Si (74 nm) layers, a result of more extensive oxidation and silicide formation. The experimental data (black) and simulation (red) demonstrate agreement, except near the surface due to VOx irregularities, signifying complex depth-dependent kinetics. This deeper analysis reveals how higher annealing temperatures support silicide growth by accelerating SiO2 decomposition and diffusion processes, vital for understanding scalable production techniques of superconducting films .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2503.05124/images/_page_3_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_5.jpeg"
+    },
+    "_page_3_Figure_8.jpeg": {
+      "caption": "This graph compares RBS spectral data for both as-deposited and 750°C annealed samples. The x-axis represents the energy channels, the y-axis the yield. It highlights changes in vanadium (V), silicon (Si), and oxygen (O) yields post-anneal, characterized by vanishing prominent V and Si signals, indicative of V3Si and VOx formation. Such spectral shifts reflect compositional changes through V diffusion and SiO2 reduction, confirming the annealing impact on the film's phase and structural development, offering insights for optimizing similar superconductor manufacture .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2503.05124/images/_page_3_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_8.jpeg"
+    },
+    "_page_3_Figure_3.jpeg": {
+      "caption": "This RBS figure shows experimental (black) and simulated (red) spectra for a sample post-anneal at 750°C, with energy (channels) on the x-axis and normalized yield on the y-axis. The spectra clearly illustrate the structural layers: SiO2, V3Si, and VOx. A 170 nm reduced SiO2 and a 63 nm V3Si under a 280 nm VOx surface attest to annealing's role in restructuring, critical to the multilayer stack's evolution, related directly to potential superconducting properties in electronics .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2503.05124/images/_page_3_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_3.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Illustrative of the V3Si film production process, this diagram outlines sequential steps: (a) Si wafer preparation, (b) growth of SiO2 layer on Si, (c) vanadium deposition, and (d) sample annealing. Additionally, it provides a schematic of the high-vacuum annealing setup equipped with a pyrometer for temperature control, vital for inducing V3Si phase transformation through carefully managed thermal conditions. This configuration supports accurate thin-film synthesis critical for achieving desirable superconducting characteristics .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2503.05124/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    },
+    "_page_5_Figure_0.jpeg": {
+      "caption": "This multi-part figure details results around the annealed sample at 800°C: (a) shows resistance vs. temperature highlighting the superconducting transition; (b) an optical micrograph distinguishes etched/unetched regions; (c-e) comparative RBS analysis of etched/unetched regions; (f) profilometer etching rate measurements depict 34.51 ± 0.39 nm/min rate. These analyses demonstrate that controlled etching exposes V3Si by reducing obstructing VOx, an indispensable process for tailoring materials for superconducting device fabrication【4:15†temp_paper_335cd463158b2f91cbbb2ee43842c0d6.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2503.05124/images/_page_5_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0643,
+    "api_cost": 0.0643,
+    "file_storage_cost": 0.0,
+    "total_time": 94.26,
+    "request_count": 1,
+    "average_cost_per_request": 0.0643,
+    "average_time_per_request": 94.26,
+    "files_uploaded": 8,
+    "total_file_size": 424167
+  }
+}

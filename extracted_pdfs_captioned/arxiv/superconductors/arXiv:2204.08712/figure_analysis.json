@@ -1,0 +1,122 @@
+{
+  "paper_id": "7429ca07817284a5783a577caf389d13",
+  "pdf_path": "apl/Superconductors/arXiv:2204.08712.pdf",
+  "processing_timestamp": "2025-06-23T14:51:15.632124",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "Figure 1. This panel showcases the electronic density of states (DOS) maps for Nb3X compounds, specifically Nb3Pt, Nb3Au, Nb3Al, and Nb3Ge, under two bias conditions: 0.1 V and -0.1 V. The images present a generic band structure in the energy range of [-5,5] eV, emphasizing the impact of various atomic elements on the crystal orbitals interacting near the Fermi level (EF). The figure illustrates the density of states with red lines emphasizing the top and bottom portions of the d+ and d- bundles. The sum-over-states in the range EF±0.1 eV highlights the superimposed orbital characteristics at EF, crucial for understanding superconducting properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.08712/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "_page_3_Figure_1.jpeg": {
+      "caption": "Figure 2. Band structures and correlation with superconducting critical temperatures (TC) for the Nb3X and V3X systems. The left panel displays the electronic band structure calculated for these compounds, crossing the Fermi level and indicating potential paths for superconductivity through high DOS at EF. The right panel provides a visual correlation of individual band energies against the Pearson correlation coefficients and other descriptors derived through machine learning algorithms, used to predict TC. This figure showcases the approach to correlating band structures directly with the superconducting characteristics, validating the application of Kohn-Sham DFT calculations in such predictions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.08712/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "1__page_17_Figure_0.jpeg": {
+      "caption": "Figure S6. Presents the leave-one-out cross-validation (LOOCV) results for training on the {Nb3X} subset on predicting TC in the {V3X} and ternary A6XY subsets. Different binarized DOS features are shown with different mean filtering kernel sizes (H=1 to H=13). Each plot visualizes line of equality and cross-validated predictions specifically indicating MAE and RMSE performance metrics, thereby assessing how well models trained on the Nb3X compounds forecast superconducting temperatures for different sets .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.08712/images/1__page_17_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_17_Figure_0.jpeg"
+    },
+    "1__page_14_Figure_0.jpeg": {
+      "caption": "Figure S2. Displays the impacts of feature filtering on TC prediction using LOOCV from the all-binaries subset. The method filters electronic density of states based on Pearson correlation threshold across different bandwidths. Rows illustrate the effects of removing uncorrelated features on predicting TC, presented in series from top to bottom, with each column showing varying kernel sizes of filtering from H=1 to H=13. This enhances predictions by having models focus only on highly correlated electronic features .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.08712/images/1__page_14_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_14_Figure_0.jpeg"
+    },
+    "0__page_7_Figure_0.jpeg": {
+      "caption": "Figure 3. Displays Pearson correlation maps for DOS bin features in the twin superconducting systems {Nb3X} and {V3X}. The maps are integral in identifying DOS features (shown in black) across several thresholds of correlation significance which heavily influence the model's predictive capability. Some band gaps/electronic states are highlighted with red to show when fewer features fulfill the correlation criterion. These maps assist in identifying critical electronic components for machine learning models to predict superconducting trends and ensure the fidelity of such predictions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.08712/images/0__page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_0.jpeg"
+    },
+    "1__page_19_Figure_0.jpeg": {
+      "caption": "Figure S7. Presents cross-validation of models trained on the {V3X} subset to predict the superconducting TC of {Nb3X} and A6XY compounds. This figure uses Pearson correlation-based features, filtered for significance and processed with kernel size variation. The consistent alignment of predicted versus measured TC across different filtering parameters interprets the underlying feature similarities between datasets used, showcasing mutual predictive capabilities between the two subsets .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.08712/images/1__page_19_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_19_Figure_0.jpeg"
+    },
+    "0__page_13_Figure_0.jpeg": {
+      "caption": "Figure S1. This set of heatmaps illustrates the Pearson correlation coefficient, Mean Absolute Error (MAE), and Root Mean Square Error (RMSE) for predictions made using regression models trained on the binary subsets and applied to other subsets. Each square represents the predictive accuracy and consistency under varying conditions and emphasizes the effectiveness of model training tailored to dataset-specific features .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.08712/images/0__page_13_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_0.jpeg"
+    },
+    "1__page_20_Figure_0.jpeg": {
+      "caption": "Figure S8. Shows the contribution of each DOS bin to the Pearson correlation coefficient between electronic features and TC predictions for different classes of models, differentiated by filtering kernel size. The map uses color gradients to indicate absolute correlation, guiding machine learning processes in selecting relevant electronic structure features from corrrelations spread over different energy bands, integral for model training and subsequent superconductivity predictive accuracy [4:8†source].",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.08712/images/1__page_20_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_0.jpeg"
+    },
+    "1__page_18_Figure_0.jpeg": {
+      "caption": "Figure 3 displays detailed analyses of predictive models trained on {Nb3X} and their application to {V3X}. In each sub-panel, Tpred is plotted against Texp, with mean absolute error (MAE) as a key indicator of model validation. Blue and red markers represent different filtering conditions, while scatter indicates successful predictive power when these models extend to distinct superconducting families.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.08712/images/1__page_18_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Figure_0.jpeg"
+    },
+    "1__page_15_Figure_0.jpeg": {
+      "caption": "Figure S3. This figure demonstrates the leave-one-out cross-validation (LOOCV) for Nb3X subset prediction of superconducting critical temperatures (TC). Displays are organized by increasing kernel sizes (H=1 to H=13) to observe the effects of mean filtering on k-resolved density of states (kDOS) features. Each subplot shows the predicted versus experimental TC with error metrics indicated. The kernel size dictates the smoothening effect applied to feature extraction, crucial for understanding model predictive accuracy from single-excluded training tests in Nb-based superconductors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.08712/images/1__page_15_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_15_Figure_0.jpeg"
+    },
+    "_page_6_Figure_1.jpeg": {
+      "caption": "Figure 2. Illustrates the impact of mean filtering on the k-resolved density of states (kDOS) for Nb3Al, with kernel sizes ranging from H=1 to H=13. The mean filtering highlights how increasing kernel size affects the electronic states visibility on the kDOS map through visible color differentiation. Specifically, the filtering progressively reveals more coherence in electronic states, simulating better model understanding by smoothing out noise from the discrete k-space samples, critical for refining superconducting feature detection.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.08712/images/_page_6_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_1.jpeg"
+    },
+    "1__page_16_Figure_0.jpeg": {
+      "caption": "Figure S4. Represents LOOCV results for the V3X subset, assessing prediction capability of TC using models trained on various kernel filtering techniques for kDOS features. Different subplots show correlation between predicted and experimental TCs under mean-smoothed conditions (H=1 to H=13). These calibrations evidence how feature smoothening improves model precision on unseen data, valuable for measuring reliability across V-based compounds. Error margins are quantitatively depicted with MAE and RMSE values.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.08712/images/1__page_16_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_16_Figure_0.jpeg"
+    },
+    "0__page_8_Figure_0.jpeg": {
+      "caption": "Figure 4. Summarizes regression analysis, depicting model performance influenced by feature correlation thresholds and mean filtering impact. Panels (a-c) focus on LOOCV predictors within subsets, while (d-f) display trained models on a subset tested against additional classes (testing on rest). Each graphic highlights different binarized filtering levels, showing substantial accuracy gains when relevant features (|ρ| > 0.8) are matched with optimal kernel size. This comprehensive view underscores the efficacy of kernel-aided processing in cross-class predictive environments.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.08712/images/0__page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.125,
+    "api_cost": 0.125,
+    "file_storage_cost": 0.0,
+    "total_time": 125.11,
+    "request_count": 2,
+    "average_cost_per_request": 0.0625,
+    "average_time_per_request": 62.55,
+    "files_uploaded": 14,
+    "total_file_size": 2209263
+  }
+}

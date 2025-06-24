@@ -1,0 +1,298 @@
+{
+  "paper_id": "91da227359c679ba7286f5b8b838a334",
+  "pdf_path": "apl/Superconductors/arXiv:2302.07201.pdf",
+  "processing_timestamp": "2025-06-23T15:01:52.698359",
+  "figure_analysis": {
+    "_page_8_Picture_5.jpeg": {
+      "caption": "This figure (a) shows the fabrication of a Cu structure on an outer cavity surface using a cold-spray technique, (b) depicts the fitting of the equator ring on the Cu layer after the first electroplating and machining step, and (c) captures the final machining of the assembly. These processes are integral to constructing a superconducting radio-frequency (SRF) cavity enhanced with a copper outer layer that provides improved mechanical stability and thermal conductivity, crucial for minimizing RF losses and ensuring effective cooling in SRF applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/_page_8_Picture_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Picture_5.jpeg"
+    },
+    "_page_6_Figure_2.jpeg": {
+      "caption": "Figure shows (a) the temperature dependence of the maximum and average equivalent von Mises stress in the Nb3Sn layer of a prototype cavity with an outer Cu structure. (b) Displayed is the equivalent strain at 4 K. This figure helps illustrate the mechanical stress distribution and strain characteristics in the cavity under operating conditions, highlighting the stress resilience of the Nb3Sn thin film and copper layer under thermal variations and contributing to its RF performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/_page_6_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_2.jpeg"
+    },
+    "0__page_15_Figure_4.jpeg": {
+      "caption": "This figure displays variations of the ambient magnetic field, Ba, at different equator ring locations along three orthogonal directions versus the temperature difference, TBT1 − Tavg, as a function of RF power, Prf. It sheds light on the field distribution during cooling cycles, particularly during the high-power RF test after the first cool-down, and underscores the challenge of managing magnetic fields in ensuring efficient cooling and RF performance in SRF cavities .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/0__page_15_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_4.jpeg"
+    },
+    "0__page_16_Figure_9.jpeg": {
+      "caption": "This figure illustrates the FFT magnitude of vertical accelerations measured (a) on the HTC support cart and (b) on top of CCR1, with an accelerometer highlighted in the red circle in inset photos. This data is crucial for understanding vibrational impacts, or microphonics, affecting the SRF cavity in operation, which can induce frequency shifts and affect the cavity's RF stability .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/0__page_16_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_16_Figure_9.jpeg"
+    },
+    "0__page_12_Picture_6.jpeg": {
+      "caption": "This figure shows the installation of the SRF cavity within a testing environment equipped with an extensive wiring setup. The copper structure of the cavity, circled, demonstrates the setup's complexity involved in monitoring and controlling the cavity's thermal and RF characteristics during experimental evaluations.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/0__page_12_Picture_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Picture_6.jpeg"
+    },
+    "0__page_14_Figure_7.jpeg": {
+      "caption": "This figure plots Q0, the intrinsic quality factor, as a function of Rf field for the conduction-cooled prototype cavity. Measurements were taken after the second cool-down for varying levels of applied DC heat using HTR 6. This highlights how thermal instability limits cavity performance and demonstrates the impact of thermal and RF management strategies on cavity stability .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/0__page_14_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_7.jpeg"
+    },
+    "0__page_15_Figure_8.jpeg": {
+      "caption": "This figure charts total thermal conductance as a function of temperature between the cavity and Cryocooler CCRs 2 and 3, displaying data from high-power RF tests post-second cool-down. It illustrates the thermal optimisation required for effective RF heat management in advanced RF systems to ensure stable operation under varying thermal conditions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/0__page_15_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_8.jpeg"
+    },
+    "_page_4_Figure_1.jpeg": {
+      "caption": "This figure shows the setup layout for measurement of Q0, the cavity's intrinsic quality factor, with variations according to differing cool-down conditions. This highlights the influence of ambient magnetic fields resulting from cooling cycles, especially on achieving the thermal stability required for efficient superconducting performance .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/_page_4_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_1.jpeg"
+    },
+    "0__page_12_Figure_2.jpeg": {
+      "caption": "This figure depicts the SRF cavity configuration with various components labeled, focusing on the positioning of RTDs, heaters, and fundamental power couplers. This schematic significantly aids in understanding the thermal and magnetic management in cavity design, essential for experimental precision and optimization in superconducting settings.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/0__page_12_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_2.jpeg"
+    },
+    "0__page_10_Picture_6.jpeg": {
+      "caption": "The figure shows a copper component used in superconducting radio-frequency (SRF) cavities, specifically spotlighting the prepared shape of copper used to enhance mechanical stability and improve thermal conductivity. This structural enhancement plays a crucial role in supporting the superconductive performance and overall integrity of the SRF cavity by reducing thermal gradients and RF losses during operation.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/0__page_10_Picture_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Picture_6.jpeg"
+    },
+    "_page_4_Figure_6.jpeg": {
+      "caption": "This figure displays the temperature distribution across a prototype SRF cavity at operating conditions calculated using Ansys for a magnetic field of B<sup>p</sup> = 47 mT at a radio frequency (RF) heat load of 16.9 W. The temperature map uses a color gradient scale, illustrating areas most susceptible to heat loading, which are key to identifying regions that may benefit from additional upgrades to thermal management systems.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/_page_4_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_6.jpeg"
+    },
+    "_page_3_Figure_7.jpeg": {
+      "caption": "This figure presents the correlation between heat load variations applied to stage 2 and the corresponding stage 2 temperature changes. It includes conditions of applying external heat loads of 5 W and 55 W on stage 1. These performance measurements are vital to understanding the efficiency of thermal management systems used in conduction-cooled SRF applications and determining critical operational limits to prevent thermal instability.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/_page_3_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_7.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "This figure provides an analysis of frequency shift (Δf/f) and relative length change (ΔL/L) against temperature (T), crucial for assessing the thermal crest behavior of the SRF cavity materials. These data help in understanding intrinsic material responses to temperature fluctuations which impact RF performance and cavity stability.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_14_Figure_1.jpeg": {
+      "caption": "The figure depicts intrinsic quality factor Q<sub>0</sub> as a function of accelerating electric field E<sub>acc</sub> for a prototype conduction-cooled SRF cavity. The data spans various cool-down conditions, indicating cavity performance variance due to thermal stability. Insights from this analysis help optimize cooling strategies to maintain RF efficiency.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/0__page_14_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_1.jpeg"
+    },
+    "0__page_13_Figure_0.jpeg": {
+      "caption": "Average temperature and ambient magnetic field development during the initial cavity cool-down phase are displayed here. This figure is pivotal for understanding the thermal behavior and ambient magnetic field interactions during early cooling which significantly influence residual resistance and quality performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/0__page_13_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_0.jpeg"
+    },
+    "_page_3_Figure_6.jpeg": {
+      "caption": "This caption highlights the results from frequency spectrum analysis using Fast Fourier Transform (FFT) showing vertical acceleration impacts on the cavity. Vibration analysis from both the HTC support cart and CCR1 peak frequency data elucidates microphonic influence on cavity operation which can lead to detuning and frequency shifts.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/_page_3_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_6.jpeg"
+    },
+    "0__page_16_Figure_3.jpeg": {
+      "caption": "Figure illustrates changes in surface resistance normalized to a reference temperature (15 K) across a temperature range of 14.5 K to 19.5 K under differing conditions before and after Cu structure deposition. Such analysis helps identify shifts in superconducting transition and material properties crucial for SRF cavity performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/0__page_16_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_16_Figure_3.jpeg"
+    },
+    "0__page_9_Figure_7.jpeg": {
+      "caption": "This figure shows the impact of superconducting Nb3Sn thin film on surface resistance (R<sub>s</sub>) as temperature varies. This data indicates material behavior in temperature transition phases and is essential for evaluating potential performance enhancements through Cu outer layer deposition and RF conditioning.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/0__page_9_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_7.jpeg"
+    },
+    "1__page_18_Figure_0.jpeg": {
+      "caption": "The figure presents surface resistance R<sub>s</sub> as a function of peak magnetic field B<sub>p</sub> for Nb/Nb3Sn and Cu/Nb/Nb3Sn cavities cooled with liquid helium (LHe) and conduction-cooled using cryocoolers (CCRs). The graph includes data fits comparing measurements with empirical models to determine the surface resistance contributions from Cu layers during RF operations. This evaluation highlights the increased surface resistance with rising B<sub>p</sub>, pointing out the thermal feedback effects introduced by the Cu outer layer.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/1__page_18_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Figure_0.jpeg"
+    },
+    "0__page_15_Figure_1.jpeg": {
+      "caption": "This figure shows average temperature T<sub>avg</sub> and ambient magnetic field B<sub>a</sub> along three orthogonal directions at the cavity equator during the third cool-down period. The temperature control was dictated by power adjustments to heaters. This critical control data helps elucidate the effects of magnetic fields and temperature gradients on cavity stability and RF performance during cooldown processes .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/0__page_15_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_1.jpeg"
+    },
+    "0__page_10_Figure_2.jpeg": {
+      "caption": "Displayed is the normalized surface resistance, R<sub>s</sub>(T)/R<sub>s</sub>(15 K), measured within the temperature range of 14.5 K to 19.5 K, both before and after the Cu structure was deposited on the outer cavity surface. The data suggests a shift in the superconducting transition, connected to thermal and structural changes imparted by the Cu outer layer.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/0__page_10_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_2.jpeg"
+    },
+    "0__page_14_Figure_3.jpeg": {
+      "caption": "This figure presents T<sub>avg</sub> and B<sub>a</sub> during the second cool-down, showing how the ambient magnetic field varied with temperature as the cryocoolers were cycled on and off. Insights from this figure are essential to understand the role of temperature dynamics and external magnetic fields in optimizing cavity cool-down processes .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/0__page_14_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_3.jpeg"
+    },
+    "_page_8_Figure_0.jpeg": {
+      "caption": "The figure illustrates results from RF tests on a prototype Nb3Sn-coated cavity in liquid helium (4.3 K). It shows Q<sub>0</sub> as a function of the RF field (MP). Highlights of this test include no detectable x-ray emissions and less pressure sensitivity (df/dP) compared to a cavity without the Cu structure, shedding light on enhanced performance upon Cu application .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/_page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_0.jpeg"
+    },
+    "0__page_11_Figure_0.jpeg": {
+      "caption": "This shows normalized frequency shift as a function of temperature for a Cu/Nb/Nb3Sn composite. The measurement data highlight how compositional modifications, such as adding a Cu layer, impact thermal expansion properties and subsequent RF performance through resonant frequency stability.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/0__page_11_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_0.jpeg"
+    },
+    "_page_5_Figure_6.jpeg": {
+      "caption": "The cross-sectional layout of the 952.6 MHz prototype cavity is depicted here to demonstrate conduction-cooling strategies, emphasizing the importance of geometrical and compositional adjustments for optimized RF performance, consistency in cooling efficiency, and thermal management.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/_page_5_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_6.jpeg"
+    },
+    "0__page_16_Figure_1.jpeg": {
+      "caption": "The graph displays the time-dependent variations in cavity frequency during RF operations, captured over 10 seconds, indicating microphonic effects present in the cavity system. Understanding these shifts assists in reducing detuning instability and optimizing noise reduction mechanisms .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/0__page_16_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_16_Figure_1.jpeg"
+    },
+    "_page_8_Figure_7.jpeg": {
+      "caption": "A Scanning Electron Micrograph (SEM) shows a layered cross-section of a Nb/Cu interface, differentiating between cold-sprayed Cu and electroplated Cu. This critical interface is central to understanding the mechanical and thermal advantages imparted by different fabrication methods on SRF cavity performance .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/_page_8_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_7.jpeg"
+    },
+    "_page_7_Figure_3.jpeg": {
+      "caption": "Figure shows scanning electron micrographs of a Nb/Cu interface after the cold-spray deposition of Cu. Image (a) presents the overall surface morphology at a lower magnification (x350), identifying the surface texture and uniformity. Image (b) displays a more detailed look (x3.5k magnification) at the grain structure of the Cu layer, demonstrating the microstructural evolution vital for understanding the mechanical and thermal properties imparted during the cold-spray process.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/_page_7_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_3.jpeg"
+    },
+    "_page_3_Figure_3.jpeg": {
+      "caption": "This figure outlines the diagram of a multi-stage cooling system designed to maintain the thermal characteristics of a superconducting cavity. Stages 1-1 through 2-4 illustrate different cooling stations interconnected around the cavity, which are integral to supporting conduction-cooling techniques pivotal for maintaining superconductive properties consistently during operation.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/_page_3_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_3.jpeg"
+    },
+    "_page_5_Figure_1.jpeg": {
+      "caption": "This figure presents the quality factor, Q<sub>0</sub>, as a function of the accelerating electric field, E<sub>acc</sub>, for a 952.6 MHz prototype cavity. The plot includes steady-state measurements showing the cavity's performance, where increased E<sub>acc</sub> indicates declining Q<sub>0</sub>, suggesting thermal instabilities might limit the operational efficiency under high power conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/_page_5_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_1.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Figure depicts beam dynamics simulations for the 915 MHz cavity with (a) illustrating average kinetic energy versus position and (b) showcasing beam sizes both horizontally and longitudinally. The plot provides insights on optimization strategies for radio-frequency quadrupole and superconducting cavity designs to enhance energy efficiency and beam quality in particle acceleration applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    },
+    "1__page_18_Figure_6.jpeg": {
+      "caption": "The temperature distribution for a 952.6 MHz prototype cavity cooled by three CCRs is shown. The Ansys simulation implemented at B<sub>p</sub> = 47 mT and RF load of 16.9 W illustrates optimal cooling capabilities of conduction systems at these settings, with color-coded temperature gradients providing essential thermal management insights.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/1__page_18_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Figure_6.jpeg"
+    },
+    "0__page_9_Figure_2.jpeg": {
+      "caption": "This figure displays results from an RF test on a 952.6 MHz single-cell cavity in liquid helium at 4.3 K after Cu coating on the outer surface. The cavity performance demonstrates improved thermal management, crucial for RF stability and efficiency, with Q<sub>0</sub> measurements validating this under the test conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/0__page_9_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_2.jpeg"
+    },
+    "0__page_11_Figure_6.jpeg": {
+      "caption": "Displayed is the thermal conductance (h<sub>T</sub>) of the Cu thermal link assembly across a range of temperatures. This evaluation is key for understanding the efficiency and capacity of thermal linking in superconducting settings, where consistent heat transfer ensures optimal thermal gradient minimization and improves cavity performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/0__page_11_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_6.jpeg"
+    },
+    "0__page_14_Figure_9.jpeg": {
+      "caption": "Figure represents average temperature, T<sub>avg</sub>, as a function of total heat load, P<sub>tot</sub>, for distinct DC heat loads. Observations reveal the temperature response to changing RF loads, critical for assessing thermal limits and enhancing thermal management practices in superconductor applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07201/images/0__page_14_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_9.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.3019,
+    "api_cost": 0.3019,
+    "file_storage_cost": 0.0,
+    "total_time": 172.67,
+    "request_count": 4,
+    "average_cost_per_request": 0.0755,
+    "average_time_per_request": 43.17,
+    "files_uploaded": 36,
+    "total_file_size": 1468625
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "paper_id": "43cff2b6fd12c6a78086bcb7b6183c09",
+  "pdf_path": "apl/Superconductors/arXiv:cond-mat_0207226.pdf",
+  "processing_timestamp": "2025-06-23T15:37:18.675187",
+  "figure_analysis": {
+    "_page_1_Figure_8.jpeg": {
+      "caption": "This figure illustrates the temperature dependence of the normalized surface resistance Rs for three types of films: MgB2, Nb3Sn, and YBCO, plotted against the reduced temperature T/Tc, where Tc is the critical temperature of the respective material. The MgB2 data is shown before (solid line) and after (open red symbols) ion-beam milling, depicting the effects of surface treatment on superconducting properties. The data for polycrystalline Nb3Sn, and epitaxial YBCO is presented for comparison, indicating that the transition into the superconducting state is more gradual for MgB2, which can be attributed to impurity phases or a small energy gap. This gradual transition and the slight upturn of Rs at low temperature suggest a tendency towards normalconducting or lossy insulating impurity phases in MgB2. The significance of this figure lies in highlighting how surface treatments and impurities impact superconducting properties, which is crucial for optimizing MgB2 for microwave applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0207226/images/_page_1_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_8.jpeg"
+    },
+    "_page_2_Figure_6.jpeg": {
+      "caption": "This figure displays the effect of microwave field amplitude Bs on the normalized surface resistance Rs/Rs(0) for three superconductors: MgB2, Nb3Sn, and YBCO. The data is shown for various conditions, including different frequencies and substrates such as sapphire and MgO. The figure highlights the nonlinear response of Rs under varying microwave fields, which is critical for applications in high oscillating power environments like particle accelerators. The figure indicates that while Nb3Sn and YBCO show field dependence at lower temperatures and Bs values of 10-50 mT, MgB2 exhibits a promising potential despite its current limitations due to impurities. This suggests the feasibility of MgB2 in applications requiring high-quality films on substrates with high thermal conductivity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0207226/images/_page_2_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_6.jpeg"
+    },
+    "_page_0_Picture_0.jpeg": {
+      "caption": "This image represents the logo of URSI, a symbol of the International Union of Radio Science, reflecting the affiliation and possible funding or collaborative context of the research study. Including institutional logos is common in academic research to denote organizational support or association .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0207226/images/_page_0_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_0_Picture_0.jpeg"
+    },
+    "_page_2_Figure_1.jpeg": {
+      "caption": "This figure illustrates the frequency dependence of the surface resistance Rs for MgB2, Nb3Sn, YBCO, and copper within different temperature ranges. The data suggests that for MgB2 at a lower frequency range and reduced temperatures, Rs follows a quadratic frequency dependence similar to epitaxial YBCO. The shaded regions indicate the range of temperatures relevant to each material. The arrow points to the gap frequency of MgB2, emphasizing its capability to maintain low Rs levels compared to copper up to specified GHz frequencies. This finding is significant for the adaptation of MgB2 in high-frequency microwave applications, showcasing its potential to outperform traditional conductors like copper under optimal conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0207226/images/_page_2_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.04,
+    "api_cost": 0.04,
+    "file_storage_cost": 0.0,
+    "total_time": 44.94,
+    "request_count": 1,
+    "average_cost_per_request": 0.04,
+    "average_time_per_request": 44.94,
+    "files_uploaded": 5,
+    "total_file_size": 144393
+  }
+}

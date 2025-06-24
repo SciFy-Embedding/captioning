@@ -1,0 +1,114 @@
+{
+  "paper_id": "8f6d17e6f5d25196112b97600bb43a0d",
+  "pdf_path": "apl/Superconductors/arXiv:2110.02025.pdf",
+  "processing_timestamp": "2025-06-23T14:43:08.422989",
+  "figure_analysis": {
+    "0__page_7_Figure_7.jpeg": {
+      "caption": "Figure 7 illustrates the evolution of the charge-density wave (CDW) transition temperature, TCDW, and the superconducting transition temperature, Tc, in different stoichiometric compounds (Sr3Ir4Sn13, Sr3Rh4Sn13, Ca3Ir4Sn13, and Ca3Rh4Sn13) as a function of induced disorder, quantified by defects per formula unit (dpf). Panel (a) shows how TCDW is progressively suppressed with increasing disorder, demonstrating that while CDW is consistently suppressed at a similar rate across different compositions, the suppression rate is notably higher near the quantum critical point, particularly in Ca3Ir4Sn13. Panel (b) reveals a complex behavior where the suppression of T<sub>c</sub> also varies with disorder; notably, there is a significant T<sub>c</sub> increase in some samples when CDW and superconductivity compete. This figure highlights the intricate interplay between CDW and superconductivity in these materials, with key implications for understanding superconducting pairing mechanisms .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02025/images/0__page_7_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_7.jpeg"
+    },
+    "1__page_17_Figure_0.jpeg": {
+      "caption": "Figure 12 presents the band structures (top graph) and partial density of states (DOS) of eight bands crossing the Fermi level in Ca3Rh4Sn13. The plot demonstrates the band dispersion along high symmetry paths (Γ–X–M–Γ–R) in the Brillouin zone. The DOS traces, separated by band, allow for a detailed examination of the electronic structure near the Fermi surface, crucial for understanding the superconducting and CDW properties of Ca3Rh4Sn13. This analysis provides insights into the complex electronic interactions and potential mechanisms driving the observed superconductivity, offering evidence for unconventional pairing states .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02025/images/1__page_17_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_17_Figure_0.jpeg"
+    },
+    "0__page_12_Figure_4.jpeg": {
+      "caption": "Figure 11 shows the calculated Fermi surface cross-sections for Ca3Rh4Sn13 at different k<sub>z</sub> slices through the Brillouin zone (k<sub>z</sub> values given in units of 2π/a). These plots reveal the topology and symmetry of the Fermi surfaces, crucial for understanding the anisotropic superconducting gap structure and possible nesting conditions relevant to CDW formation. The Fermi surface contours suggest complex electron behavior that contributes to challenging our understanding of the compound's electronic properties and the associated unconventional superconducting state .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02025/images/0__page_12_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_4.jpeg"
+    },
+    "_page_3_Figure_0.jpeg": {
+      "caption": "Figure 4 illustrates the temperature-dependent resistivity of Sr3Rh4Sn13 in its pristine state and after varying levels of electron irradiation (1.14 C/cm² and 4.44 C/cm²). The resistivity behavior indicates primary effects of disorder on the material's electronic properties, with a notable suppression of the CDW transition temperature (indicated by arrows in the left inset) under irradiation. The right inset shows the superconducting transition, revealing how electron irradiation initially increases T<sub>c</sub> before inducing disorder that affects superconductivity. This analysis supports the idea of competing superconducting and CDW orders in Sr3Rh4Sn13 .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02025/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "_page_4_Figure_6.jpeg": {
+      "caption": "Figure 2 depicts the total electron knock-out cross-sections for Sr and Ca-Ir/Rh-Sn compounds as a function of electron energy with the study's operational energy marked at 2.5 MeV. The subtle differences between these cross-sections provide insight into how electron irradiation influences structural defects. Understanding these parameters is vital for correlating induced disorder with changes in material properties such as resistivity and superconducting transition temperatures .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02025/images/_page_4_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_6.jpeg"
+    },
+    "0__page_7_Figure_1.jpeg": {
+      "caption": "Figure 6 presents the resistivity of Ca3Rh4Sn13 as a function of temperature, both before and after it experiences 2.1 C/cm² electron irradiation. The data in the main graph show Matthiessen's rule's violation above the superconducting transition and a substantial suppressive effect of irradiation on T<sub>c</sub>, detailed in the inset. This figure highlights how controlled disorder impacts this material's electronic structure and superconducting properties, particularly the unconventional features of its superconductivity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02025/images/0__page_7_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_1.jpeg"
+    },
+    "_page_5_Figure_4.jpeg": {
+      "caption": "Figure 3 shows the resistivity evolution for Sr3Ir4Sn13 across different electron irradiation doses (pristine, 1.14 C/cm², 4.44 C/cm²). The graph clearly illustrates Matthiessen's rule's validity only above T<sub>CDW</sub> and its gross violation below during disorder-induced phase transitions. Inset details emphasize changes in the CDW transition (arrows) and superconducting transition under increasing disorder, suggesting structural disorder's role in modifying electronic phases.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02025/images/_page_5_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_4.jpeg"
+    },
+    "0__page_9_Figure_4.jpeg": {
+      "caption": "Figure 9 displays Ca3Rh4Sn13's superfluid density variation derived from the London penetration depth. The main panel plot exhibits behavior consistent with an isotropic s-wave superconductor, suggesting a departure from previously hypothesized nodal pairings, underlining the unconventionality of multiband superconductivity in this compound. Insets reinforce the robustness of experimental fits, confirming the continuity of an isotropic superconducting gap across ferromagnetic states.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02025/images/0__page_9_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_4.jpeg"
+    },
+    "_page_6_Figure_6.jpeg": {
+      "caption": "Figure 5 illustrates the temperature-dependent resistivity of Ca3Ir4Sn13 under irradiation at doses of 2.17 C/cm² and 5.47 C/cm². The green dashed line captures deviation from Matthiessen's rule post-T<sub>CDW</sub>, and the insets display critical changes in the CDW phases with induced disorder. The figure encapsulates the complex interdependencies of structural transitions on electronic behavior, highlighting compositional nuances between similar compounds and further enveloping the interplay of superconductivity and CDW .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02025/images/_page_6_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_6.jpeg"
+    },
+    "0__page_12_Figure_1.jpeg": {
+      "caption": "Figure 10 illustrates the calculated normalized superfluid density to investigate the impact of gap anisotropy in Ca3Rh4Sn13. Panel (a) compares g-wave corrections to s-wave pairing for relative strengths δ = −3.66 and −1.08, required to reproduce the observed Tc suppression. Insets display the 3D structure of the gap in reciprocal space for different gap structures. The blue and black lines correspond to different levels of nodal line presence in the superconducting state, with standard s-wave and d-wave cases shown for reference. Panel (b) presents results from a two-gap γ-model describing a two-band A ++ 1g superconductor. The model suggests a gap ratio ∆1/∆2 = 2.78 is necessary to match the observed Tc suppression, though the calculated superfluid density remains inconsistent with experimental results, highlighting the potential complexity and unconventional nature of the superconducting pairing in Ca3Rh4Sn13 .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02025/images/0__page_12_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_1.jpeg"
+    },
+    "_page_6_Figure_1.jpeg": {
+      "caption": "Figure 4 shows the temperature-dependent resistivity of Sr3Rh4Sn13 before and after electron irradiation at doses of 1.14 C/cm² and 4.44 C/cm². The pristine sample is depicted by the blue curve, while the yellow and red curves represent the irradiated states. The green dashed line indicates the resistivity difference between the pristine and 4.44 C/cm² curves, demonstrating the validity of Matthiessen's rule above TCDW but not below. The left inset highlights the CDW transition shift with increasing disorder, while the right inset examines modifications in superconducting transition temperature, indicating a small initial Tc increase after 1.14 C/cm² but minimal changes at higher doses. This figure underscores the influence of disorder on electronic phase transitions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02025/images/_page_6_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_1.jpeg"
+    },
+    "0__page_8_Figure_0.jpeg": {
+      "caption": "Figure 8 illustrates the normalized suppression of the superconducting transition temperature Tc/Tc0 against the dimensionless scattering rate γλ, calculated from resistivity and London penetration depth measurements. The plot includes predictions from the Abrikosov-Gor'kov theory for line-nodal d-wave superconductivity with non-magnetic impurities, and data from several materials including Sr3Rh4Sn13, Sr3Ir4Sn13, Ca3Ir4Sn13, and Ca3Rh4Sn13. The data suggest a direct competition between charge-density wave (CDW) and superconductivity, with the suppression of Tc becoming significantly more rapid once the CDW is fully suppressed. This behavior further elucidates the complex interaction between superconductivity and CDW in these materials.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02025/images/0__page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.133,
+    "api_cost": 0.133,
+    "file_storage_cost": 0.0,
+    "total_time": 95.57,
+    "request_count": 2,
+    "average_cost_per_request": 0.0665,
+    "average_time_per_request": 47.78,
+    "files_uploaded": 13,
+    "total_file_size": 821314
+  }
+}

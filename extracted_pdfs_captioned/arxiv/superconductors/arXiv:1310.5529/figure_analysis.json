@@ -1,0 +1,50 @@
+{
+  "paper_id": "2bf3bb7b38ccad35e5660d6585433ab7",
+  "pdf_path": "apl/Superconductors/arXiv:1310.5529.pdf",
+  "processing_timestamp": "2025-06-23T13:35:20.701692",
+  "figure_analysis": {
+    "_page_1_Figure_9.jpeg": {
+      "caption": "Figure 2 demonstrates the 13C NMR spectra at 5.8 kbar, measured at f0 = 82 MHz, showing anisotropic line shapes which change drastically below Tc. This reflects a sign change in the anisotropy Kax, which is indicative of a drop in the spin susceptibility χs(T) expected for singlet s-wave superconductivity. The spectral evolution below Tc is consistent with the BCS singlet state's anticipated behavior and involves altering the Knight shift contributed by the spin component relative to the temperature-dependent susceptibility χs(T). Two models are contrasted in panel b: the traditional BCS regime (dotted red line) and potentially a stronger coupling (solid blue line) to fit the observed spectral data, suggesting enhanced SC gap values.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.5529/images/_page_1_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_9.jpeg"
+    },
+    "_page_2_Figure_9.jpeg": {
+      "caption": "Figure 4 presents the variation of the SC gap parameter Δ deduced from T1 data as a function of Vc60, the volume per C60 ball. Panel (a) shows Δ increasing continuously with the lattice expansion, in distinction to Tc, which exhibits a dome-shaped curve. Panel (b) and (c) reveal the normal state values of (T1T)-1 and the anisotropic Knight shift Kax, respectively, with significant implications for the spin susceptibility, suggesting that unlike in underdoped cuprates, a pseudogap does not form in these Cs3C60 fullerides. The experimental data indicate a coupling of the SC gap formation to electron-phonon interactions, magnified by expanding interball distances.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.5529/images/_page_2_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_9.jpeg"
+    },
+    "_page_1_Figure_1.jpeg": {
+      "caption": "Figure 1 defines the zero-field temperature dependence of the NMR coil's resonance frequency, offering insights into superconducting (SC) diamagnetism growth with increasing pressure for a sample comprising primarily the A15 phase of Cs3C60. Panel (a) shows sharp SC onset with high susceptibility, while panel (b) pinpoints the Mott transition around pc = 5 ± 0.3 kbar, implying a dramatic shift in electron correlation states. The experimentally derived Tc(p) phase diagram in panel (c) establishes the transition from a Mott insulating phase to superconductivity and highlights the relevant pressure conditions fostering SC states against electronic repulsions typically present in high-correlation environments.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.5529/images/_page_1_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_1.jpeg"
+    },
+    "_page_2_Figure_1.jpeg": {
+      "caption": "Figure 3 analyzes the behavior of 133Cs T1-1 in A15-Cs3C60, delineating its variations below Tc against potential power-law and exponential shifts linked to the superconducting gap 2Δ. Subpanel (a) distinguishes fitted curves with Δ/kBTc values at different pressures, reinforcing nodeless superconductivity's persistence. Subpanel (b) extends this comparative framework to 13C T1 data, affirmed by data from analogous fullerides like Rb3C60, portraying deviations to classic BCS principles. These observations underpin variations in 2Δ/kBTc ratios, indicating notable electron-phonon coupling impacts potentially facilitated by escalating Coulomb correlations approaching the Mott transition.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.5529/images/_page_2_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.057,
+    "api_cost": 0.057,
+    "file_storage_cost": 0.0,
+    "total_time": 35.68,
+    "request_count": 1,
+    "average_cost_per_request": 0.057,
+    "average_time_per_request": 35.68,
+    "files_uploaded": 5,
+    "total_file_size": 191417
+  }
+}

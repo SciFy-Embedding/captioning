@@ -1,0 +1,50 @@
+{
+  "paper_id": "dd9994a0615e60a6f27930f021045fa6",
+  "pdf_path": "apl/Superconductors/arXiv:1709.04120.pdf",
+  "processing_timestamp": "2025-06-23T14:01:42.741101",
+  "figure_analysis": {
+    "_page_5_Figure_2.jpeg": {
+      "caption": "Figure 2 illustrates the dependence of the quantum efficiency (QE) of cesium telluride (Cs2Te) films on substrates of niobium (Nb) and molybdenum (Mo). QE is plotted against the Cs2Te film thickness in ångströms (Å). The experimental context showcases two curves representing phenomenological model fits for the substrates, Nb (blue) and Mo (red), with corresponding experimental data points as solid markers. The figure features Cs2Te films with refractive indices and extinction coefficients documented as 'n' and 'k', respectively. The key findings indicate that QE on both substrates exhibits a general increase with film thickness, achieving a plateau at approximately 210 Å, but remains higher for thinner films at about 15 Å, especially corroborated by the sustained and elevated QE values of 5%-7% in ultra-thin films. Scientifically, this highlights the superior photoelectric performance of ultra-thin Cs2Te layers, which are promising for developing high-efficiency superconducting photocathodes, reducing RF losses in photoinjectors【4:6†Source.file】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1709.04120/images/_page_5_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_2.jpeg"
+    },
+    "0__page_7_Figure_1.jpeg": {
+      "caption": "Figure 3 shows the transmission parameter (1-R) for Cs2Te films, depicting its thickness dependence across two substrates: niobium (Nb) and molybdenum (Mo). The axis is set in nanometers (nm) over a short range indicative of ultra-thin film applications. The solid and dashed lines represent model predictions based on a range of refractive index values for Cs2Te films, specifically for the scenario where n=1.8 where interference patterns emerge due to constructive and destructive forces, compared to n=0.75 where they do not. This figure emphasizes the importance of optical constants in determining film effectiveness in photocathodes, revealing that Nb has better transmission characteristics, thereby supporting higher QE values relative to Mo. This is pivotal for designing efficient photoinjectors in next-generation accelerators【4:2†Source.file】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1709.04120/images/0__page_7_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_1.jpeg"
+    },
+    "_page_4_Figure_2.jpeg": {
+      "caption": "Figure 1 presents the evolution of Quantum Efficiency (QE) for Cs2Te photocathodes on Nb substrate during cesiation, demonstrated for varying tellurium (Te) thicknesses, ranging from 15 Å to 210 Å, across cesiation time in minutes. Markers identify specific thickness groups: Te210 (210 Å), Te25 (25 Å), Te15 (15 Å), and Te0 (0 Å). The discrepancy reveals significantly greater QE in ultra-thin Cs2Te layers (Te15, Te25) over the thicker Te210 and unveils that cesiated Nb absent of Te (Te0) underperforms severely. Notably, ultra-thin films exhibit enhanced durability with considerably diminished degradation rates post-fabrication. The scientific impact lies in validating these Cs2Te layers as viable candidates for durable, high-QE superconducting photocathodes【4:3†Source.file】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1709.04120/images/_page_4_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_2.jpeg"
+    },
+    "_page_5_Figure_1.jpeg": {
+      "caption": "Figure 2 traces the quantum efficiencies (QE) of Cs2Te films on Nb and Mo substrates as a function of cesium telluride (Cs2Te) thickness in nanometers (nm). The graph displays QE percentage on the vertical axis against thickness in Ångströms (Å) and closely mirrors theoretical fits to empirical data. The depiction affirms minimal difference in maximum quantum efficiency values across substrates, while extensively thinner films offer consistent performance advantageous for sustained applications. This figure underlines the consistent high-QE performance at reduced thicknesses, crucial for advancing Cs2Te films in practical photoinjector systems, enhancing the competitiveness of Nb concerning Mo in emerging high-efficiency photocathode applications【4:6†Source.file】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1709.04120/images/_page_5_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0524,
+    "api_cost": 0.0524,
+    "file_storage_cost": 0.0,
+    "total_time": 35.13,
+    "request_count": 1,
+    "average_cost_per_request": 0.0524,
+    "average_time_per_request": 35.13,
+    "files_uploaded": 5,
+    "total_file_size": 168550
+  }
+}

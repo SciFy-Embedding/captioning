@@ -1,0 +1,42 @@
+{
+  "paper_id": "d61cda74f8647292e2d1fb3fb70625bb",
+  "pdf_path": "apl/Superconductors/arXiv:2212.02396.pdf",
+  "processing_timestamp": "2025-06-23T14:54:32.968213",
+  "figure_analysis": {
+    "_page_6_Figure_3.jpeg": {
+      "caption": "Figure 1 represents a Uemura plot featuring a log-log visualization of the superconducting transition temperature (Tc) against the Fermi temperature (TF) for primary superconducting families. The x-axis indicates the Fermi temperature (TF) in Kelvin, while the y-axis showcases the transition temperature (Tc), also in Kelvin. This plot includes various superconductors such as cuprates, iron-based, metals, and more, highlighted through different marker styles and colors corresponding to each category (e.g., A15 alloys, Heusler, intermetallics). Notably, the figure distinguishes data points derived from two methods of Tc calculation marked as from λ(0) and ξ(0). It highlights the relationship and potential correlation among the superconductors' Tc and TF, crucial for exploring scaling laws among these materials. This relation is significant for understanding the universal behaviors and differences in superconducting mechanisms across different materials .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2212.02396/images/_page_6_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_3.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "Figure 2 displays a semi-log plot illustrating the ratio of Debye temperature (Tθ) to Fermi temperature (TF) against the electron-phonon coupling strength (λe-ph) for primary superconducting families. The x-axis represents the electron-phonon coupling strength, and the y-axis indicates the Tθ/TF ratio, which serves as a measure of superconducting characteristics in terms of adiabaticity. This figure reflects key insights from Pietronero et al.'s framework with superconductors classified into different families, including noncentrosymmetric, Laves phases, and others, through distinct markers and colors. The plot suggests a range within which ¾ of the analyzed superconducting materials fall, aiding in identifying empirical limits for classifying superconductors based on their adiabatic properties. This classification is pivotal for distinguishing between moderate and strong nonadiabatic superconductors .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2212.02396/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_11_Figure_0.jpeg": {
+      "caption": "Figure 3 shows a comparative log-log plot of the Tθ/TF ratio (y-axis) against the transition temperature (Tc) in Kelvin (x-axis) for various superconducting families. This representation includes diverse superconducting materials, allowing for a clear distinction among classical adiabatic, nonadiabatic, and superconductors of intermediate nature. The classification of different superconductors employs a variety of symbols and colors (e.g., metals, A15 alloys, Heusler alloys). The figure juxtaposes the superconductors' relative adiabatic behaviors across a wide temperature range, thereby providing insights into the superconducting transitions. Such a comparative view is instrumental in enhancing the understanding of the superconducting phenomena and their underlying principles, particularly highlighting where these materials sit on the continuum of adiabatic to nonadiabatic superconductors .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2212.02396/images/0__page_11_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0558,
+    "api_cost": 0.0558,
+    "file_storage_cost": 0.0,
+    "total_time": 34.07,
+    "request_count": 1,
+    "average_cost_per_request": 0.0558,
+    "average_time_per_request": 34.07,
+    "files_uploaded": 4,
+    "total_file_size": 401394
+  }
+}

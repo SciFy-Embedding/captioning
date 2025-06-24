@@ -1,0 +1,66 @@
+{
+  "paper_id": "7c77da2e85f447e9721d01e24606f6a9",
+  "pdf_path": "apl/Superconductors/arXiv:2403.07666.pdf",
+  "processing_timestamp": "2025-06-23T15:20:39.955514",
+  "figure_analysis": {
+    "_page_3_Figure_1.jpeg": {
+      "caption": "Figure 3 presents a comprehensive overview of the temporal dynamics and thermomagnetic behavior in a solenoid superconducting coil composed of Nb3Sn wire. Panel (a) depicts the voltage signal measured during an experimental test where a ramping transport current of 0.5 A/s was applied. The lower two panels in this section show simulated results for Joule heating power density and the maximum temperature over time, illustrating the correlation between temperature spikes and Joule heating during flux jumps. Panel (b) provides a contour plot indicating the number of flux jumps observed in each wire during the testing phase, revealing the distribution and frequency of instabilities. Panel (c) details the simulated distributions of current density, magnetic field, and temperature during the second documented flux jump, with a deeper focus on specific coil wires at coordinates (8, 9) and (28, 9). This figure demonstrates how current densities and thermal profiles evolve during flux jumps, emphasizing the importance of local conditions and defect distribution on instability propagation .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.07666/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "_page_7_Figure_1.jpeg": {
+      "caption": "Figure 6 illustrates the resistivity and quench propagation phenomena in Nb3Sn superconducting coils. Panel (a) shows the temporal evolution of resistivity during a flux jump at different coil locations, demonstrating a rapid increase towards the normal state value, ρ<sub>n</sub>—a critical marker for quench onset. This is highlighted by a dashed red line at 0.95ρ<sub>n</sub>. Panel (b) follows quench evolution through six temporal stages, marking regions that transition from superconducting to a quenched state, demonstrating non-uniform propagation. Panel (c) captures the velocity field of the quench propagation with arrows showing the quench movement directions, emphasizing faster quench spread in left-side wires. Panels (d, e, f) showcase critical parameters during the quench: temperature (T<sub>q</sub>), instantaneous Joule heating power density (P<sub>q</sub>), and the accumulated Joule heating (Q<sub>q</sub>) from quench onset until complete transition. These visualizations underscore the impact of thermal and electromagnetic conditions on quench dynamics .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.07666/images/_page_7_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_1.jpeg"
+    },
+    "_page_1_Figure_3.jpeg": {
+      "caption": "Figure 1 provides an overview of the solenoid superconducting magnet system used in experiments and simulations. Panel (a) shows the fabricated solenoid coil with 1558 turns of internal-tin (IT) Nb3Sn wire, detailing its structural aspects such as subelement fabrication. Panel (b) offers a schematic view of the solenoid in operation, illustrating exposure to a ramping transport current (I<sub>a</sub>) and a concurrent ramping external magnetic field (H<sub>a</sub>). Panels (c) and (d) display the solenoid's cross-section with a focus on the Nb3Sn wire composite's multifilamentary nature, highlighting its subelement structure and emphasizing design aspects necessary for simulating thermomagnetic instabilities. This setup provides a critical framework for studying flux jump propagation in state-of-the-art superconducting magnets .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.07666/images/_page_1_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_3.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Figure 2 elaborates on the computational model and experimental configuration for studying thermomagnetic instabilities in Nb3Sn superconducting coils. Panel (a) describes the modeled superconducting coil structure, indicating its Nx × Ny turn system and subelement design. Panel (b) outlines the numerical algorithm implemented on a GPU, featuring a flow chart for simulating the nucleation and progression of flux jumps and quenches. Panel (c) sketches the experimental setup used for validating numerical simulations, detailing the Nb3Sn wire exposed to a time-varying magnetic field H<sub>a</sub>(t). Panel (d) (upper left) contrasts experimental measurements and simulation fits of Nb3Sn wire's critical current versus magnetic field, validating the model with empirical data through fitted and data-matched curves. These diagrams highlight the advanced computational and experimental methodologies employed to explore superconducting coil behaviors .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.07666/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "Figure 5 displays the results from simulations revealing critical insights into voltage spikes and current distributions in Nb3Sn coils under various conditions. Panel (a) plots the simulated maximum temperature (T<sub>max</sub>) and terminal voltage across the coil with 20 × 20 Nb3Sn turns, compared across different scenarios, showing how external factors such as strain impact thermal and electrical stability. Panel (b) presents detailed current density profiles in coil wires during peak stress conditions, illustrating the influence of ramp rates and strain on current homogeneity. This figure highlights how operational parameters significantly alter stability thresholds, underscoring the importance of simulation in optimizing coil design for superconducting applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.07666/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    },
+    "_page_5_Figure_0.jpeg": {
+      "caption": "Figure 4 explores the thermomagnetic behavior during flux jumps in a Nb3Sn superconducting coil. Panel (a) highlights the temporal changes in maximum temperature (T<sub>max</sub>), Joule heating power density (P), and critical current density (J) during flux jump sequences. Panel (b) captures snapshots of regions experiencing flux jumps at various moments throughout the process, revealing spatial and temporal aspects of instability propagation. Panel (c) depicts a velocity field showing flux jump directions, correlated with temperature (T<sub>FJ</sub>) and power density (P<sub>FJ</sub>) metrics, alongside Joule heating accumulation (Q<sub>FJ</sub>). This configuration provides a detailed view of the interplay between thermal and electromagnetic factors on flux stability, with significant implications for high-field magnet applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.07666/images/_page_5_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0641,
+    "api_cost": 0.0641,
+    "file_storage_cost": 0.0,
+    "total_time": 78.57,
+    "request_count": 1,
+    "average_cost_per_request": 0.0641,
+    "average_time_per_request": 78.57,
+    "files_uploaded": 7,
+    "total_file_size": 868740
+  }
+}

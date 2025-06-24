@@ -1,0 +1,218 @@
+{
+  "paper_id": "124b39d17e7a1b34f10d8171878260c2",
+  "pdf_path": "apl/Superconductors/arXiv:2008.00599.pdf",
+  "processing_timestamp": "2025-06-23T14:32:30.837587",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "Figure 0 shows a comparative analysis of Nb3Sn coatings on niobium substrates using plane-view SEM and cross-sectional HAADF-STEM images. The SEM images demonstrate two types of coatings: a matte coating, which is approximately 2 µm thick and features larger grains, and a shiny coating that is thinner at about 1 µm with smaller grain diameters. This distinction in thickness and grain size is directly correlated with differences in surface roughness and superconducting performance. The HAADF-STEM images reveal structural variations, showing distinct layers and grain boundaries. The findings indicate that thinner coatings with smaller grains, as seen in the shiny Nb3Sn, contribute to reduced surface roughness and potentially better superconducting properties by minimizing flux entry.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "_page_2_Figure_11.jpeg": {
+      "caption": "Figure 11 illustrates the N-infusion step post-Nb3Sn coating process, where nitrogen gas is introduced to the vapor diffusion system at 25 mtorr pressure to infuse into the near-surface layer. This step is intended to enhance superconducting properties by creating a 'dirty' layer that raises the energy barrier, discouraging flux entry. This figure is significant in demonstrating adjustments to the coating protocol aimed at maximizing the performance of superconducting cavities. The effectiveness of this infusion in improving performance has not been fully substantiated, but its inclusion in consistent procedures aims to replicate successful outcomes .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/_page_2_Figure_11.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_11.jpeg"
+    },
+    "_page_8_Picture_5.jpeg": {
+      "caption": "Figure 5 presents a visual depiction of the internal reflection properties of a Nb3Sn-coated cavity. The shiny appearance of the coated surface indicates a lower surface roughness, which is consistent with improved superconducting performance. This image reveals one of the key outcomes of the study, where the optimization of the coating process results in a highly reflective surface, crucial for high-performance superconducting RF applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/_page_8_Picture_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Picture_5.jpeg"
+    },
+    "0__page_9_Figure_0.jpeg": {
+      "caption": "Figure 0 displays a cross-sectional view and performance testing of a 9-cell 1.3 GHz cavity TB9ACC014 coated with Nb3Sn. The top part of the image highlights the internal reflectivity of the cavity walls, indicative of the shiny coating. The performance curves at the bottom illustrate the cavity's behavior at different temperatures (1.5 K and 4.4 K) in liquid helium, providing critical data on the operational capabilities of the coating at high precision. This testing shows the progressive effort to achieve uniform Nb3Sn coatings that are practical for real-world application in particle accelerators .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/0__page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_0.jpeg"
+    },
+    "_page_1_Figure_3.jpeg": {
+      "caption": "Figure 3 represents a comparative study of surface roughness in Nb3Sn coatings, indicated by parameters such as Ra (arithmetic mean) and Rq (root mean squared). The samples examined include a traditional matte coating, a new shiny Fermilab coating, and an electropolished niobium surface prior to coating. Visual evidence supports that the shiny coating offers a smoother surface, demonstrated by the reflective image at the bottom of the figure and measured roughness data. Such optimized coatings aim to enhance performance by reducing surface irregularities that potentially interfere with superconducting properties .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/_page_1_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_3.jpeg"
+    },
+    "0__page_14_Picture_6.jpeg": {
+      "caption": "Figure 6 shows the specialized setup for vertical testing of superconducting cavities, employing second sound transducers. These devices, positioned around the cavity, enable precise detection of quench-induced temperature changes by capturing second sound waves. This figure underscores the detailed experimental approach used to locate quench events, aiming at correlating these occurrences with possible multipacting phenomena and thereby optimizing the coating and processing approaches to mitigate such issues .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/0__page_14_Picture_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Picture_6.jpeg"
+    },
+    "_page_1_Figure_2.jpeg": {
+      "caption": "Figure 2 outlines the vapor diffusion coating process at Fermilab, featuring both a standard nucleation step and a high-temperature step. Each process step involves critical manipulation of temperature and vapor environment to achieve optimal Sn nucleation, especially for uniform coatings over large surface areas. This figure helps clarify the modifications made to traditional coating procedures to produce smoother and thinner Nb3Sn layers on SRF cavities, contributing to better performance by potentially increasing quench fields and improving thermal stability .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/_page_1_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_2.jpeg"
+    },
+    "_page_6_Figure_3.jpeg": {
+      "caption": "Figure 3 shows a correlation graph between surface roughness, film thickness, and grain diameter of Nb3Sn coatings. This direct relationship demonstrates that thinner coatings with smaller grains exhibit lower surface roughness, which is a critical goal in fabricating superconducting films that are less susceptible to flux penetration. The data emphasizes the importance of optimizing film characteristics to enhance cavity performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/_page_6_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_3.jpeg"
+    },
+    "_page_7_Figure_0.jpeg": {
+      "caption": "Figure 0 displays statistical data on the areal fraction coverage of Sn islands on Nb substrates within a cavity host. The results, comparing standard versus high-temperature nucleation steps, exhibit differences in uniformity and density of Sn precipitation. Samples that underwent high-temperature nucleation showed larger and more uniformly distributed Sn islands, essential for consistent coating performance. This graph provides insight into the nucleation conditions critical for superior Nb3Sn coating quality .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/_page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_0.jpeg"
+    },
+    "_page_4_Figure_6.jpeg": {
+      "caption": "Figure 6 displays HAADF-STEM images of matte Nb3Sn coatings, illustrating significant surface roughness due to height differences among grains (~180 nm) and grooves at grain boundaries that are ~40 nm deep with a 190 nm width. These structural characteristics are indicative of the roughness that impacts superconducting performance by lowering the threshold for magnetic flux entry, highlighting the importance of precise surface engineering in SRF applications【8:12†temp_paper_124b39d17e7a1b34f10d8171878260c2.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/_page_4_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_6.jpeg"
+    },
+    "_page_3_Figure_7.jpeg": {
+      "caption": "Figure 7 presents a three-dimensional topographical map of surface roughness for a sample Nb3Sn coating using optical microscopy. The map, covering a 30x30 µm area, shows variations in the coating topology, essential for understanding the correlation between surface texture and superconducting efficiency, as smoother surfaces help reduce electromagnetic surface losses【8:0†temp_paper_124b39d17e7a1b34f10d8171878260c2.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/_page_3_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_7.jpeg"
+    },
+    "_page_8_Figure_2.jpeg": {
+      "caption": "Figure 2 illustrates the performance of a 650 MHz single-cell Nb3Sn cavity, B9AS-AES-002, showing its superconducting behavior under various operational temperatures and power levels. The graph illustrates the cavity achieving a maximum accelerating gradient of 20 MV/m at 4.4 K, post-multipacting processing. This demonstrates the cavity's high Q0 factor and suitability for compact accelerator applications【8:3†temp_paper_124b39d17e7a1b34f10d8171878260c2.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/_page_8_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_2.jpeg"
+    },
+    "_page_7_Figure_6.jpeg": {
+      "caption": "Figure 6 compares the performance of single-cell 1.3 GHz cavity CBMM-D against other 1.3-1.5 GHz cavities. Illustrated are the effects of multipacting, with quenching largely attributed to this phenomenon during high accelerative efforts. Post-processing high Q0 performance demonstrates Nb3Sn’s potential in maintaining superconductivity at reduced operational costs and widespread applicability【8:10†temp_paper_124b39d17e7a1b34f10d8171878260c2.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/_page_7_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_6.jpeg"
+    },
+    "_page_5_Figure_4.jpeg": {
+      "caption": "Figure 8 provides a depth profile of nitrogen within various Nb samples, assessed with SIMS by normalizing against Nb counts. This depiction of nitrogen infusion profiles is pivotal in determining enhanced superconducting characteristics by identifying effective nitrogen infusion methodology for augmenting the surface chemistry of Nb3Sn coatings【8:5†temp_paper_124b39d17e7a1b34f10d8171878260c2.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/_page_5_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_4.jpeg"
+    },
+    "_page_3_Picture_8.jpeg": {
+      "caption": "Figure 3 shows a highly polished Nb3Sn sample with a shiny coating showcasing its reflective qualities, indicative of lower surface roughness compared to traditional matte coatings. This visual inspection underscores the correlation between visual quality and electromagnetic characteristics, aiming towards improved performance benchmarks in superconducting technology【8:9†temp_paper_124b39d17e7a1b34f10d8171878260c2.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/_page_3_Picture_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Picture_8.jpeg"
+    },
+    "_page_6_Figure_5.jpeg": {
+      "caption": "Figure 5 compares surface precipitate formation on niobium substrates after standard and high-temperature nucleation steps utilizing SEM imaging. The analysis reveals denser and more uniform Sn island coverage during the high-temperature nucleation, crucial for promoting homogeneous superconductive layers in Nb3Sn applications【8:6†temp_paper_124b39d17e7a1b34f10d8171878260c2.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/_page_6_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_5.jpeg"
+    },
+    "0__page_16_Figure_0.jpeg": {
+      "caption": "Figure A4 offers a detailed temperature map of quench incidences before and after multipacting-related quench events in superconducting cavities. The figure highlights varying thermal responses to non-multipacting and multipacting triggers, contributing to understanding temperature dynamics during Nb3Sn quenching【8:11†temp_paper_124b39d17e7a1b34f10d8171878260c2.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/0__page_16_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_16_Figure_0.jpeg"
+    },
+    "0__page_15_Figure_1.jpeg": {
+      "caption": "Figure A3 correlates second sound propagation time with transducer distance from the equator during superconducting cavity quench diagnostics. This figure supports the hypothesis of equatorial conductive transition upon quench, aligning spatial orientation impacts with diagnostic tracking methodologies【8:9†temp_paper_124b39d17e7a1b34f10d8171878260c2.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/0__page_15_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_1.jpeg"
+    },
+    "0__page_9_Figure_4.jpeg": {
+      "caption": "Figure 15 illustrates the vertical test performance of Nb3Sn coated 9-cell cavities, TB9ACC014 and TB9AES005. Testing curves were captured at both 4.4 K and 2.0 or 1.5 K, highlighting significant improvements in gradient and Q0 factors post-quenching. TB9AES005 exhibited superior performance compared to TB9ACC014, suggesting substrate dependency. This figure is crucial for understanding how different coating conditions and substrate variables affect Nb3Sn coated cavities used in practical accelerator structures【12:5†temp_paper_124b39d17e7a1b34f10d8171878260c2.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/0__page_9_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_4.jpeg"
+    },
+    "0__page_14_Figure_2.jpeg": {
+      "caption": "Figure A1 shows temperature maps of a cavity recorded at ~20 MV/m, illustrating the heat distribution patterns before and after quench. Notably, there is high heating localized at the equator, which is not typical of Nb3Sn cavities and suggests unique flux trapping phenomena that contribute to quenching and possibly multipacting in Nb3Sn cavities【12:9†temp_paper_124b39d17e7a1b34f10d8171878260c2.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/0__page_14_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_2.jpeg"
+    },
+    "_page_3_Figure_5.jpeg": {
+      "caption": "Figure 5 presents three-dimensional profilometry data of surface roughness of a matte Nb3Sn film measuring Ra at 130 nm and Rq at 174 nm. Applied methodologies include optical microscopy to relate surface structure to superconductive behavior improvements, indicating that smoother, thinner coatings with controlled grain size are critical for enhancing superconducting performance【12:4†temp_paper_124b39d17e7a1b34f10d8171878260c2.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/_page_3_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_5.jpeg"
+    },
+    "_page_3_Figure_4.jpeg": {
+      "caption": "Figure 4 displays high-resolution micrograph comparisons between matte and shiny Nb3Sn coatings. The shiny Nb3Sn coating is thinner (~1 µm) and features smaller grains (0.93 ±0.30 µm) than matte (1.37 ±0.57 µm), demonstrating key improvements in coating techniques to reduce surface roughness and enhance coating uniformity crucial for superconducting applications【12:1†temp_paper_124b39d17e7a1b34f10d8171878260c2.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/_page_3_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_4.jpeg"
+    },
+    "_page_5_Figure_1.jpeg": {
+      "caption": "Figure 7 details grain size distribution histograms of matte and shiny Nb3Sn coatings, highlighting a narrower distribution for the shiny version. This narrow grain size distribution, fitting a log-normal model, is critical for achieving reduced surface roughness and improved superconductive properties【12:6†temp_paper_124b39d17e7a1b34f10d8171878260c2.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/_page_5_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_1.jpeg"
+    },
+    "0__page_15_Figure_7.jpeg": {
+      "caption": "Figure A4 includes temperature maps that analyze heating patterns before and after hypothesized non-multipacting and multipacting-related quenches. Notable differences in heating patterns and magnitudes help discern the mechanisms underpinning quench events in Nb3Sn cavities, vital for improving thermal stability and suppressing undesired events【12:8†temp_paper_124b39d17e7a1b34f10d8171878260c2.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/0__page_15_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_7.jpeg"
+    },
+    "_page_4_Figure_3.jpeg": {
+      "caption": "Figure 5 correlates film thickness, grain size, and surface roughness of Nb3Sn coatings. This relationship is essential for refining coating procedures, showing thinner films with smaller grains can achieve reduced roughness and enhance the superconducting properties of coated cavities【12:1†temp_paper_124b39d17e7a1b34f10d8171878260c2.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2008.00599/images/_page_4_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_3.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.2217,
+    "api_cost": 0.2217,
+    "file_storage_cost": 0.0,
+    "total_time": 205.03,
+    "request_count": 3,
+    "average_cost_per_request": 0.0739,
+    "average_time_per_request": 68.34,
+    "files_uploaded": 26,
+    "total_file_size": 1281333
+  }
+}

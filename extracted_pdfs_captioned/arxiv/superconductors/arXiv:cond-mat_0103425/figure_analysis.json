@@ -1,0 +1,74 @@
+{
+  "paper_id": "95314c9de3f44641f86a2bd939136177",
+  "pdf_path": "apl/Superconductors/arXiv:cond-mat_0103425.pdf",
+  "processing_timestamp": "2025-06-23T15:33:18.671627",
+  "figure_analysis": {
+    "_page_3_Figure_1.jpeg": {
+      "caption": "This figure shows the field (T) as a function of temperature (K) for three different MgB2 thin films (Film 1, Film 2, and Film 3), with Film 1 represented in blue, Film 2 in black, and Film 3 in red. The graph highlights the irreversibility fields (H*(T) bulk) and the upper critical fields (Hc2(T) bulk) for bulk MgB2. The data shows that Film 2 exhibits a much steeper slope in the H*(T) line compared to bulk samples, indicating higher high-field performance. This signifies that Film 2 has an enhanced critical field behavior due to its unique composition and processing conditions, which is of scientific importance for superconducting applications where high magnetic fields are required.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0103425/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "_page_2_Figure_21.jpeg": {
+      "caption": "The figure displays critical current density (Jc, in A·cm^-2) plotted against the magnetic field (T) for three MgB2 films at different temperatures. Insets show Jc at extremely low temperatures (4.2 K for Film 3 in blue and Film 1 in red, and a range up to 25 K for others). Film 3 demonstrates the highest Jc value at low fields indicating superior current carrying capability, while Film 2 sustains higher Jc over a wide range of field strengths, especially advantageous for technological applications, emphasizing its potential as a high-performance thin-film superconductor.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0103425/images/_page_2_Figure_21.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_21.jpeg"
+    },
+    "_page_2_Figure_17.jpeg": {
+      "caption": "Resistivity (μΩ·cm) as a function of temperature (K) for Films 1, 2, and 3. Film 1 is represented by red markers, Film 2 by black squares, and Film 3 by blue circles. The inset zooms in on resistive transitions near the critical temperature. The graph illustrates that Film 2 has a significantly higher resistivity, suggesting increased oxygen content or structural differences that impact superconducting properties, emphasizing the role of film processing conditions on electrical performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0103425/images/_page_2_Figure_17.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_17.jpeg"
+    },
+    "_page_2_Figure_20.jpeg": {
+      "caption": "Magnetic moment (10^-6 Am^2) as a function of the magnetic field (T) for three MgB2 thin films at 4.2 K, with Film 1 in red, Film 2 in black, and Film 3 in blue. The inset shows magnified hysteresis loop closures, indicating differences in magnetic response. Film 2 shows larger closure fields, affirming stronger flux pinning and enhanced superconducting qualities compared to Films 1 and 3, highlighting its utility in high magnetic field applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0103425/images/_page_2_Figure_20.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_20.jpeg"
+    },
+    "_page_3_Figure_5.jpeg": {
+      "caption": "X-ray diffraction θ-2θ scans for Films 1, 2, and 3, demonstrating (002) peaks for MgB2 and MgO. The shifts in the 2θ position indicate variations in the c-lattice parameter, especially larger for Film 2, correlating with higher oxygen content, affecting its superconducting properties. The elevated c-parameter for Film 2 implies structural modifications conducive to improved superconducting characteristics.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0103425/images/_page_3_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_5.jpeg"
+    },
+    "_page_2_Figure_22.jpeg": {
+      "caption": "Pinning force densities (Fp, in 10^9 N/m^3) at 4.2 K plotted against the magnetic field (T) for Films 1, 2, and 3, highlighting Film 3's higher pinning force densities, with Film 2 also exhibiting substantial values. This reflects the films' capacity to retain magnetic flux lines, essential for robust superconducting applications, with Film 3 showing particularly promising features for technological superconductors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0103425/images/_page_2_Figure_22.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_22.jpeg"
+    },
+    "_page_3_Figure_3.jpeg": {
+      "caption": "Transmission electron microscopy (TEM) images of Film 2 reveal a fine-grained MgB2 layer (~10 nm grain size), with selected area diffraction patterns indicating a fibrous texture of crystallites. This microscopic understanding of Film 2's structure, including significant oxygen incorporation, explains its enhanced superconducting performance, particularly in high fields.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0103425/images/_page_3_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_3.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0507,
+    "api_cost": 0.0507,
+    "file_storage_cost": 0.0,
+    "total_time": 60.26,
+    "request_count": 1,
+    "average_cost_per_request": 0.0507,
+    "average_time_per_request": 60.26,
+    "files_uploaded": 8,
+    "total_file_size": 309207
+  }
+}

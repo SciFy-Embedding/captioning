@@ -1,0 +1,178 @@
+{
+  "paper_id": "5b56d3e35b8fde71dd739dae0fcaedc1",
+  "pdf_path": "apl/Superconductors/arXiv:1706.10253.pdf",
+  "processing_timestamp": "2025-06-23T14:04:07.255792",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "The figure shows the relationship between the Residual Resistivity Ratio (RRR) and the non-matrix critical current density (Jc) at 4.2 K, 15 T, in A/mm² for various samples. Axis labels include 'Non-matrix Jc' for the x-axis and 'RRR' for the y-axis. The data points are distinguished by color and shape to represent different sample groups. The key trend indicates that with increasing non-matrix Jc beyond approximately 1400 A/mm², the RRR values significantly increase. This illustrates the impact of the processing conditions and compositional variances among Nb3Sn strands. The significance of this visualization in the study highlights the optimization potential for achieving high RRR with substantial superconducting performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1706.10253/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "2__page_29_Figure_1.jpeg": {
+      "caption": "This figure presents the Gibbs free energy of the Sn chemical potential (μSn) in correlation with the Nb3Sn and Cu-Sn system. The x-axis represents the Sn mole fraction (XSn), whereas the y-axis displays the Gibbs energy (kJ/mol). Curves are distinguished for μSn in both Nb3Sn and Cu-Sn phases at 675 °C. The main finding is the illustration of chemical potential drops across the diffusion couple, indicating the thermodynamic favorability of transformations crucial for Nb3Sn phase growth. This figure underscores how the chemical potential influences the stoichiometry and phase stability of reaction products, affecting the superconducting properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1706.10253/images/2__page_29_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_29_Figure_1.jpeg"
+    },
+    "0__page_9_Figure_1.jpeg": {
+      "caption": "The figure illustrates the relationship between non-copper critical current density (Jce) at 4.2 K, 12 T (y-axis) and the tin concentration expressed as Sn atomic percent over the sum of Sn and Cu atomic percent within a barrier (x-axis). The figure shows a trend where higher tin concentration correlates with significantly higher Jce values. This figure is key to understanding the role of Sn concentration in optimizing the superconducting properties of Nb3Sn wires by boosting the Jce through composition control.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1706.10253/images/0__page_9_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_1.jpeg"
+    },
+    "_page_7_Figure_0.jpeg": {
+      "caption": "This set of subfigures presents cross-sectional SEM images of different Nb3Sn subelement configurations. The subfigures display various designs including Ta barrier with Nb filaments, Sn-Ti cores, Sn cores, and Nb-Ta tubes interspersed with Cu matrices. Each subfigure (a-d) is labeled with components and the corresponding magnification scale bars. The morphological differences highlight the structural variations influencing Sn diffusion and reaction kinetics. The educational significance of this figure is its demonstration of how internal filament architecture impacts Nb3Sn conductor performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1706.10253/images/_page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_0.jpeg"
+    },
+    "3__page_40_Figure_1.jpeg": {
+      "caption": "The SEM images depict the fractured surface morphologies of filaments treated with NbO2 and SnO2 powders at 650 °C for 150 hours. The micrographs highlight significant differences in grain size and morphology between the two treatments, with labels indicating the scale. This examination elucidates the impact of oxide additives on microstructural refinement, showcasing how internal oxidation techniques refine grain size and enhance performance of Nb3Sn layers.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1706.10253/images/3__page_40_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_40_Figure_1.jpeg"
+    },
+    "2__page_31_Figure_2.jpeg": {
+      "caption": "This graph depicts the non-matrix Jce of three exemplary TT wires at 4.2 K against different magnetic fields, with a focus on variations due to Cu/Sn ratios. The x-axis represents the magnetic field (T) while the y-axis shows Jce (A/mm²). The different lines correspond to different Cu/Sn ratios labeled in the legend. The findings reveal a distinct drop in Jce with increasing magnetic field, more pronounced with decreased Cu/Sn ratios, indicating copper's role in tuning superconducting properties through fine Sn control.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1706.10253/images/2__page_31_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_31_Figure_2.jpeg"
+    },
+    "2__page_30_Figure_1.jpeg": {
+      "caption": "The figure schematically displays chemical potential profiles of Sn across a Sn source/Nb3Sn/Nb diffusion system. Two separate profiles denote high and low chemical potential Sn sources, with respective changes in Sn mole fraction (ΔXSn) illustrated. The schematic graphically presents the basic thermodynamics clarifying the potential gradients needed for phase transformations, directly impacting Sn content uniformity and ultimately, the efficiency of Nb3Sn superconductors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1706.10253/images/2__page_30_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_30_Figure_1.jpeg"
+    },
+    "1__page_23_Figure_0.jpeg": {
+      "caption": "In this plot, the Sn content within the Nb3Sn layer is analyzed as a function of distance from the Sn source/Nb3Sn interface. The x-axis quantifies this distance (in micrometers), whereas the y-axis indicates Sn content in atomic percent. Data points are used to contrast bronze-process wires with distributed-barrier internal-tin types. The graphs show that distributed-barrier internal-tin wires maintain more uniform Sn profiles, which are crucial for enhancing superconducting characteristics by avoiding regions of Sn deficiency.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1706.10253/images/1__page_23_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_23_Figure_0.jpeg"
+    },
+    "0__page_13_Figure_1.jpeg": {
+      "caption": "Presented here are the upper critical field values (Bc2) at 4.2 K as a function of heat treatment temperature across different strand types: RRP, PIT, and TT. The x-axis is the heat treatment temperature (°C), and the y-axis is Bc2 (T). Markers distinguish Ta-doped and Ti-doped RRP strands. The data highlights a trend where Ti-doped strands achieve higher Bc2 up to a saturation point, outlining how heat treatment and alloy dopants mediate the superconducting limits applicable in high-field magnet applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1706.10253/images/0__page_13_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_1.jpeg"
+    },
+    "0__page_14_Figure_0.jpeg": {
+      "caption": "The figure displays SEM images of TT and RRP subelements after full reactions. Subelement fractions for (a) TT and (b) RRP are detailed, including unreacted Nb, fine-grain Nb3Sn, coarse-grain Nb3Sn, and core regions. TT subelements contain a higher proportion of unreacted Nb and coarse-grain Nb3Sn, resulting in a lower fine-grain Nb3Sn fraction compared to RRP subelements. This structural differentiation affects superconductive properties, with fine-grain Nb3Sn being the primary carrier of superconducting current. The analysis aids in understanding the microstructural influence on the superconducting performance of different wire types .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1706.10253/images/0__page_14_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_0.jpeg"
+    },
+    "1__page_19_Figure_1.jpeg": {
+      "caption": "This plot illustrates the area fractions of fine-grain Nb3Sn, coarse-grain Nb3Sn, and core regions relative to total area as a function of the Cu/Sn ratio in unreacted subelements of TT and RRP wires. The graph highlights that increased Cu/Sn ratios initially enhance fine-grain Nb3Sn at the expense of coarse grains, but excessive Cu causes a dilution effect. This indicates precise Cu/Sn control is critical to optimizing fine-grain Nb3Sn, which directly enhances superconducting currents in Nb3Sn strands.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1706.10253/images/1__page_19_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_19_Figure_1.jpeg"
+    },
+    "2__page_27_Figure_0.jpeg": {
+      "caption": "The schematic depicts the diffusion reaction process for grain boundary diffusion of Sn in Nb3Sn layers. It visualizes the interfaces and layers of Nb3Sn forming at different stages (t1, t2, t3) of the diffusion process. The illustration emphasizes the role of grain boundary diffusion versus bulk diffusion, highlighting how diffusion rates can affect Nb3Sn stoichiometry and resulting superconducting quality. Effective diffusion management is crucial for optimizing Nb3Sn properties in superconducting applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1706.10253/images/2__page_27_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_27_Figure_0.jpeg"
+    },
+    "0__page_17_Figure_0.jpeg": {
+      "caption": "Shown is an isothermal section of the ternary Cu-Nb-Sn phase diagram marking the composition boundaries for various Nb3Sn wire types. This diagram assists in visualizing how different component ratios influence the phase stability, explaining structural outcomes like fine or coarse-grain formation. Understanding these phase equilibria is essential for optimizing wire fabrication processes to favor superconducting grain structures .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1706.10253/images/0__page_17_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_17_Figure_0.jpeg"
+    },
+    "2__page_32_Figure_1.jpeg": {
+      "caption": "SEM images show columnar grains in TT wires at the Nb3Sn/Nb interface after processing with varying Cu/Sn ratios. These images demonstrate how increasing the Cu/Sn ratio results in thicker columnar grain layers, which negatively impacts superconducting properties due to their lower pinning efficiency. The investigation underlines the critical balance needed in Cu/Sn ratios for optimizing the microstructure and performance of superconducting wires .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1706.10253/images/2__page_32_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_32_Figure_1.jpeg"
+    },
+    "1__page_18_Figure_0.jpeg": {
+      "caption": "These SEM images chronicle the transformation in TT wires' grain structure with different Cu/Sn ratios, from the green state to post-reaction stages at different temperatures. The evolution outlines how Cu/Sn ratios influence the distribution of fine-grain and coarse-grain Nb3Sn, impacting material stability and superconducting behavior. Knowledge of such transformations is pivotal for tailoring processing conditions to enhance Nb3Sn wire performance .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1706.10253/images/1__page_18_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Figure_0.jpeg"
+    },
+    "3__page_39_Figure_2.jpeg": {
+      "caption": "Schematics depict modified TT and PIT filaments designed for internal oxidation processes with strategic placement of oxide powders. These designs facilitate the oxidation necessary to refine grain structures, proven by reduced grain size in subsequent SEM images. This internal oxidation technique signifies a forward step in manipulating Nb3Sn physical properties through controlled microstructure adjustments .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1706.10253/images/3__page_39_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_39_Figure_2.jpeg"
+    },
+    "3__page_38_Figure_0.jpeg": {
+      "caption": "A plot compares the standard free energy changes of various oxides at different temperatures, hinting at their thermodynamic stability. The graph suggests conditions for oxide formation within superconducting wire filaments and their potential impact on refining Nb3Sn grain size and improving superconductive characteristics. Mastery over such thermodynamic parameters could facilitate advancements in superconducting technology .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1706.10253/images/3__page_38_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_38_Figure_0.jpeg"
+    },
+    "1__page_25_Figure_1.jpeg": {
+      "caption": "The schematics describe a typical Sn source/Nb3Sn/Nb diffusion system in a planar geometry, featuring profiles of the chemical potential of Sn across this system. The figures explain how the Sn chemical potential influences diffusion and reaction processes that govern Nb3Sn layer growth. Such insights are crucial for controlling the Sn distribution, affecting the resulting superconducting phase's quality and current-carrying capability.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1706.10253/images/1__page_25_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_25_Figure_1.jpeg"
+    },
+    "3__page_42_Figure_0.jpeg": {
+      "caption": "This figure panel features (a) an SEM image of the fractured surface of TT wire treated with SnO2 powder and (b) a normalized pinning force density curve (Fp/Bc2) at 4.2 K. The SEM micrograph (a) shows a refined microstructure with grain sizes averaging 30 nm. The graph in (b) plots the normalized pinning force (Fp) against the normalized magnetic field (B/Bc2), depicting experimental data for TT wires. A fitted curve indicates the peak of Fp shifting towards 0.4*Bc2* for very fine grains, correlating with the enhanced point pinning from grain size refinement. These analyses are vital as they illustrate how significant grain size reduction, facilitated by internal oxidation, optimizes the superconducting properties by enhancing pinning mechanisms.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1706.10253/images/3__page_42_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_42_Figure_0.jpeg"
+    },
+    "_page_5_Figure_0.jpeg": {
+      "caption": "The plot depicts the trend of 4.2 K, 12 T non-Cu critical current density (Jce) against the year, demonstrating the progression of current density improvements in Nb3Sn strands. The y-axis represents Jce in A/mm², and the x-axis spans years from 1980 to 2020. A clear upward trend is evident, highlighting technological advancements and optimizations in material processing that have contributed to substantial increases in Jce, achieving up to 3000 A/mm² in the latest strands. This continuous improvement supports the ongoing development of higher-efficiency conductors for use in magnet applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1706.10253/images/_page_5_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.2137,
+    "api_cost": 0.2137,
+    "file_storage_cost": 0.0,
+    "total_time": 181.87,
+    "request_count": 3,
+    "average_cost_per_request": 0.0712,
+    "average_time_per_request": 60.62,
+    "files_uploaded": 21,
+    "total_file_size": 1065843
+  }
+}

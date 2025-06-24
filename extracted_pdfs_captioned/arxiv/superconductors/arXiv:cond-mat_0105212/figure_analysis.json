@@ -1,0 +1,50 @@
+{
+  "paper_id": "e09d5d1dc0d8bcfa701097d16835c2c9",
+  "pdf_path": "apl/Superconductors/arXiv:cond-mat_0105212.pdf",
+  "processing_timestamp": "2025-06-23T15:33:22.291626",
+  "figure_analysis": {
+    "_page_7_Figure_1.jpeg": {
+      "caption": "Figure 2 shows the irreversibility line (IL) and the upper critical field (Hc2) for both powders and sintered samples of MgB2, with additional references to the materials YBCO and Nb3Sn. The x-axis represents reduced temperature (T/Tc), while the y-axis represents the magnetic field strength (μ0H) in teslas. Continuous lines denote the IL, indicating the external magnetic field strength at which the superconducting material transitions from an entirely to a partially superconducting state as the temperature increases. Dotted lines reveal the Hc2, marking the field beyond which superconductivity is completely suppressed. This figure underscores that, although disorder was introduced in the structure by doping, the IL of MgB2 remains significantly lower than those of YBCO and Nb3Sn. Additionally, no significant change in Hc2 behavior was observed due to substitution or doping. The distinct weaker field-dependence of irreversibility in these samples highlights the necessity of introducing effective pinning centers for enhancing practical applicability of MgB2 superconductors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0105212/images/_page_7_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_1.jpeg"
+    },
+    "_page_7_Figure_0.jpeg": {
+      "caption": "Figure 1 illustrates susceptibility measurements as a function of temperature at a constant 10 Gauss magnetic field for various samples: pure powders, pure sintered samples, powders derived from reground sintered samples, and sintered samples doped with Al, Si, and Li. The susceptibility is normalized to χ = -1 at low temperatures. On the x-axis is the temperature, while the y-axis shows susceptibility. The figure reveals the impact of doping on the superconducting transition temperature (Tc), with pure samples and powders showing the highest Tc onset at approximately 38.8 K. Doping with Al results in the biggest Tc drop (to 37.2 K), while Li and Si induce minor reductions, showing that the dopants enter the lattice and affect Tc. Notably, the transition in sintered samples worsens compared to individual powders, highlighting the need to balance grain size and shielded volume for efficient superconductivity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0105212/images/_page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_0.jpeg"
+    },
+    "_page_9_Figure_0.jpeg": {
+      "caption": "Figure 3 presents hysteresis loops at 5 K for various MgB2 sample forms, including sintered, pure, and reground. Magnetization (M) in emu/cm³ is plotted against the magnetic field (μ0H) in teslas, illustrating the influence of the sintering process on intrinsic superconducting properties. Across all samples, a substantial decline in magnetization with increased field strength is noted, diminishing by one order from zero to 2 Tesla. The effect of doping primarily intensifies the loop amplitude, suggesting enhanced superconducting connectivity. Numerous jumps in magnetization at low fields imply strong field gradients due to high critical current density (Jc) and optimal granularity or 'connectedness' of samples.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0105212/images/_page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_9_Figure_0.jpeg"
+    },
+    "_page_8_Figure_0.jpeg": {
+      "caption": "Figure 4 includes panels a and b depicting detailed magnetic analysis of pure sintered MgB2 samples. (a) Plots the remanent magnetization (Mrem) versus maximum magnetic field (μ0Hmax) at 5 K, where a one-step transition signals the absence of microstructural granularity, implying well-connected superconducting pathways. (b) Illustrates the derivative of the magnetization reverse leg, dM/dH, against decreased magnetic field at 25 K with μ0Hmax = 0.6 T. Experimental data (triangles) aligns well with a theoretical model (circles with continuous line), confirming a bulk-like superconducting state suitable for Jc calculations using the Critical State Model. Such insights verify the compactness and moderate critical current performance, aiding further enhancement strategies.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0105212/images/_page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0465,
+    "api_cost": 0.0465,
+    "file_storage_cost": 0.0,
+    "total_time": 59.59,
+    "request_count": 1,
+    "average_cost_per_request": 0.0465,
+    "average_time_per_request": 59.59,
+    "files_uploaded": 5,
+    "total_file_size": 294062
+  }
+}

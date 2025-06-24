@@ -1,0 +1,34 @@
+{
+  "paper_id": "fd0651f570b790f7228e3e84dd44c6e0",
+  "pdf_path": "apl/Superconductors/arXiv:cond-mat_0301491.pdf",
+  "processing_timestamp": "2025-06-23T15:39:12.668830",
+  "figure_analysis": {
+    "_page_3_Figure_4.jpeg": {
+      "caption": "This figure illustrates the normalized superconducting order parameter |ψσ(p)|/|ψσ(0)| as a function of normalized pressure p/pc, highlighting the non-adiabatic effects and electronic topological transition due to pressure on a two-band superconductor like MgB2. The x-axis represents the normalized pressure (p/pc) while the y-axis shows the normalized order parameter for the superconducting state. A distinct 'kink' is observed at a specific pressure, which is indicative of a crossover pressure pc where the two subbands become nearly degenerate and start participating in the superconductivity. The inset shows the behavior of the critical temperature Tc as a function of normalized pressure, with a noticeable reduction aligning with the kink. This behavior and the form of the kink are described by the pressure dependence of the order parameters, considering the Ginzburg-Landau theory tailored for MgB2. Scientifically, this figure demonstrates the sensitivity of superconducting parameters to pressure-induced changes in electronic structure, vital for understanding the superconducting mechanisms of materials undergoing electronic topological transitions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0301491/images/_page_3_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_4.jpeg"
+    },
+    "_page_3_Figure_13.jpeg": {
+      "caption": "This schematic plot represents the concentration dependency of the superconducting gap Γc(x) in an Al-doped MgB2-like system. The x-axis portrays the concentration of aluminum (xc), while the y-axis shows the superconducting gap Γc(x). It visually demonstrates the effect of varying Al concentration, simulating pressure effects in alternative ways for accomplishing electronic topological transitions. The plot suggests a distinct change in slope at a particular concentration xc, indicative of a critical transition point. This schematic highlights the role of substitutional doping as an experimental strategy to modulate the electronic states and, consequently, the superconducting properties of multi-band superconductors. The figure is significant as it showcases the theoretical modeling of electronic changes without actual pressure application, demonstrating another dimension in superconducting research facilitated by chemically altering the composition.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0301491/images/_page_3_Figure_13.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_13.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0523,
+    "api_cost": 0.0523,
+    "file_storage_cost": 0.0,
+    "total_time": 26.82,
+    "request_count": 1,
+    "average_cost_per_request": 0.0523,
+    "average_time_per_request": 26.82,
+    "files_uploaded": 3,
+    "total_file_size": 59650
+  }
+}

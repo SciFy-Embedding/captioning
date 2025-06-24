@@ -1,0 +1,50 @@
+{
+  "paper_id": "b4e471bdf8826683768e24a6e0091abd",
+  "pdf_path": "apl/Superconductors/arXiv:2004.10921.pdf",
+  "processing_timestamp": "2025-06-23T14:25:46.361952",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "Figure 1 presents the SEM and AFM images of Nb3Sn films prepared under different conditions. Images (a) through (d) and (e) through (h) depict conditions 1 to 4, respectively, showing the surface morphology and topography. The SEM images (a-d) reveal grain distribution, while the AFM images (e-h) depict surface roughness variations. The films under condition 1 with equal Nb and Sn thickness exhibited larger clusters and voids (a), resulting in the highest RMS roughness of 66.2±24.3 nm. In contrast, films under condition 4 with a 4:1 Nb:Sn ratio displayed smoother surfaces, correlating with lower roughness (26.8±1.2 nm). These observations highlight how Nb:Sn layer thickness ratios influence surface morphology and roughness, affecting superconducting properties and structural integrity of Nb3Sn films.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2004.10921/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "0__page_7_Figure_0.jpeg": {
+      "caption": "Figure 4 illustrates the structural and superconducting metrics of Nb3Sn films analyzed under conditions 5-8. Panel (a) shows the XRD patterns indicating Nb3Sn diffraction peaks regardless of layer variations, highlighting a consistent crystal structure. Panel (b) plots the crystallite size and lattice parameter across variable Sn film thicknesses, reflecting negligible change due to compositional consistency. Panel (c) displays resistivity as a function of temperature, essential in assessing superconducting transitions, and panel (d) shows T<sub>c</sub> and ΔT<sub>c</sub> versus Sn thickness, indicating consistently high superconducting performance, especially at condition 8 with maximal T<sub>c</sub>.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2004.10921/images/0__page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_0.jpeg"
+    },
+    "0__page_6_Figure_1.jpeg": {
+      "caption": "Figure 3 provides SEM and AFM micrographs of Nb3Sn films made under conditions 5-8, indicating surface characteristics influenced by Sn layer thickness. SEM images (a-d) show grain distribution across the surfaces, while AFM images (e-h) reflect variations in surface topology. The results suggest minor variations in grain size, despite different layer thicknesses. Condition 8 results in a more uneven surface with elevated RMS roughness due to thicker Sn layers. Such alterations in morphology underlie the importance of optimizing Sn layer specifications to maintain desirable film textures and optimal superconducting outcomes.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2004.10921/images/0__page_6_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_6_Figure_1.jpeg"
+    },
+    "_page_5_Figure_0.jpeg": {
+      "caption": "Figure 2 highlights the impact of Nb:Sn thickness ratios on the structural and superconducting properties of Nb3Sn films for conditions 1-4. Panel (a) presents XRD data showing consistent polycrystalline forms across conditions. Panel (b) demonstrates changes in crystallite size and lattice parameter as a function of Nb:Sn ratios, indicating a decrease in crystallite size with an increase in Nb layer thickness. Panels (c) and (d) present resistivity versus temperature and superconducting transitions respectively, exhibiting optimal T<sub>c</sub> when Nb:Sn ratio is 1:1. The study underscores the dependency of film superconductivity and structure on atomic layer configurations.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2004.10921/images/_page_5_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0476,
+    "api_cost": 0.0476,
+    "file_storage_cost": 0.0,
+    "total_time": 34.46,
+    "request_count": 1,
+    "average_cost_per_request": 0.0476,
+    "average_time_per_request": 34.46,
+    "files_uploaded": 5,
+    "total_file_size": 666280
+  }
+}

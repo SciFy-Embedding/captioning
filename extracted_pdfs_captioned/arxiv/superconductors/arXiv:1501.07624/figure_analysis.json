@@ -1,0 +1,66 @@
+{
+  "paper_id": "f116d1d0d33ec8a4e5f2d5b86e8c3122",
+  "pdf_path": "apl/Superconductors/arXiv:1501.07624.pdf",
+  "processing_timestamp": "2025-06-23T13:47:16.299981",
+  "figure_analysis": {
+    "_page_3_Figure_0.jpeg": {
+      "caption": "Figure 3 shows the cross-sectional design of the elliptical tungsten liner inside the BCS1 8 T dipole, part of the radiation protection system for the Higgs Factory (HF). The liner, with dimensions of 4.1 cm horizontally and 2 cm vertically, surrounds the beam and is configured to be cooled at 60-80 K. Outside the liner, in radial order, are the support structure, stainless steel beam pipe, Kapton insulation, liquid helium channel, and finally, the Nb3Sn coil cooled at 4.5 K. This configuration is part of a larger system designed to protect superconducting magnets from heat and radiation damage, ensuring operational stability and longevity by reducing the peak power density to below the quench limit of the superconducting coils.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07624/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "_page_1_Figure_10.jpeg": {
+      "caption": "Figure 1 illustrates the MARS15 model of the Higgs Factory collider, including the experimental hall and a SiD-like detector at the interaction point (IP). This model integrates the lattice and detector configurations and incorporates a detailed magnetic field map to simulate the effects of radiation and optimize superconducting magnet protection. The design emphasizes a large aperture for SC magnets in the IR to accommodate beam emittance and protect against decay product-induced showers.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07624/images/_page_1_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_10.jpeg"
+    },
+    "_page_3_Figure_4.jpeg": {
+      "caption": "Figure 5 displays the dynamic heat load in superconducting magnets along half of the HF collider, with heat loads to tungsten masks and liners depicted in red (60-80 K) and cold mass in blue (4.5 K). This visualization helps understand the heat management strategies required to maintain the operational efficiency of the cryoplant and manage cryogenic costs. The system successfully achieves an average dynamic heat load below the 10 W/m level acceptable for the system's operational temperature, illustrating the effectiveness of the radiation protection system.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07624/images/_page_3_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_4.jpeg"
+    },
+    "_page_0_Picture_0.jpeg": {
+      "caption": "This image serves as the cover or banner for the research paper titled 'Mitigating Radiation Impact on Superconducting Magnets of the Higgs Factory Muon Collider' contributed by N.V. Mokhov et al., supporting efforts by the Fermi National Accelerator Laboratory. The research explores detailed radiation protection modeling to enhance the sustainability and efficiency of superconducting magnets in a muon collider setting.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07624/images/_page_0_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_0_Picture_0.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Figure 2 presents a segment of the HF MDI (machine-detector interface) MARS15 model, focusing on the implementation of tungsten components for radiation protection. The image shows tungsten nozzles on each side of the IP, strategically placed tungsten masks in interconnect regions, and precise tungsten liners within each magnet. These components are integral to reducing radiation impact and dynamic heat load to acceptable levels, thereby facilitating stable operating conditions for the SC magnets.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07624/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    },
+    "_page_3_Figure_2.jpeg": {
+      "caption": "Figure 4 shows the power density isocontours within the BCS1 dipole of the HF collider as modeled by MARS15 simulations. The contours illustrate the reduced peak power density due to the presence of tungsten masks and liners, bringing levels below 1 mW/g, which is well under the quench limit of superconducting materials. This figure validates the effectiveness of the proposed radiation protection system in mitigating radiation-induced risks in HF collider magnets.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07624/images/_page_3_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_2.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0337,
+    "api_cost": 0.0337,
+    "file_storage_cost": 0.0,
+    "total_time": 46.78,
+    "request_count": 1,
+    "average_cost_per_request": 0.0337,
+    "average_time_per_request": 46.78,
+    "files_uploaded": 7,
+    "total_file_size": 349266
+  }
+}

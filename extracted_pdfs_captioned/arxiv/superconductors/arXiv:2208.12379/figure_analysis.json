@@ -1,0 +1,66 @@
+{
+  "paper_id": "4b8edf9e5c447501da56bbd149f7eaaa",
+  "pdf_path": "apl/Superconductors/arXiv:2208.12379.pdf",
+  "processing_timestamp": "2025-06-23T14:52:43.350123",
+  "figure_analysis": {
+    "_page_7_Figure_0.jpeg": {
+      "caption": "Figure 4 illustrates the relationship between the Residual Resistance Ratio (RRR) and the critical current (Ic) at 15 Tesla and 4.2 Kelvin for RRP strands contributed to the US-based HL-LHC upgrade project. Each point represents a quality control sample with the different shadings indicating various procurement stages throughout the project progression. The vertical and horizontal red lines establish the standards for rolled strand specifications. This study emphasizes that the RRR of rolled strands suitably corresponds with the performance degradation seen in cable extraction tests, signifying the simulation's accuracy. The critical current of these strands demonstrates resilience against rolling or cabling-induced distortions, a key finding for ensuring future high-field magnet capabilities.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.12379/images/_page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_0.jpeg"
+    },
+    "_page_5_Picture_8.jpeg": {
+      "caption": "Figure 3 provides cross-sectional images of Hi-Lumi LHC quadrupole conductors. From left to right: a 108/127 RRP strand, a 132/169 RRP strand, and a 192/217 PIT strand, all originating from Bruker. These images serve a quality control function to demonstrate sub-element configuration within the composite superconducting strands. The differences highlight the structural progression from reaction sequences that convert initial filaments into Nb3Sn or other superconducting phases, influencing effective filament diameter and thus minimizing magnetization currents, a critical consideration for minimizing unintended flux shedding and quenching.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.12379/images/_page_5_Picture_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Picture_8.jpeg"
+    },
+    "_page_1_Figure_6.jpeg": {
+      "caption": "Figure 1 shows a comparative plot of upper critical field (Hc2) or irreversibility field (Birr) against temperature for a range of magnet conductor materials. Various materials like Iron-based, Bi-2212, Nb3Sn, REBCO, and MgB2 are presented as potential alternatives or adjuncts to currently utilized superconductors Nb-Ti and Nb3Sn. This figure illustrates the high-temperature superconducting (HTS) potential to maintain superconductivity at elevated fields and temperatures, paramount for expanding the operational regimes of particle accelerators and fusion reactors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.12379/images/_page_1_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_6.jpeg"
+    },
+    "0__page_11_Figure_0.jpeg": {
+      "caption": "Figure 5 outlines the melt-solidification process and resulting microstructure in Bi-2212 strands. The schematic (top left) illustrates the temperature and time stages involved, and an optical micrograph (bottom right) displays the microstructure post-optimal heat treatment (HT) at 50 bar pressure. The exemplary crystallographic alignment and texturing achieved, as evidenced by a predominant directional green orientation in the upper right image, are vital for ensuring current continuity in high-Jc HTS applications. This process is essential for achieving the desired high performance in accelerator magnets.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.12379/images/0__page_11_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_0.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Figure 2 presents data on critical current density (Jc) as a function of applied magnetic field (B) for several superconducting materials. The graph indicates comparative performance, with REBCO and Bi-2212 displaying superior ability to maintain higher Jc under increasing magnetic fields compared to traditional Nb-based wires. Such advancements underscore the evolving landscape of superconductive materials and their impact on constructing more efficient, higher-field magnets crucial for future particle accelerators and related applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.12379/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    },
+    "0__page_11_Picture_2.jpeg": {
+      "caption": "Figure 6 depicts the high-pressure reaction furnaces utilized in Bi-2212 coil treatments. The two furnaces, with distinct dimensional capacities, play a crucial role in executing the uniform temperature zones required for proper coil treatment processing. Implementation of such advanced HT configuration is pivotal for scaling Bi-2212 conductor technologies for accelerator magnets, providing pathways towards high-field applications in practical implementations and further stressing the adaptability of wire-drawing and cabling techniques similar to those used in Nb-based superconductors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.12379/images/0__page_11_Picture_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Picture_2.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0595,
+    "api_cost": 0.0595,
+    "file_storage_cost": 0.0,
+    "total_time": 44.52,
+    "request_count": 1,
+    "average_cost_per_request": 0.0595,
+    "average_time_per_request": 44.52,
+    "files_uploaded": 7,
+    "total_file_size": 517810
+  }
+}

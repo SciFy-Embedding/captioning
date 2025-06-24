@@ -1,0 +1,58 @@
+{
+  "paper_id": "1d7b925ec901e3ec150e8a42d815482e",
+  "pdf_path": "apl/Superconductors/arXiv:cond-mat_0601656.pdf",
+  "processing_timestamp": "2025-06-23T15:44:17.687025",
+  "figure_analysis": {
+    "_page_3_Figure_1.jpeg": {
+      "caption": "This figure presents the anisotropic mean-square displacements of B (σ²(Bxy), σ²(Bz)) and Mg (σ²(Mgxy), σ²(Mgz)) atoms as a function of temperature. The data (represented as open circles) is extracted from the pair distribution function (PDF) analysis, showcasing single particle lattice motions and their correlation within the MgB2 lattice. The solid lines indicate calculations using the constant force (CF) model, while the dotted lines show the predictions with the Einstein model. The dashed line in the upper panels represents lattice displacements in the CF model excluding electron-phonon interactions. The experimental data illustrate the significant impact of electron-phonon coupling on lattice dynamics, highlighting the role of phonons in the vibrational behavior of atomic pairs across temperature ranges【4:4†temp_paper_1d7b925ec901e3ec150e8a42d815482e.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0601656/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "_page_4_Figure_1.jpeg": {
+      "caption": "This figure depicts phonon dispersion relations and phonon density of states (PDOS) for MgB2 as modeled through the constant force (CF) approach. The solid lines denote calculations accounting for electron-phonon interactions, whereas the dashed lines represent bare phonon dispersion absent of such interactions. A notable shift of spectral weight from 100 meV to 70 meV is observed when electron-phonon coupling is incorporated, demonstrating the softening effects on the E2g phonon modes. This provides insight into the complex interplay between phononic and electronic structures, critical for understanding superconductivity in MgB2【4:1†temp_paper_1d7b925ec901e3ec150e8a42d815482e.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0601656/images/_page_4_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_1.jpeg"
+    },
+    "_page_5_Figure_1.jpeg": {
+      "caption": "Figure 5 illustrates the mean-square relative lattice displacements (σ²ᵢⱼ) for intra-planar boron (B-B, panel a) and inter-planar B-Mg (panel b) atomic motions, derived from PDF peak broadening. The open circles represent experimental values, while solid and dotted lines show model predictions with CF and Einstein frameworks, respectively. Panel c and d display the temperature-dependent pair correlation function (ρᵢⱼ) for B-B and B-Mg, indicating discrepancies between model predictions and observed data. These findings suggest complex underlying interactions not entirely captured by harmonic models, emphasizing the need for incorporating anharmonic effects and electron-phonon interactions to better represent observed phenomena【4:0†temp_paper_1d7b925ec901e3ec150e8a42d815482e.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0601656/images/_page_5_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_1.jpeg"
+    },
+    "_page_2_Figure_1.jpeg": {
+      "caption": "This figure shows the reduced scattering structure function Q[S(Q) - 1] for MgB2 at 300 K, depicting the long-range crystalline order present within the sample. The Bragg peaks extend to high angles, reflecting the crystallinity and minimal disorder within the lattice framework. With atomic displacements elucidated by the structure factor, this data provides crucial information for modeling lattice dynamics and validating theoretical models against experimental results【4:3†temp_paper_1d7b925ec901e3ec150e8a42d815482e.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0601656/images/_page_2_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_1.jpeg"
+    },
+    "_page_2_Figure_12.jpeg": {
+      "caption": "Figure 2 presents the pair distribution function (PDF) G(r) for MgB2, measured at 300 K, along with a modeled fit and the difference curve. Experimental data (dots) are fitted by a least-squares refined curve (solid line). The lower panel shows deviations between experimental and modeled data, largely contained within standard deviations (dashed lines). This supports the accuracy of acoustic phonon descriptions and allows for the exploration of anharmonicity and electron-phonon interactions in phonon behavior, with significant implications for studies of superconductive materials【4:5†temp_paper_1d7b925ec901e3ec150e8a42d815482e.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0601656/images/_page_2_Figure_12.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_12.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0586,
+    "api_cost": 0.0586,
+    "file_storage_cost": 0.0,
+    "total_time": 44.72,
+    "request_count": 1,
+    "average_cost_per_request": 0.0586,
+    "average_time_per_request": 44.72,
+    "files_uploaded": 6,
+    "total_file_size": 306102
+  }
+}

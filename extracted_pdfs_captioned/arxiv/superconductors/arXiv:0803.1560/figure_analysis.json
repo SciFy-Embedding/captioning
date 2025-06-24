@@ -1,0 +1,170 @@
+{
+  "paper_id": "d97fe12faba36dc246c6b262a6d6e1d2",
+  "pdf_path": "apl/Superconductors/arXiv:0803.1560.pdf",
+  "processing_timestamp": "2025-06-23T13:19:05.469046",
+  "figure_analysis": {
+    "_page_1_Figure_2.jpeg": {
+      "caption": "The figure illustrates the mean-field H-T phase diagram for a type-II superconductor, depicting three distinct phases: Meissner, Mixed, and Normal. The axes plot magnetic field strength (H) against temperature (T). The Meissner phase is characterized by complete magnetic flux expulsion, occurring at low fields and temperatures. The Mixed phase shows partial penetration of the magnetic field forming vortices. The Normal phase, corresponding to high fields and temperatures, exhibits no superconductivity. The critical fields (Hc1 and Hc2) and their temperature dependences demarcate transitions between these phases. This model framework provides insight into the superconducting properties and the transitions due to changes in temperature and applied magnetic field.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0803.1560/images/_page_1_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_2.jpeg"
+    },
+    "1__page_18_Figure_5.jpeg": {
+      "caption": "Figure displays the 3D to 1D crossover lines, Tp vs. Hab,c, for NbSe2, derived from specific heat data. The solid line represents the crossover line for fields applied parallel to the ab-plane, while the dashed line indicates the dimensional crossover line for fields applied parallel to the c-axis. This figure corroborates with Gaussian fluctuations, emphasizing how dimensionality in materials alters superconductivity behavior. Such studies are critical for understanding anisotropy effects and practical applications where magnetic fields may vary in orientation .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0803.1560/images/1__page_18_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Figure_5.jpeg"
+    },
+    "0__page_9_Figure_1.jpeg": {
+      "caption": "This figure shows the scaling plot of H(1+±2)(@C/T)/@H(±c) vs. tH^1/2(±c) for a YBa2Cu3O6.97 single crystal under various magnetic fields. The solid line delineates the 3D to 1D crossover utilizing 3D-xy exponents, indicating how data conforms to these theoretical predictions. This provides excellent insight into the correlation of vortex dynamics with the magnetic field, showing how the transition between 3D and 1D regimes can be captured and the ceasing of traditional superconducting behavior .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0803.1560/images/0__page_9_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_1.jpeg"
+    },
+    "_page_6_Figure_3.jpeg": {
+      "caption": "The figure presents the m/(TH^1/2) vs. t/H^(3/4) plot for YBa2Cu4O8, demonstrating curve collapse under dominant 3D-xy fluctuations. Arrows denote the melting and 3D to 1D crossover lines. This supports the interpretation that fluctuations dominate this superconductive behavior, pointing out the finite size and dimension-driven effects seen in these systems. Such observations are critical for understanding finite-size scaling in high-temperature superconductors .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0803.1560/images/_page_6_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_3.jpeg"
+    },
+    "0__page_13_Figure_6.jpeg": {
+      "caption": "The plot displays ΔC/ΔC(H=0) vs. Tc(H) and Hc2(T) vs. T for Nb77Zr23, with theoretical fits, illustrating field-dependent transitions and changes in specific heat jump due to increasing magnetic field strength. The data highlights field role in smearing phase transitions, offering crucial insights into the field-induced finite size effect. These studies enhance comprehension of superconducting transitions, particularly detailing how wideneing gaps between vortices alter magnetic flux penetration and superconductivity .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0803.1560/images/0__page_13_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_6.jpeg"
+    },
+    "0__page_17_Figure_6.jpeg": {
+      "caption": "Illustrated here is the vortex melting line (Tm vs. H) for Nb3Sn, derived from TCP marked anomalies. The solid line defines the melting line, while a dashed line indicates the 3D to 1D crossover. These graphical insights underscore the role of field-induced effects leading to phase transitions from a vortex-supporting to a normal phase, a quintessential feature influencing superconductor functionality .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0803.1560/images/0__page_17_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_17_Figure_6.jpeg"
+    },
+    "1__page_18_Figure_2.jpeg": {
+      "caption": "The figure portrays the specific heat of NbSe2 across various magnetic fields parallel to the layers, demonstrating the broadening and reduction of the specific heat jump with field strength increases. This visualized behavior underscores dimensional transitions and their impact on thermal fluctuations and superconductivity loss across applied field spectra, highlighting the distinctive responses of NbSe2 in such conditions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0803.1560/images/1__page_18_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Figure_2.jpeg"
+    },
+    "0__page_12_Figure_2.jpeg": {
+      "caption": "The graph shows dM/dT vs. T for RbOs2O6 at different magnetic fields, exhibiting a shift in peak locations signaling thermal fluctuations and vortex state transitions. These observations lay groundwork for understanding thermal and magnetic interactions in superconductors with comparable structures, relevant to superconductor design to cope with variable temperature and field conditions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0803.1560/images/0__page_12_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_2.jpeg"
+    },
+    "0__page_17_Figure_1.jpeg": {
+      "caption": "The total specific heat of Nb3Sn in fields from 0 to 1 T, as illustrated, reveals the vortex melting transition (arrows indicate this transition). This behavior illustrates how field enhancements magnify thermal fluctuations, reinforcing the Gaussian fluctuations’ impact on superconductor phase behavior in low-field regimes. Understanding these interactions is vital for material engineering in applied superconductivity contexts .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0803.1560/images/0__page_17_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_17_Figure_1.jpeg"
+    },
+    "1__page_20_Figure_1.jpeg": {
+      "caption": "Figure presents the specific heat, Cf(Tp), of NbSe2 against the magnetic field strength Hab,c. The data shows a characteristic decrease in specific heat peak (Tp) for increasing field values, illustrated with solid and dashed lines for in-plane and out-of-plane field applications, respectively. This behavior exemplifies the field-induced thermodynamic changes in the superconducting state of NbSe2, critical for understanding the magnetothermal fluctuations within layered superconductors .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0803.1560/images/1__page_20_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_1.jpeg"
+    },
+    "0__page_13_Figure_1.jpeg": {
+      "caption": "Depicted is the specific heat, (Cs-Cn)/T, versus temperature for Nb77Zr23 across varied magnetic fields, highlighting how increased magnetic fields lead to a broadening and a downward shift of the specific heat jump near superconducting transition temperatures. This observation underscores the transformation of superconducting properties under the influence of magnetic fields, owing to dimensional and thermal fluctuation effects【4:0†temp_paper_d97fe12faba36dc246c6b262a6d6e1d2】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0803.1560/images/0__page_13_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_1.jpeg"
+    },
+    "0__page_10_Figure_1.jpeg": {
+      "caption": "This figure displays a scaling plot of H^1.25 d(C/T)/dB versus dimensionless temperature variable t/B^(1/2v) for Nb3Sn, discernibly separated into 3D and 1D regimes. The distinction emphasizes the transition from three-dimensional to one-dimensional behavior as thermal fluctuations are suppressed by the field, significant for mapping phase behavior transitions in superconductors .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0803.1560/images/0__page_10_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_1.jpeg"
+    },
+    "0__page_16_Figure_3.jpeg": {
+      "caption": "Shown is the crossover from 3D to 1D transitions in Nb3Sn, examining the changes in thermal behavior as a function of applied magnetic field. The left panel shows temperature (Tp) versus magnetic field (H) across the transition, whereas the right panel illustrates the specific heat, Cf(Tp), versus H, revealing consistent Gaussian fluctuation behavior across the field spectrum and the resultant broadening, pivotal for the understanding of superconducting states .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0803.1560/images/0__page_16_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_16_Figure_3.jpeg"
+    },
+    "0__page_11_Figure_2.jpeg": {
+      "caption": "Plotted is TH^d2M/dT^2 versus reduced temperature, x = t/(H^(3/4)) for a superconducting sample of YBa2Cu4O8, illustrated under various applied field conditions. The graph distinctly partitions into regions dominated by 3D and 1D fluctuations, providing an understanding of thermal effects and structural transitions indicative of superconductivity under field variations .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0803.1560/images/0__page_11_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_2.jpeg"
+    },
+    "0__page_15_Figure_1.jpeg": {
+      "caption": "Displayed is the scaling behavior of H^(1/2)C = f versus the temperature and magnetic field for Nb77Zr23. This plot confirms the finite size effect driven by Gaussian fluctuations, observing how the dimensionality transition is coupled with characteristic heat data across a range of field strengths .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0803.1560/images/0__page_15_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_1.jpeg"
+    },
+    "_page_8_Figure_1.jpeg": {
+      "caption": "The figure illustrates the magnetic field dependency of a superconductor, specifically a scaling plot of dim2M/dT2 at varied field strengths. The 3D to 1D crossover marked reveals the thermal fluctuation dependencies and magnetic responses in a YBa2Cu4O8 crystal, instrumental for broadening comprehension of magnetic field-induced phase transitions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0803.1560/images/_page_8_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_1.jpeg"
+    },
+    "0__page_16_Figure_1.jpeg": {
+      "caption": "Cystograms represent the total specific heat of Nb3Sn across magnetic fields up to 14 T. The plotted data incorporates corrections for background sendup with a dashed line and represents critical seamless transitions across phases for superconductivity induced by external magnetic factors【8:16†temp_paper_d97fe12faba36dc246c6b262a6d6e1d2】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0803.1560/images/0__page_16_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_16_Figure_1.jpeg"
+    },
+    "_page_6_Figure_1.jpeg": {
+      "caption": "Demonstrated on this plot is a scaling plot TH_cd2m/dT2 of YBa2Cu4O8 under magnetic field orientation along the c-axis. The transitions across 3D to 1D margins are highlighted, enriching comprehension of the complex interplay between applied fields and superconducting states .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0803.1560/images/_page_6_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_1.jpeg"
+    },
+    "0__page_14_Figure_5.jpeg": {
+      "caption": "Figure illustrates two panels: a) the temperature of the specific heat peak, Tp, versus magnetic field, H, for Nb77Zr22, indicating a clear 3D to 1D crossover as marked by the transition in gradient of the data points. The solid line in panel a follows Equation (37) to represent this crossover behavior. b) The specific heat at Tp, C(Tp), versus H for Nb77Zr23, shows a corresponding decrease in the specific heat value with increasing field strength, modeled by Equation (41). This figure explores the field-induced finite size effect and enhanced thermal fluctuations as the system transitions from a 3D to a 1D state, providing vital insights into the interplay between dimensionality and thermal response in superconductors under variable magnetic fields【12:3†temp_paper_d97fe12faba36dc246c6b262a6d6e1d2】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0803.1560/images/0__page_14_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_5.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.2116,
+    "api_cost": 0.2116,
+    "file_storage_cost": 0.0,
+    "total_time": 129.6,
+    "request_count": 3,
+    "average_cost_per_request": 0.0705,
+    "average_time_per_request": 43.2,
+    "files_uploaded": 20,
+    "total_file_size": 637070
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "paper_id": "3e11b901384b274e362b3aeca5bf7a96",
+  "pdf_path": "apl/Superconductors/arXiv:cond-mat_0208012.pdf",
+  "processing_timestamp": "2025-06-23T15:38:44.277173",
+  "figure_analysis": {
+    "_page_7_Figure_1.jpeg": {
+      "caption": "Figure 1 illustrates the oscillatory component of magnetization (M_osc) normalized to the upper critical field (H_c2) for s-wave and d-wave superconductors as a function of the ratio H_c2(0)/B. Panel (a) represents s-wave symmetry, while panel (b) corresponds to d-wave symmetry. The plots showcase how the magnetization oscillates as the magnetic field varies, indicating a distinction between s-wave and d-wave states under varying magnetic fields. These findings are critical for understanding the vortex state's contribution to the dHvA effect, displaying that the oscillation damping is not significantly different between s-wave and d-wave types, suggesting that average gap plays the main role.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0208012/images/_page_7_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_1.jpeg"
+    },
+    "0__page_9_Figure_1.jpeg": {
+      "caption": "Figure 8 shows the oscillatory magnetization M_osc for the s-wave model (Panel a), illustrating its behavior in the vortex state compared to the normal state. The blue and sky-blue lines depict the vortex-state and normal-state magnetizations, respectively. Panel (b) presents the corresponding Dingle plot (logarithmic plot of resistance) with error bars, with theoretical predictions by Maki, NMA, and other models. This figure emphasizes that the magnetization oscillation persists even at low fields, and theoretical models predict different behaviors in terms of damping under various superconducting conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0208012/images/0__page_9_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_1.jpeg"
+    },
+    "0__page_10_Figure_1.jpeg": {
+      "caption": "Figure 10 details the oscillatory magnetization (M_osc) for the d-wave model at zero temperature (T=0). Panel (a) shows the magnetization in the vortex state (blue line) and normal state (sky-blue line), while Panel (b) is a Dingle plot comparing the theoretical predictions with empirical data. This instance indicates that the d-wave superconductors also exhibit substantial oscillatory behavior in the vortex state, and highlights inconsistencies in some existing theoretical predictions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0208012/images/0__page_10_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_1.jpeg"
+    },
+    "_page_5_Figure_4.jpeg": {
+      "caption": "Figure 2 displays expansion coefficients Δ῀(Nc) as a function of the magnetic field (B) for s-wave (first column) and d-wave superconductors (second column). These coefficients, calculated at T=0.1Tc, provide insight into superconductivity's response under external fields. The dotted lines indicate the square-root behavior predicted by quasiclassical theory. The panels reveal significant oscillatory and singular behaviors that deviate from traditional expectations, emphasizing the influence of field-induced effects on superconducting gaps.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0208012/images/_page_5_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_4.jpeg"
+    },
+    "_page_6_Figure_5.jpeg": {
+      "caption": "Figure 5 illustrates the magnetic field's impact on the expansion coefficients Δ῀(Nc) within s-wave (first column) and d-wave (second column) superconductors, utilizing non-quadratic dispersion at T=0.1Tc. The dotted lines present expected quasiclassical behavior, highlighting deviation due to field effects. The observations of large oscillatory deviations underscore the critical role of magnetic fields in influencing superconductive properties across different gap symmetries.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0208012/images/_page_6_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_5.jpeg"
+    },
+    "_page_7_Figure_9.jpeg": {
+      "caption": "Figure 7 compares the oscillatory magnetization M_osc for s-wave (panel a) and d-wave (panel b) superconductors under quasiclassical conditions, reflected through dotted line baselines. Here, the graph emphasizes that average gap rather than point nodes primarily determines attenuation levels. Observations indicate that oscillatory damping occurs prominently around H quasi c2, providing pivotal insights into oscillatory magnetization under varying gap conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0208012/images/_page_7_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_9.jpeg"
+    },
+    "0__page_9_Figure_11.jpeg": {
+      "caption": "Figure 11 illustrates the dHvA effect in the vortex state for a p-wave model, depicting oscillatory magnetization (M_osc) as a function of magnetic field orientation. The p-wave superconductivity in panels (a) portrays varied tilts of the c-axis relative to the magnetic field, from θ = 0 to π/4. Accompanying Dingle plots on the right offer empirical and theoretical comparisons. This figure distinguishes how directional shifts influence magnetization behavior in complex states, reflecting the nuanced interplay between magnetic orientation and superconducting properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0208012/images/0__page_9_Figure_11.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_11.jpeg"
+    },
+    "_page_5_Figure_6.jpeg": {
+      "caption": "Figure 3 presents quasiparticle energy dispersion within a magnetic Brillouin zone for s-wave (left column) and d-wave (right column) lattices at varying B/H quasi c2 ratios. Displayed for B/H quasi c2=0.8, 0.5, and 0.1, these plots reveal substantial dispersion contrasts under the presence of a pair potential. The energy configurations under different field intensities showcase how superconducting energy states are influenced by lattice type and magnetic field.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0208012/images/_page_5_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_6.jpeg"
+    },
+    "_page_5_Figure_1.jpeg": {
+      "caption": "Figure 1 represents the computed upper critical field H_c2 as a function of temperature for s-wave (panel a) and d-wave (panel b) superconductors normalized by the quasiclassical upper critical field. This analysis, using a theoretical model, highlights the distinct temperature dependencies and oscillatory deviations in different superconducting states, thus contributing to an understanding of critical field behavior in various superconducting configurations.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0208012/images/_page_5_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_1.jpeg"
+    },
+    "_page_6_Figure_1.jpeg": {
+      "caption": "Figure 4 displays the oscillatory magnetization, M_osc, for both (a) s-wave and (b) d-wave superconductors, considering the range 0.8 ≤ H_{c2}^{quasi}(0)/B ≤ 2.0 (1.2 ≥ B/H_{c2}^{quasi}(0) ≥ 0.5) at T = 0.1T_c with p_Fξ^0 = 5. The dotted lines indicate the magnetization for the normal state. The figure underscores the superconducting state deviations from normal state behaviors under a magnetic field, reflecting on how the oscillatory component of magnetization differs between s-wave and d-wave superconductors when subjected to external magnetic fields. This serves to highlight the impact of superconductivity on magnetization characteristics in the presence of strong magnetic fields.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0208012/images/_page_6_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_1.jpeg"
+    },
+    "0__page_10_Figure_9.jpeg": {
+      "caption": "Figure 11 illustrates the oscillatory part of the magnetization M_osc for a p-wave model, with the left panels showing the vortex state against normal state (indicated by sky-blue lines) while tilting the crystal c-axis by θ_c = 0, π/6, and π/4, respectively. The right panels provide Dingle plots to compare with theoretical models, contingent upon field tilting. This provides valuable insights into how directional changes of magnetic fields in relation to the crystal axis affect vortex state magnetization, emphasizing the role of nodal plane alignment in determining superconducting characteristics and oscillatory damping.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0208012/images/0__page_10_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_9.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1278,
+    "api_cost": 0.1278,
+    "file_storage_cost": 0.0,
+    "total_time": 95.36,
+    "request_count": 2,
+    "average_cost_per_request": 0.0639,
+    "average_time_per_request": 47.68,
+    "files_uploaded": 12,
+    "total_file_size": 612767
+  }
+}

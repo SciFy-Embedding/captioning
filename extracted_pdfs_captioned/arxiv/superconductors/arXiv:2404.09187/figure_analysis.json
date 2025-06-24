@@ -1,0 +1,122 @@
+{
+  "paper_id": "7773fb39bd006e95a09f47a41534648a",
+  "pdf_path": "apl/Superconductors/arXiv:2404.09187.pdf",
+  "processing_timestamp": "2025-06-23T15:22:06.169040",
+  "figure_analysis": {
+    "_page_3_Figure_1.jpeg": {
+      "caption": "Figure 2 illustrates (a) the envelope evolution and (b) the beam loss distribution during electron beam transmission in a conduction cooled Nb3Sn demo SRF electron accelerator. The x and y axes in (a) represent the position along the beamline in meters and the envelope size in millimeters, respectively. The primary beam loss occurs within the beampipe between the cryomodule input port and the cavity flange, as evidenced by the peaked distribution in (b), which plots position against normalized particle density. This visualization highlights the critical points of energy loss within the system, important for optimizing accelerator design.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.09187/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "_page_4_Picture_3.jpeg": {
+      "caption": "Figure 4 shows the assembly of the cavity, coupler, vacuum pipeline, and valve connected to the cryomodule on the auxiliary fixture bracket. This physical setup is critical for maintaining the structural integrity and vacuum conditions necessary for efficient operation of the superconducting radio frequency (SRF) accelerator.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.09187/images/_page_4_Picture_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Picture_3.jpeg"
+    },
+    "0__page_9_Figure_1.jpeg": {
+      "caption": "Figure 9 presents the central energy and fine energy structure of the electron beam obtained by scanning the current of the bipolar magnet. The graphs in the figure demonstrate how the electron beam's fine energy varies, with significant findings such as a half-height width of around 0.21MeV and an energy dispersion of approximately 5.04%. These measurements align well with simulation results, indicating the robustness of the system configuration.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.09187/images/0__page_9_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_1.jpeg"
+    },
+    "_page_4_Figure_1.jpeg": {
+      "caption": "Figure 3 highlights (a) the coating recipe used for the 650MHz 5-cell Nb3Sn thin film SRF cavity and (b) the resultant inner surface appearance post-coating. The figure emphasizes the uniformity and quality control involved in creating the Nb3Sn thin film, essential for optimizing superconducting properties and enhancing performance of the SRF cavities.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.09187/images/_page_4_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_1.jpeg"
+    },
+    "_page_2_Figure_4.jpeg": {
+      "caption": "Figure 1 depicts the schematic layout of the conduction cooled Nb3Sn demo SRF electron accelerator, highlighting the structural and functional components, including the beam source, acceleration cavity, and beam dump systems. The design reflects considerations for reducing beam loss and optimizing electron beam transmission, crucial in achieving effective acceleration.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.09187/images/_page_2_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_4.jpeg"
+    },
+    "0__page_8_Figure_4.jpeg": {
+      "caption": "Figure 8 displays (a) the beam loading effect as the electron beam passes the cavity and (b) the resultant beam spot on the fluorescent target post-acceleration. The graphs provide visual evidence of the beam dynamics within the superconducting cavity, crucial for understanding energy deposition and consequent beam behavior.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.09187/images/0__page_8_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_4.jpeg"
+    },
+    "0__page_10_Figure_1.jpeg": {
+      "caption": "Figure 11 shows the beam spot on the fluorescent target and the energy structure of the electron beam when operated in CW mode with an injected beam repetition rate of 1Hz. The figure helps in analyzing the electron beam's stability and efficacy under continuous wave operation, demonstrating a transmission efficiency of 46.0%.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.09187/images/0__page_10_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_1.jpeg"
+    },
+    "0__page_9_Figure_4.jpeg": {
+      "caption": "Figure 10 showcases stable acceleration records of the electron beam with an average current of 70mA within the macropulse, operating at a repetition rate of 20Hz with an Epk of 8.18MV/m under a 40% duty cycle condition. This stability is crucial for identifying system reliability during prolonged operation in pulse mode.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.09187/images/0__page_9_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_4.jpeg"
+    },
+    "0__page_11_Figure_0.jpeg": {
+      "caption": "Figure 12 provides records of stable acceleration of electron beams in CW mode with an Epk=3.91MV/m, showing an average beam current of 64mA and repetition rates ranging from 50Hz to 200Hz. The stability of the beam current indicates robust system performance and is vital for verifying conduction cooling efficiency in SRF accelerators.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.09187/images/0__page_11_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_0.jpeg"
+    },
+    "_page_5_Picture_0.jpeg": {
+      "caption": "Figure 5 illustrates the integration of the cavity's Nb rings with the second stage cold head via copper braided tapes. This integration enhances the uniformity of temperature distribution during cooling, critical for maintaining the integrity of the superconducting radio frequency (SRF) cavity. The staggered arrangement and direct connection of copper tapes to the cryocooler minimize thermal resistance, facilitating efficient conduction cooling crucial for the operation of the Nb3Sn SRF cavities【8:9†temp_paper_7773fb39bd006e95a09f47a41534648a.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.09187/images/_page_5_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Picture_0.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "Figure 6(a) presents the cooling process and characteristic magnetic flux expulsion observed as the cryomodule cools from 17.89K to 8.97K. Distinct magnetic expulsion is noted at transition thresholds indicating efficient flux eradication, which is essential for preserving superconductivity in the Nb3Sn cavity. This information is vital for understanding the cryogenic behavior of SRF systems during initial cooling operations【8:10†temp_paper_7773fb39bd006e95a09f47a41534648a.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.09187/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    },
+    "_page_6_Figure_1.jpeg": {
+      "caption": "Figure 6(b) depicts the temperature distribution of the cryomodule under thermal equilibrium. Variations in temperature distribution highlight the efficiency of the conduction cooling setup, where temperature differences within the cavity and adjacent cold head remain below 0.3K, indicating low thermal resistance and aiding in stable SRF cavity operation【8:10†temp_paper_7773fb39bd006e95a09f47a41534648a.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.09187/images/_page_6_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_1.jpeg"
+    },
+    "0__page_7_Figure_4.jpeg": {
+      "caption": "Figure 7 shows the changes in thermal compensation of the cold head with varying acceleration gradients. The relationship between Epk (peak electric field) and heat load reflects the cryogenic demands of different operational settings. This understanding allows for tuning and controlling cryogenic conditions vital for efficient accelerator performance, helping optimize energy usage within SRF cavities【8:11†temp_paper_7773fb39bd006e95a09f47a41534648a.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.09187/images/0__page_7_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_4.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1275,
+    "api_cost": 0.1275,
+    "file_storage_cost": 0.0,
+    "total_time": 74.2,
+    "request_count": 2,
+    "average_cost_per_request": 0.0637,
+    "average_time_per_request": 37.1,
+    "files_uploaded": 14,
+    "total_file_size": 693335
+  }
+}

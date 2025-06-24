@@ -1,0 +1,114 @@
+{
+  "paper_id": "1ed098d79fdc17785815386b9acf3664",
+  "pdf_path": "apl/Superconductors/arXiv:2301.05148.pdf",
+  "processing_timestamp": "2025-06-23T14:57:01.831016",
+  "figure_analysis": {
+    "0__page_9_Figure_0.jpeg": {
+      "caption": "Temperature-dependent resistance data, R(T), for compressed titanium (δ-phase) at pressures 154 GPa, 180 GPa, 183 GPa, and 245 GPa. Panels a-d display experimental data (blue points) and fits to the Debye model (red lines) indicating high-quality fits with respective Tc values ranging between 21.1K and 22.4K. The temperature T0, the electron-phonon coupling constant λe-ph, and the residual resistance Rsat are provided for each pressure setting. Important insights into electron-phonon interactions under varying pressures, contributing to the understanding of superconductivity enhancement in compressed titanium【4:4†temp_paper_1ed098d79fdc17785815386b9acf3664.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.05148/images/0__page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_0.jpeg"
+    },
+    "0__page_16_Figure_4.jpeg": {
+      "caption": "Magnetic flux density, Bc2(T), as a function of temperature for black phosphorous at pressures 15 GPa and 15.9 GPa, with measurements from two separate reports. Both panels show raw Bc2(T) data fitted (red lines) with accompanying deduced coherence length ξ(0) and superconducting transition temperature Tc. The fits achieved with high precision, highlighting the consistency in deduced physical parameters across independent studies, thus reinforcing the robustness of black phosphorous superconductivity studies under high pressure【4:9†temp_paper_1ed098d79fdc17785815386b9acf3664.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.05148/images/0__page_16_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_16_Figure_4.jpeg"
+    },
+    "_page_6_Figure_4.jpeg": {
+      "caption": "The relationship between the gap-to-transition temperature ratio, 2Δ(0)/kB Tc, and the electron-phonon coupling constant, λe-ph, using a dataset by Carbotte. Graph includes a variety of superconductors and those studied in this report such as black phosphorus (bP) and violet phosphorus (vP). A linear motif (pink line) captures the data trend suggesting a strong interlink between these variables, critical for exploring electron-phonon mediated superconductivity mechanisms【4:0†temp_paper_1ed098d79fdc17785815386b9acf3664.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.05148/images/_page_6_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_4.jpeg"
+    },
+    "1__page_18_Figure_2.jpeg": {
+      "caption": "Resistance and upper critical field data for violet phosphorus under pressures of 40.2 and 34.8 GPa. Panel (a) plots resistance R(T) fitted to Eq. 3, highlighting temperature peak at 9.4K with an electron-phonon coupling constant λe-ph = 0.607. Panel (b) displays Bc2(T) fitted to a two-band model with deduced transition temperatures and coherence lengths. These measurements illustrate the multifaceted nature of superconductivity in multi-band systems under extreme pressure【4:5†temp_paper_1ed098d79fdc17785815386b9acf3664.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.05148/images/1__page_18_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Figure_2.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "Comparative analysis of electron-phonon coupling constant λe-ph, phonon characteristic temperature, and Fermi temperature TF across various pressures for compressed titanium. The plots provide a detailed look into how theoretical and experimental deduced values compare, emphasizing consistency in observed data. High precision in derived parameters corroborates the applicability of theoretical models in understanding superconductivity mechanisms under such conditions【4:4†temp_paper_1ed098d79fdc17785815386b9acf3664.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.05148/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_13_Figure_0.jpeg": {
+      "caption": "Experimental data analysis for the I-43d phase of TaH3 at 197 GPa. Panel (a) shows resistance R(T) data fitted to Eq. 3, giving Tc and λe-ph = 1.53 with excellent fit quality (0.99998). Panel (b) features upper critical field data Bc2(T) fit to Eq. 7 reflecting typical superhydride behavior with implications for superconductivity in hydrides at extreme pressure. Robust evidence for high electron-phonon interaction's role in superconductivity【4:10†temp_paper_1ed098d79fdc17785815386b9acf3664.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.05148/images/0__page_13_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_0.jpeg"
+    },
+    "0__page_11_Figure_2.jpeg": {
+      "caption": "Uemura plot situating highly-compressed materials like δ-Ti, TaH3, and others within the broader landscape of superconductor families. This visualization uses normalized ratios to show the positioning of various superconductors, highlighting the diversity of electron-phonon interactions across high-pressure superconductors against traditional superconducting families【4:14†temp_paper_1ed098d79fdc17785815386b9acf3664.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.05148/images/0__page_11_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_2.jpeg"
+    },
+    "0__page_16_Figure_0.jpeg": {
+      "caption": "Resistance data R(T) for black phosphorus at 15 GPa, sourced from Shirotani et al. and Li et al. The fitting process yields consistent parameters like Tc, electron-phonon coupling strength, and Debye temperature, reinforcing the reliability of high-pressure superconducting studies. This further supports claims of superconductivity as deduced from model equations applied across multiple datasets【4:1†temp_paper_1ed098d79fdc17785815386b9acf3664.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.05148/images/0__page_16_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_16_Figure_0.jpeg"
+    },
+    "0__page_12_Figure_0.jpeg": {
+      "caption": "Graphs display the nonadiabaticity strength constant plotted against temperature-related quantities for several families of superconductors including recently studied substances like δ-Ti and phosphorus variants. This dataset reassesses nonadiabaticity's impact on stability and performance in cutting-edge superconductors, providing insights into cross-family superconductivity between conventional and new-age materials【4:7†temp_paper_1ed098d79fdc17785815386b9acf3664.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.05148/images/0__page_12_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_0.jpeg"
+    },
+    "0__page_11_Figure_0.jpeg": {
+      "caption": "Uemura plot illustrating the positioning of highly-compressed superconductors such as δ-Ti, TaH3, and LaBeH8, alongside various superconductor families including metals, iron-based superconductors, diborides, cuprates, Laves phases, and hydrides. The figure demonstrates the range of transition temperatures Tc relative to Fermi temperatures TF, emphasizing the diversity of superconducting behaviors and potential for identifying similar characteristics across different material systems. This aids in understanding the relationships between key superconducting parameters in newly discovered superconductors【8:9†temp_paper_1ed098d79fdc17785815386b9acf3664.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.05148/images/0__page_11_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_0.jpeg"
+    },
+    "_page_7_Figure_3.jpeg": {
+      "caption": "Temperature-dependent resistance data, R(T), for α-Ti at a pressure of 18 GPa captured in panels (a) and (b). The data is fitted to the Debye model (Eq. 3) with distinct fitting parameters: electron-phonon coupling constant λe-ph = 0.49 in panel (a) and high fit quality (> 0.999). The Debye temperature and superconducting transition temperature (Tc,0.25 = 2.1 K) are reported, highlighting the experimental precision and consistency of the superconductivity characterization in highly-compressed titanium. These findings are critical for validating theoretical models of electron-phonon interactions【8:0†temp_paper_1ed098d79fdc17785815386b9acf3664.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.05148/images/_page_7_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_3.jpeg"
+    },
+    "0__page_14_Figure_4.jpeg": {
+      "caption": "Experimental analysis for the Fm-3m phase of LaBeH8 at a pressure of 120 GPa, as captured in panels (a) and (b). Panel (a) displays the R(T) data fitted with high fidelity (fit quality 0.9990), yielding a Debye temperature of 752 ± 6 K and λe-ph = 1.46. Panel (b) presents Bc2(T) data fitted to a model identifying a Tc of 68.8 K and a coherence length ξ(0) = 2.8 nm. The study of LaBeH8 under extreme compression conditions provides crucial insights into high-pressure superconductivity, adding to the understanding of its superconducting nature【8:5†temp_paper_1ed098d79fdc17785815386b9acf3664.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.05148/images/0__page_14_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_4.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1328,
+    "api_cost": 0.1328,
+    "file_storage_cost": 0.0,
+    "total_time": 94.28,
+    "request_count": 2,
+    "average_cost_per_request": 0.0664,
+    "average_time_per_request": 47.14,
+    "files_uploaded": 13,
+    "total_file_size": 1115856
+  }
+}

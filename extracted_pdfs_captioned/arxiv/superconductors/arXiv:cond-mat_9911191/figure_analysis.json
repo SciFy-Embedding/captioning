@@ -1,0 +1,58 @@
+{
+  "paper_id": "ebe2ed698515f3b1322ba97b7e67ab2a",
+  "pdf_path": "apl/Superconductors/arXiv:cond-mat_9911191.pdf",
+  "processing_timestamp": "2025-06-23T16:03:38.651645",
+  "figure_analysis": {
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "Figure 1 shows various internal array geometries visualized in a diagrammatic format with three configurations labeled as top (z-stack), center (interpenetrating), and bottom (non-interpenetrating). These configurations illustrate different patterns of superconducting regions, with the z-stack arrangement promoting efficient segregation between superconducting and non-superconducting planes, hence minimizing coupling currents. This visualization method assists in understanding how different array geometries can influence electromagnetic properties and subsequent loss behaviors in multifilamentary superconductors【4:1†temp_paper_ebe2ed698515f3b1322ba97b7e67ab2a.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_9911191/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_13_Figure_0.jpeg": {
+      "caption": "Figure 4 illustrates the relationship between resistivity (ρ in nΩ·cm) after demagnetization correction and shape factor (n) for NB54 samples. The graph utilizes a scatter plot with points marking actual ρ values against a solid curve representing expected values aligned to the measured data. The x-axis represents the shape factor, a measure influenced by the filament's geometric configuration, while the y-axis captures the corrected resistivity accounting for morphology-induced demagnetization. The key finding shows a significant deviation from the expected values as the shape factor increases beyond a certain threshold, indicating an anomalous enhancement of resistivity in untwisted and highly aspected strands. This highlights the importance of aspect ratio in superconducting materials, particularly in interpreting AC losses and resistivity parameters within applied superconducting contexts【4:1†temp_paper_ebe2ed698515f3b1322ba97b7e67ab2a.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_9911191/images/0__page_13_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_0.jpeg"
+    },
+    "0__page_10_Figure_1.jpeg": {
+      "caption": "Figure 2 presents the relationship between total loss per unit length squared (Qe/L^2 in 10^-4 erg/cm^3) and magnetic ramp rate (dH/dt in Oe/s) for multiple Nb54 samples, differentiated by the orientation of the applied field (FO, EO) and sample designations. This plot is structured as a multi-line graph across varied ramp rates, providing a measurable comparison of the eddy current losses in different magnetic field orientations. The slopes of these lines reveal the influence of ramp rate on AC loss, with faster ramp rates corresponding to increased eddy current activity. Such variations expose the interplay between superconductor geometry—specifically aspect ratio—and the observed losses, underscoring the critical need for precision in design modifications tailored to specific superconducting applications【4:1†temp_paper_ebe2ed698515f3b1322ba97b7e67ab2a.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_9911191/images/0__page_10_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_1.jpeg"
+    },
+    "0__page_12_Figure_0.jpeg": {
+      "caption": "Figure 3 depicts the relationship between Qe/L^2 (AC loss per unit length squared, measured in 10^-4 erg/cm^3) and the magnetic ramp rate (dH/dt, Oe/s) across different sample configurations of NB5000, with results shown for field orientations FO and EO. The graph includes multiple sets of data points, each connected by linear trend lines, and employs symbols to differentiate among the samples. Trends indicate that as the ramp rate increases, the total measured loss rises, corresponding to the anticipated eddy current loss behavior as a function of the sample's aspect ratio. This figure highlights the direct influence of structural modifications on AC loss within superconductors, delivering critical insights for improving superconducting wire performance【4:1†temp_paper_ebe2ed698515f3b1322ba97b7e67ab2a.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_9911191/images/0__page_12_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_0.jpeg"
+    },
+    "0__page_11_Figure_0.jpeg": {
+      "caption": "Figure 5 illustrates the experimentally measured Qe/L^2 versus ramp rate (dH/dt) for various NB5000 samples labeled according to different production methods and field orientations (FO, EO). The plot graphically displays a linear relationship reflecting how different sample processing influences loss characteristics when exposed to varying magnetic ramp rates. Each symbol represents a particular sample, allowing for direct comparison between EO and FO conditions. The findings captured imply that structural optimizations can prevent excessive AC loss, enhancing the functional resilience of superconductive materials in practical applications where magnetic ramp rates are variable【4:1†temp_paper_ebe2ed698515f3b1322ba97b7e67ab2a.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_9911191/images/0__page_11_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0562,
+    "api_cost": 0.0562,
+    "file_storage_cost": 0.0,
+    "total_time": 45.08,
+    "request_count": 1,
+    "average_cost_per_request": 0.0562,
+    "average_time_per_request": 45.08,
+    "files_uploaded": 6,
+    "total_file_size": 312858
+  }
+}

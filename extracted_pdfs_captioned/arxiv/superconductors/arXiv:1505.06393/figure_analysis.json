@@ -1,0 +1,58 @@
+{
+  "paper_id": "899b98901e161704d3f4a4ce688486d3",
+  "pdf_path": "apl/Superconductors/arXiv:1505.06393.pdf",
+  "processing_timestamp": "2025-06-23T13:49:26.155853",
+  "figure_analysis": {
+    "1__page_17_Figure_0.jpeg": {
+      "caption": "Figure 4 shows the low temperature specific heat divided by temperature, C/T, plotted against T^2 for a single crystal of transforming V3Si. The squares represent measurements at zero field, while the triangles depict results in an 18 Tesla magnetic field, applied to suppress the superconducting transition and accurately determine the normal state specific heat. This plot captures the nonlinearity expected as the anharmonic lattice terms become significant above Tc, requiring low-temperature data to determine the Debye temperature accurately. A pronounced discontinuity in C is observed at the superconducting transition temperature, Tc = 16.8 K, with the ratio ΔC/Tc of 2.0 indicating strong coupling. This figure is crucial for understanding the electron-phonon interactions and the density of states at the Fermi surface for A15 compounds like V3Si.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1505.06393/images/1__page_17_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_17_Figure_0.jpeg"
+    },
+    "_page_3_Figure_0.jpeg": {
+      "caption": "Figure 1 illustrates the cubic structure of A15 superconductors, specifically for Nb3Sn, with a lattice parameter 'a0' of 5.29 Å. The diagram highlights how the B atoms form a body centered cubic structure, while the A atoms create one-dimensional chains in three orthogonal directions. The unique structural feature is the significantly reduced interatomic Nb-Nb spacing, which is pivotal in enhancing the density of states at the Fermi surface and affects the phonon spectrum. This structural depiction is foundational for theoretical discussions on the superconducting properties of Nb3Sn and its relation to specific heat and electronic density of states.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1505.06393/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "1__page_21_Figure_0.jpeg": {
+      "caption": "Figure 5 presents the upper critical magnetic field, Hc2, as a function of temperature for several A15 compounds and the NbTi alloy. Solid lines represent measurements within continuous fields, while data points with error bars indicate pulsed field measurements above 21 T for compounds with the highest critical fields. Theoretical extrapolations, shown as dashed lines, align well with the pulsed field data and assume no Pauli paramagnetic limiting. Understanding Hc2 and its implications are imperative for applications requiring high magnetic fields, such as superconducting magnets.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1505.06393/images/1__page_21_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Figure_0.jpeg"
+    },
+    "_page_7_Picture_1.jpeg": {
+      "caption": "Figure 2 depicts a multifilamentary Nb3Sn wire manufactured by Japan Superconductor Technology, Inc. The detailed cross-section view reveals 25 bundles, each containing 19 filaments, demonstrating the complex structure necessary for practical applications in superconducting magnets. These multifilamentary wires are designed to withstand high tensile stresses at cryogenic temperatures, optimizing their use in high-field magnet systems.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1505.06393/images/_page_7_Picture_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Picture_1.jpeg"
+    },
+    "0__page_11_Figure_0.jpeg": {
+      "caption": "Figure 3 illustrates the second-order martensitic transformation in V3Si, driven by mode softening of acoustic phonons. This transition involves the structural change from a cubic to a tetragonal unit cell upon cooling without altering the cell volume, differentiating it from the first-order transformation in Nb3Sn. Such transformations, with accompanying phonon softening, are significant as they impact electron-phonon coupling and the superconducting transition temperature in A15 compounds.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1505.06393/images/0__page_11_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0578,
+    "api_cost": 0.0578,
+    "file_storage_cost": 0.0,
+    "total_time": 34.82,
+    "request_count": 1,
+    "average_cost_per_request": 0.0578,
+    "average_time_per_request": 34.82,
+    "files_uploaded": 6,
+    "total_file_size": 348751
+  }
+}

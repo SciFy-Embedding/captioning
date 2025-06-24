@@ -1,0 +1,138 @@
+{
+  "paper_id": "62e053c73fb19e5172fcdad1dac8e486",
+  "pdf_path": "apl/Superconductors/arXiv:1907.00476.pdf",
+  "processing_timestamp": "2025-06-23T14:16:27.259262",
+  "figure_analysis": {
+    "1__page_29_Figure_1.jpeg": {
+      "caption": "Figure 5 presents atomically resolved HR-STEM images of [12̅0]-tilt grain boundaries (GBs) in Nb3Sn with varying tilt angles: (a) 4.7° with a normal to the GB plane as [001], (b) 17.5° with a GB plane normal [215]. In both micrographs, the Gibbsian interfacial excesses of Sn (ГSn) are plotted as a function of GB disorientation angle in (c). Red squares denote [12̅0] rotation axes at different angles, with the black squares for random rotation axes. The transmission-EBSD color map inset helped determine disorientation angles. Key findings indicate no clear correlation between disorientation angles and Sn segregation, shedding light on factors affecting Sn excess at GBs.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1907.00476/images/1__page_29_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_29_Figure_1.jpeg"
+    },
+    "2__page_39_Figure_0.jpeg": {
+      "caption": "Figure S.5 details the interior composition of Nb3Sn grains using EDS. Part (a) highlights varying Sn interfacial excess at GBs across different coatings using HR-STEM-EDS. Each data point is a distinct coat, averaging Sn segregation impacts across 1 to 3 GBs. Part (b) features HAADF-STEM images and Sn L-maps of partially Sn-deficient Nb3Sn grains, showing Sn segregation at GBs where grain interiors are <25% Sn at a GB, validated by a noticeable Sn excess in the EDS profile. This demonstrates significant Sn-atom drift affecting accurate measurement of Sn profiles, revealing larger Sn segregated regions in some cases.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1907.00476/images/2__page_39_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_39_Figure_0.jpeg"
+    },
+    "2__page_37_Figure_0.jpeg": {
+      "caption": "Figure S.3 depicts Nb and Sn concentration profiles across a grain boundary of an annealed Nb3Sn sample at 1100°C for 3 hours. The study shows how initial Sn segregation dissipates upon annealing, leading to Nb segregation with a Gibbsian interfacial excess of approximately 20 ± 3 atoms/nm² across a ~5 nm region. This replacement highlights the material's complex diffusion dynamics and the effects of thermal treatment on modifying alloy composition at grain boundaries.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1907.00476/images/2__page_37_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_37_Figure_0.jpeg"
+    },
+    "2__page_33_Figure_0.jpeg": {
+      "caption": "Figure 9 on page 33 describes the Sn interfacial excess profile along a depth direction of a Nb3Sn grain boundary, maintaining a consistent Gibbsian interfacial excess of Sn from surface to substrate. This uniformity implies rapid short-circuit Sn diffusion with no major Sn concentration gradient along the boundary, a crucial insight into the mechanism governing Sn diffusion within Nb3Sn films.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1907.00476/images/2__page_33_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_33_Figure_0.jpeg"
+    },
+    "1__page_27_Figure_0.jpeg": {
+      "caption": "Figure 3 on page 27 includes (a) a BF-TEM image of a Nb3Sn nanotip prepared for atom probe tomography (APT) and (b) corresponding 3D reconstructions of Nb, Sn, and N distributions, indicating GB traces. Sn and N demonstrate substantial segregation at GBs in the 1D profile, underlined by a pronounced N concentration profile that aids in understanding compositional variances at the atomic level within the nanostructure .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1907.00476/images/1__page_27_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_27_Figure_0.jpeg"
+    },
+    "2__page_34_Figure_0.jpeg": {
+      "caption": "Figure 10 illustrates (a) the Quality Factor (Q0) versus Accelerating Electric Field (Eacc) for Nb3Sn superconducting radio frequency (SRF) cavities at 4.4 K. Tin concentration profiles are depicted for Cornell cavity 2 and Fermilab cavity 3 in panels (b) and (c), respectively, revealing the absence of Sn segregation at GBs. This provides a contrast to low-performance cavities where Sn segregation is prevalent, and signifies that controlling segregation could enhance cavity performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1907.00476/images/2__page_34_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_34_Figure_0.jpeg"
+    },
+    "2__page_30_Figure_0.jpeg": {
+      "caption": "Figure 6 demonstrates the Gibbsian interfacial excess of Sn at grain boundaries in Nb3Sn films, dependent on Sn flux and process conditions. Distinctions between Process A and Process B are shown: Process A involves continuous Sn vapor supply, while Process B increases substrate temperatures without a Sn flux towards the coating's end. This segregation behavior is crucial for optimizing coating techniques to control Sn distribution and achieve desired Nb3Sn properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1907.00476/images/2__page_30_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_30_Figure_0.jpeg"
+    },
+    "1__page_25_Figure_0.jpeg": {
+      "caption": "Figure 1 comprises (a) an SEM image of a Nb3Sn coating on Nb showing surface morphology tilted from 52°, (b) a HAADF-STEM cross-sectional view revealing layer deposition, and (c) a schematic outlining temperature profiles of Sn coating processes A and B. Process B's higher temperatures and absence of final Sn flux in coating stages highlight the significant effect of processing conditions on Sn distribution and grain boundary engineering.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1907.00476/images/1__page_25_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_25_Figure_0.jpeg"
+    },
+    "2__page_31_Figure_0.jpeg": {
+      "caption": "Figure 7 features concentration profiles across a grain boundary and supporting HR-STEM images of Nb3Sn post-annealing at 1100°C for 3 hours, initially exhibiting Sn segregation. The annealing disrupts Sn concentration, resulting in Nb segregation with an estimated Gibbsian interfacial excess of 22 ±3 atoms/nm² across approximately a 5 ±1 nm region. This change conveys significant details on thermal effects influencing elemental distributions at grain boundaries.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1907.00476/images/2__page_31_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_31_Figure_0.jpeg"
+    },
+    "1__page_26_Figure_0.jpeg": {
+      "caption": "Figure 2 presents a 3D reconstruction of Nb, Sn, and N atomic distributions across a grain boundary (GB) in a Nb3Sn sample. Iso-concentration surfaces for Nb (70 at.%), Sn (30 at.%), and N (0.3 at.%) are shown, along with concentration profiles across the GB. The Sn and Nb profiles showcase Sn segregation with a measured full-width of the segregated zone at 3.0 ± 0.2 nm, indicating significant Sn presence at the GB, accompanied by Nb depletion.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1907.00476/images/1__page_26_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_26_Figure_0.jpeg"
+    },
+    "2__page_35_Figure_1.jpeg": {
+      "caption": "Figure S.1 displays the mass spectrum obtained from atom-probe tomographic analyses of a Nb3Sn sample labeled A5. The spectrum captures a range of mass-to-charge ratios indicative of different atomic species present, showcasing distinct isotopic peaks for Nb and Sn, along with their oxides, providing insights into atomic distribution and elemental composition critical for understanding segregation phenomena.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1907.00476/images/2__page_35_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_35_Figure_1.jpeg"
+    },
+    "2__page_32_Figure_0.jpeg": {
+      "caption": "Figure S2 highlights filtered high-resolution HAADF-STEM images of a high-angle [12̅0] tilt grain boundary (GB) in Nb3Sn. The atomic planes are indexed, revealing a GB plane with a normal vector, n = [211̅], and showcasing potential chemical ordering through bright contrast effects observed at CSL sites via intensity profiles, suggesting possible compositional variations at these sites.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1907.00476/images/2__page_32_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_32_Figure_0.jpeg"
+    },
+    "2__page_36_Figure_0.jpeg": {
+      "caption": "Figure S4 illustrates HAADF-STEM imaging of a high-angle (46.6°) [12̅0]-tilt GB in Nb3Sn. Contrast effects at CSL sites suggest possible ordering at the GB. The intensity profile exhibits high intensities at CSL sites, implicating a higher Sn concentration and providing evidence for the localized chemical environment's influence at GBs.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1907.00476/images/2__page_36_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_36_Figure_0.jpeg"
+    },
+    "1__page_28_Figure_0.jpeg": {
+      "caption": "Figure 4 provides an atomically resolved HR-STEM image of a high-angle (HA) tilt grain boundary (GB) in Nb3Sn with θ = 46.6°, along with its periodic structural units visualized via filtered micrographs. EDS analysis demonstrates Sn concentration peaks at 32 at.% Sn at the GB, exceeding concentrations within grains, highlighting the compositional differences at atomic scale.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1907.00476/images/1__page_28_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_28_Figure_0.jpeg"
+    },
+    "2__page_38_Figure_0.jpeg": {
+      "caption": "Figure S.3 depicts Sn and Nb concentration profiles across a GB from an annealed Nb3Sn sample at 1100°C for 3 hours. As Sn segregation dissipates, concurrent Nb segregation emerges, with a significant interfacial excess and widened profile. This provides evidence for annealing effects altering elemental distribution at GBs.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1907.00476/images/2__page_38_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_38_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1329,
+    "api_cost": 0.1329,
+    "file_storage_cost": 0.0,
+    "total_time": 104.95,
+    "request_count": 2,
+    "average_cost_per_request": 0.0664,
+    "average_time_per_request": 52.47,
+    "files_uploaded": 16,
+    "total_file_size": 1930166
+  }
+}

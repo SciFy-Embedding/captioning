@@ -1,0 +1,138 @@
+{
+  "paper_id": "b526a180932b85abce8f0fb9a1a21437",
+  "pdf_path": "apl/Superconductors/arXiv:2502.07533.pdf",
+  "processing_timestamp": "2025-06-23T15:29:54.412510",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "Figure 1 illustrates scanning tunneling microscopy (STM) topographies and differential conductance (dI/dV) maps over various bismuth crystal hinges. (a) presents topographic views and dI/dV maps collected at specific energy levels corresponding to 1D singularity peaks showing localized high density of states (DOS) at hinge regions. (b-f) display quasiparticle interference (QPI) measurements on different hinge types (type 1-5), with left panels showing representative dI/dV spectra featuring DOS peaks, middle panels illustrating real-space dI/dV distributions, and right panels depicting Fourier-transformed dI/dV distributions revealing the q-space dispersion. Each hinge type exhibits unique 'hole-like' dispersion patterns aligning with DOS peaks, signifying the van Hove singularities near the band top. This figure highlights the experimental observations of dispersive hinge states and their distinct energy modulations across different hinge types, emphasizing the importance of hinge states in understanding higher-order topological insulators.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2502.07533/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "0__page_19_Figure_0.jpeg": {
+      "caption": "Figure 2 provides calculated results for five types of bismuth crystal hinges using Hamiltonian graph neural network (HamGNN) and OpenMX approaches. (a) and (d) showcase the complete band structure of two prisms extended along distinct orientations relevant to hinge formation, demonstrating intricate band dispersions. (b), (c), (e), and (f) illustrate real space distributions of 1D hinge states localized on various hinge types. (g-j) present energy (E) versus momentum (k) dispersion of bands on all types of hinges, while (k-n) depict projected spin components, indicating the presence of spin-polarized features. Finally, (o) provides a quantified average spin polarization across the different hinge states, contrasting the spin-helical nature of type 1, 4, and 5 hinges against others. These computational insights offer a profound glimpse into the electronic structure and spin characteristics of topological hinge states in bismuth, pivotal for higher-order topology verification.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2502.07533/images/0__page_19_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_19_Figure_0.jpeg"
+    },
+    "0__page_12_Figure_5.jpeg": {
+      "caption": "Figure 3 outlines the structural analysis of mesoscopic bismuth crystals highlighting various facet orientations and hinge formations. (a) presents an STM topographic image emphasizing the morphology of bismuth islands grown on V3Si substrates. (b-j) detail individual bismuth crystal facets and hinge types, labeled according to their geometric orientation and corresponding atomic arrangements ({100}, {110}, {111}). These images underline the differing hinge types categorized from type 1 to type 5, each possessing unique interfacial properties, integral to topological studies. This figure is crucial in identifying and categorizing the crystal facet configurations employed for subsequent STM analyses and theoretical modeling of topological states.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2502.07533/images/0__page_12_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_5.jpeg"
+    },
+    "0__page_18_Figure_2.jpeg": {
+      "caption": "Figure 4 dissects the symmetry characteristics underlying higher-order topological insulator (HOTI) states in bismuth. The symmetry analysis graphically illustrates how spin-helical states emerge in type 1, 4, and 5 hinges forming a closed loop, with regions of opposite mass terms indicated by color coding. Superconducting gap spectra are captured on the V3Si substrate and various Bi crystal locations (b, c), demonstrating proximity-induced superconductivity pivotal for probing topological features and potentially accommodating Majorana quasiparticles. These analyses are vital in advancing the comprehension of HOTI phases and their novel electronic properties in condensed matter systems.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2502.07533/images/0__page_18_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_18_Figure_2.jpeg"
+    },
+    "0__page_16_Figure_2.jpeg": {
+      "caption": "Figure 5 delves into the real-space mapping and QPI data capturing differential conductance on type 1 and type 4 hinges without and with iron (Fe) deposition. Subsequent panels depict spatial variation of superconducting gaps across various crystal surfaces, drawing attention to the proximity effects and changes observed upon Fe introduction. This evidences the role of magnetic impurities in modifying topological state behaviors in Bi, offering a mechanism to differentiate between topologically protected and trivial hinge states through spin-flip scattering techniques.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2502.07533/images/0__page_16_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_16_Figure_2.jpeg"
+    },
+    "0__page_14_Figure_0.jpeg": {
+      "caption": "Figure 6 showcases dI/dV spectra gathered across differing hinge structures, emphasizing 1D hinge states localization evident by singular DOS peaks near hinge regions. Topographic imaging further illustrates the spatial domain of measurements while comparing hinge properties sequentially from type 1 through type 5. The precision of these spectra offers crucial corroborative data for topological state analyses, enhancing understanding of the hinge state-induced modulations in electronic properties of bismuth crystals.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2502.07533/images/0__page_14_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_0.jpeg"
+    },
+    "0__page_13_Figure_0.jpeg": {
+      "caption": "Figure 7 focuses on topographic and spectroscopic STM insights into the atomic configurations and corresponding differential conductance of Bi crystal hinges. The presented datasets compare pristine hinge properties to those perturbed by Fe deposition, highlighting clear transitions in QPI patterns and revealing insights into the role of spin-flip scattering in demarcating the topological nature of observed hinge states. Such comparative studies under varying conditions are instrumental in validating theoretical postulations about the intricacies of topological boundary states.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2502.07533/images/0__page_13_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_0.jpeg"
+    },
+    "0__page_16_Figure_0.jpeg": {
+      "caption": "Figure 8 maps QPI datasets collected from type 1 hinge and adjacent facet surfaces, elucidating distinct spectral responses characteristic of hinge versus surface state interactions. Comparative QPI across different regions elucidates the focused topological dispersion at hinge interfaces distinct from neighboring surface projections, central to isolating the contribution of non-trivial hinge states amidst environment-induced perturbations. These findings underscore the intrinsic sampling precision and heterogeneity of local electronic environments in fostering topologically protected states.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2502.07533/images/0__page_16_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_16_Figure_0.jpeg"
+    },
+    "1__page_25_Figure_0.jpeg": {
+      "caption": "Figure 9 illustrates a 3D illustration of Bi mesoscopic crystals emphasizing facets and possible topological hinge trajectories. The schematic demarcates facets with color-coding indicative of various types (such as type-1 and type-4) and illustrates loops formed by topological hinge states. These representations serve not only as visual aids for aligning theoretical models with experimental configurations but also help pinpoint the strategic relevance of hinge location in broader topological classifications crucial for advancing material-based quantum phenomena explorations.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2502.07533/images/1__page_25_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_25_Figure_0.jpeg"
+    },
+    "0__page_14_Figure_2.jpeg": {
+      "caption": "Figure S3. Spatial variation of differential conductance (dI/dV) across a mesoscopic Bi crystal. This figure presents a map along the distance (d) versus bias (B) for understanding the localization and transition characteristics of electronic states across the Bi crystal. The inset displays a 3D topographic model showing the survey area, while the main figure graphically depicts the distinct electronic signatures transitioning from the substrate to Bi crystal, particularly highlighting changes observed across the hinge region. This characterization allows inference about the electronic environment and signature disparities arising due to substrate influence and intrinsic crystal properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2502.07533/images/0__page_14_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_2.jpeg"
+    },
+    "0__page_15_Figure_0.jpeg": {
+      "caption": "Figure S5. Topographic analysis with extracted metrics from STM imaging of Bi crystals. (a) shows the topography alongside an edge detection processed variant, emphasizing hinge delineations. (b) further extracts quantitative measures—height profiling over an edge along a demarcated line—delivering detailed insights into surface morphology and nonlinearity contrasts. These metrics underline pivotal height and surface heterogeneity considerations significant for high-resolution structural characterization.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2502.07533/images/0__page_15_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_0.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Figure 1 provides schematic visuals and initial characterization of Bi as a higher-order topological insulator (HOTI). (a-b) contrast topological invariants of spheres and tori. (c) depicts first versus second-order TI distinctions, focusing on Bi's hinge states formation. (d) portrays Bi’s unit cell crystal structure, indicating atom placements. (e-f) capture STM-derived topographies, analyzed for facet and hinge boundary identification, revealing five hinge configurations. (g-i) elucidate Bi’s atomic arrangement and offer dI/dV spectra representing DOS variations at facets and hinges. This figure encapsulates fundamental structural and electronic attributes, underpinning Bi's proposed HOTI characteristics.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2502.07533/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "Figure 3. Quasiparticle interference (QPI) demonstrating spin-helical edge states modulation in Bi with/without Fe impurity introduction. (a-b) present topological dispersion and Fe-deposited topography, enhancing boundary state visualization. (c-d) contrast QPI dispersions of specific hinge types, illustrating effects of magnetic impurities on scattering vectors. Together with theoretical calculations (e-g), these results substantiate spin-helical hinge state modi in response to Fe-induced scattering, highlighting Fe's potential role in distinguishing topological from trivial states.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2502.07533/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    },
+    "0__page_18_Figure_0.jpeg": {
+      "caption": "Figure S8 introduces the validation of Hamiltonian Graph Neural Network (HamGNN) accuracy juxtaposed with traditional OpenMX calculations. (a-b) compare Hamiltonian matrix elements and energy bands for Bi prism tests, confirming computational prowess in large-scale system simulations. The high fidelity showcased here establishes HamGNN as a formidable predictive framework for electronic structure analysis in topological studies.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2502.07533/images/0__page_18_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_18_Figure_0.jpeg"
+    },
+    "_page_7_Figure_2.jpeg": {
+      "caption": "Figure 4. Symmetry analysis of HOTI phase exhibiting superconductivity in Bi. (a) Locates topological hinges utilizing symmetry-based graphical models, indicating mass term variations. (b) Exemplifies superconducting gap spectra across diverse crystal locations, emphasizing (111) facets and topological hinges. (c) Delineates spatial superconducting gap coherence heightened at hinge transition. These illustrations validate Bi's landscape as fertile for deriving superconductive phases and topological character via high-order symmetry and superconduction interplays.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2502.07533/images/_page_7_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_2.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1404,
+    "api_cost": 0.1404,
+    "file_storage_cost": 0.0,
+    "total_time": 145.26,
+    "request_count": 2,
+    "average_cost_per_request": 0.0702,
+    "average_time_per_request": 72.63,
+    "files_uploaded": 16,
+    "total_file_size": 1681869
+  }
+}

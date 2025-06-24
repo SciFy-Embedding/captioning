@@ -1,0 +1,66 @@
+{
+  "paper_id": "781a4751aca0c6f3667a31f56a5f6c67",
+  "pdf_path": "apl/Superconductors/arXiv:1512.06416.pdf",
+  "processing_timestamp": "2025-06-23T13:53:10.763209",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "Figure 5 illustrates the periodic structure of the differential conductance (dV/dI) characteristic of a YBaSrCuO-Ag contact with a resistance R^N of approximately 105 Ω, captured at temperatures of 10 K (curve 1) and 20 K (curve 2). This graph provides insights into the superconducting phase behavior with varied dV/dI peaks indicating changes in the contact's resistance properties at different temperatures. The periodicity and peak shifts in response to temperature alterations indicate the dynamic interaction of superconducting phases at the interface, essential for understanding superconducting junctions and their thermal dependence .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.06416/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "_page_2_Figure_2.jpeg": {
+      "caption": "Figure 3 displays stepwise variations in the current-voltage characteristics (IVC) of an NbSe2-Cu contact at different temperatures, specifically 1.85 K (curve 1) and 3.22 K (curve 2). The curve is characterized by step-like features, typical of superconducting junctions in nonequilibrium states. The dot-and-dash line signifies the parallel line to IVC for large voltage values. These steps are indicative of phase slip centers that form under nonequilibrium conditions in superconductors, an essential feature for applications in quantum computing and nanoscale electronic devices .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.06416/images/_page_2_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_2.jpeg"
+    },
+    "_page_1_Figure_5.jpeg": {
+      "caption": "Figure 1 presents the current-voltage characteristics of an NbSe2-Cu junction with a total resistance of 170 Ω at a temperature of 1.68 K. Marked by distinct steps, the IVC showcases discrete differential resistance values of 60, 117, 150, and 170 Ω, indicative of abrupt transitions between superconducting phases. These profiles are marked with tangents facilitating the determination of resistance values at the phase transitions, crucial for understanding the finely tunable electrical properties of superconductor-metal junctions in specific temperature conditions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.06416/images/_page_1_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_5.jpeg"
+    },
+    "_page_3_Figure_4.jpeg": {
+      "caption": "Figure 4 depicts the stepwise IVC of a YBaSrCuO-Ag point contact at 4.2 K with a normal resistance of 336 Ω, including plots of current (I in mA) and voltage differential (V_1(eV) ∼ dV/dI). Subfigures (b) and (c) further illustrate the IVC and the first derivative at different resistances, providing insight into the dynamic behavior of current flow and phase transitions within superconducting materials under cryogenic conditions. The complexity and precision in the derivative plots (V_1(eV)) are significant for studying nonequilibrium phenomena in high-temperature superconductors .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.06416/images/_page_3_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_4.jpeg"
+    },
+    "_page_4_Figure_2.jpeg": {
+      "caption": "Figure 6 shows the effect of an external magnetic field on the derivative peaks of IVC for a YBaSrCuO-Ag contact at 4.2 K with a normal resistance of 30 Ω. Two conditions are shown: H = 0 kOe and H = 40 kOe, illustrating the field's suppressing and broadening impact on superconducting state features. Understanding these field-dependent changes is crucial for the development of superconducting technologies with enhanced control over resistance transitions under different magnetic environments .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.06416/images/_page_4_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_2.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Figure 2 depicts the S−c−N model for a point contact, illustrating a constriction with diameter d greater than the effective diffusion length l_E and coherence length ξ_0. The dashed lines mark the boundaries of different nonequilibrium regions surrounding the contact point. This schematic is pivotal in comprehending the spatial distributions of current-related phenomena in superconductors and is vital for designing microelectronics based on superconducting principles .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.06416/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0571,
+    "api_cost": 0.0571,
+    "file_storage_cost": 0.0,
+    "total_time": 37.76,
+    "request_count": 1,
+    "average_cost_per_request": 0.0571,
+    "average_time_per_request": 37.76,
+    "files_uploaded": 7,
+    "total_file_size": 299738
+  }
+}

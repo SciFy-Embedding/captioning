@@ -1,0 +1,210 @@
+{
+  "paper_id": "914cde10a8b089ee77739f6ffc594561",
+  "pdf_path": "apl/Superconductors/arXiv:1501.07149.pdf",
+  "processing_timestamp": "2025-06-23T13:46:08.832982",
+  "figure_analysis": {
+    "0__page_11_Figure_9.jpeg": {
+      "caption": "Figure 9 illustrates the critical current densities (Jsc) as a function of the magnetic field (B) for Nb-Ti and Nb3Sn superconducting materials at two different temperatures, 1.9 K and 4.2 K. The x-axis represents the magnetic field (B) in Tesla (T), while the y-axis shows the critical current density (Jsc) in A/mm². The data for Nb-Ti and Nb3Sn materials reveal the decay in critical current density with an increase in magnetic field strength. This decay is steeper at higher temperatures. The data emphasizes that Nb3Sn maintains higher critical current densities than Nb-Ti across a range of magnetic fields, showcasing its superior performance in high-field applications. These findings have significant implications for the design and enhancement of superconducting magnets, particularly in high-energy physics experiments and technologies【4:10†temp_paper_914cde10a8b089ee77739f6ffc594561.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/0__page_11_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_9.jpeg"
+    },
+    "_page_6_Figure_2.jpeg": {
+      "caption": "Figure 2 presents the angular solutions for sector coil designs used in the construction of the Tevatron main dipoles. The plot illustrates the relationship between the angles of the inner layer (α1) and outer layer (α2) versus the ratio of coil width (w) to aperture (r). The x-axis shows the normalized coil width to aperture ratio, w/r, while the y-axis displays the angle in degrees. The figure encapsulates critical design parameters for coil optimization, focusing on maintaining linear field production while minimizing higher-order multipole errors. This design strategy is crucial in accelerator applications to ensure field uniformity and reliability【4:18†temp_paper_914cde10a8b089ee77739f6ffc594561.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/_page_6_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_2.jpeg"
+    },
+    "_page_1_Figure_16.jpeg": {
+      "caption": "Figure 16 exhibits the short sample gradient as a function of coil width and aperture for Nb-Ti and Nb3Sn superconductors, shown in A/mm² per Tesla. The graph compares the performance of these materials, highlighting that Nb3Sn provides approximately 50% higher gradients than Nb-Ti under the same conditions. The x-axis denotes the coil width in mm, while the y-axis indicates the achievable gradient in T/m. The visual highlights the potential advantages of using Nb3Sn in future high-energy physics applications, including the LHC upgrades【4:19†temp_paper_914cde10a8b089ee77739f6ffc594561.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/_page_1_Figure_16.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_16.jpeg"
+    },
+    "_page_4_Figure_1.jpeg": {
+      "caption": "Figure 1 showcases a theoretical model of a cos-theta distribution of current density, pivotal in creating dipolar magnetic fields in accelerator magnets. The schematic elucidates the geometric configuration of sector coils approximating the cos-theta layout. The figure underscores the principles used in designing superconducting magnets, where a cos-theta current distribution results in a high-quality dipole field. Such designs are central to achieving uniform magnetic fields necessary for precision in particle accelerators【4:12†temp_paper_914cde10a8b089ee77739f6ffc594561.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/_page_4_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_1.jpeg"
+    },
+    "_page_6_Figure_4.jpeg": {
+      "caption": "Figure 4 illustrates the coil architecture of the main dipole used in the HERA accelerator, highlighting a one-layer structure supplemented by a wedge. This configuration aims to optimize field linearity and minimize higher harmonic contributions. The representation aids in understanding design strategies for achieving high field quality in accelerator magnets, crucial for particle trajectory stability【4:18†temp_paper_914cde10a8b089ee77739f6ffc594561.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/_page_6_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_4.jpeg"
+    },
+    "1__page_22_Figure_3.jpeg": {
+      "caption": "Figure 3 depicts the ratio between peak field and gradient multiplied by aperture in various accelerator magnet quadrupoles. The plot includes data points from different quadrupole designs, coupled with a fit from Eq. (40). This figure is crucial for evaluating the effectiveness of coil designs across different superconducting magnets, serving as a parameter for field-strength optimization【4:14†temp_paper_914cde10a8b089ee77739f6ffc594561.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/1__page_22_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Figure_3.jpeg"
+    },
+    "0__page_14_Figure_0.jpeg": {
+      "caption": "Figure 0 illustrates the intersection of magnet loadlines with Nb-Ti critical surfaces, comparing large and small coil widths. The left graph shows loadlines with the critical surface, and the right graph defines short sample conditions and field values crucial for magnet operation limits. This figure is fundamental in exploring the operational limits of superconducting magnets and aids in understanding the impact of coil dimensions on magnet performance【4:14†temp_paper_914cde10a8b089ee77739f6ffc594561.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/0__page_14_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_0.jpeg"
+    },
+    "_page_7_Figure_6.jpeg": {
+      "caption": "Figure 6 provides a visual representation of the solution to reduce harmonics in coil designs through the use of wedges. It shows the harmonics cancellation strategy applied in the RHIC dipole, exhibiting the precise placement of wedges to suppress unwanted multipole components. The figure demonstrates innovative approaches in optimizing field quality, which are vital for high-precision accelerator operations【4:15†temp_paper_914cde10a8b089ee77739f6ffc594561.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/_page_7_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_6.jpeg"
+    },
+    "1__page_19_Figure_0.jpeg": {
+      "caption": "Figure 0 features end views of the cross-section of a RHIC dipole (left) and an LHC dipole (right), illustrating the influence of iron yokes. These images highlight engineering insights into the structural design and the role of iron in enhancing field strength. The visualization serves as an educational tool in understanding how these configurations contribute to the magnetic and mechanical stability of superconducting accelerator magnets【4:13†temp_paper_914cde10a8b089ee77739f6ffc594561.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/1__page_19_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_19_Figure_0.jpeg"
+    },
+    "_page_1_Picture_17.jpeg": {
+      "caption": "Figure 17 presents a historical portrait of André-Marie Ampère, significant for his contributions to electromagnetism, upon which much of modern electromagnet design principles rest. This inclusion underscores the theoretical foundations discussed throughout the paper, from the Biot-Savart law to multipole expansions, highlighting the enduring scientific legacy of Ampère in current electromagnetic technologies.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/_page_1_Picture_17.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Picture_17.jpeg"
+    },
+    "1__page_22_Figure_1.jpeg": {
+      "caption": "Figure 1 displays two plots showing the relationship between equivalent coil width and bore field (left), as well as current density (right) for various superconducting materials such as Nb-Ti and Nb3Sn. The x-axis represents the equivalent coil width in millimeters, while bore field is measured in Tesla and current density in A/mm². The figure illustrates how bore fields and current densities can be optimized via coil design, providing insights for accelerators like the LHC and other facilities, emphasizing that advanced materials like Nb3Sn offer potential for higher performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/1__page_22_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Figure_1.jpeg"
+    },
+    "1__page_18_Figure_0.jpeg": {
+      "caption": "Figure 0 elucidates the impact of iron in coil designs, demonstrating how iron creates a virtual coil which enhances the magnetic field without increasing current density. The left section shows the current image effect by iron, while the right section illustrates the sector coil with a virtual coil configuration. This figure ties to the research objectives of optimizing magnet performance by using materials that naturally improve field strength and efficiency, relevant for innovative designs in magnet production.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/1__page_18_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Figure_0.jpeg"
+    },
+    "0__page_9_Figure_4.jpeg": {
+      "caption": "Figure 4 depicts a sector coil layout for a quadrupole (left) alongside a detailed layout of an RHIC main quadrupole coil (right). Presented angles indicate precise geometric parameters (18°, 22°, 32°) critical for achieving specified field-quality constraints, underlining the study's focus on leveraging coil geometry for optimal magnetic field performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/0__page_9_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_4.jpeg"
+    },
+    "0__page_12_Figure_10.jpeg": {
+      "caption": "Figure 10 presents the ratio between peak field and central field across several accelerator magnet dipoles, with a hyperbolic fit shown. This plot provides critical insights into how coil designs impact field intensities, with λ displayed as a measure of design efficiency, crucial for deciding operational magnet parameters in accelerator construction.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/0__page_12_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_10.jpeg"
+    },
+    "0__page_13_Figure_3.jpeg": {
+      "caption": "Figure 3 highlights the ratio of peak field to gradient times aperture across several quadrupole designs, backed by a fit based on Equation 40. The figure serves as an analytical tool for understanding design efficiency and field production, essential for evaluating and comparing different quadrupole coil configurations in accelerator environments.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/0__page_13_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_3.jpeg"
+    },
+    "_page_3_Figure_4.jpeg": {
+      "caption": "Figure 4 illustrates two approaches to approximate cos-theta coil designs using sector coils in accelerator magnets: wedges (left) and layer techniques (right). The sector coil model presents an effective and simpler means to generate dipolar fields, thereby providing a foundation for refined electromagnet designs in high-performance accelerator scenarios.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/_page_3_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_4.jpeg"
+    },
+    "1__page_19_Figure_2.jpeg": {
+      "caption": "Figure 2 shows the influence of iron on the main field increase relative to iron radius and coil width. It visually supports the analysis of iron's beneficial roles, such as flux containment, reduced fringe fields, and facilitated lower current densities, which are central to the paper's discussions on improving accelerator magnet efficiency.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/1__page_19_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_19_Figure_2.jpeg"
+    },
+    "0__page_10_Figure_4.jpeg": {
+      "caption": "Figure 4 displays coil designs for HERA (left) and LHC (right) quadrupoles, with defined angles crucial to their respective functionalities. The layouts demonstrate practical applications of theoretical principles discussed, illustrating innovations in achieving optimal field quality through strategic angular configurations of the coil.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/0__page_10_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_4.jpeg"
+    },
+    "_page_1_Figure_15.jpeg": {
+      "caption": "Figure 15 provides a portrait of François Arago, a notable figure in the history of physics and exploration of electromagnetic phenomena. His legacy forms a part of the foundational studies discussed in the paper, particularly regarding magnetism and its application in modern high-energy physics experiments.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/_page_1_Figure_15.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_15.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "Figure 0 illustrates a schematic layout of a two-layer coil design (left) for the Tevatron main dipoles, and the actual coil used in the construction (right). This design choice, with no copper wedges, emphasizes the balance between structural simplicity and magnetic field quality. The absence of wedges allows the setting of certain multipoles to zero, crucial for reducing higher-order non-linearities and optimizing magnetic field uniformity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    },
+    "1__page_20_Figure_8.jpeg": {
+      "caption": "Figure 8 shows the iron yoke's impact on magnetic field profiles within an accelerator magnet. The left image demonstrates the current image produced by the iron, while the right image illustrates a sector coil incorporating a virtual coil provided by the iron yoke. This configuration enhances field strength and efficiency, helping to contain magnetic flux and reduce stray fields.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/1__page_20_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_8.jpeg"
+    },
+    "_page_4_Figure_3.jpeg": {
+      "caption": "Figure 3 visualizes the decay of magnetic field multipoles in a sector coil setup. The left panel on the semilogarithmic scale shows the decay order of multipoles, while the right panel exemplifies precision in magnetic measurements using a Nb3Sn short model HQ. This precision is critical for assessing field quality in superconducting magnets.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/_page_4_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_3.jpeg"
+    },
+    "1__page_16_Figure_0.jpeg": {
+      "caption": "Figure 0 presents the short sample field gradient versus coil width and aperture for Nb-Ti and Nb3Sn superconductors, with a filling factor κ=0.3. The graphs, showing the gradients in T/m across varying coil widths, underscore the enhanced performance of Nb3Sn compared to Nb-Ti. This data is pivotal for future magnet designs aimed at achieving higher performance within existing technological constraints.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/1__page_16_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_16_Figure_0.jpeg"
+    },
+    "0__page_14_Figure_5.jpeg": {
+      "caption": "Figure 5 displays the relationship between short sample field versus coil width and aperture for Nb-Ti (left) and Nb3Sn (right), with a filling factor of κ=0.3. The outcomes reveal that adjustments in coil width considerably impact the short sample field potential, with Nb3Sn reaching superior field limits in high-performance scenarios.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07149/images/0__page_14_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_5.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.2177,
+    "api_cost": 0.2177,
+    "file_storage_cost": 0.0,
+    "total_time": 213.75,
+    "request_count": 3,
+    "average_cost_per_request": 0.0726,
+    "average_time_per_request": 71.25,
+    "files_uploaded": 25,
+    "total_file_size": 1167291
+  }
+}

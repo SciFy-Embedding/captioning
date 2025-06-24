@@ -1,0 +1,90 @@
+{
+  "paper_id": "213714e2f5c2cadcea29b9f003c06dc3",
+  "pdf_path": "apl/Superconductors/arXiv:2404.08240.pdf",
+  "processing_timestamp": "2025-06-23T15:20:31.089959",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "Figure 5: Time evolution of the beam parameters through the transportation line is shown in three subplots: the left plot depicts the evolution of the rms bunch length (mm) as the beam progresses from the cathode, illustrating the bunch compression; the middle plot shows the rms transverse beam size (mm) also as a function of distance, demonstrating the beam's focusing and defocusing along the path; the right plot presents the total energy (MeV) and energy spread (%), indicating energy gain and spread as the beam accelerates. These visualizations are significant for understanding the impact of cavity focusing and tuning decisions made with quadrupoles and during main acceleration to maintain beam quality and compression during transport.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.08240/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "_page_2_Figure_2.jpeg": {
+      "caption": "Figure 4: This figure illustrates the minimum speed of transportation within the superconducting cavities for two different cavity configurations: β = 1 (left panel) and β = 0.8 (right panel). The plots use the beam energy in units of the kinetic velocity factor (γβ) against longitudinal position (m). The graphical representation underscores how cavity design affects the beam transport efficiency in non-relativistic conditions. It highlights the broader range of acceptable energy conditions when using β = 0.8 cavities, which is crucial for minimizing energy mismatch losses and improving the overall acceleration process .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.08240/images/_page_2_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_2.jpeg"
+    },
+    "_page_5_Figure_2.jpeg": {
+      "caption": "Figure 9: This figure displays the final beam longitudinal spatial distribution 1 meter downstream from the last cavity. This visualization consists of a histogram representing counts against longitudinal position (Z) and energy (MeV). The composite plot indicates how energy distribution and longitudinal bunch structure conclude at the last cavity, essential for assessing the beam's longitudinal dynamics and ensuring the satisfactory delivery of energy levels needed for downstream applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.08240/images/_page_5_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_2.jpeg"
+    },
+    "_page_1_Figure_4.jpeg": {
+      "caption": "Figure 2: This schematic represents the layout of key accelerator components, including the electron gun, normal-conducting buncher cavity, superconducting cavities, solenoids, and extraction systems. Each component's position and function within the compact 10 MeV system is illustrated, designed for optimal transport and acceleration of electron beams. This layout supports system integration by providing insight into the beam path and component interdependencies for achieving high efficiency with minimal beam loss in a compact setup .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.08240/images/_page_1_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_4.jpeg"
+    },
+    "_page_4_Figure_2.jpeg": {
+      "caption": "Figure 6: Graphical depiction of the spatial distribution evolution of the beam along the z-axis through the accelerator components. The x-axis represents the spatial distribution along z, while the y-axis depicts transverse positions. As the beam progresses from initial conditions in the gun through the 2-cell cavities, spatial modulation and focusing are observed due to cavity and solenoid effects. This illustrates real-time particle focusing and shifts induced by space charge and accelerating forces, important for maintaining beam integrity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.08240/images/_page_4_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_2.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Figure 3: This illustration provides a schematic layout of the injector and superconducting cryomodule section of the accelerator, highlighting the key components like the electron gun, buncher, solenoids, and five 2-cell superconducting cavities. The design supports the acceleration of a high-current beam through strategic component placement and involves significant technical considerations ensuring optimal thermal and conductivity properties required for efficient electron acceleration .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.08240/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    },
+    "_page_1_Figure_0.jpeg": {
+      "caption": "Figure 1: Conceptual design diagram of the 10 MeV, 50 mA accelerator using Nb3Sn SRF cavities displays the critical infrastructure from electron gun to irradiation components. The conceptual overview demonstrates how these elements work together in achieving a high-power, compact accelerator. The significance lies in enhancing current transport without beam loss through the use of advanced Nb3Sn technology and compact design principles .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.08240/images/_page_1_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_0.jpeg"
+    },
+    "_page_5_Figure_0.jpeg": {
+      "caption": "Figure 8: The figure illustrates the final beam transverse spatial distribution 1 meter downstream from the last cavity. Represented are contour and color density plots showing transverse distribution in both x and y planes, using counts in arbitrary units on the axes. This figure sums up the effects of transverse beam dynamics and provides valuable insights into the beam quality exiting the acceleration sections, a key performance metric for ensuring alignment with accelerator design goals.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.08240/images/_page_5_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_0.jpeg"
+    },
+    "_page_4_Figure_3.jpeg": {
+      "caption": "Figure 7: Time evolution of the energy distribution of the beam is shown as overlapping snapshots of particles within longitudinal phase space, taken every 1 ns. The visualization demonstrates convergence in energy and time, significant for monitoring the controlled acceleration and bunch compression during passage through the cryomodule. This figure helps underscore the dynamics of energy spread and distribution shaping across fractions of a second.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2404.08240/images/_page_4_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_3.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0516,
+    "api_cost": 0.0516,
+    "file_storage_cost": 0.0,
+    "total_time": 59.52,
+    "request_count": 1,
+    "average_cost_per_request": 0.0516,
+    "average_time_per_request": 59.52,
+    "files_uploaded": 10,
+    "total_file_size": 475093
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "paper_id": "0fd33041209fa01673fef8fee131121f",
+  "pdf_path": "apl/Superconductors/arXiv:2301.11278.pdf",
+  "processing_timestamp": "2025-06-23T14:56:35.389640",
+  "figure_analysis": {
+    "_page_1_Figure_11.jpeg": {
+      "caption": "This figure shows the development of magnet current in the first ramp, as driven by the Quench Current-boosting Device (QCD). On the x-axis is the time (s), and on the y-axis is the magnet current (kA). The observed data (blue curve) and simulation (orange curve) are compared during the 60 ms after quench detection. The data highlights the effect of a 50 ms delay of the dump resistor and a 30 ms delay of the protection heater firing. The simulation assumes a magnet inductance of 1.4 mH and approximated resistance development. The figure demonstrates the potential of QCD to modulate current development, offering insights into enhancing magnet performance during quench events. The good agreement between simulated and actual current reinforces the fidelity of the simulation approach used.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.11278/images/_page_1_Figure_11.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_11.jpeg"
+    },
+    "_page_2_Figure_4.jpeg": {
+      "caption": "This figure represents the quench current of a superconducting magnet as a function of training quench number, under nominal ramp rate conditions and at different temperatures (4.5 K and 1.9 K). Magnet currents are shown for both conditions with and without QCD application, indicating a boosted current at its peak. The lack of 'training quenches' due to the influence of QCD is evident. This trend suggests that QCD can significantly influence the training efficiency of superconducting magnets, potentially reducing the number of required training quenches.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.11278/images/_page_2_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_4.jpeg"
+    },
+    "_page_3_Figure_7.jpeg": {
+      "caption": "This figure illustrates simulated magnet responses to QCD discharges for a 35 mH load. Displayed on the x-axis is time (ms), and on the y-axis is magnet current (kA). The curves compare the impact of 1 kV and 2 kV QCD discharges across different resistive profiles (R). The simulation with higher initial discharge voltage (2 kV) results in higher peak magnet currents and different resistive impacts over time. These simulations are crucial for understanding QCD's efficiency and safety implications in high-resistance magnet configurations.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.11278/images/_page_3_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_7.jpeg"
+    },
+    "_page_3_Figure_4.jpeg": {
+      "caption": "This composite figure presents acoustic and current data recorded during thermal cycles TC1, TC2, and TC3, showing magnet current ramps (red) alongside acoustic signals (green). Time is expressed in arbitrary units. Different thermal cycles are compared for their acoustic activity when QCD (TC1 and TC3) or no QCD (TC2) was applied. The acoustic signals diminish after QCD application, suggesting the device's role in smoothening magnet operation and mitigating training-induced mechanical disturbances.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.11278/images/_page_3_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_4.jpeg"
+    },
+    "_page_2_Picture_13.jpeg": {
+      "caption": "This figure features photographs of non-conformities observed on the superconducting coil post-testing. The left image highlights significant non-planarity at the coil mid-plane, while the right shows cracks (indicated by orange arrows) in the outer layer of the non-lead end. These structural anomalies could be linked to the coil's performance in training quenches and its overall structural integrity during high-stress testing conditions, underscoring the importance of manufacturing precision for coil durability.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.11278/images/_page_2_Picture_13.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Picture_13.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0472,
+    "api_cost": 0.0472,
+    "file_storage_cost": 0.0,
+    "total_time": 34.16,
+    "request_count": 1,
+    "average_cost_per_request": 0.0472,
+    "average_time_per_request": 34.16,
+    "files_uploaded": 6,
+    "total_file_size": 169968
+  }
+}

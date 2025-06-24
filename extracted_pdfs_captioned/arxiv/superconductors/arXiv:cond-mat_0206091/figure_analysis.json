@@ -1,0 +1,42 @@
+{
+  "paper_id": "5a102c0908376d230602358b2c4e49e7",
+  "pdf_path": "apl/Superconductors/arXiv:cond-mat_0206091.pdf",
+  "processing_timestamp": "2025-06-23T15:36:26.008962",
+  "figure_analysis": {
+    "_page_1_Figure_5.jpeg": {
+      "caption": "Figure 5 presents the magnetic moment (m) as a function of temperature (T) at various applied magnetic fields ranging from 25 x 10^3 Oe to 55 x 10^3 Oe. The y-axis represents the magnetic moment (10^-2 emu), while the x-axis displays temperature (T) in Kelvin (K). Solid symbols indicate data obtained when temperature is increasing, while open symbols show data for decreasing temperature. Notable hysteresis is evident as the field strength surpasses 35 x 10^3 Oe. This figure indicates a hysteretic response of the magnetic moment relative to temperature changes in type-II superconductors (V3Si samples), particularly under higher magnetic fields. Such hysteresis reflects a non-trivial transition regime that could be indicative of a two-phase coexistent state or critical point behavior, aligning with the liquid-gas analogy referenced in the study.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0206091/images/_page_1_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_5.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Figure 2 illustrates the phase diagram in the H-T space, displaying the magnetic field (H) in units of 10^3 Oe on the y-axis and the temperature (T) in Kelvin on the x-axis. The diagram highlights Hc^2(T) with upper symbols and illustrates a putative two-phase region using a shaded area bounded by a coexistence curve (diamonds). Despite this, the diagram doesn't allow conclusions on whether this region extends to lower temperatures due to the instrument's field limitations. This figure supports the existence of coexistent phases, potentially enabling a two-phase equilibrium state within type-II superconductors like V3Si.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0206091/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    },
+    "_page_1_Figure_0.jpeg": {
+      "caption": "Figure 1 shows a three-dimensional plot of the magnetic moment (m, in 10^-3 emu) of V3Si as a function of both applied magnetic field (H), shown in units of 10^3 Oe, and temperature (T) in Kelvin. The temperature ranges from 13.8 K to 15.2 K, progressing in 0.1 K increments. This figure elucidates the complex magnetic behavior typical in type-II superconductors, with the observed isotherms representing different magnetic susceptibility regimes. The system mirrors a thermodynamic setup where magnetic work performed is analogous to mechanical pressure-volume work in fluids, capturing features akin to liquid-gas transitions and highlighting potential critical points or first-order transitions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0206091/images/_page_1_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0426,
+    "api_cost": 0.0426,
+    "file_storage_cost": 0.0,
+    "total_time": 34.0,
+    "request_count": 1,
+    "average_cost_per_request": 0.0426,
+    "average_time_per_request": 34.0,
+    "files_uploaded": 4,
+    "total_file_size": 109585
+  }
+}

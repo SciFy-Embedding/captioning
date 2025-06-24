@@ -1,0 +1,106 @@
+{
+  "paper_id": "a4559ad6878513fe57db7644cbb3b7a7",
+  "pdf_path": "apl/Superconductors/arXiv:2412.09514.pdf",
+  "processing_timestamp": "2025-06-23T15:30:03.403726",
+  "figure_analysis": {
+    "_page_3_Figure_10.jpeg": {
+      "caption": "Microstructural evolution of Nb4Hf at different annealing temperatures. FESEM-BSE images show the changes in microstructure after heat treatments at (a) 700 °C, (b) 750 °C, (c) 800 °C, and (d) 1000 °C, each for a duration of 3 hours. The images highlight that significant grain growth occurs only at the highest annealing temperature of 1000 °C, with minimal changes observed at lower temperatures. The presence of bright-phase Hf-rich precipitates becomes more apparent after annealing at 1000 °C .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2412.09514/images/_page_3_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_10.jpeg"
+    },
+    "_page_3_Figure_1.jpeg": {
+      "caption": "Vickers hardness of Nb alloys as a function of heat treatment temperature and alloy composition. The graph demonstrates that the hardness decreases with increasing heat treatment temperature for both Nb4Hf and Nb4Ta alloys, with Nb4Hf maintaining higher hardness at elevated temperatures. The data emphasize the superior thermal stability of Nb4Hf, which retains its hardness until higher temperatures compared to Nb4Ta. The high hardness values indicate the potential for enhanced mechanical properties, critical for superconducting wire applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2412.09514/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "_page_2_Figure_2.jpeg": {
+      "caption": "Microstructural analysis of monofilament wires using FESEM-BSE imaging. (a) shows an unreacted wire cross-section with a Ta-tube sheathed in Cu and Sn, while (b) and (c) represent reacted cross-sections with noticeable A15 diffusion layers at the perimeter. The transition from unreacted to reacted states illustrates the extent of Nb-Sn alloying during the diffusion reaction process, contributing to the enhanced superconducting properties of the wires .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2412.09514/images/_page_2_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_2.jpeg"
+    },
+    "0__page_9_Figure_1.jpeg": {
+      "caption": "Effect of A15 reaction temperature on the upper critical field slope and zero-temperature critical field (*Hc2*(0)) in Ta-doped Nb alloys. The panels show how different dopant contents and reaction temperatures alter the superconducting performance, highlighting that optimal doping and lower reaction temperatures enhance *Hc2*(0), a crucial factor for practical high-field applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2412.09514/images/0__page_9_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_1.jpeg"
+    },
+    "0__page_9_Figure_6.jpeg": {
+      "caption": "FESEM-BSE images and WHH fits of Ga+4Ta1Hf reacted wires. Images (a) and (b) illustrate the microstructural changes at 800 °C and 850 °C, respectively, showing the presence of Ga and Hf-rich precipitates within the A15 phase. Panel (c) presents the WHH fit to the upper critical field data, indicating that high reaction temperatures lead to larger grain sizes and a decrease in *Hc2*(0), which is critical for optimizing these conductors for superconducting applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2412.09514/images/0__page_9_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_6.jpeg"
+    },
+    "_page_2_Figure_5.jpeg": {
+      "caption": "Vickers hardness as a function of alloy composition in Nb-based materials. The graph displays a linear increase in hardness with the addition of dopants such as Ta, Hf, and Zr, which contribute to solid solution strengthening. The data highlight the significant effect of larger dopants (Hf and Zr) in enhancing hardness, which influences the mechanical deformation behavior of superconducting wires .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2412.09514/images/_page_2_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_5.jpeg"
+    },
+    "_page_4_Figure_5.jpeg": {
+      "caption": "Upper critical field (*Hc2*(T)) evaluation using WHH fits for Nb4Ta1Hf alloy in magnetic fields up to 31 T. The results from different field sweep experiments confirm the enhancement of *Hc2* through disorder introduced by various alloying strategies, underpinning the importance of optimizing dopant combinations and heat treatment protocols to maximize superconducting performance .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2412.09514/images/_page_4_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_5.jpeg"
+    },
+    "0__page_8_Figure_1.jpeg": {
+      "caption": "Hc2 slope evaluation by WHH fitting for alloyed A15 samples, illustrating the impact of reaction temperature and dopant content on superconducting properties. The trends observed reinforce the role of Hf, Zr, and Ta in controlling disorder within the A15 phase, pivotal for tailoring materials for specific superconducting applications such as in high-field magnets .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2412.09514/images/0__page_8_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_1.jpeg"
+    },
+    "_page_4_Figure_2.jpeg": {
+      "caption": "FESEM-BSE images depicting the Nb-alloy core/Nb3Sn interface post-reaction, showcasing the recrystallization and diffusion layers surrounding the monofilament cores. The distinct contrast in microstructures across various alloy compositions emphasizes the critical influence of dopant addition on grain size refinement, essential for high-performance superconducting wires .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2412.09514/images/_page_4_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_2.jpeg"
+    },
+    "_page_6_Figure_1.jpeg": {
+      "caption": "The effect of various dopants on the critical temperature (*T<sup>c</sup>*) of A15 phase samples reacted at 670 °C and 750 °C. The six panels represent different alloying strategies: (a-b) impact of Hf and Ti, (c-d) Ta with or without additional Hf/Zr, and (e-f) fixed Ta with variable Hf/Zr additions. Results show complex and non-monotonic variations of *T<sup>c</sup>*, influenced by the dopant content and reaction temperature. The reaction at 750 °C typically produces higher *T<sup>c</sup> values compared to 670 °C, illustrating the significance of reaction temperature in tuning superconducting properties of Nb-based alloys.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2412.09514/images/_page_6_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_1.jpeg"
+    },
+    "_page_7_Figure_2.jpeg": {
+      "caption": "Slope of the upper critical field (*Hc2*) evaluated using WHH fits for A15 phase samples reacted at 670 °C (top row) and 750 °C (bottom row). The panels categorize the data based on dopant concentration: (a-b) individual and fixed Ti impacts, (c-d) effects of Ta with stable Hf/Zr, and (e-f) changes in Hf and Zr at constant Ta levels. Increasing the reaction temperature to 750 °C universally decreases the *Hc2* slope, contrasting with the *T<sup>c</sup>* trends. This data indicates that dopant interactions and reaction conditions intricately control disorder formation, critical to tailoring Nb3Sn conductors for optimized high-field applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2412.09514/images/_page_7_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_2.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1726,
+    "api_cost": 0.1726,
+    "file_storage_cost": 0.0,
+    "total_time": 129.8,
+    "request_count": 2,
+    "average_cost_per_request": 0.0863,
+    "average_time_per_request": 64.9,
+    "files_uploaded": 12,
+    "total_file_size": 1022924
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "paper_id": "75fad32420a7d53c922147038a2b26a1",
+  "pdf_path": "apl/Superconductors/arXiv:cond-mat_0102114.pdf",
+  "processing_timestamp": "2025-06-23T15:32:14.931117",
+  "figure_analysis": {
+    "_page_2_Figure_2.jpeg": {
+      "caption": "Figure 2 shows the upper critical field (Hc2) of Mg^10B_2, determined resistively (with onset and offset marked by vertical bars and maximum slope points as open circles) and also identified via magnetization measurements (filled circles). Asterisks represent the irreversible field (Hirr). This figure underscores the consistency between resistive and magnetization data in determining critical fields, highlighting superconductive characteristics near the critical temperature.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0102114/images/_page_2_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_2.jpeg"
+    },
+    "_page_2_Figure_10.jpeg": {
+      "caption": "Figure 6 shows M_eq, an extension of reversible magnetization into the irreversible range assuming identical flux pinning for increasing and decreasing fields. The inset presents the resulting values of Hc. The behavior close to theoretical predictions by Abrikosov validates this approach and advances understanding of superconducting magnetization behavior.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0102114/images/_page_2_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_10.jpeg"
+    },
+    "_page_2_Figure_4.jpeg": {
+      "caption": "Figure 3 presents a Kohler plot for Mg^10B_2, where open circles represent temperature-dependent resistance from 0 T to 9 T, and filled triangles indicate field-dependent resistance at 45 K. This plot reveals a linear correlation indicative of intrinsic band effects and strong magnetoresistance, contributing to the understanding of electrical transport properties in superconductors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0102114/images/_page_2_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_4.jpeg"
+    },
+    "_page_2_Figure_8.jpeg": {
+      "caption": "Figure 5 compares the critical current density Jc(H; T) up to 30 K for the Mg^10B_2 with data from a sintered Nb_3Sn sample at 4.2 K, highlighting the grain-to-grain supercurrent coupling. The figure illustrates variations in current density and provides insights into how MgB_2 performs relative to established superconductors, emphasizing differences in inter-granular current transmission.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0102114/images/_page_2_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_8.jpeg"
+    },
+    "_page_2_Figure_6.jpeg": {
+      "caption": "Figure 4 provides an expanded view of magnetization as a function of field showing the reversible range and the irreversible region (Hirr). The inset displays the full range of magnetization up to 4 T. A marked change at Hc2 = 4.4 T for different temperatures (e.g., 36 K and 30 K) is observed, indicating phase transitions significant to superconductivity research.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0102114/images/_page_2_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_6.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Figure 1 represents the resistance of the Mg^10B_2 sample in both zero and applied magnetic fields (9 T). The inset details the resistive superconducting transition in varying applied fields increasing from 0 T to 0.5 T, and then from 1 T to 9 T in steps of 1 T. This figure is significant because it illustrates the behavior of the superconducting transition under different magnetic field strengths, demonstrating considerable flux-flow broadening and magnetoresistance increase, characteristics vital to understanding superconducting properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0102114/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0348,
+    "api_cost": 0.0348,
+    "file_storage_cost": 0.0,
+    "total_time": 44.74,
+    "request_count": 1,
+    "average_cost_per_request": 0.0348,
+    "average_time_per_request": 44.74,
+    "files_uploaded": 7,
+    "total_file_size": 144006
+  }
+}

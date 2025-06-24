@@ -1,0 +1,122 @@
+{
+  "paper_id": "c70e3b5d4dfd654754332ab39b145136",
+  "pdf_path": "apl/Superconductors/arXiv:2007.07103.pdf",
+  "processing_timestamp": "2025-06-23T14:30:10.260763",
+  "figure_analysis": {
+    "0__page_9_Figure_0.jpeg": {
+      "caption": "This figure presents atomic force microscopy (AFM) images of Nb3Sn films on sapphire substrates, showcasing various annealing conditions. The images (5 μm × 5 μm scan size) illustrate the as-deposited film (a) and films annealed at 800 °C for 24 hours (b), 900 °C for 24 hours (c), 1000 °C for 24 hours (d), 1000 °C for 1 hour (e), and 1000 °C for 12 hours (f). The color scales indicate the surface height variation, with notable increases in both cluster size and surface roughness as the annealing temperature and duration escalate, highlighting the effect of thermal treatment on film morphology and surface characteristics【4:0†temp_paper_c70e3b5d4dfd654754332ab39b145136.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2007.07103/images/0__page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_0.jpeg"
+    },
+    "1__page_17_Figure_0.jpeg": {
+      "caption": "The 2D and 3D atomic force microscopy (AFM) images of Nb3Sn films on Nb substrates show different surface morphologies based on annealing conditions: (a) as-deposited, (b) annealed at 800 °C for 24 hours, and (c) annealed at 1000 °C for 1 hour. Line analysis corresponding to the broken arrows on 2D images reveals the surface height variations, providing insights into the clustering and flatness of the films across different regions. The height metrics and line profiles demonstrate increased roughness and cluster formation post-annealing, vital for understanding the impact of annealing on film growth and surface properties .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2007.07103/images/1__page_17_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_17_Figure_0.jpeg"
+    },
+    "_page_7_Figure_0.jpeg": {
+      "caption": "This figure displays scanning electron microscopy (SEM) images of Nb3Sn films on sapphire, showing morphological evolution across different annealing conditions: (a) as-deposited, (b) annealed at 800 °C for 24 hours, (c) annealed at 900 °C for 24 hours, (d) annealed at 1000 °C for 24 hours, (e) annealed at 1000 °C for 1 hour, and (f) annealed at 1000 °C for 12 hours. The micrographs highlight grain size increase and the appearance of voids as annealing progresses. The cross-sectional view in (a) serves to illustrate the film's thickness, indicative of structural changes due to thermal treatments .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2007.07103/images/_page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_0.jpeg"
+    },
+    "_page_4_Figure_1.jpeg": {
+      "caption": "X-ray diffraction (XRD) patterns are depicted for Nb3Sn films deposited on sapphire and annealed under various conditions: (a) as-deposited, (b) annealed at 800 °C for 24 hours, (c) annealed at 900 °C for 24 hours, and (d) annealed at 1000 °C for 24 hours. The XRD signatures track the crystallinity changes in response to annealing temperatures. The inset expands the 45-75° range, elucidating specific diffraction peaks linked to Nb3Sn and potential Sn compound formations as a function of annealing .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2007.07103/images/_page_4_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_1.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "Graph illustrating RMS (root mean square) surface roughness of Nb3Sn films on sapphire, extracted from AFM data. As-deposited films initiate with a roughness of approximately 20.2 ± 0.8 nm, escalating to 32.2 ± 0.7 nm post-annealing at 1000 °C for 24 hours. The results underscore the surface morphological changes due to varying annealing conditions, crucial for optimizing film smoothness in applications requiring precise surface characteristics【4:4†temp_paper_c70e3b5d4dfd654754332ab39b145136.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2007.07103/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_14_Figure_0.jpeg": {
+      "caption": "Raman spectra of Nb3Sn films presented for various conditions, comparing (a) as-deposited films, (b) annealed at 800 °C for 24 hours, and (c) annealed at 1000 °C for 1 hour. The shift and evolution of peaks provide insights into phonon modes and microstructural changes induced by annealing temperature, indicative of stress relief and minor phase transformations affecting the superconductive properties of the films .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2007.07103/images/0__page_14_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_0.jpeg"
+    },
+    "0__page_13_Figure_0.jpeg": {
+      "caption": "The X-ray diffraction (XRD) patterns of Nb3Sn films on Nb substrates are shown, detailing (a) the bare Nb substrate, (b) as-deposited Nb3Sn, (c) annealed at 800 °C for 24 hours, and (d) annealed at 1000 °C for 1 hour. Pattern changes illustrate how annealing influences the film crystallite size and the intensity of specific diffraction orders. Part (e) summarizes crystallite size calculations across varying thermal treatments, providing critical data on crystalline integrity and potential enhancements to superconductive performance .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2007.07103/images/0__page_13_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_0.jpeg"
+    },
+    "1__page_18_Figure_3.jpeg": {
+      "caption": "Resistance versus temperature profiles for as-deposited and annealed Nb3Sn films, highlighting the superconducting transition temperatures across different conditions. The main plot and inset detail film resistance behavior over a predefined temperature range, indicating how annealing affects electron transport properties and correlating RF surface resistance with both deposition and annealing parameters crucial for superconducting applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2007.07103/images/1__page_18_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Figure_3.jpeg"
+    },
+    "0__page_15_Figure_0.jpeg": {
+      "caption": "Optical and scanning electron microscopy (SEM) images showcase the evolution of surface morphology in Nb3Sn films on Nb substrates under varying annealing conditions. The progression from faceted small grains in (a) as-deposited films, to enlarged, rounded grains post-annealing at 800 °C (b, e) and 1000 °C (c, f), highlights the structural changes influencing electronic properties. SEM images at different magnifications (d-f, g-i) reveal grain and cluster evolution, critical for understanding the impacts of thermal processing .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2007.07103/images/0__page_15_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_0.jpeg"
+    },
+    "0__page_11_Figure_0.jpeg": {
+      "caption": "Figure 7 displays the resistance versus temperature plots for Nb3Sn films including as-deposited and annealed samples. Part (a) compares the films annealed at 800, 900, and 1000 °C for 24 hours to the as-deposited film; all show superconducting transitions except the sample annealed at 1000 °C for 24 hours. The insets highlight the presence of both Nb and Nb3Sn superconducting phases. Part (b) further explores 1000 °C annealing effects at different durations (1, 12, and 24 hours), demonstrating the influence of prolonged annealing time on transition behavior and the deterioration of superconducting properties due to Sn loss at high temperatures.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2007.07103/images/0__page_11_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_0.jpeg"
+    },
+    "1__page_16_Picture_1.jpeg": {
+      "caption": "Figure 11 shows an Energy Dispersive X-ray (EDX) spot analysis for as-deposited Nb3Sn film surfaces, highlighting Sn compositions at five distinct locations. The table inset summarizes the atomic percentage of Sn ranging roughly between 23% and 24.5% across the measured areas, providing insights into uniformity and surface chemical composition necessary for evaluating the stoichiometric distribution and the initiation of cluster formations.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2007.07103/images/1__page_16_Picture_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_16_Picture_1.jpeg"
+    },
+    "_page_5_Figure_1.jpeg": {
+      "caption": "Figure 2 presents Raman spectra of Nb3Sn films on sapphire, detailing the spectral changes from as-deposited (a) to films annealed at 800 °C (b), 900 °C (c), and 1000 °C (d) for 24 hours. Key Raman shifts include Nb3Sn phonon modes which adjust slightly with thermal processing. Peaks indicative of Sn loss and Nb oxide formation appear after high-temperature annealing, correlating with Sn evaporation and affect the overall quality of the superconducting film.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2007.07103/images/_page_5_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_1.jpeg"
+    },
+    "0__page_8_Figure_0.jpeg": {
+      "caption": "Figure 4 illustrates the Sn atomic composition as measured by EDX for Nb3Sn films coated on sapphire and annealed under various conditions. The graph tracks a decline in Sn content with increasing annealing temperature and time, notably from approximately 26% in as-deposited films to about 4.1% for those annealed at 1000 °C for 24 hours. Understanding Sn loss is crucial for maintaining superconducting properties, emphasizing the balance needed during thermal processing.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2007.07103/images/0__page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1356,
+    "api_cost": 0.1356,
+    "file_storage_cost": 0.0,
+    "total_time": 100.39,
+    "request_count": 2,
+    "average_cost_per_request": 0.0678,
+    "average_time_per_request": 50.2,
+    "files_uploaded": 14,
+    "total_file_size": 1872581
+  }
+}

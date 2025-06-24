@@ -1,0 +1,58 @@
+{
+  "paper_id": "4fbdf8104123da1861c162d5b31018aa",
+  "pdf_path": "apl/Superconductors/arXiv:0812.4463.pdf",
+  "processing_timestamp": "2025-06-23T13:18:25.463630",
+  "figure_analysis": {
+    "0__page_12_Figure_2.jpeg": {
+      "caption": "Figure 4 displays the transverse resistance as a function of temperature measured on the OST-I wire (sample α) between bundles A-B (stars) and A-C (circles). It shows that the outer pure copper layer plays a significant role in maintaining low resistance values, as evidenced by the resistance increase when it is removed (open triangles, sample β). There is a notable decrease in resistance by 2-3 orders of magnitude around 18K, indicative of the Nb3Sn superconducting transition. This highlights the copper sheath as a preferential current path, crucial for optimizing current distribution in superconducting applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0812.4463/images/0__page_12_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_2.jpeg"
+    },
+    "0__page_13_Picture_0.jpeg": {
+      "caption": "Figure 5 provides an SEM image of the Nb3Sn multifilamentary strand after acid etching, removing the matrix material. The micrograph illustrates individual filaments, approximately 6 µm thick, separated by about 1 µm. This detailed imaging is vital for understanding the filament arrangements and the potential impact of copper matrix on resistivity and current paths in superconducting applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0812.4463/images/0__page_13_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Picture_0.jpeg"
+    },
+    "0__page_11_Figure_1.jpeg": {
+      "caption": "Figure 1 is an SEM cross-section of the OST-I strand, showcasing the structural layout including the filamentary region and the tantalum barrier. The image labels 'af', 'a1', and 'a2' denote radii of the filamentary zone, tantalum-included zone, and whole strand, respectively. These measurements are essential for analyzing structural effects on resistivity and understanding the protective role of the tantalum barrier in superconducting strands.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0812.4463/images/0__page_11_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_1.jpeg"
+    },
+    "0__page_12_Figure_0.jpeg": {
+      "caption": "Figure 3 illustrates the V-I characteristics for the OST-I strand (sample α) at temperatures of 4.2K (triangles), 6K (open circles), and 9K (squares), showing data points and a linear fit. The graph reflects nonlinear behavior typical of superconductors at lower temperatures and highlights proximity effect coupling within wire filaments. This is critical for assessing superconducting performance across varying temperatures in Nb3Sn applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0812.4463/images/0__page_12_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_0.jpeg"
+    },
+    "0__page_11_Picture_3.jpeg": {
+      "caption": "Figure 2 shows photographs of the OST-I strand (sample α) with and without its outer copper matrix sheath (sample β). The images document the sample preparation process, emphasizing the significance of the outer sheath in affecting current pathways and resistance measurements. These visuals help substantiate the experimental approach in studying superconducting properties in Nb3Sn strands.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0812.4463/images/0__page_11_Picture_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Picture_3.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0447,
+    "api_cost": 0.0447,
+    "file_storage_cost": 0.0,
+    "total_time": 23.66,
+    "request_count": 1,
+    "average_cost_per_request": 0.0447,
+    "average_time_per_request": 23.66,
+    "files_uploaded": 6,
+    "total_file_size": 350353
+  }
+}

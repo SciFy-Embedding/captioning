@@ -1,0 +1,50 @@
+{
+  "paper_id": "5056465fa9b0b166ef87cebd8735d399",
+  "pdf_path": "apl/Superconductors/arXiv:2203.08309.pdf",
+  "processing_timestamp": "2025-06-23T14:46:05.995416",
+  "figure_analysis": {
+    "_page_3_Figure_1.jpeg": {
+      "caption": "Figure 1 displays a 3D plot of strain distribution measured along a spatial position using a fiber-optic sensor over time. The vertical axis represents the strain in microstrains (um/m), while the horizontal axes show spatial position and time. The data visualization through a surface plot allows for analyzing the strain gradients and variations across the structure being monitored. The 'Speed Mode is On' message suggests that measurements were likely taken at a high sampling rate. The key findings indicate significant variations in strain over time and space, highlighting the robust functionality of fiber-optic sensors in capturing detailed strain profiles. This enhances the understanding of mechanical behavior in superconducting magnets, critical for their reliability and performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2203.08309/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "_page_2_Figure_3.jpeg": {
+      "caption": "Figure 3 showcases the modifications in the vertical test facility at FNAL to support fiber-optic sensor diagnostics. The left side of the image shows an arrangement where '16 Fibers' have been integrated into the system. The 'Fibers tree' on the right demonstrates the organized method used to extract fiber sensor signals. These infrastructural enhancements aim to evaluate and monitor the strain experienced by superconducting magnets during operational tests. This figure supports the research goal to develop reliable and precise diagnostic systems through fiber optic sensors, promising improvements in quench detection and magnet performance monitoring.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2203.08309/images/_page_2_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_3.jpeg"
+    },
+    "_page_2_Figure_4.jpeg": {
+      "caption": "Figure 4 illustrates the absolute strain variations over a given period, as measured by three different Fiber Bragg Grating (FBG) sensors labeled FBG2, FBG3, and FBG4. The horizontal axis represents the time in days, and the vertical axis indicates strain in microstrains per meter (um/m). The decreasing trend suggests a consistent reduction in strain over time, potentially due to temperature changes or structural relaxation in the system. The use of multiple FBG sensors depicts their effectiveness in providing detailed strain evolution, reinforcing the importance of advanced diagnostics in maintaining superconducting magnet integrity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2203.08309/images/_page_2_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_4.jpeg"
+    },
+    "_page_4_Figure_2.jpeg": {
+      "caption": "Figure 2 presents a schematic drawing of a co-wound CORC® wire with integrated optical fibers, alongside a spectral shift graph detailing measurements at a specific point (E) on the fiber. The left section of the figure describes the CORC® wire's structural configuration, including components like 'Voltage tap' and 'Epoxy impregnated regions.' On the right, individual plots illustrate spectral shifts, voltage, current, and power across the wire. This comprehensive depiction of data interpretation highlights the capabilities of integrated optical sensors in detecting and localizing resistive transitions, crucial for advanced quench detection in superconducting systems.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2203.08309/images/_page_4_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_2.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0392,
+    "api_cost": 0.0392,
+    "file_storage_cost": 0.0,
+    "total_time": 45.71,
+    "request_count": 1,
+    "average_cost_per_request": 0.0392,
+    "average_time_per_request": 45.71,
+    "files_uploaded": 5,
+    "total_file_size": 187243
+  }
+}

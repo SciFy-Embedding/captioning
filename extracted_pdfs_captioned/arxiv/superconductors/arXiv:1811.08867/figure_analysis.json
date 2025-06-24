@@ -1,0 +1,66 @@
+{
+  "paper_id": "f1d6739b42ecd1b6417b87acf20a4603",
+  "pdf_path": "apl/Superconductors/arXiv:1811.08867.pdf",
+  "processing_timestamp": "2025-06-23T14:13:09.888727",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "Figure 5 shows the irreversibility field (H_Irr) as a function of temperature for different monofilament wires. The data indicates that the H_Irr of the Ta-Hf doped monofilament is the highest among the tested samples. The addition of SnO2 to Zr and Hf monofilaments results in degraded H_Irr values. The inset reveals the unreacted monofilament architecture featuring a Ta-coated Nb alloy rod, surrounded by Cu stabilization. This figure supports the finding that Nb4Ta1Hf alloy enhances vortex pinning and superconducting properties compared to Nb4Ta1Zr, especially in the presence of internal oxidation (SnO2 addition).",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1811.08867/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "_page_3_Figure_10.jpeg": {
+      "caption": "Figure 4 illustrates the pinning force density as a function of magnetic field for different alloyed Nb-Ta conductors at 4.2 K. The data demonstrates an enhancement in pinning force density for Nb-Ta-Zr and Nb-Ta-Hf conductors, with peak pinning force density occurring at higher fields compared to a standard Ta-doped conductor. This highlights the effectiveness of Zr and Hf additions in improving vortex pinning efficiency, which is critical for applications requiring high magnetic fields.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1811.08867/images/_page_3_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_10.jpeg"
+    },
+    "_page_3_Figure_6.jpeg": {
+      "caption": "Figure 3 presents a transmission electron microscopy (TEM) bright field image showing the interface between Nb3Sn and Nb6Sn5 grains in a Ta-Hf sample post heat treatment. Both Nb6Sn5 and Nb3Sn exhibit grain sizes below 100 nm, indicating a finely tuned microstructure crucial for effective vortex pinning in superconductors. This microstructural refinement contributes significantly to enhancements in critical current density and overall superconducting performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1811.08867/images/_page_3_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_6.jpeg"
+    },
+    "_page_2_Picture_6.jpeg": {
+      "caption": "Figure 2 displays a TEM bright field image of Nb3Sn grains near the interface with the unreacted Ta-Hf alloy rod. White arrows mark intragranular precipitates within the Ta-Hf sample, which underwent reaction heat treatment at 550°C for 100 hours followed by 670°C for 100 hours. The figure demonstrates the presence of small A15 grains and intragranular precipitates contributing to the enhanced superconducting properties by creating effective pinning centers.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1811.08867/images/_page_2_Picture_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Picture_6.jpeg"
+    },
+    "_page_4_Figure_5.jpeg": {
+      "caption": "Figure 6 compares the layer critical current density (Jc) at 4.2 K for Nb3Sn in monofilament wires at 12 and 16 T. The Ta-Hf based conductors exhibit significantly improved performance compared to standard Ta and Ta-Zr ones, often doubling or tripling the Jc values. This indicates the strong potential of Ta-Hf alloys in enhancing superconducting wire performance, crucial for high-field applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1811.08867/images/_page_4_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_5.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Figure 1 provides representative SEM fractographs of the Nb3Sn/alloy-rod interface in wires made with Ta and Ta-Hf alloys. The micrographs illustrate significantly smaller Nb3Sn grain sizes resulting from the Ta-Hf addition, promoting higher vortex pinning efficiency and improved superconducting performance. This structural refinement points to a method of achieving enhanced superconducting properties without the need for external oxidants.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1811.08867/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0588,
+    "api_cost": 0.0588,
+    "file_storage_cost": 0.0,
+    "total_time": 35.74,
+    "request_count": 1,
+    "average_cost_per_request": 0.0588,
+    "average_time_per_request": 35.74,
+    "files_uploaded": 7,
+    "total_file_size": 334794
+  }
+}

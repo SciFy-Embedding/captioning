@@ -1,0 +1,58 @@
+{
+  "paper_id": "006b7504d66840e49a5d78f2a6dce1d7",
+  "pdf_path": "apl/Superconductors/arXiv:2211.11537.pdf",
+  "processing_timestamp": "2025-06-23T14:54:26.047046",
+  "figure_analysis": {
+    "_page_3_Figure_0.jpeg": {
+      "caption": "The figure plots the voltage-current (V-I) characteristics of a 2 µm-wide Nb3Sn superconducting bridge at different temperatures (2 K to 10 K) under zero external magnetic field (H=0). The x-axis represents the current in milliamperes (mA), and the y-axis represents the voltage in millivolts (mV). Each colored curve corresponds to a different bias temperature as indicated in the legend. The graph shows that at lower temperatures, the V-I curves exhibit multiple resistivity jumps before reaching a steady resistive state. This behavior is indicative of vortex motion within the superconducting material, which contributes to the diode effect observed in the experiment. The varying resistance states suggest that the vortex penetration and motion are temperature-dependent, implying a potential for temperature-tuned superconducting electronics using such micro-bridges.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2211.11537/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "_page_4_Figure_6.jpeg": {
+      "caption": "This figure depicts the dimensionless voltage variation over time under sinusoidal current bias across a superconducting bridge with external magnetic field values H_ext set at 0.14, 0.16, and 0.20. The x-axis shows time in dimensionless units, while the y-axis shows voltage, also in dimensionless units. The plotted data illustrates the complex interplay between induced current and voltage under different magnetic fields. As the external field increases, the voltage waveform's amplitude and character changes significantly, highlighting the sensitivity of the system to external magnetic modulation. This highlights the potential for tuning diode-like properties in superconducting systems under variable electromagnetic environments.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2211.11537/images/_page_4_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_6.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "The figure represents multi-panel data exploration of superconducting diode effect in Nb3Sn bridges, showing: (a) Resistive state across various bias temperatures with absolute current polarities; (b) The observed superconducting diode effect (SDE) at 0.1 Hz in a 2 µm bridge; (c) Same as b with wider 5 µm bridge at 10 kHz; (d) same as c at 100 kHz; and (e) averaged data of 200 acquisitions after magnetic field polarity reversal. The study demonstrates the ability to sustain high-frequency SDE operation up to 100 kHz with potential scalability implications for fast-operating superconducting electronics.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2211.11537/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    },
+    "_page_1_Figure_1.jpeg": {
+      "caption": "This image series (a-f) features material characterization of Nb3Sn samples. In (a), SEM images reveal the film's surface morphology with nanomountains indicative of Sn concentration. (b) Plots show resistance against temperature, illustrating superconducting transitions in Nb3Sn films. (c) Displays a patterned bridge post-ion milling. (d) Shows the final bridge structure post-photolithography to 2 µm width. (e) Demonstrates resistance changes pre- and post-annealing. (f) Graphs the V-I dependency at temperatures above and below superconducting transition, showcasing conditions for potential superconducting diode applications. This sequence underscores the meticulous fabrication and analytic process in achieving functional superconducting micro-bridges.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2211.11537/images/_page_1_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_1.jpeg"
+    },
+    "_page_5_Figure_0.jpeg": {
+      "caption": "This sequence of time-lapsed heat maps captures the evolution of superconducting properties in the bridge at distinct time points (t=111 to t=2198, in dimensionless units). The color bar correlates with the magnitude of an observed parameter (e.g., magnetic flux density), revealing the transient, dynamic processes underpinning superconducting diode operations. Peaks at intermediate times illustrate vortex dynamics crucial to superconducting diode effects in Nb3Sn films, underscoring their significance in high-frequency electronic applications as these dynamic visual insights afford valuable understanding of temporal and spatial behaviors in superconducting states.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2211.11537/images/_page_5_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0591,
+    "api_cost": 0.0591,
+    "file_storage_cost": 0.0,
+    "total_time": 44.46,
+    "request_count": 1,
+    "average_cost_per_request": 0.0591,
+    "average_time_per_request": 44.46,
+    "files_uploaded": 6,
+    "total_file_size": 421940
+  }
+}

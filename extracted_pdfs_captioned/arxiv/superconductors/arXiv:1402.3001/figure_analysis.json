@@ -1,0 +1,74 @@
+{
+  "paper_id": "0790b20a9d321aaed376ce024805f22d",
+  "pdf_path": "apl/Superconductors/arXiv:1402.3001.pdf",
+  "processing_timestamp": "2025-06-23T13:39:37.260009",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "Figure 7(a-c) illustrates the comparative analysis of the magnetic properties of samples C and D, both reacted at 650°C for 150 hours. Panel (a) shows the normalized magnetic moment versus temperature curve, where Sample C (with SnO2) and Sample D (with NbO2) are highlighted. Panel (b) presents the pinning force density (Fp) as a function of the magnetic field, noting that the curves were fit to the universal scaling law (Fp=Kb^p (1-b)^q). A critical observation here is that Sample C, despite having smaller grain size, shows lower maximum pinning force (Fp,max) compared to Sample D. Panel (c) displays the reduced pinning force versus reduced field curves, indicating that Sample C's curve is shifted to a higher field due to the high fraction of sub-30 nm grains, while Sample D follows typical flux shear behavior. These findings underline the influence of grain size on magnetic performance, suggesting potential improvements in Nb3Sn conductors through grain size refinement practices.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1402.3001/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "_page_3_Figure_1.jpeg": {
+      "caption": "Figure 4(a-b) explores the transformation in magnetic properties and microstructure of Sample B under varying thermal conditions. Panel (a) exhibits magnetic moment versus temperature (M-T) curves of samples B, reacted at different temperatures, indicating that oxygen content in Nb increases with reaction temperature, culminating in NbO2 and NbO compounds forming at temperatures above 550°C. Panel (b) provides an SEM image of the microstructural changes in a sample reacted at 650°C for 40 hours, showing the formation of Nb-O compounds. This study warns against using excessive SnO2 for oxygen supply, as it leads to compound formation rather than solely increasing dissolved oxygen.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1402.3001/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "_page_1_Picture_8.jpeg": {
+      "caption": "Figure 2 shows the TEM image of a sample reacted in an argon-oxygen atmosphere at 700°C for 55 hours. The image highlights the formation of ZrO2 particles, which are marked in the figure. The creation of intra-granular ZrO2 particles is essential for understanding the grain refinement process in (Nb-Zr)3Sn strands due to oxygen uptake.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1402.3001/images/_page_1_Picture_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Picture_8.jpeg"
+    },
+    "_page_3_Figure_6.jpeg": {
+      "caption": "Figure 5 displays a Scanning Electron Microscopy (SEM) image of composite C, showcasing the core structure where black dots seen in the Sn core are attributed to polishing effects. This image serves to demonstrate the microstructural composition following the internal oxidation procedure.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1402.3001/images/_page_3_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_6.jpeg"
+    },
+    "_page_3_Picture_8.jpeg": {
+      "caption": "Figure 6 consists of fracture SEM images of samples D (with NbO2) in panel (a) and C (with SnO2) in panel (b), both reacted at 650°C for 150 hours. These images depict the grain structures, highlighting that Sample C has a substantial fraction of grains smaller than 30 nm, which is crucial for enhancing superconducting properties through grain size reduction.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1402.3001/images/_page_3_Picture_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Picture_8.jpeg"
+    },
+    "_page_1_Picture_1.jpeg": {
+      "caption": "Figure 1 comprises fracture SEM images of type A samples reacted at 850°C for 10 minutes under different atmospheric conditions: pure argon in panel (a) and argon-oxygen mixtures in panel (b). The presence of oxygen notably reduces grain size, evidenced by smaller grain structures in the oxygen-treated sample, underscoring the importance of oxygen in grain refinement.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1402.3001/images/_page_1_Picture_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Picture_1.jpeg"
+    },
+    "_page_2_Figure_1.jpeg": {
+      "caption": "Figure 3 outlines the relationship between average Nb3Sn grain size and reaction temperature for type A samples treated in pure argon and argon-oxygen atmospheres. The exponential fits in the curves demonstrate that samples exposed to oxygen result in significantly smaller grain sizes, highlighting the efficacy of oxygen in refining Nb3Sn grain structure.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1402.3001/images/_page_2_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0415,
+    "api_cost": 0.0415,
+    "file_storage_cost": 0.0,
+    "total_time": 45.18,
+    "request_count": 1,
+    "average_cost_per_request": 0.0415,
+    "average_time_per_request": 45.18,
+    "files_uploaded": 8,
+    "total_file_size": 259718
+  }
+}

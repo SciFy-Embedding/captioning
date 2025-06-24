@@ -1,0 +1,50 @@
+{
+  "paper_id": "de29252d18bcfbae0b90c6f7117c7fd9",
+  "pdf_path": "apl/Superconductors/arXiv:0812.4715.pdf",
+  "processing_timestamp": "2025-06-23T13:19:06.983405",
+  "figure_analysis": {
+    "0__page_9_Figure_0.jpeg": {
+      "caption": "Figure 1 demonstrates the temperature dependence of resistivity for the superconducting compounds LuNi2B2C and V3Si. Plotting resistivity on a linear scale against temperature, the graph highlights critical temperatures (Tc) for both compounds through insets, which provide zoomed views of the superconducting transition. Residual resistivity ratios (RRR) are indicated, suggesting low impurity levels, with LuNi2B2C and V3Si having RRR values of approximately 36 and 47, respectively. Such high RRR values underscore the purity and high quality of the samples. The key finding is the distinct superconducting transition temperatures, showcasing critical differences in behavior between these two materials which are significant for understanding the effects of impurities on superconductivity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0812.4715/images/0__page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_0.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "Figure 2 displays voltage-current (V/I) curves at a constant temperature of 4.2 K for (a) LuNi2B2C and (b) V3Si superconductors under various magnetic fields. It uses semi-logarithmic axes to elucidate how dissipation levels saturate at high currents, markedly below normal-state resistance (Rn). The insets highlight non-monotonic peak effects in the field dependence of critical current density (Jc), a phenomenon attributed to weak pinning near the upper critical field (Hc2). The study of dissipation via these curves provides insights into the resistive transitions and dynamics of vortex states within weak-pinning systems, essential for advancing superconductor applications at low temperatures.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0812.4715/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_12_Figure_0.jpeg": {
+      "caption": "Figure 4 presents a comparison of normalized flux-flow resistivity (ρf/ρn) for the superconductors V3Si and LuNi2B2C against theoretical predictions from the Kogan-Zelezhina (KZ) model and the Bardeen-Stephen flux-flow (BSFF) model. Data are plotted for field dependence at a reduced temperature t = T/Tc = 0 and 0.5. For V3Si, an adjustment for magnetoresistive effects is shown with solid triangles, while uncorrected data uses open circles. This comparison illustrates the suppression of field dependence of the fluxon-core size by temperature and scattering, aligning with theoretical predictions, thereby enhancing the understanding of superconducting properties in weak-coupling BCS materials.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0812.4715/images/0__page_12_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_0.jpeg"
+    },
+    "0__page_11_Figure_0.jpeg": {
+      "caption": "Figure 3 depicts the temperature dependence of the resistivity of V3Si at fields ranging from 0 to 9 Tesla, plotted versus T². The graph marks a martensitic transformation (MT) and highlights resistivity values at T = 4.2 K and Hc2 = 18.3 T. Open circles depict magnetoresistivities acquired from T² fits and are contrasted using a Kohler-Rule model, as shown in the inset. This visualization provides a comprehensive view on the influence of martensitic transformations and magnetic fields on resistivity, serving as a critical factor in understanding magnetic and resistive behavior in these superconductors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0812.4715/images/0__page_11_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0512,
+    "api_cost": 0.0512,
+    "file_storage_cost": 0.0,
+    "total_time": 34.08,
+    "request_count": 1,
+    "average_cost_per_request": 0.0512,
+    "average_time_per_request": 34.08,
+    "files_uploaded": 5,
+    "total_file_size": 695553
+  }
+}

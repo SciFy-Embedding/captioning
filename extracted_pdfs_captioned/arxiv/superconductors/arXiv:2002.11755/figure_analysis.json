@@ -1,0 +1,50 @@
+{
+  "paper_id": "93eae0c7689c35a4aca316836b6d1c15",
+  "pdf_path": "apl/Superconductors/arXiv:2002.11755.pdf",
+  "processing_timestamp": "2025-06-23T14:24:17.279583",
+  "figure_analysis": {
+    "_page_1_Picture_5.jpeg": {
+      "caption": "The figure displays the assembly of a 2.6 GHz Nb3Sn superconducting radio-frequency (SRF) cavity designed for conduction cooling using a cryocooler. The upper section of the image highlights the cavity assembly and marks several critical components: Red 'X' indicates the positioning of six Cernox sensors, which are used for temperature measurement at specific points including the 2nd stage, equator top, RF input coupler, thermal beam pipe clamp at the input coupler side, equator bottom, and second thermal beam pipe clamp. Additional labeled components include the (A) 2nd stage cold plate, (B) semi-rigid RF cables, (C) transition connectors to semi-flexible cables, (D) braided copper thermal straps linking beam tube clamps to the second stage, (E) aluminum cradles supporting the assembly's weight, and (F) an all-metal valve for cavity vacuum pumping. The lower section of the image presents the modifications such as added Cernox sensors, magnetic flux gates, and semi-flexible cables. This setup is part of experiments aiming to demonstrate stable continuous operation of the cavity using conduction cooling at up to 10 MV/m, overcoming traditional cooling barriers for SRF technology application in smaller systems.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2002.11755/images/_page_1_Picture_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Picture_5.jpeg"
+    },
+    "_page_2_Figure_8.jpeg": {
+      "caption": "The graph in this figure illustrates the temperature variation as a function of accelerating gradient (MV/m) for a 2.6 GHz Nb3Sn cavity during high-field RF testing, using data from four sensors positioned on or near the cavity. The axes represent temperature (Kelvin) versus accelerating gradient (MV/m). All sensor temperatures remain closely aligned at lower fields, but at 10 MV/m, a temperature separation develops, including a 1 K difference between the second stage and the cavity equator. Such temperature profiles are critical for understanding heat dissipation and thermal gradients during operation, which in turn impact the cavity's RF performance. The data imply a need to optimize thermal contacts to minimize these gradients, ensuring efficient and higher field operation.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2002.11755/images/_page_2_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_8.jpeg"
+    },
+    "_page_2_Figure_6.jpeg": {
+      "caption": "This figure shows the quality factor (Q₀) as a function of the accelerating gradient (MV/m) for a 2.6 GHz Nb3Sn cavity under three different testing conditions: initial cooldown from room temperature with a cryocooler, after temperature cycling from 30 K with a cryocooler, and a baseline vertical test in a liquid helium bath at 4.2 K. The plot reveals that the quality factor is slightly higher for the vertical test compared to cryocooler-based tests, especially at higher gradients. The consistent performance under different conditions demonstrates the potential of cryocooler conduction cooling for feasible and efficient operation of small-scale accelerators.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2002.11755/images/_page_2_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_6.jpeg"
+    },
+    "_page_2_Figure_1.jpeg": {
+      "caption": "This plot displays the initial cooldown profile from room temperature for the cavity assembly, with temperature (K) plotted over elapsed time (minutes). Excluding data from malfunctioning sensors at the bottom copper thermal shield and cavity equator, the temperatures of the cavity and beam clamp appear almost identical and overlapped. Upon reaching around 10 K, the second stage temperature also converges. This analysis forms part of refining the cooldown process crucial for improving RF performance and ensuring efficient thermal management.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2002.11755/images/_page_2_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0375,
+    "api_cost": 0.0375,
+    "file_storage_cost": 0.0,
+    "total_time": 34.46,
+    "request_count": 1,
+    "average_cost_per_request": 0.0375,
+    "average_time_per_request": 34.46,
+    "files_uploaded": 5,
+    "total_file_size": 201436
+  }
+}

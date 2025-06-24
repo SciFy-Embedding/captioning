@@ -1,0 +1,74 @@
+{
+  "paper_id": "2c0c2f2a9557364b27e1f47f52226cd5",
+  "pdf_path": "apl/Superconductors/arXiv:2302.07825.pdf",
+  "processing_timestamp": "2025-06-23T14:59:10.730351",
+  "figure_analysis": {
+    "_page_0_Picture_18.jpeg": {
+      "caption": "Figure 1 shows the cross-section of an MQXFA Nb3Sn wire after heat-treatment, as part of the verification testing under the LHC Accelerator R&D Program (LARP). The image, likely obtained via electron microscopy, reveals the microstructural characteristics of the superconducting wire. The arrangement and quality of filaments in the cross-section are critical for achieving high critical current (Ic) and preventing instability or defects in superconducting applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07825/images/_page_0_Picture_18.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_0_Picture_18.jpeg"
+    },
+    "_page_2_Figure_2.jpeg": {
+      "caption": "Figure 5 plots the n-values at 15 T for samples prepared by both the NHMFL and the supplier. The n-value, which reflects the sharpness of the transition from the superconducting to the normal state, is crucial for understanding the material's performance in magnetic fields. The figure indicates consistent n-values between the two preparation treatments, thereby verifying the quality and reliability of NHMFL's extended heat treatment method compared to the supplier's process.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07825/images/_page_2_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_2.jpeg"
+    },
+    "_page_3_Figure_0.jpeg": {
+      "caption": "Figure 7 illustrates the impact of the tightening process on Ic at 12 T for samples not tightened, tightened at soldering temperature, and fully tightened samples. The tightening of Nb3Sn wires to an ITER barrel shows higher and more consistent Ic values. The tightening reduces premature quenching incidents due to mechanical damage and helps achieve more reliable superconducting properties .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07825/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "_page_1_Picture_3.jpeg": {
+      "caption": "Figure 2 depicts a prepared Ic sample mounted on a test probe used in NHMFL's verification testing. The setup is crucial for measurements of critical current under superconducting conditions (12 to 15 T). Accurate alignment and attachment to the copper terminals ensure reliable data acquisition on superconducting properties .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07825/images/_page_1_Picture_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Picture_3.jpeg"
+    },
+    "_page_1_Figure_7.jpeg": {
+      "caption": "Figure 3 presents a resistance versus temperature curve used to determine the Residual Resistance Ratio (RRR) of the LHC Nb3Sn wires. RRR is crucial for evaluating the wire's performance, as it provides insights into purity and defect levels. The resistance value at point A, where the two extrapolated lines intersect, is used alongside the resistance at 295 K for this calculation.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07825/images/_page_1_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_7.jpeg"
+    },
+    "_page_2_Figure_7.jpeg": {
+      "caption": "Figure 6 shows a comparison of RRR defined by the IEC standard and R295K/R20K values obtained by NHMFL and the supplier. Differences in RRR values provide insights into variations in heat treatment processes, as well as the wire's quality and consistency. The NHMFL results consistently show higher values compared to the supplier, indicating a more thorough reaction during heat treatment .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07825/images/_page_2_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_7.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Figure 4 displays Ic data comparison for samples at 12 T and 15 T, corrected for differences in heat treatments. This comparison demonstrates the influence extended heat treatments have on the superconducting properties of the samples, with NHMFL treatments yielding higher Ic values indicative of enhanced Nb3Sn reaction or diffusion barrier improvements .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2302.07825/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0382,
+    "api_cost": 0.0382,
+    "file_storage_cost": 0.0,
+    "total_time": 34.52,
+    "request_count": 1,
+    "average_cost_per_request": 0.0382,
+    "average_time_per_request": 34.52,
+    "files_uploaded": 8,
+    "total_file_size": 343516
+  }
+}

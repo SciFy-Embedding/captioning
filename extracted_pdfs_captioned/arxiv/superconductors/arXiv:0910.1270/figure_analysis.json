@@ -1,0 +1,98 @@
+{
+  "paper_id": "7efe01a5d2ff02e2ef37e6290ba1f546",
+  "pdf_path": "apl/Superconductors/arXiv:0910.1270.pdf",
+  "processing_timestamp": "2025-06-23T13:21:45.035380",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "Figure 10: This figure illustrates the part of the magnetic phase diagram of a Nb3Sn single crystal, derived from the resistivity and dc magnetization data. Filled circles indicate the upper critical field, while open circles and squares correspond to Tp and the center of the peak-effect region from magnetization data, respectively. The inset depicts the magnetic-field dependence of the width of the peak-effect region (∆H), which is calculated from both resistivity and magnetization data. This diagram confirms the presence of the peak effect and supports interpretations regarding spatial pinning variations in the superconductor. The demonstration of peak regions bolster the understanding of superconductivity behavior near transition thresholds .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0910.1270/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "_page_3_Figure_1.jpeg": {
+      "caption": "Figure 6: This graph shows the temperature sweeps of resistance R(T) for µ0H = 3 T, at a fixed shaking field amplitude of µ0hac = 0.29 mT, using a transport current I^m = 5 mA. Different shaking frequencies range from 5 Hz to 5 kHz. The results imply that significant resistivity below the critical temperature emerges predominantly at frequencies above 1 kHz, indicating a threshold frequency where the peak effect on resistivity becomes measurable. The frequency dependence highlights dynamic behavior in low-temperature superconductors .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0910.1270/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "_page_2_Figure_2.jpeg": {
+      "caption": "Figure 4: Resistance R(T) of a Nb3Sn single crystal at various magnetic fields, measured with a transport current of I^m = 5 mA. (a) shows results without a shaking field (hac = 0), while (b) includes an oscillating field (f = 1 kHz, µ0hac = 0.58 mT). Data without hac depict no notable features beyond superconductivity transition, while those with an oscillating field reveal the peak effect, indicating magnetic vortex dynamic influences on pinning behavior across different conditions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0910.1270/images/_page_2_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_2.jpeg"
+    },
+    "_page_3_Figure_7.jpeg": {
+      "caption": "Figure 9: Displays the temperature dependence of resistance R(T) under a fixed external magnetic field µ0H = 3 T with an added oscillating field (f = 1 kHz, µ0hac = 0.58 mT) using a transport current I^m = 5 mA. Marked transitions (Tp and TM) and intervals (∆T) reveal distinct behaviors such as local resistance minima and maxima, which coincide with prominent superconductive and peak effect transitions, affirming linked magnetic phenomena and pinning evolution considerations.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0910.1270/images/_page_3_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_7.jpeg"
+    },
+    "_page_1_Figure_8.jpeg": {
+      "caption": "Figure 2: Presents dc magnetization hysteresis data for a Nb3Sn single crystal, noting a 'bubble-like' feature resulting from the peak effect. Graph (a) details results at T = 13 K, while (b) reveals references at temperatures between 12 K and 15.5 K. These curves trace critical currents and field-mediated transitions illustrating peak effect manifestations in magnetization data, enhancing insights into pinning strength and flux lattice responses .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0910.1270/images/_page_1_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_8.jpeg"
+    },
+    "_page_1_Figure_10.jpeg": {
+      "caption": "Figure 3: Portrays critical current data I_c(B) derived from prior magnetization hysteresis measurements on Nb3Sn as shown in Figure 2. Various temperature impacts on critical currents are highlighted, indicating major influences of the peak effect on magnetization properties aligned with field variations, which reinforce understanding of superconductive material characteristics and practical applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0910.1270/images/_page_1_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_10.jpeg"
+    },
+    "_page_3_Figure_5.jpeg": {
+      "caption": "Figure 8: Describes the resistance R for different amplitudes of the oscillating magnetic field hac at a constant µ0H = 3 T, with T = 15.8 K and I^m = 5 mA, under a fixed frequency f = 1 kHz. Notably, resistance increases substantially when the field's amplitude crosses a critical threshold, elucidating hac-dependent dynamical changes causing the peak effect in superconductive transport data .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0910.1270/images/_page_3_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_5.jpeg"
+    },
+    "_page_3_Figure_3.jpeg": {
+      "caption": "Figure 7: Details temperature sweeps R(T) under µ0H = 3 T with a stable transport current of I^m = 5 mA at 1 kHz frequency for diverse shaking field amplitudes, demonstrating how the amplitude of a shaking field impacts resistivity and reflects the dynamic response of pinning centers and flux lattice under magneto-transport scenarios .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0910.1270/images/_page_3_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_3.jpeg"
+    },
+    "_page_1_Figure_1.jpeg": {
+      "caption": "Figure 1: A schematic diagram demonstrating the experimental setup configurations for applying an oscillating field hac. Part (a) represents hac parallel to H with a transport current, whereas (b) illustrates hac perpendicular to H without transport current. This visualization aids in understanding the inducement of diamagnetic responses in superconductors under different operational conditions, vital for the experimental evaluation of superconductivity and flux-line dynamics .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0910.1270/images/_page_1_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_1.jpeg"
+    },
+    "_page_2_Figure_1.jpeg": {
+      "caption": "Figure 4: Displays the temperature dependence of resistance R(T) in a Nb3Sn single crystal at various magnetic field strengths (µ0H) with a transport current of I^m = 5 mA. Panel (a) shows data without an applied oscillating field (µ0hac = 0), where only a sharp transition to superconductivity is observable. Panel (b) incorporates an oscillating magnetic field at a frequency of 1 kHz and amplitude µ0hac = 0.58 mT. In this setup, the peak effect is prominently visible below the critical temperature, T<sub>c</sub>, evidenced by finite resistance measurements attributed to the movement of magnetic vortices. Such resistance behavior delineates regions of enhanced vortex pinning, reinforcing the study's focus on the dynamic nature of the peak effect in superconductors【8:0†temp_paper_7efe01a5d2ff02e2ef37e6290ba1f546.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0910.1270/images/_page_2_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1259,
+    "api_cost": 0.1259,
+    "file_storage_cost": 0.0,
+    "total_time": 85.09,
+    "request_count": 2,
+    "average_cost_per_request": 0.063,
+    "average_time_per_request": 42.54,
+    "files_uploaded": 11,
+    "total_file_size": 398588
+  }
+}

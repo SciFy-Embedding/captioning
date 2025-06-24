@@ -1,0 +1,34 @@
+{
+  "paper_id": "d7c857f60e8c16d6633b6308b6add4b9",
+  "pdf_path": "apl/Superconductors/arXiv:1409.8358.pdf",
+  "processing_timestamp": "2025-06-23T13:40:28.246579",
+  "figure_analysis": {
+    "_page_4_Figure_1.jpeg": {
+      "caption": "The figure displays the magnetic field-dependent scaling analysis of the superconducting specific heat contribution C/T of V3Si in various applied magnetic fields after the separation of the normal-state specific heat. Panels a and b utilize the 3d-XY scaling model, which is applicable at lower fields, while panels c and d utilize the 3d-LLL scaling model, more appropriate for higher fields. Panels a and c demonstrate that scaling fails for fields below 2 T, indicating a lack of observable fluctuations. However, panels b and d show effective scaling for fields between 2 T and 8 T. This signifies that in magnetic fields exceeding 1 T, the 3d-LLL universality class can describe the fluctuations, thanks to magnetic field-induced dimensionality reduction from quasiparticle confinement in low Landau levels. This is significant as it highlights the differences between the scaling behaviors of V3Si and other superconductors like Nb3Sn, where similar effects are observed at less severe magnetic conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1409.8358/images/_page_4_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_1.jpeg"
+    },
+    "_page_2_Figure_1.jpeg": {
+      "caption": "This figure illustrates the total specific heat of V3Si across various magnetic fields up to 8 T, focusing on identifying critical fluctuations during the superconducting transition. The plot shows a jump-like anomaly at 21 K corresponding to a structural martensitic transition, while the superconducting transition at 16.6 K in zero field broadens with increasing magnetic fields. Insets provide an enlarged view of the lambda-shaped fluctuation anomalies that appear at 2 T and above, superimposed on the broadened mean-field-like jump at Tc(H). The data highlight that with increasing magnetic field, the superconducting transition becomes significantly broadened, and this broadening, along with lambda anomalies, is a consequence of enhanced critical fluctuations. This offers valuable insights into understanding the characteristics of classical type-II superconductors and how critical fluctuations are amplified by magnetic influence.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1409.8358/images/_page_2_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0386,
+    "api_cost": 0.0386,
+    "file_storage_cost": 0.0,
+    "total_time": 24.5,
+    "request_count": 1,
+    "average_cost_per_request": 0.0386,
+    "average_time_per_request": 24.5,
+    "files_uploaded": 3,
+    "total_file_size": 227799
+  }
+}

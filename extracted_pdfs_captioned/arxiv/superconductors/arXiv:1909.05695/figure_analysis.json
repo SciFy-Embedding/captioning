@@ -1,0 +1,282 @@
+{
+  "paper_id": "c76108a4e58bad393f46de5736d84840",
+  "pdf_path": "apl/Superconductors/arXiv:1909.05695.pdf",
+  "processing_timestamp": "2025-06-23T14:22:33.701213",
+  "figure_analysis": {
+    "0__page_12_Figure_2.jpeg": {
+      "caption": "Figure 11 shows the average surface resistance of the top and bottom half cells derived from temperature mapping data in a Nb3Sn-coated superconducting radiofrequency (SRF) cavity. The x-axis represents the accelerating field (E_acc) in MV/m, and the y-axis indicates the average surface resistance (⟨Rs⟩) in ohms. The data is visualized using different markers for the top and bottom half cells, with error bars indicating measurement variability. Key findings include a noticeable increase in surface resistance with increasing accelerating field, demonstrating a dependency that is likely influenced by temperature mapping data. Scientifically, this result highlights the impact of accelerating gradients on surface resistance, which is critical for optimizing SRF cavity performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/0__page_12_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_2.jpeg"
+    },
+    "1__page_25_Figure_2.jpeg": {
+      "caption": "The figure is not described in the paper, but is closely related to Fig. 12, which discusses surface resistances. The analysis might focus on surface resistance measurements to further understand material properties .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/1__page_25_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_25_Figure_2.jpeg"
+    },
+    "0__page_17_Figure_1.jpeg": {
+      "caption": "Figure 18 presents SEM images obtained from the cutout CVT10 and beam pipes, showcasing the surface topography of samples from these regions. The images suggest differences in microstructural features between cavity and beam pipe cutouts. The outermost layer's grain morphology differs, pivotal for understanding coating uniformity and RF performance .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/0__page_17_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_17_Figure_1.jpeg"
+    },
+    "0__page_9_Picture_0.jpeg": {
+      "caption": "Figure 9 provides a cross-sectional view of a crack in sample CVT14, revealing the extent to which such imperfections can reach down to the Nb-Nb3Sn interface. The presence of these cracks suggests potential defects formed during processing or handling, which could adversely affect the RF performance of superconducting cavities .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/0__page_9_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Picture_0.jpeg"
+    },
+    "0__page_14_Figure_0.jpeg": {
+      "caption": "Figure 14 illustrates the average surface resistance for samples showing a resistance switch near E_acc = 4.5 MV/m. The graph displays the resistance behavior as a function of the accelerating field, highlighting a notable jump at the specified field strength. This suggests defects in the microstructure causing transitions from superconducting to normal conducting states, impacting overall performance .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/0__page_14_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_0.jpeg"
+    },
+    "_page_8_Figure_3.jpeg": {
+      "caption": "Figure 8 highlights cutting artifacts in CVT8, seen as alignments and contamination along specific directions in SEM imagery. The presence of cracks is significant because these discontinuities can influence structural integrity and RF properties .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/_page_8_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_3.jpeg"
+    },
+    "0__page_13_Figure_0.jpeg": {
+      "caption": "Figure 12 depicts the calculated surface resistance dependency on the field for all examined cutouts. It aggregates data across different cavity areas to map how surface resistance varies against accelerating gradients. Understanding these trends is essential for improving cavity design and performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/0__page_13_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_0.jpeg"
+    },
+    "1__page_20_Figure_0.jpeg": {
+      "caption": "Figure 21 shows an AFM image of regular Nb3Sn coatings on CVT2. It emphasizes the roughness apparent as convex facets on the surface, derived from high-frequency domain measurements using AFM, critical for understanding coating consistency .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/1__page_20_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_0.jpeg"
+    },
+    "1__page_23_Figure_1.jpeg": {
+      "caption": "Figure 26 displays bright spots, frequently found in cutouts, that suggest areas with carbon-rich contamination. Such defects, identified via SEM, may indicate localized inconsistencies affecting the electrical and RF properties of the Nb3Sn coatings .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/1__page_23_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_23_Figure_1.jpeg"
+    },
+    "1__page_18_Picture_2.jpeg": {
+      "caption": "Figure 19 shows SEM images of patchy areas from CVT14 and CVT2. These patchy areas often appear near niobium grain boundaries, indicating less coverage and possible defects. These areas may contribute to increased surface resistance, impacting the RF performance of coated cavities. The presence of these patches suggests potential inconsistencies in the coating process, highlighting the need for optimized growth parameters.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/1__page_18_Picture_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Picture_2.jpeg"
+    },
+    "1__page_24_Figure_0.jpeg": {
+      "caption": "Figure 28 illustrates the unusual coating appearance in CVT10, characterized by large smooth regions with dark spots observed at the grain level. This may indicate variations in Nb3Sn grain structures and possibly a higher concentration of carbon, contributing to increased RF surface resistance and potentially compromising cavity performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/1__page_24_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_24_Figure_0.jpeg"
+    },
+    "0__page_16_Figure_3.jpeg": {
+      "caption": "Figure 17 displays several voids identified in sample CVT3 and pits in CVT11 and CVT12. The SEM images highlight these features, which are located at grain boundaries. The identified pits, circa 600 nm, and voids with sharp edges can amplify currents and magnetic fields, thus posing a threat to the RF performance. This insight draws attention to the intricacies of ensuring flawless coatings in superconducting applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/0__page_16_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_16_Figure_3.jpeg"
+    },
+    "1__page_25_Figure_3.jpeg": {
+      "caption": "Figure 30 highlights a defect found in CVT14, potentially originating from carbon-rich and oxide regions within the coating, suggesting areas of recessed features with chemical disparities on the sample. This discovery is crucial for understanding coating inconsistencies and their effect on performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/1__page_25_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_25_Figure_3.jpeg"
+    },
+    "1__page_22_Figure_2.jpeg": {
+      "caption": "Figure 25 presents an EBSD image comparing microstructural elements between CVT10 extracted from the cavity region and a beam pipe cutout. The distinctions in coating thickness and resultant grain orientation highlight differences in material deposition and grain formation, crucial for performance tuning.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/1__page_22_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Figure_2.jpeg"
+    },
+    "1__page_25_Figure_0.jpeg": {
+      "caption": "Figure 29 depicts an AFM image from CVT10 that reveals residue on the surface. The presence of this residue can impact the superconducting properties, indicating potential contamination issues during the coating process.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/1__page_25_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_25_Figure_0.jpeg"
+    },
+    "1__page_21_Figure_0.jpeg": {
+      "caption": "Figure 23 provides an in-depth AFM profile of a pit in CVT2, which extends about 750 nm deep. This measurement aids in assessing surface regularity and defect depth, which are essential for ensuring efficient RF performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/1__page_21_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Figure_0.jpeg"
+    },
+    "0__page_12_Figure_0.jpeg": {
+      "caption": "Figure 10 graphs the intrinsic quality factor (Q_0) as a function of the accelerating field (E_acc), derived from both RF and temperature mapping techniques. The results, illustrated with respective markers and error bars, underscore a decline in Q_0 with rising E_acc, pointing to increasing energy losses, significant in evaluating cavity efficiency.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/0__page_12_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_0.jpeg"
+    },
+    "_page_8_Picture_1.jpeg": {
+      "caption": "Figure 7 details the processing steps for sample CVT14 post-cleaning, showing the thorough preparation methods leading up to material analysis, which is crucial for the systematic study of surface properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/_page_8_Picture_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Picture_1.jpeg"
+    },
+    "0__page_14_Figure_2.jpeg": {
+      "caption": "Figure 15 displays the average surface resistance for cutouts that exhibit a strongly consistent field-dependent loss. The data indicates an exponential increase in surface resistance with rising accelerating fields, which persist across all field levels. This exponential trend results in significantly higher temperatures at the highest fields compared to the lowest, shedding light on the dynamic response of these materials in a superconducting RF cavity environment.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/0__page_14_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_2.jpeg"
+    },
+    "1__page_19_Picture_0.jpeg": {
+      "caption": "Figure 20 provides SEM imagery of patchy areas located near grain boundaries, marked by ellipses and yellow lines separating grains. These patches often appear in clusters and can run parallel to grain boundaries for several hundred microns, particularly in CVT12 and CVT14. This spatial distribution of patches on the Nb3Sn coatings suggests an intricate relationship between microstructural boundaries and patch formation, which is critical for understanding variations in surface resistance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/1__page_19_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_19_Picture_0.jpeg"
+    },
+    "1__page_23_Figure_3.jpeg": {
+      "caption": "Figure 27 highlights bright spots found in CVT10. These spots appear with clear carbon-enriched dark boundaries, suggesting the presence of contamination on the surface. This feature underscores the vulnerability of Nb3Sn coatings to carbon contamination, which can adversely impact RF performance by altering local surface properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/1__page_23_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_23_Figure_3.jpeg"
+    },
+    "2__page_27_Figure_2.jpeg": {
+      "caption": "Figure 32 illustrates defect density in relation to distance from the equator. The data reveals a negative correlation, with defects more prevalent near the equator—a region characterized by larger grains due to the electron beam welding process. This insight is pivotal in optimizing the RF performance and uniformity of Nb3Sn coatings by identifying areas more susceptible to defect concentration.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/2__page_27_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_27_Figure_2.jpeg"
+    },
+    "1__page_20_Figure_2.jpeg": {
+      "caption": "Figure 22 shows the comparison of average power spectral densities (PSDs) of cutout surfaces using AFM data. The CVT4 and CVT10 samples indicate higher roughness in the high-frequency domain compared to CVT2 and CVT3, evidencing surface heterogeneity that could affect RF performance by altering electromagnetic field interaction with the cavity surface.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/1__page_20_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_2.jpeg"
+    },
+    "0__page_13_Figure_2.jpeg": {
+      "caption": "Figure 13 presents the average surface resistance for cutouts that manifest a nearly field-independent loss. While the surface resistance remains consistent across varying fields, an increment is observed above 5 MV/m that falls within the margin of error, suggesting a subtle yet systematic impact in these cutouts.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/0__page_13_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_2.jpeg"
+    },
+    "_page_7_Picture_0.jpeg": {
+      "caption": "Figure 6 depicts the temperature map of the C3C4 cavity at 6 MV/m, illustrating RF-induced temperature gradients on the outer cavity surface. Highlighted regions reflect areas of significant heating, useful for pinpointing regions of high RF loss that can guide sample extraction and subsequent defect analysis.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/_page_7_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Picture_0.jpeg"
+    },
+    "1__page_26_Figure_0.jpeg": {
+      "caption": "Figure 31 provides a detailed inspection of a defect within CVT8, showing an unusually large area encompassed by yellow lines. This anomaly, characterized by altered grain structures and boundary features, emphasizes the complexity of Nb3Sn coatings and their susceptibility to defect formation, affecting superconducting efficiency.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/1__page_26_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_26_Figure_0.jpeg"
+    },
+    "1__page_22_Figure_0.jpeg": {
+      "caption": "Figure 24 features an SEM image of a FIB cross-section from CVT10, detailing coating thickness variations from 2.34 to 2.96 micrometers. It highlights disparities in thickness over patchy versus regular regions, with thinner coatings prone to increased resistance due to insufficient Nb3Sn shielding of the underlying niobium.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/1__page_22_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Figure_0.jpeg"
+    },
+    "0__page_16_Figure_1.jpeg": {
+      "caption": "Figure 16 displays SEM images from different cutouts representing variations in field dependence of average surface resistance. These images show uniform coating coverage, indicating that microstructural features such as grain size and distribution vary among samples exhibiting different RF loss characteristics. This analysis is crucial to understanding the material's superconducting performance and assists in identifying how structural variations affect RF losses【16:1†temp_paper_c76108a4e58bad393f46de5736d84840.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/0__page_16_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_16_Figure_1.jpeg"
+    },
+    "_page_4_Picture_1.jpeg": {
+      "caption": "Figure 3 features optical inspection images of cavity C3C4, showing the coated surface from inside a beam tube and distinctive weld regions at the equator with notable features highlighted. This inspection confirms complete surface coverage by the Nb3Sn coating and identifies areas for potential further analysis, particularly around the equatorial welds, essential for quality assurance post-coating【16:12†temp_paper_c76108a4e58bad393f46de5736d84840.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/_page_4_Picture_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Picture_1.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "Figure 5 shows a temperature map of C3C4 at an accelerating field of 6 MV/m, illustrating the temperature differentials due to RF fields on the cavity surface. This map identifies regions with notable heating, guiding the extraction of samples for analyzing surface resistance characteristics. Such maps are instrumental in studying spatial non-uniformities in heating, related to local material properties and defects【16:16†temp_paper_c76108a4e58bad393f46de5736d84840.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    },
+    "_page_2_Figure_1.jpeg": {
+      "caption": "Figure 1 presents the temperature and pressure profiles from the first Nb3Sn cavity coating run, detailing the phase changes during the process. This includes initial low-temperature evaporation of SnCl2 and subsequent high-temperature Nb3Sn formation, essential phases to ensure high-quality Nb3Sn films. The proper temperature control highlighted is vital for achieving uniform coating necessary for efficient superconducting RF performance【16:12†temp_paper_c76108a4e58bad393f46de5736d84840.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/_page_2_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_1.jpeg"
+    },
+    "_page_5_Figure_0.jpeg": {
+      "caption": "Figure 4 graphs the intrinsic quality factor (Q0) as a function of the accelerating field (Eacc) for the cavity C3C4 tested at both 2.0 and 4.3 K. The graph shows a decline in Q0 at higher fields, indicative of increased surface resistance, which links to material imperfections or non-uniformities in the Nb3Sn coating, essential for understanding field-dependent losses【16:16†temp_paper_c76108a4e58bad393f46de5736d84840.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/_page_5_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_0.jpeg"
+    },
+    "_page_3_Picture_0.jpeg": {
+      "caption": "Figure 2 captures post-coating visual inspection of the cavity C3C4, highlighting discoloration on NbTi flanges and tin droplet residues. These observations are crucial for identifying contamination or defects introduced during the Sn vapor diffusion process, aiding quality control in Nb3Sn-coated superconducting RF cavities【16:12†temp_paper_c76108a4e58bad393f46de5736d84840.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1909.05695/images/_page_3_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Picture_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.3006,
+    "api_cost": 0.3006,
+    "file_storage_cost": 0.0,
+    "total_time": 295.86,
+    "request_count": 4,
+    "average_cost_per_request": 0.0751,
+    "average_time_per_request": 73.96,
+    "files_uploaded": 34,
+    "total_file_size": 2461631
+  }
+}

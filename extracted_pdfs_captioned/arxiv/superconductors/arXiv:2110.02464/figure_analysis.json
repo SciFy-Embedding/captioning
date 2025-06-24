@@ -1,0 +1,114 @@
+{
+  "paper_id": "189348aee5410631ef0733e0f4ad9d0c",
+  "pdf_path": "apl/Superconductors/arXiv:2110.02464.pdf",
+  "processing_timestamp": "2025-06-23T14:43:06.174161",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "Figure 6 depicts the θ-2θ X-ray diffraction pattern for tungsten thin film grown on Si(001)+SiO2 substrate. The figure clearly marks peaks associated with β-W, illustrating the dominance of this phase. The inset provides an enlarged view of diffraction intensity in the 76°-116° range. This characterization helps confirm the phase purity of the β-W films, showing no detectable α-W peaks within the instrumental uncertainty, indicating that β-W is the predominant phase in the substrate conditions used .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02464/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "_page_3_Figure_1.jpeg": {
+      "caption": "Figure 4 displays the zero-field normalized real and imaginary parts of the conductance, G1(ν) and G2(ν), of 70 nm β-W thin film using effective medium models. Panels (a) and (b) show conductance calculations using the Bruggeman Effective Medium Approximation (BEMA) with a normal volume fraction f = 0.3. Panels (c) and (d) depict results using Maxwell-Garnett Theory (MGT) with the same volume fraction. These models are applied to account for inhomogeneity, providing a more accurate reflection of the film's superconducting properties .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02464/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "_page_7_Figure_1.jpeg": {
+      "caption": "Figure S2 illustrates the simulated real and imaginary parts of the complex optical conductance utilizing Maxwell-Garnett Theory. The simulation considers a superconductor with critical temperature Tc = 3.7 K and an energy gap ∆(0) = 0.42 meV, adjusting for varying normal fractions. The superconducting component is modeled with Mattis-Bardeen theory, while the normal component assumes a frequency-independent conductance, demonstrating the effects of inhomogeneity on superconducting conductance .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02464/images/_page_7_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_1.jpeg"
+    },
+    "_page_1_Figure_2.jpeg": {
+      "caption": "Figure 2 presents the real and imaginary components of the zero-field complex conductance of a 70 nm β-W thin film, normalized to the normal-state conductance Gn. The solid lines represent measured data and are normalized relative to conductance at 5 K, while the dashed lines show fits using Mattis-Bardeen theory for BCS superconductors. The inset plots the temperature-dependent superfluid spectral weight Sδ(T), with experimental results compared against predictions for weakly coupled BCS superconductors, indicating discrepancies likely due to film inhomogeneity .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02464/images/_page_1_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_2.jpeg"
+    },
+    "_page_9_Figure_0.jpeg": {
+      "caption": "Figure S5 shows the θ-2θ X-ray diffraction patterns of tungsten thin films grown on Si and MgO substrates. Panel (a) displays the pattern after substrate subtraction to highlight β-W peaks in black, without significant α-W peaks. The inset zooms into the range 76° to 116°, reinforcing the phase purity with negligible α-W detected. This data supports the conclusion that β-W films are predominantly in the A15 phase with no significant α-W contribution .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02464/images/_page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_9_Figure_0.jpeg"
+    },
+    "_page_2_Figure_4.jpeg": {
+      "caption": "Figure 3 describes the frequency-dependent real (G1(ν)) and imaginary (G2(ν)) conductance components at T/Tc = 0.6 for superconductors. G1(ν) shows responses from thermally excited (red region), photon excited (green line), and total optical contributions (blue region). In G2(ν), the contributions demonstrate a dominant superfluid response with minor thermal and photon-excited negative impacts. These elements explain deviations from weakly coupled BCS superconductor expectations【4:0†temp_paper_189348aee5410631ef0733e0f4ad9d0c.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02464/images/_page_2_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_4.jpeg"
+    },
+    "_page_9_Figure_2.jpeg": {
+      "caption": "Figure S6 provides detailed θ-2θ X-ray diffraction patterns for tungsten films grown on MgO. Panel (a) depicts the raw substrate diffraction patterns, and panel (b) shows results after substrate pattern subtraction to expose β-W peaks, highlighted in black, confirming phase purity with the absence of notable α-W signatures. The inset focuses ion diffraction intensity between 109° and 120°, further confirming uniform β-W presence .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02464/images/_page_9_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_9_Figure_2.jpeg"
+    },
+    "_page_3_Figure_5.jpeg": {
+      "caption": "Figure 5 examines temperature-dependent superfluid spectral weight (Sδ(T)) for β-W thin films. Black squares represent limν→0νG2/Gn. Solid lines compare theoretical superfluid weight predictions from Mattis-Bardeen (MB) theory at α = 1 and α = 1.76, whereas dashed lines represent spectral weights from BEMA and MGT models with normal volume fractions of f = 0.3. This comparison shows effective medium models better capture the experimental spectral weights【4:4†temp_paper_189348aee5410631ef0733e0f4ad9d0c.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02464/images/_page_3_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_5.jpeg"
+    },
+    "_page_6_Figure_12.jpeg": {
+      "caption": "Figure S1 shows simulated frequency-dependent real and imaginary conductance components based on Maxwell-Garnett theory for varying normal fractions. It considers a superconductor with critical temperature Tc = 3.7 K and an energy gap ∆(0) = 0.42 meV. The conductance is modeled using Mattis-Bardeen theory for superconductors with a constant for the normal component. This helps in understanding the effect of inhomogeneous medium on superconducting films .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02464/images/_page_6_Figure_12.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_12.jpeg"
+    },
+    "_page_8_Figure_0.jpeg": {
+      "caption": "Figure S4 illustrates the real (G1(ν)) and imaginary (G2(ν)) components of the normalized zero-field complex conductance for a 70 nm β-W thin film on an MgO substrate, measured across various temperatures from above the superconducting critical temperature (T > Tc) down to 1.6 K. This conductance behavior is plotted against frequency and highlights the evolution of superconductivity, demonstrating coherence with results from films grown on Si substrates. These measurements aim to probe the influence of substrate material on superconducting properties as a function of temperature.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02464/images/_page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_0.jpeg"
+    },
+    "_page_7_Figure_8.jpeg": {
+      "caption": "Figure S3 showcases the simulated temperature variation in the frequency-dependent conductance of a superconductor, normalized to its normal-state conductance, G1(ν)/Gn, based on Mattis-Bardeen theory. The simulations decompose conductance into contributions from thermal excitations (top), photon excitations across the energy gap (middle), and their combined effect (bottom). These simulations are key for understanding how thermal and photon excitations independently and collectively impact the optical response of superconductors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02464/images/_page_7_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_8.jpeg"
+    },
+    "_page_1_Figure_0.jpeg": {
+      "caption": "Figure 1 presents the magnitude of zero-field transmission and the complex conductance components (G1 and G2) of a 70 nm β-W thin film grown on a Si substrate, as functions of frequency from room temperature to below the superconducting critical temperature (1.6 K). The inset depicts the temperature-dependent DC resistance measured in a four-probe method, serving to map the superconducting transition. These insights into optical and electronic properties are fundamental for characterizing superconductive transitions in β-W films.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2110.02464/images/_page_1_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1306,
+    "api_cost": 0.1306,
+    "file_storage_cost": 0.0,
+    "total_time": 85.84,
+    "request_count": 2,
+    "average_cost_per_request": 0.0653,
+    "average_time_per_request": 42.92,
+    "files_uploaded": 13,
+    "total_file_size": 695299
+  }
+}

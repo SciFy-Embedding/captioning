@@ -1,0 +1,42 @@
+{
+  "paper_id": "6a23406d0ba64313ca2c469f298ed4f0",
+  "pdf_path": "apl/Superconductors/arXiv:1401.2843.pdf",
+  "processing_timestamp": "2025-06-23T13:37:43.307524",
+  "figure_analysis": {
+    "_page_7_Figure_0.jpeg": {
+      "caption": "This figure presents the elastic energy of Nb3Sn under varying strain conditions, highlighting (a) hydrostatic strain and (b) both longitudinal and transverse strain. The y-axis represents energy density in GPa, and the x-axis for (a) is the normalized lattice parameter difference, while for (b) it is the strain percentage. Points indicate first-principles data and lines depict fits using relevant theoretical equations. Hydrostatic strain data in subplot (a) yields an equilibrium lattice parameter of 5.32 Å and a bulk modulus of 165 GPa. The theoretical results reveal that the elastic energy landscape is highly sensitive to strain, particularly distinguishing between hydrostatic and directional strains, thus allowing a deeper understanding of the mechanical properties of Nb3Sn at the atomic level.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.2843/images/_page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_0.jpeg"
+    },
+    "_page_4_Figure_4.jpeg": {
+      "caption": "This figure illustrates the dependence of the upper critical field B_c2 of Nb3Sn on axial strain at 4.2 K. The y-axes depict B_c2 in Tesla, and the x-axes show axial strain in percentage. Subplot (a) highlights a critical strain, ε_a*, where the upper critical field peaks, demonstrating the influence of microstructural constraints on superconducting properties. The series of curves in subplot (b) represents fits to the parameterized strain function that describes the upper critical field's behavior under various strain magnitudes. The results reflect the interplay between pre-straining and critical superconducting parameters, providing insights crucial for optimizing superconducting wire design.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.2843/images/_page_4_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_4.jpeg"
+    },
+    "_page_5_Figure_6.jpeg": {
+      "caption": "Fig. 2 focuses on the elastic and anharmonic energies of Nb3Sn under strain, with the y-axis indicating energy density in MPa, and the x-axis displaying axial strain in percentage. The figure couples first-principles calculations (dots) with theoretical fits using harmonic and anharmonic models (solid and dashed lines, respectively). Results show significant contribution of anharmonic effects at higher strains, emphasizing their critical role in modifying superconducting properties. These findings reinforce the theoretical framework positing that anharmonicity impacts the deformation potential, pivotal for understanding mechanical behavior and optimizing performance of Nb3Sn superconductors in practical applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.2843/images/_page_5_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_6.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0547,
+    "api_cost": 0.0547,
+    "file_storage_cost": 0.0,
+    "total_time": 35.54,
+    "request_count": 1,
+    "average_cost_per_request": 0.0547,
+    "average_time_per_request": 35.54,
+    "files_uploaded": 4,
+    "total_file_size": 183626
+  }
+}

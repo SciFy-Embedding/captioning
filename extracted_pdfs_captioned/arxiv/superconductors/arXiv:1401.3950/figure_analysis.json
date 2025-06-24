@@ -1,0 +1,74 @@
+{
+  "paper_id": "5071db48461428ef835dfc2e0e9c605b",
+  "pdf_path": "apl/Superconductors/arXiv:1401.3950.pdf",
+  "processing_timestamp": "2025-06-23T13:40:15.463793",
+  "figure_analysis": {
+    "_page_2_Figure_3.jpeg": {
+      "caption": "Waveform plots of acoustic emissions from sensors A and B during intentional magnet current extraction at 5.5 kA, revealing two different amplitude patterns with distinct frequencies. The y-axis represents voltage (U) in millivolts, indicative of the sound signal strength, and the x-axis represents time in seconds. This figure demonstrates that the magnet acts as a mechanical resonator with a quality factor of approximately 100, as evidenced by the prolonged 'ringing' of sound waves, lasting around 1 second, which is significantly longer than the current transient time constant. The study provides insight into identifying mechanical vibrations and analyzing structural responses within superconducting magnets during high current extractions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3950/images/_page_2_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_3.jpeg"
+    },
+    "_page_2_Figure_10.jpeg": {
+      "caption": "Summary of acoustic and electrical imbalance events recorded during a magnet current ramp, prior to quenching at 10.870 kA. The data splits across four graphs showing: (a) current intensity over time (seconds), (b) maximum sound amplitude (in arbitrary units), (c) frequency of the strongest detected sound, and (d) power spectrum of the acoustic signal recorded at the highest current level (~10800 A). Points in the plots indicate individual acquisition cycles (0.2 s each). Below 5 kA, only weak sound signals tied to imbalance were registered; at 8.5 kA and above, strong unassociated acoustic emissions began, peaking around 10-10.5 kA where they correlate with imbalance spikes. The analysis underlines the use of acoustic emissions for superconductor condition monitoring and diagnosing flux jumps and other anomalies during ramping.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3950/images/_page_2_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_10.jpeg"
+    },
+    "_page_1_Figure_5.jpeg": {
+      "caption": "Schematic setup and recorded signals during room temperature experiments featuring piezoelectric transducers A and B attached to a superconducting coil. Figure (a) shows the placement of sensors on the coil endshoes with signaling captured upon simple 'knocking' experiments. Figure (b) depicts typical signal waveforms between sensors where a 0.13 ms time difference, indicative of the sound velocity in the coil, suggests that events closer to sensor A result in clearer readings. This methodological setup aims to characterize sound wave propagation across the coil and verify sensor operation and positioning efficiency .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3950/images/_page_1_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_5.jpeg"
+    },
+    "_page_1_Figure_10.jpeg": {
+      "caption": "Depiction of HQ01e3 magnet with highlighted acoustic sensor placements on the magnet stand. The diagram illustrates positions of piezo-sensors on magnet shells and the loadplate, used for detecting mechanical resonance spectra associated with various mechanical structure movements. This experimental setup aids in understanding the coupling of vibrations across different parts of the magnet, specifically how the shell and inner components respond differently to mechanical stimuli, thereby refining the acoustic sensing methodology to improve quench detection accuracy .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3950/images/_page_1_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_10.jpeg"
+    },
+    "_page_1_Figure_13.jpeg": {
+      "caption": "Acoustic power spectra of the HQ01e3 magnet's response when mechanically excited ('knocked'). The vertical axis represents power on a logarithmic scale and the horizontal axis frequency (in kHz). The figure demonstrates a pronounced presence of resonant peaks below ~10 kHz, with negligible activity beyond, reflecting the magnet's resonance behavior mainly within low-frequency zones. The different responses from sensors further indicate how mechanical vibrations decay in the magnet's shell versus internal structure, impacting acoustical signal detection fidelity .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3950/images/_page_1_Figure_13.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_13.jpeg"
+    },
+    "_page_3_Figure_9.jpeg": {
+      "caption": "A comparison of imbalance and acoustic signals at varying magnet currents of 2440 A and 10036 A across different time scales. Figure (a) shows a delay in sound emission suggestive of an external sound source while (b) depicts nearly simultaneous sound and imbalance recordings, reflecting sound generation within the magnet assembly. These studies help localize sound emission origins and analyze their relationship with mechanical events like stick-slip motion contributing to electrical imbalances, supporting better understanding and diagnostic processes for internal mechanical activities within superconducting magnets.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3950/images/_page_3_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_9.jpeg"
+    },
+    "_page_0_Picture_17.jpeg": {
+      "caption": "Visual presentation of piezoelectric transducers and associated cryogenic amplifier systems designed for HARP superconducting magnets. The left image shows one PZT transducer demonstrating its tubular design for effective installation. The arrangement on the right integrates a cryogenic amplifier to the sensor, crucial for maintaining signal integrity at low temperatures (4.2 K). Implementation of these advanced sensor assemblies supports heightened sensitivity and resolution in detecting acoustical events during magnet operation and testing, crucial for effective mechanical and thermal condition monitoring .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3950/images/_page_0_Picture_17.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_0_Picture_17.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0394,
+    "api_cost": 0.0394,
+    "file_storage_cost": 0.0,
+    "total_time": 109.26,
+    "request_count": 1,
+    "average_cost_per_request": 0.0394,
+    "average_time_per_request": 109.26,
+    "files_uploaded": 8,
+    "total_file_size": 403051
+  }
+}

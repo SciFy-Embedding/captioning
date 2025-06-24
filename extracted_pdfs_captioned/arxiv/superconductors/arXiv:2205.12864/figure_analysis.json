@@ -1,0 +1,106 @@
+{
+  "paper_id": "12b0e95a04bbd2431249054d0ae7f5d9",
+  "pdf_path": "apl/Superconductors/arXiv:2205.12864.pdf",
+  "processing_timestamp": "2025-06-23T14:52:40.136099",
+  "figure_analysis": {
+    "_page_7_Figure_0.jpeg": {
+      "caption": "Figure 4 illustrates the contour plots showing the heating power (a), flux jumps (b), and temperature jumps (c) for both an equivalent structure and a multi-filamentary structure. With a ramp rate of 1 A/s, field ramp rate of 0.015 T/s, and h0 = 100 W/m3·K, the study demonstrates distinct operational differences. The equivalent structure, consisting only of Nb3Sn and epoxy, experiences significant uniform heating, leading to rapid temperature increases and impacting flux jump behavior. Conversely, the actual multi-filamentary structure, integrating Nb3Sn and Cu, exhibits localized filamentary heating. The observed differences underscore the importance of studying the authentic structure for an accurate understanding of superconducting magnet behavior. The findings are critical for developing stable superconducting magnets for high-field applications, stressing the need to consider material composition and structural differences in design and analysis.【4:7†temp_paper_12b0e95a04bbd2431249054d0ae7f5d9.txt】",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2205.12864/images/_page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_0.jpeg"
+    },
+    "_page_3_Figure_0.jpeg": {
+      "caption": "Figure 2 presents the strain-dependence of the critical current density for Nb3Sn under loading and recovery conditions. The figure includes experimental data alongside polynomial and Fourier function fit curves. Here, the critical current density is notably impacted by strain, which is crucial for predicting superconducting wire performance in varying mechanical conditions. This analysis assists in formulating standardized models for superconducting coil design where mechanical strains are present, thus aiding in ensuring their reliability and efficiency in practical applications like high-energy accelerator magnets.【4:5†temp_paper_12b0e95a04bbd2431249054d0ae7f5d9.txt】",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2205.12864/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "_page_8_Figure_3.jpeg": {
+      "caption": "Figure 6 displays the impacts of flux jumps (a) and temperature jumps (b) on superconducting wires in the presence and absence of a constant 1.5% strain, under a ramp rate of 1 A/s and a field ramp rate of 0.0064 T/s. The data elucidates how strain leads to noticeable differences in flux, enhancing the frequency and amplitude of flux jumps, which in turn impacts the reliability of superconductor operation. Such insights are vital for the optimization of superconducting materials, as these instabilities can significantly affect their performance in high-stress environments like magnetic resonance imaging (MRI) and particle accelerator magnets.【4:6†temp_paper_12b0e95a04bbd2431249054d0ae7f5d9.txt】",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2205.12864/images/_page_8_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_3.jpeg"
+    },
+    "0__page_10_Figure_1.jpeg": {
+      "caption": "Figure 8 compares different ramp functional forms (a), showing their corresponding simulated temperature jumps (b) and flux jumps (c) within Nb3Sn wires. The presence of current-dependent strain highlights the sensitivity of thermomagnetic instabilities to varying ramp profiles, including a linear ramp with additional sinusoidal oscillations. The findings indicate that optimized ramp profiles can help mitigate instability impacts, which is valuable for superconducting coil operations that require precise magnetic field management, such as in scientific research or clinical MRI infrastructures.【4:4†temp_paper_12b0e95a04bbd2431249054d0ae7f5d9.txt】",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2205.12864/images/0__page_10_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_1.jpeg"
+    },
+    "_page_6_Figure_9.jpeg": {
+      "caption": "Figure 5 illustrates the structural sketches of superconducting wires with varying Cu/SC ratios (1.62 and 4.79) (a), alongside observed flux jumps (b) and temperature jumps (c) at a consistent ramp rate of 1 A/s and a field ramp rate of 0.015 T/s. The study characterizes how these ratios affect the wire's ability to carry high transport currents, revealing that a higher Cu/SC ratio, which reduces Nb3Sn content, results in lower critical currents but more pronounced voltage peaks and flux jumps. This data is fundamental for the tailoring of superconducting materials for specific engineering applications, ensuring that they meet required operational performance standards despite variable material compositions.【4:2†temp_paper_12b0e95a04bbd2431249054d0ae7f5d9.txt】",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2205.12864/images/_page_6_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_9.jpeg"
+    },
+    "0__page_11_Figure_1.jpeg": {
+      "caption": "Figure 9 shows the effects of different unloading ramp rates on thermodynamic features of superconducting wires: decreasing branches (a), temperature jumps (b), voltage jumps (c), and contour plots of critical current density, current density, magnetic field, and temperature (d). Results suggest that slower field ramp rates enhance voltage peaks during heavier currents, facilitating better thermal recovery and protection of superconducting magnets, consequential for systems where operational stability and longevity are paramount. These observations are crucial for the development of superconductors destined for high-performance and safety-critical environments like high-energy physics experiments and high-field magnets.【4:3†temp_paper_12b0e95a04bbd2431249054d0ae7f5d9.txt】",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2205.12864/images/0__page_11_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_1.jpeg"
+    },
+    "_page_8_Figure_0.jpeg": {
+      "caption": "Figure 5(a) and accompanying results (b, c) present the outcomes of varied Cu/SC ratios on the performance of superconducting wires. The visual data depict flux jumps alongside temperature spikes, critical aspects for understanding how material composition affects superconducting property stability during operation. By elucidating these dynamics, the findings offer practical guidance for designing superconductors with specific ratios of copper to superconductor that alleviate adverse thermal and electromagnetic phenomena, essential for their reliable application in fields like energy-efficient magnetic technologies.【4:7†temp_paper_12b0e95a04bbd2431249054d0ae7f5d9.txt】",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2205.12864/images/_page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_0.jpeg"
+    },
+    "_page_5_Figure_1.jpeg": {
+      "caption": "Figure 2 showcases the relationship between strain and critical current density in Nb3Sn wires, with experimental data from Oxford wires. Polynomial and Fourier fit curves demonstrate the significant influence of strain on superconducting performance. This analysis helps predict conductor behavior under mechanical loads, providing insights into the structural resilience required for superconductors used in demanding applications such as magnet technology in fusion reactors and accelerators. Understanding these effects is vital for developing robust superconducting systems that can maintain performance under variable operational strains.【4:5†temp_paper_12b0e95a04bbd2431249054d0ae7f5d9.txt】",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2205.12864/images/_page_5_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_1.jpeg"
+    },
+    "0__page_9_Figure_2.jpeg": {
+      "caption": "Figure 7 examines different ramp functional forms on flux jump behaviors in Nb3Sn superconductors when subjected to current-dependent strain. Part (a) shows a jagged field ramp form, while parts (b) and (c) demonstrate associated temperature and flux jumps. This data supports the notion that nuanced field ramp strategies can mitigate temperature-related instability effects, suggesting pathways to enhance operational stability in technologies reliant on superconducting magnets, even in environments characterized by rapidly changing magnetic fields.【4:1†temp_paper_12b0e95a04bbd2431249054d0ae7f5d9.txt】",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2205.12864/images/0__page_9_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_2.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "Figure 3 displays the strain versus temperature plots for the core materials of the superconducting coil: Cu, Nb3Sn, and epoxy, featuring experimental data and fitted curves. This figure is crucial in illustrating how thermal expansion causes strain in various components, with calculations factoring the composite nature of the coil. These curves aid in predicting strain-induced changes in the superconducting wire, which are important for understanding the mechanical behavior under operational conditions—specifically the anisotropic mechanical effects on superconducting properties due to differential thermal expansion and Lorentz forces. This understanding is essential for designing superconducting coils with predictable deformation characteristics during high magnetic fields and thermal cycles.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2205.12864/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    },
+    "_page_7_Picture_6.jpeg": {
+      "caption": "Figure 5 provides visual representations of superconducting wire structures with varying Cu/SC ratios, showing the spatial distribution within the cross-section for ratios of 1.62 and 4.79. This comparison highlights the impact of these ratios on the design and performance of superconducting wires, suggesting that different configurations can significantly influence the occurrence of flux and temperature jumps. By varying the Cu/SC ratio, critical parameters such as the ac loss and the wire's stability are affected, impacting the superconducting performance under operational stresses. The visual representation serves as a foundation for analyzing how these structural differences influence thermomagnetic stability and critical current capacity, vital for optimizing materials for practical and high-performance superconducting applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2205.12864/images/_page_7_Picture_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Picture_6.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1337,
+    "api_cost": 0.1337,
+    "file_storage_cost": 0.0,
+    "total_time": 125.49,
+    "request_count": 2,
+    "average_cost_per_request": 0.0668,
+    "average_time_per_request": 62.74,
+    "files_uploaded": 12,
+    "total_file_size": 605384
+  }
+}

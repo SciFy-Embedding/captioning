@@ -1,0 +1,66 @@
+{
+  "paper_id": "855ad097566886569499bc048217a594",
+  "pdf_path": "apl/Superconductors/arXiv:cond-mat_0604098.pdf",
+  "processing_timestamp": "2025-06-23T15:44:24.518436",
+  "figure_analysis": {
+    "0__page_9_Figure_0.jpeg": {
+      "caption": "Figure 3a: This panel shows the scaling of specific heat data using the 3d-XY model in low magnetic fields. Figure 3b: The scaling of specific heat according to the 3d-LLL (Lowest Landau Level) model is depicted, which becomes suitable at higher magnetic fields. The theoretical 3d-LLL model fits are included for reference. Figure 3c: Represents the 3d-XY model scaling of the derivative of magnetization, showing how magnetization responds to changes in magnetic field. These plots effectively highlight the crossover between the 3d-XY and 3d-LLL models in Nb3Sn superconductors. The scaling attempts to merge experimental data onto a common curve in each model, indicating universal scaling behavior and associating thermodynamic fluctuations with vortex dynamics in the superconductor.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0604098/images/0__page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_0.jpeg"
+    },
+    "0__page_9_Figure_1.jpeg": {
+      "caption": "Figure 3: This image corresponds to a combined visual listing of Figure 3a, 3b, and 3c, pointing towards a systematic exploration of scaling behaviors in three-dimensional crossover models for superconductors like Nb3Sn, highlighting thermodynamic properties of the system through visual scaling and comparative analysis.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0604098/images/0__page_9_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_1.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "Figure 4a: Shows specific heat of Nb3Sn in magnetic fields of 3 to 6 T with an AC field superimposed. Vortex melting temperatures, indicated by arrows, show shifts under an AC field, indicating changes in vortex equilibrium dynamics. Figure 4b: The difference between the AC and no-AC field conditions is plotted, making the vortex melting transition anomalies more discernible, with an inset indicating a first-order transition at around 7 T via the magnetocaloric effect. Together, these figures illustrate the impact of AC fields on vortex melting phenomena, highlighting latent heat effects of the vortex transition.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0604098/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_7_Figure_0.jpeg": {
+      "caption": "Figure 1: Total specific heat versus temperature for Nb3Sn in zero to high magnetic fields, depicting an overall decline in heat capacity as temperature drops and magnetic field increases. This showcases a typical specific heat jump at the superconducting transition temperature Tc, without fluctuation signatures except at singular points as magnetic fields increase, revealing lambda anomalies in substantial fields.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0604098/images/0__page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_0.jpeg"
+    },
+    "0__page_11_Figure_0.jpeg": {
+      "caption": "Figure 5: Depicts specific heat data at 6 T with AC fields compared against 3d-LLL theoretical fits for solid and liquid vortex phases. The image includes metastable phases indicated by dotted lines, showing experimental observations in terms of vortex phases and transitions. The visual comparison provides insights into the understanding of phase dynamics, latent heat, and vortex matter behavior within superconducting material.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0604098/images/0__page_11_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_0.jpeg"
+    },
+    "0__page_8_Figure_0.jpeg": {
+      "caption": "Figure 2a: Graph presents magnetization as a function of magnetic field at different temperatures, where deviations from linear behavior denote the emergence of thermal fluctuations. Figure 2b: Plots the derivative of the magnetization curve indicating fluctuation peaks, suggesting thermodynamic origins for these observations. The inset showcases a magnetization peak effect due to flux pinning phenomena at lower temperatures, supporting implications for vortex lattice behavior in superconducting states.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0604098/images/0__page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0522,
+    "api_cost": 0.0522,
+    "file_storage_cost": 0.0,
+    "total_time": 44.49,
+    "request_count": 1,
+    "average_cost_per_request": 0.0522,
+    "average_time_per_request": 44.49,
+    "files_uploaded": 7,
+    "total_file_size": 669956
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "paper_id": "1ee4272fc8a4dd54732db7c9fc7e4a6d",
+  "pdf_path": "apl/Superconductors/arXiv:2108.11904.pdf",
+  "processing_timestamp": "2025-06-23T14:39:47.775348",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "Figure 0 presents a detailed comparison of high-level parameters for various energy upgrade options of the International Linear Collider (ILC) in comparison to the Compact Linear Collider (CLIC) at 3 TeV. The parameters include energy (in TeV), luminosity (scaled by a factor of 10^34 for ILC and nominal for CLIC), AC power requirements (in MW), and the additional capital cost (displayed in billion international linear collider units (BILCU) with conversion in parentheses). The ILC upgrade scenarios vary from 1 TeV options (ILC1) to 2 TeV and 3 TeV options using different technological approaches like Traveling Wave (TW) Nb structures and Nb3Sn materials. The table highlights differences in design from gradient capacities (in MV/m) to the quality factor (Q) of the new linear accelerator (linac) sections. Notably, the table distinguishes between real costs and these represented costs (in parentheses) reflecting future projections or specific set points. The row for 'No. of bunches' provides 2 K and 4.2 K configurations to show effect on efficiency. The figure contributes to the ILC's aim to assess energy upgrade paths to deliver high luminosity physics opportunities by surpassing current technology limits.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2108.11904/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "_page_4_Figure_2.jpeg": {
+      "caption": "Figure 2 showcases the cost breakdowns for major systems involved in the ILC 2 TeV (Option 1b) and 3 TeV (Option 2a) upgrade paths beyond 1 TeV. The bar chart bifurcates costs for each energy option showing TOTAL costs aggregated from both a lower base of 1 TeV and the extension to the 2 TeV or 3 TeV schemes. Components considered include cryomodules, RF power systems, refrigeration, positron source, damping ring, and linac conversion facilities. The TDR (Technical Design Report) estimate for 1 TeV is marked to provide reference for existing investment. Significant distinctions highlight the increased capital demands particularly for refrigeration and cryomodule components between the more advanced 3 TeV and lesser 2 TeV systems. This representation aids in evaluating economically viable and technologically practical methods for scaling the ILC, addressing energy requirements, and highlighting potential bottlenecks in advanced collider infrastructures.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2108.11904/images/_page_4_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_2.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0545,
+    "api_cost": 0.0545,
+    "file_storage_cost": 0.0,
+    "total_time": 34.45,
+    "request_count": 1,
+    "average_cost_per_request": 0.0545,
+    "average_time_per_request": 34.45,
+    "files_uploaded": 3,
+    "total_file_size": 166832
+  }
+}

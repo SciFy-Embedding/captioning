@@ -1,0 +1,50 @@
+{
+  "paper_id": "89c5ce94757fe01856b041e368de02e7",
+  "pdf_path": "apl/Superconductors/arXiv:1006.3124.pdf",
+  "processing_timestamp": "2025-06-23T13:21:45.031615",
+  "figure_analysis": {
+    "0__page_9_Figure_0.jpeg": {
+      "caption": "Figure 1 illustrates the electronic transport properties of Nb3Sn with panels (A) and (B) depicting resistivity and magnetic susceptibility as functions of temperature, respectively. Panel (A) presents the resistivity (ρ) in micro-ohm centimeters versus temperature (T) ranging from room temperature down to 1.5 K. The inset zooms in on the superconducting transition, showing a sharp transition at Tc = 18.1 K with a narrow transition width (∆T 90−10% c = 0.15 K), indicating high sample quality. Panel (B) displays the magnetic susceptibility (χ) vs. temperature, recorded under a field of 10 mT. It confirms the superconducting transition at Tc = 18.1 K, consistent with resistivity findings. These measurements validate the Nb3Sn's superconducting nature and its suitability for detailed spectroscopic studies, crucial for exploring multi-band superconductivity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1006.3124/images/0__page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_0.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "Figure 2 displays the normalized differential conductance (RN · dI/dV) versus voltage (V) for Nb3Sn at a temperature of 2 K. The experimental data, represented by circles, highlight features of the two-band superconductivity, with anomalies at characteristic voltages marked by arrows. The zero-bias anomaly, attributed to the Josephson effect, and hysteretic behavior between 8–13 mV observed in some contacts are also noted. The dashed line presents a calculated model assuming two-band superconductivity, neglecting interband scattering and the Josephson effect. The inset offers a current vs. voltage (I-V) characteristic, emphasizing a Josephson-related current jump at low bias. These observations indicate the complex nature of electron pairing in Nb3Sn, advancing understanding of its two-gap superconductive state.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1006.3124/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_12_Figure_0.jpeg": {
+      "caption": "Figure 4 examines the temperature dependency of the superconducting energy gaps in Nb3Sn through the differential conductance spectra (RN · dI/dV) across temperatures 2 K, 6 K, and 10 K. The experiment's results (circles) and calculated fits (red lines) for the superconducting contact are overlaid for each temperature. The fit performed at 6 K holds parameters constant at other temperatures as per BCS theory. Deviations from expected BCS behavior occur mainly at elevated temperatures, with peak positions' tending downwards as temperature rises. This temperature analysis highlights Nb3Sn's two-band superconductivity's intricate dependence on thermal conditions, affirming its unique energy gap dynamics.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1006.3124/images/0__page_12_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_0.jpeg"
+    },
+    "0__page_11_Figure_0.jpeg": {
+      "caption": "Figure 3 provides histograms of peak voltage occurrences from differential conductance measurements at low temperatures. Panels A and B demonstrate voltage distributions for features corresponding to larger and smaller superconducting gaps, fitted with Gaussian curves to infer gap values (∆1 and ∆2). Panel C consolidates all measurements, including potential mid-gap features, suggesting complex energy band interactions. Gaussian fitting yields ∆1 = 4.38 ± 0.03 meV and ∆2 = 0.86 ± 0.05 meV, supporting the dual-gap hypothesis observed spectroscopically. This histogram analysis sheds light on the nature of two-band superconductivity in Nb3Sn, augmenting previous thermodynamic findings of its multigap characteristics.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1006.3124/images/0__page_11_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0475,
+    "api_cost": 0.0475,
+    "file_storage_cost": 0.0,
+    "total_time": 45.25,
+    "request_count": 1,
+    "average_cost_per_request": 0.0475,
+    "average_time_per_request": 45.25,
+    "files_uploaded": 5,
+    "total_file_size": 396878
+  }
+}

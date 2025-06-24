@@ -1,0 +1,50 @@
+{
+  "paper_id": "0751303029c4a5dd9d05b93284f772ad",
+  "pdf_path": "apl/Superconductors/arXiv:1711.05871.pdf",
+  "processing_timestamp": "2025-06-23T14:02:47.435840",
+  "figure_analysis": {
+    "_page_1_Figure_3.jpeg": {
+      "caption": "Figure 3 illustrates a stacked histogram distribution of the jumps in temperature ΔT observed in a Nb3Sn superconducting cavity at a bath temperature of 4.2 K. The x-axis represents the temperature difference of the jumps (ΔT) in millikelvins (mK), while the y-axis shows the number of jumps occurring within each 0.2 mK interval. The different colors, blue, red, and cyan, correspond to three subsequent jumps observed in the experiment. The distribution for each jump is fitted with a Gaussian function shown in black, indicating a similar jump height distribution within experimental precision. The Gaussian fit is noted to have a standard deviation of 0.90 K, reflecting the consistency of the observed jumps across different trials. Scientifically, this figure supports the hypothesis of quantized vortex entry causing discrete jumps in surface temperature due to magnetic flux entry, critical for understanding the dissipation mechanisms in superconducting cavities【4:0†temp_paper_0751303029c4a5dd9d05b93284f772ad.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1711.05871/images/_page_1_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_3.jpeg"
+    },
+    "_page_2_Figure_4.jpeg": {
+      "caption": "Figure 4 shows a scatter plot of rescaled jump heights at different cavity peak fields for Nb3Sn superconducting cavity cooldowns. The x-axis displays the cavity peak field at which each jump occurs in milliTesla (mT), while the y-axis depicts the rescaled jump heights in arbitrary units. Data points in different colors represent measurements taken at varying cooldowns: pink (2.0 K, first cooldown), cyan (2.0 K, second cooldown), and red (4.2 K, third cooldown). The averages of the jump heights are marked with yellow circles. Such data visualization underlines the repeatability and correspondence in jump heights irrespective of varying cooldowns. Highlights include identifying systematic uncertainties in jump height caused by changes in sensor-cavity wall thermal contacts across measured cooldowns. This figure enhances the understanding of field-dependent dissipation events significant in improving superconducting radio-frequency cavity performances【4:2†temp_paper_0751303029c4a5dd9d05b93284f772ad.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1711.05871/images/_page_2_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_4.jpeg"
+    },
+    "_page_2_Figure_6.jpeg": {
+      "caption": "Figure 6 illustrates modeling of a grain boundary in a Nb3Sn superconductor as an underdamped Josephson junction. The plot presents normalised power dissipation in the grain boundary (vertical axis) against the normalized peak AC current through the boundary (β, horizontal axis). Key transitions labeled include '1V', '1V+1AV', '1V+1Pair', and 'phase slip + vortex', depicting stages of vortex dynamics and energy dissipation as RF field intensity changes. This illustrates theoretical predictions of vortex entry and dynamics in superconductors, critical for designing materials capable of sustaining high fields in superconducting cavities. The demonstrated transitions are consistent with vortex behavior through defects, contributing to the understanding of superconducting state loss mechanisms【4:3†temp_paper_0751303029c4a5dd9d05b93284f772ad.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1711.05871/images/_page_2_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_6.jpeg"
+    },
+    "_page_1_Figure_1.jpeg": {
+      "caption": "Figure 1 displays temperature data as ΔT plotted against the square of the local peak surface magnetic field Bpk squared for a Nb3Sn superconducting cavity under RF field influence. The jumps in temperature are indicated by arrows, occurring consistently above the lower critical field Bc1, shown by the shaded region, which contextualizes expected material behavior parameters. This data exemplifies discrete temperature increases, interpreted as quantized vortex entry into the cavity, initiating enhanced dissipation and potential quenching effects. Understanding and identifying these critical points help inform methods to enhance superconducting cavity performance by minimizing defect influence【4:4†temp_paper_0751303029c4a5dd9d05b93284f772ad.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1711.05871/images/_page_1_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0576,
+    "api_cost": 0.0576,
+    "file_storage_cost": 0.0,
+    "total_time": 45.77,
+    "request_count": 1,
+    "average_cost_per_request": 0.0576,
+    "average_time_per_request": 45.77,
+    "files_uploaded": 5,
+    "total_file_size": 187346
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "paper_id": "3ad14163428032064bf406ff75522be0",
+  "pdf_path": "apl/Superconductors/arXiv:cond-mat_0401271.pdf",
+  "processing_timestamp": "2025-06-23T15:39:52.444031",
+  "figure_analysis": {
+    "_page_3_Figure_0.jpeg": {
+      "caption": "Figure 3 illustrates the magnetic field dependence of the vortex core size, r0, in V3Si superconductor measured by muon spin rotation (blue circles) at T = 3.8 K. The figure also shows electronic thermal conductivity, κe/T, (red squares) extrapolated to T → 0 from previous studies, indicating the normalization relative to the density of states at the upper critical field, Hc2. The green circles represent the reduction in core size due to the j(r) profiles' superposition from individual vortices—assumed initially under low fields. The x-axis is scaled as 1/H^(1/2), which is proportional to the intervortex spacing. Vertical dashed lines mark the range where the vortex lattice transition from hexagonal to square symmetry occurs. Subfigure (b) presents a schematic of the pair potential, Δ(r), at high magnetic fields, while subfigure (c) shows Δ(r) at low magnetic fields. The results confirm the impact of enhanced vortex-vortex interactions on vortex symmetry, consistent with theoretical predictions regarding quasiparticle transfer and the transformation of vortex lattice structure.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0401271/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "_page_1_Figure_6.jpeg": {
+      "caption": "Figure 1 provides the Fourier Transform (FT) of muon spin precession signals in V3Si at temperature T = 3.8 K and magnetic field H = 50 kOe. The green circles represent the measured data, demonstrating the internal magnetic field distribution, which is influenced by an apodization procedure to address noise from reduced late-time counts. A Gaussian broadening width of 1.0 s⁻¹ accounts for vortex lattice disorder and nuclear magnetic dipoles. The solid red curve represents the FT's fit according to the field profile B(r). The inset shows a contour plot of B(r) obtained from the fitting. These results underpin the imaging experiments, evidencing square and hexagonal vortex lattice adjustments at specified fields, confirming theoretical modeling for vortex interactions and lattice structure transformations.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0401271/images/_page_1_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_6.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Figure 2 demonstrates the magnetic field dependence of fit parameters at T = 3.8 K in V3Si: (a) magnetic penetration depth (λ); (b) coherence length (ξ); (c) apex angle β of the rhombic unit cell (purple circles), and anisotropy parameter (d) (green triangles). The vertical dashed lines illustrate the range over which the vortex lattice evolves from hexagonal to square symmetry. At fields just beyond 7.5 kOe, β and d become imprecise as the vortex lattice remains only slightly distorted from hexagonal configuration. Above 7.5 kOe, the penetration depth λ shows a non-physical increase, signifying the transition to square lattice symmetry at high fields. The transformations and parameter changes are vital for understanding the effects of increasing vortex-vortex interactions and quasiparticle delocalization on the vortex state's electronic and magnetic structures.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0401271/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0452,
+    "api_cost": 0.0452,
+    "file_storage_cost": 0.0,
+    "total_time": 34.01,
+    "request_count": 1,
+    "average_cost_per_request": 0.0452,
+    "average_time_per_request": 34.01,
+    "files_uploaded": 4,
+    "total_file_size": 155365
+  }
+}

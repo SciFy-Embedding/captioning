@@ -1,0 +1,90 @@
+{
+  "paper_id": "de273287464637665055dec326c99f16",
+  "pdf_path": "apl/Superconductors/arXiv:1806.04007.pdf",
+  "processing_timestamp": "2025-06-23T14:08:38.777953",
+  "figure_analysis": {
+    "0__page_9_Figure_0.jpeg": {
+      "caption": "The figure represents the total and partial electronic density of states (DOS) for the Nb3Au intermetallic compound as a function of energy. The top panel shows the total DOS, while the bottom panels display the projected DOS (PDOS) for Nb and Au contributions. Energy (in eV) is plotted on the x-axis, and density of states per unit cell (in states/eV/unit cell) is on the y-axis. The Fermi level is positioned at 0 eV, indicated by a vertical dashed line. Key findings include the dominance of 4d orbitals of Nb at the Fermi level, suggesting that these states are crucial for the electrical conductivity of Nb3Au. The DOS analysis reveals no band gap at the Fermi level, confirming the metallic nature of Nb3Au. The scientific significance lies in understanding the electronic structure contributions to the compound's properties, such as stability, which is inferred from the DOS profile at the Fermi level .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1806.04007/images/0__page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_0.jpeg"
+    },
+    "0__page_12_Figure_4.jpeg": {
+      "caption": "Fermi surface topology for Nb3Pt is depicted for band numbers (a) 49, (b) 50, and (c) 51. These surfaces reveal the presence of both electron-like and hole-like sheets, crucial for determining the electronic transport properties of the material. The visualization is given in 3D with symmetry points highlighted in the Brillouin zone. This figure emphasizes the complexity of the Fermi surfaces that include multiple sheets, potentially affecting the superconducting properties of Nb3Pt. Understanding these surfaces helps in correlating electronic properties with experimental conductivity and superconductivity findings.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1806.04007/images/0__page_12_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_4.jpeg"
+    },
+    "1__page_14_Figure_0.jpeg": {
+      "caption": "The charge density maps for (a) Nb3Os, (b) Nb3Pt, and (c) Nb3Au compounds in the (110) plane demonstrate variations in electron density distributions. The color scale represents electron concentrations, where blue indicates high density and red signifies low density. The map highlights ionic bonding between Nb and other metallic elements, such as Os, Pt, and Au, and covalent bonding among Nb atoms. These insights align with the Mulliken bond population analysis, confirming the nature of chemical bonding within these compounds. Such electronic characterizations help understand bonding properties that influence mechanical and electronic performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1806.04007/images/1__page_14_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_14_Figure_0.jpeg"
+    },
+    "_page_3_Figure_0.jpeg": {
+      "caption": "A structural schematic of the Nb3Ir intermetallic compound is shown, with the crystal system’s axes a, b, and c. Atoms are represented as spheres with distinct colors indicating different elements: Nb atoms are highlighted, demonstrating their strategic arrangement within the crystal lattice. Such depictions are crucial for visualizing complex crystal structures, helping to deduce potential interaction sites and electronic pathways that affect overall material stability and reactivity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1806.04007/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "0__page_12_Figure_2.jpeg": {
+      "caption": "The Fermi surfaces for Nb3Os, depicted for bands (a) 54, (b) 55, (c) 56, and (d) 57 reveal complex electron and hole-like topologies. These surfaces are important for predicting electronic properties such as conductivity and are linked to the superconducting nature of the material. The visualization highlights specific symmetry points in the Brillouin zone, which are instrumental in calculating electronic band structures, essential for understanding transport phenomena.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1806.04007/images/0__page_12_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_2.jpeg"
+    },
+    "0__page_13_Figure_1.jpeg": {
+      "caption": "This panel shows electronic charge density maps for Nb3Os, Nb3Pt, and Nb3Au compounds. It highlights the distribution of charge density within the crystal, revealing strong ionic and some covalent bonding characteristics. High electron density regions are shown in more intense blue colors, whereas low-density areas are in red. These maps are significant for visualizing the nature of bonding, corroborating findings with theoretical predictions regarding material stability and potential electron pathways.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1806.04007/images/0__page_13_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_1.jpeg"
+    },
+    "0__page_13_Figure_0.jpeg": {
+      "caption": "This figure predominantly displays the Fermi surfaces for Nb3Au with several bands visualized, specifically focusing on the electron and hole-like sheets highlighted in bands 49 to 53. Such complex topologies are critical in defining electronic behaviors, including superconductivity and metallicity. The analysis aids in correlating the band structure with the physical properties of these materials, such as their conductivity features under various experimental conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1806.04007/images/0__page_13_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_0.jpeg"
+    },
+    "0__page_11_Figure_1.jpeg": {
+      "caption": "The electronic band structures for (a) Nb3Os, (b) Nb3Pt, and (c) Nb3Au are plotted along high symmetry directions of the Brillouin zone. The x-axis denotes the k-points pathways through R, Γ, X, and M symmetry points, while the y-axis shows energy in eV. These bands confirm a lack of energy gaps indicative of metallic conductivity. The band features highlight significant contributions from the Nb 4d states near the Fermi level, supporting understanding of conductivity and stability predictions for these compounds.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1806.04007/images/0__page_11_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_1.jpeg"
+    },
+    "0__page_8_Figure_0.jpeg": {
+      "caption": "This figure depicts the integrated data on total and partial electronic states (DOS) for Nb3Os, illustrating orbital contributions to the electronic structure. The graph showcases valence and conduction bands predominantly formed by Nb’s 4d and other orbitals. The existence of states at the Fermi level underlines the metallic nature of Nb3Os. Such detailed DOS analyses illuminate the fundamental understanding necessary for tailoring electronic properties linked to material stability.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1806.04007/images/0__page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0651,
+    "api_cost": 0.0651,
+    "file_storage_cost": 0.0,
+    "total_time": 44.67,
+    "request_count": 1,
+    "average_cost_per_request": 0.0651,
+    "average_time_per_request": 44.67,
+    "files_uploaded": 10,
+    "total_file_size": 650424
+  }
+}

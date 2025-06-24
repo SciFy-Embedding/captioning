@@ -1,0 +1,162 @@
+{
+  "paper_id": "44f5e5b112bc897e62daefe382d515ad",
+  "pdf_path": "apl/Superconductors/arXiv:2403.03729.pdf",
+  "processing_timestamp": "2025-06-23T15:19:05.609526",
+  "figure_analysis": {
+    "_page_6_Figure_2.jpeg": {
+      "caption": "Figure 2 illustrates a schematic of vortex rectification mechanisms occurring at different AC current amplitudes, characterized into four distinct regions I to IV. The sliding potential, oriented at θ = 45°, dictates the 'easy' and 'much easier' directions for vortex movement, as denoted by thick black arrows. Red and blue arrows indicate the Lorentz force direction for +Ia and -Ia respectively, affecting vortex dynamics. This figure elucidates the impact of dynamic pinning on vortex behavior and rectification under varied current amplitudes, which is significant for understanding vortex motion direction preferences in superconductors.【4:19†temp_paper_44f5e5b112bc897e62daefe382d515ad.txt】",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.03729/images/_page_6_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_2.jpeg"
+    },
+    "1__page_21_Picture_14.jpeg": {
+      "caption": "This figure appears to show an individual (likely an author or contributor) related to the research paper. Personal portraits in scientific contexts may provide recognition for contributions but do not hold scientific data.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.03729/images/1__page_21_Picture_14.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Picture_14.jpeg"
+    },
+    "0__page_8_Figure_2.jpeg": {
+      "caption": "Figure 7 presents the variation of maximum current density (Jc) with magnetic field for two cases involving artificial pinning sites. Case one has pinning sites distributed within grains, whereas case two positions them along grain boundaries (GBs). The graphs below reveal the influence of these distributions on Jc, highlighting the critical current density responses to magnetic field changes due to the distinct pinning strategies, with cooperative pair density snapshots visualizing structural differences.【4:15†temp_paper_44f5e5b112bc897e62daefe382d515ad.txt】",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.03729/images/0__page_8_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_2.jpeg"
+    },
+    "0__page_9_Figure_6.jpeg": {
+      "caption": "Figure 8 provides a schematic representation of an S-I-S multilayer structure subjected to an external magnetic field Ha oriented along the z-axis. The depiction includes specific details of how the Nb3Sn (or NbN) coating and bulk Nb interact within this configuration. This structural insight is crucial for understanding and designing superconducting cavities resistant to vortex penetration under magnetic fields.【4:12†temp_paper_44f5e5b112bc897e62daefe382d515ad.txt】",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.03729/images/0__page_9_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_6.jpeg"
+    },
+    "_page_5_Figure_5.jpeg": {
+      "caption": "Figure 4 shows the average dc voltage V x dc as a function of ac current amplitude Iac at a magnetic field Ha=0.1, for various dynamic pinning velocities νp, shown in part (a). Part (b) illustrates the longitudinal voltage V x versus current amplitude, accompanied by snapshots of Cooper-pair density for positive and negative current directions (Ia), highlighting the dynamic interplay between pinning velocity and ac amplitude in influencing vortex rectification behavior.【4:4†temp_paper_44f5e5b112bc897e62daefe382d515ad.txt】",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.03729/images/_page_5_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_5.jpeg"
+    },
+    "1__page_21_Picture_7.jpeg": {
+      "caption": "This figure appears to show another individual related to the research paper, potentially offering recognition but not contributing direct scientific data.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.03729/images/1__page_21_Picture_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Picture_7.jpeg"
+    },
+    "_page_4_Figure_6.jpeg": {
+      "caption": "Figure 2 displays the rectified voltage Vdc against ac current amplitude Iac at Ha=0.2 and T=0.8Tc for different velocities νp. Insets in Fig. 2(b) showcase instantaneous Cooper pair density, with arrows indicating vortex motion directions. These results highlight the influence of dynamic pinning potential movement on the rectified voltage, a key factor in manipulating vortex behavior in superconducting films under applied currents.【4:5†temp_paper_44f5e5b112bc897e62daefe382d515ad.txt】",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.03729/images/_page_4_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_6.jpeg"
+    },
+    "0__page_13_Figure_1.jpeg": {
+      "caption": "Figure 12 examines temperature variations with defect size and GB superconductivity in S-I-S multilayer structures. It also includes contour plots showing Cooper pair density distributions with and without surface defects, and varying GB superconductivity. These insights are vital for assessing the performance of superconducting cavities, emphasizing the impact of defects and boundary superconductivity on stability under thermal and magnetic stress.【4:6†temp_paper_44f5e5b112bc897e62daefe382d515ad.txt】",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.03729/images/0__page_13_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_1.jpeg"
+    },
+    "0__page_14_Figure_1.jpeg": {
+      "caption": "Figure 13 provides a schematic of the SRF cavity with antidots and GBs influencing thermal gradient, particularly in terms of temperature variation over time in numerical simulations. It shows how temperature gradients can facilitate vortex expulsion, critical for improving the operational efficiency of Nb and Nb3Sn SRF cavities by minimizing vortex-related dissipation during high-field operations.【4:8†temp_paper_44f5e5b112bc897e62daefe382d515ad.txt】",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.03729/images/0__page_14_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_1.jpeg"
+    },
+    "0__page_12_Figure_3.jpeg": {
+      "caption": "Figure 11 compares the variations of the square of time and depth-averaged voltage (V^2_av) with increasing amplitude of RF magnetic field in S-I-S multilayer and single Nb structures at 1 GHz (panel a) and 8 GHz (panel b). This figure demonstrates the distinct responses of S-I-S multilayers and single-layer Nb to varying RF magnetic field amplitudes and frequencies, highlighting the enhanced performance of multilayers at higher frequencies and amplitudes which is crucial for the design of efficient superconducting resonant cavities.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.03729/images/0__page_12_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_3.jpeg"
+    },
+    "1__page_21_Picture_12.jpeg": {
+      "caption": "This figure appears to show another individual related to the research paper, likely for personal profile or affiliation purposes. Such images may provide personal and professional recognition within the scientific publication but do not contribute scientific data.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.03729/images/1__page_21_Picture_12.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Picture_12.jpeg"
+    },
+    "0__page_11_Figure_1.jpeg": {
+      "caption": "Figure 9 illustrates the attenuation of magnetic field along the x-axis in a Nb3Sn-insulator-Nb multilayer structure, calculated using TDGL and London theories at 0 K. The graph shows how theoretical and numerical simulations align, underscoring the validity of the TDGL model for predicting magnetic field behavior in layered superconducting systems, which are vital for SRF cavity design.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.03729/images/0__page_11_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_1.jpeg"
+    },
+    "_page_7_Figure_5.jpeg": {
+      "caption": "Figure 8 presents schematic views of grain boundary (GB) configurations and their effects on system properties. Panels depict artificial pinning sites in polycrystalline superconductors and their influence on vortex dynamics across various grain boundary patterns, essential for understanding pinning mechanisms that can enhance the performance of superconductors under magnetic fields.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.03729/images/_page_7_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_5.jpeg"
+    },
+    "1__page_21_Picture_10.jpeg": {
+      "caption": "This figure appears to feature an individual associated with the research document, potentially for authorship or institutional representation, providing recognition but not contributing scientific data.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.03729/images/1__page_21_Picture_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Picture_10.jpeg"
+    },
+    "0__page_12_Figure_1.jpeg": {
+      "caption": "Figure 10 displays schematic views of an S-I-S cavity illustrating the impact of point-like defects, surface roughness, and cracks on the attenuation of the superheating field Hsh. These schematics are critical for understanding how structural imperfections in cavities can degrade superconducting performance, thus guiding improvements in cavity fabrication.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.03729/images/0__page_12_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_1.jpeg"
+    },
+    "_page_4_Figure_2.jpeg": {
+      "caption": "Figure 1 schematically represents a dynamic pinning potential in a superconducting strip subjected to spatially-controlled irradiation. The figure shows how a sliding mask with a square lattice of circular holes can be used to manipulate the superconducting condensate, impacting vortex dynamics under applied ac currents and magnetic fields. This conceptual design is significant for exploring novel vortex manipulation strategies.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.03729/images/_page_4_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_2.jpeg"
+    },
+    "_page_5_Figure_1.jpeg": {
+      "caption": "Figure 3 offers a schematic illustration of vortex rectification mechanisms at varying ac current amplitudes. It depicts how dynamic pinning affects vortex movements, indicating changes from upward to downward motion as current amplitude increases. This mechanism is pivotal in engineering superconducting materials for applications requiring precise vortex control.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.03729/images/_page_5_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_1.jpeg"
+    },
+    "1__page_21_Picture_16.jpeg": {
+      "caption": "This figure appears to feature an individual, likely linked to the research paper, providing a personal or professional connection without scientific input.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.03729/images/1__page_21_Picture_16.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Picture_16.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1342,
+    "api_cost": 0.1342,
+    "file_storage_cost": 0.0,
+    "total_time": 144.16,
+    "request_count": 2,
+    "average_cost_per_request": 0.0671,
+    "average_time_per_request": 72.08,
+    "files_uploaded": 19,
+    "total_file_size": 960217
+  }
+}

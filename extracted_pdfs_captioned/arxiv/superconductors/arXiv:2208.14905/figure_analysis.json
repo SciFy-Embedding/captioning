@@ -1,0 +1,50 @@
+{
+  "paper_id": "a37bfd5bbce5410efe018adbc7fe0969",
+  "pdf_path": "apl/Superconductors/arXiv:2208.14905.pdf",
+  "processing_timestamp": "2025-06-23T14:53:34.410888",
+  "figure_analysis": {
+    "_page_1_Figure_3.jpeg": {
+      "error": "Not found in batch response",
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.14905/images/_page_1_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "available_keys": [
+        "caption"
+      ]
+    },
+    "_page_0_Picture_15.jpeg": {
+      "error": "Not found in batch response",
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.14905/images/_page_0_Picture_15.jpeg",
+      "method": "assistants_api_batch",
+      "available_keys": [
+        "caption"
+      ]
+    },
+    "_page_1_Figure_11.jpeg": {
+      "error": "Not found in batch response",
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.14905/images/_page_1_Figure_11.jpeg",
+      "method": "assistants_api_batch",
+      "available_keys": [
+        "caption"
+      ]
+    },
+    "_page_1_Figure_8.jpeg": {
+      "error": "Not found in batch response",
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.14905/images/_page_1_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "available_keys": [
+        "caption"
+      ]
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0342,
+    "api_cost": 0.0342,
+    "file_storage_cost": 0.0,
+    "total_time": 44.39,
+    "request_count": 1,
+    "average_cost_per_request": 0.0342,
+    "average_time_per_request": 44.39,
+    "files_uploaded": 5,
+    "total_file_size": 156278
+  }
+}

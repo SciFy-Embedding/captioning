@@ -1,0 +1,66 @@
+{
+  "paper_id": "d272e124c16b65fff923decf8e8e5ab8",
+  "pdf_path": "apl/Superconductors/arXiv:2111.12391.pdf",
+  "processing_timestamp": "2025-06-23T14:42:17.317334",
+  "figure_analysis": {
+    "0__page_19_Figure_1.jpeg": {
+      "caption": "Supplemental Figure 1 shows the temperature dependence of the total specific heat capacity (C/T) and electronic specific heat (Cel/T) for V3Ge, V3X-A, and V3X-B materials. The data have been derived by subtracting phonon contributions from the total specific heat to highlight the electronic contributions. This analysis is critical in assessing the superconducting properties and provides insight into the role of compositional complexity in altering the behavior of electron interactions at low temperatures compared to V3Ge. The findings underscore the broader superconducting transition in V3X samples compared to the pure V3Ge, indicative of the high-entropy phase's complexity impacts 【4:0†temp_paper_d272e124c16b65fff923decf8e8e5ab8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2111.12391/images/0__page_19_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_19_Figure_1.jpeg"
+    },
+    "0__page_14_Figure_1.jpeg": {
+      "caption": "Figure 1 presents Synchrotron Powder X-ray Diffraction (SXRD) patterns comparing V3Ge, V3X-A, and V3X-B. The diffraction data indicate the presence of broad peaks in V3X samples signifying high configurational disorder typical of high-entropy alloys. Notably, an impurity phase (VAl) is detected in V3X-B. This analysis helps elucidate the phase formation and structural complexity induced by multiple elements, which are pivotal for understanding the improved superconducting parameters in these compositionally complex alloys (CCAs) .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2111.12391/images/0__page_14_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_1.jpeg"
+    },
+    "0__page_17_Figure_0.jpeg": {
+      "caption": "Figure 4 illustrates temperature-dependent electrical resistivity measurements for V3Ge, V3X-A, and V3X-B under varying magnetic fields, revealing increased resistivity in V3X samples compared to V3Ge near superconducting transitions. This suggests enhanced vortex pinning due to the complex material structure of V3X samples. This figure supports the hypothesis that increased configurational entropy from multiple elements can alter electron scattering and thus improve critical magnetic fields (Bc2) .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2111.12391/images/0__page_17_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_17_Figure_0.jpeg"
+    },
+    "0__page_16_Figure_0.jpeg": {
+      "caption": "Figure 3 presents the temperature dependence of magnetic susceptibility for V3Ge, V3X-A, and V3X-B under zero and 7 T magnetic fields. Panels (b), (c), and (d) show susceptibility changes under 7 T, highlighting persistent superconducting transitions in V3X samples under magnetic stress. Figure 3e plots the magnetic field-temperature relationship, illustrating a significantly higher Bc2 in V3X compared to V3Ge. These results validate the enhanced upper critical field achieved through high-entropy alloying .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2111.12391/images/0__page_16_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_16_Figure_0.jpeg"
+    },
+    "0__page_15_Figure_0.jpeg": {
+      "caption": "Figure 2 showcases the Rietveld refinement profile for V3X-A, alongside structural models of five phases identified. The profile, colored with measured data (red), fitted profile (blue), and difference curve (green), conveys data for five phases demonstrating phase complexity. The structural modeling reflects spatial distribution and occupancy of alloys contributing to alloy complexity. This structural analysis is significant for depicting the amalgam of metallurgical phases that contribute to the superconducting enhancement seen in CCAs .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2111.12391/images/0__page_15_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_0.jpeg"
+    },
+    "0__page_18_Figure_0.jpeg": {
+      "caption": "Figure 5 displays electronic specific heat dependence on temperature for V3Ge, V3X-A, and V3X-B in superconducting states, highlighting shifts due to electronic entropy variations. The results indicate broader specific heat jumps in V3X samples, signifying a highly disordered electron environment due to compositional complexity (CCA strategy). Crucially, this broadening aligns with transformations to high entropy, marking significant enhancements to superconducting performance indices such as critical temperature control and broader superconductive phase stability 【4:4†temp_paper_d272e124c16b65fff923decf8e8e5ab8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2111.12391/images/0__page_18_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_18_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0596,
+    "api_cost": 0.0596,
+    "file_storage_cost": 0.0,
+    "total_time": 34.84,
+    "request_count": 1,
+    "average_cost_per_request": 0.0596,
+    "average_time_per_request": 34.84,
+    "files_uploaded": 7,
+    "total_file_size": 367785
+  }
+}

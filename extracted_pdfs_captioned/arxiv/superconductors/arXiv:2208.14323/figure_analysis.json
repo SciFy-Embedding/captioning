@@ -1,0 +1,66 @@
+{
+  "paper_id": "4c28fd042a3477f06d819b0192a5d12c",
+  "pdf_path": "apl/Superconductors/arXiv:2208.14323.pdf",
+  "processing_timestamp": "2025-06-23T14:53:32.335523",
+  "figure_analysis": {
+    "_page_1_Figure_2.jpeg": {
+      "caption": "The figure illustrates the critical engineering current density (Je in A/mm²) plotted against the magnetic field (Field in T) for three superconducting materials: Nb3Sn at 1.9 K, Bi2212 at 4.2 K, and REBCO (CORC/STAR) at 4.2 K. The data is presented with different line styles for each material: dashed blue line for Nb3Sn, solid black line for Bi2212, and dash-dotted black line for REBCO. The decreasing trend of Nb3Sn's Je with increasing field highlights its superior high-field performance compared to Bi2212 and REBCO at higher field strengths. This information is significant in selecting superconducting materials for applications in high-field environments, providing insight into the operational limitations and effectiveness of these superconductors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.14323/images/_page_1_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_2.jpeg"
+    },
+    "_page_3_Figure_0.jpeg": {
+      "caption": "This figure shows the cross-sections of various 20 T hybrid dipole coil designs. The Cos-theta (CT) design features 4 (top) and 2 (bottom) layer configurations of Bi2212. The Stress Management Cos-theta (SMCT) design also includes 4 (top) and 2 (bottom) Bi2212 layers. The Canted Cos-theta (CCT) configuration utilizes 4 layer Bi2212 coils. The Block (BL) design is presented with and without stress management features, and the Common Coil (CC) design incorporates Bi2212 in combination with 3 (top) and 5 (center) external Nb3Sn layers, as well as REBCO CORC with 4 external Nb3Sn layers (bottom). These designs reflect innovative strategies in superconducting magnet structures, essential for optimally distributing the fields and managing mechanical stresses.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.14323/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "_page_0_Picture_12.jpeg": {
+      "caption": "Depicted are cross-sections of three conductor arrangements: on the left, a Nb3Sn strand with a Rod Restack Process (RRP) architecture; in the center, a Bi2212 strand showing bundled filaments in a silver matrix; on the right, a schematic of CORC/STAR wires in grooves, illustrating the structure for REBCO cables. These images are not to scale but are critical for understanding the physical construction of the superconductors analyzed. The variations in architecture emphasize the different design strategies and fabrication techniques being employed to enhance superconducting properties, crucial for advancing high-performance magnet technology.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.14323/images/_page_0_Picture_12.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_0_Picture_12.jpeg"
+    },
+    "_page_2_Figure_5.jpeg": {
+      "caption": "This figure displays the configuration and load-line analysis of sector coils composed of Bi2212 as an insert and Nb3Sn as an outsert. Case I (top) applies the same engineering current density (Je) to both the insert and outsert coils, whereas Case II (bottom) reduces the Je in the outsert by 33% compared to the insert. Both configurations aim to achieve a 20 T bore field. This analysis demonstrates the potential to balance coil dimensions and material utilization in achieving high magnetic fields, an important consideration for efficient and cost-effective magnet design.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.14323/images/_page_2_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_5.jpeg"
+    },
+    "_page_1_Figure_12.jpeg": {
+      "caption": "This schematic illustrates a typical cross-section of an Nb3Sn Rutherford cable alongside a conceptual view of CORC/STAR wires set in grooves. The top image shows a wide Nb3Sn cable, critical for high current applications in accelerators. The bottom diagram represents the structural integration of REBCO-based wires, highlighting the geometric adaptations necessary for managing electromagnetic loads in complex cable arrays. Such designs are pivotal for advancing the thermal and mechanical robustness necessary for future accelerator magnets.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.14323/images/_page_1_Figure_12.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_12.jpeg"
+    },
+    "_page_2_Figure_12.jpeg": {
+      "caption": "Illustrated here are the critical engineering current densities (Je) of Nb3Sn and Bi2212, together with the load-lines representing peak field scenarios for sector coils configured as hybrids. The graph contrasts different engineering approaches by plotting current density against coil peak field, showing performance limits of hybrid magnet designs operating at 20 T. The data suggest effective field management via modification of superconducting materials and their spatial distribution within the coil, important for maximizing magnet efficiency and stability in high energy physics applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.14323/images/_page_2_Figure_12.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_12.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0594,
+    "api_cost": 0.0594,
+    "file_storage_cost": 0.0,
+    "total_time": 44.46,
+    "request_count": 1,
+    "average_cost_per_request": 0.0594,
+    "average_time_per_request": 44.46,
+    "files_uploaded": 7,
+    "total_file_size": 248292
+  }
+}

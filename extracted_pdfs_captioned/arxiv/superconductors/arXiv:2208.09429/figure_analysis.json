@@ -1,0 +1,106 @@
+{
+  "paper_id": "3f5b10bc54b98167a4f6a817fe130786",
+  "pdf_path": "apl/Superconductors/arXiv:2208.09429.pdf",
+  "processing_timestamp": "2025-06-23T14:53:51.500924",
+  "figure_analysis": {
+    "3__page_40_Figure_0.jpeg": {
+      "caption": "Extended Data Figure 5 depicts the lower critical field (*H*c<sup>1</sup>) of Cs<sub>3</sub>C<sub>60</sub>. Part (a) shows the magnetization as a function of magnetic field at various temperatures, illustrating the change from the superconducting to normal states. The measurements employ 1 K temperature increments below 10 K and 2 K increments above 10 K. Part (b) presents the temperature dependence of *H*c<sup>1</sup> with error bars indicating uncertainties. The inset at 2 K illustrates the empirical determination of *H*c<sup>1</sup>(0) through a theoretical fitting law. These measurements are significant for understanding the superconducting characteristics at reduced field strengths, providing insights into the material's robustness against magnetic disturbances【4:12†temp_paper_3f5b10bc54b98167a4f6a817fe130786.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.09429/images/3__page_40_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_40_Figure_0.jpeg"
+    },
+    "3__page_37_Figure_0.jpeg": {
+      "caption": "Extended Data Figure 3 shows the temperature dependence of the real (χ'ₐ꜀) and imaginary (χ''ₐ꜀) components of the *ac* magnetic susceptibility of Cs<sub>3</sub>C<sub>60</sub> at different synthesis conditions, influencing the superconducting shielding fraction (SF). Panels (a), (b), and (c) demonstrate variations in samples annealed at different temperatures, whereas panels (d), (e), and (f) display those with different annealing durations. Panels (g), (h), and (i) illustrate samples under varying pressures. The χ'ₐ꜀ approaches *dc* susceptibility under zero-field-cooling, and χ''ₐ꜀ signals increase with SF, highlighting superconducting phase contributions. These observations underline the impact of preparation techniques on superconductive properties【4:0†temp_paper_3f5b10bc54b98167a4f6a817fe130786.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.09429/images/3__page_37_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_37_Figure_0.jpeg"
+    },
+    "1__page_23_Figure_0.jpeg": {
+      "caption": "Figure 5 maps the superconducting phase diagram of Cs<sub>3</sub>C<sub>60</sub> in its primitive cubic, face-centered cubic (f cc), and A15 structures, plotted against the fulleride anion volume (V<sup>C<sub>60</sub></sup>). Each symbol represents a different structural phase, denoting the transition from an antiferromagnetic insulating state (AFI) to a superconducting (SC) state. A polynomial fit reveals the relationship between T<sub>c</sub> and V<sup>C<sub>60</sub></sup>, offering insights into volume-driven superconductivity transitions【4:3†temp_paper_3f5b10bc54b98167a4f6a817fe130786.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.09429/images/1__page_23_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_23_Figure_0.jpeg"
+    },
+    "3__page_39_Figure_0.jpeg": {
+      "caption": "Extended Data Figure 4 provides a view of the temperature-dependent normalized resistance (R/R<sub>30</sub>) for Cs<sub>3</sub>C<sub>60</sub> samples, highlighting superconducting shielding fractions (SFs) at different synthesis conditions. The reduction of resistance as the temperature decreases signals the phase transition into a superconductor. The transition broadens with lower SF, suggesting that higher SF equates to more sharply defined superconducting characteristics【4:2†temp_paper_3f5b10bc54b98167a4f6a817fe130786.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.09429/images/3__page_39_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_39_Figure_0.jpeg"
+    },
+    "2__page_34_Figure_0.jpeg": {
+      "caption": "Extended Data Figure 1 explores the evolution of magnetic susceptibility (χ) with varying synthesis conditions in Cs<sub>3</sub>C<sub>60</sub>. Panels (a), (b), and (c) illustrate ZFC and FC χ dependence under different annealing temperatures, while panels (d), (e), and (f) reflect increasing SF with longer annealing times. Panels (g), (h), and (i) demonstrate SF enhancement in samples pressed at varying pressures. These findings suggest annealing and compression optimize superconducting phases【4:7†temp_paper_3f5b10bc54b98167a4f6a817fe130786.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.09429/images/2__page_34_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_34_Figure_0.jpeg"
+    },
+    "1__page_20_Figure_0.jpeg": {
+      "caption": "Figure 2 showcases the structural and vibrational properties of primitive cubic Cs<sub>3</sub>C<sub>60</sub>. Panel (a) highlights results from synchrotron x-ray powder diffraction, revealing its primitive cubic structure. Inset describes the crystal arrangement. Panel (b) presents Raman spectra of pristine versus doped Cs<sub>3</sub>C<sub>60</sub>, with Ag(2) mode redshifting indicating electron doping. These features confirm structural uniqueness and charge redistribution due to doping【4:5†temp_paper_3f5b10bc54b98167a4f6a817fe130786.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.09429/images/1__page_20_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_0.jpeg"
+    },
+    "1__page_21_Figure_0.jpeg": {
+      "caption": "Figure 3 analyzes the Hall effect of Cs<sub>3</sub>C<sub>60</sub>. Subfigure (a) delivers magnetic field dependence of Hall resistivity across temperatures, with linear fits deducing Hall coefficients. Subfigure (b) plots R<sub>H</sub> against temperature, identifying sign changes indicative of electron-hole conduction. Subfigure (c) displays the carrier concentration's temperature variability, suggesting shifted charge carrier dynamics nearer structural transitions. This information aids in decoding superconductive carrier systems【4:5†temp_paper_3f5b10bc54b98167a4f6a817fe130786.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.09429/images/1__page_21_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Figure_0.jpeg"
+    },
+    "1__page_18_Figure_0.jpeg": {
+      "caption": "Figure 1 illustrates the Meissner effect and the zero-resistivity state in Cs<sub>3</sub>C<sub>60</sub> under ambient conditions. Panel (a) captures the DC magnetic susceptibility dependency on temperature with ZFC and FC runs. Panel (b) maps χ'ₐ꜀ and χ''ₐ꜀ *ac* magnetic susceptibility components, underpinning superconducting transitions. Panel (c) highlights resistivity under various magnetic fields, affirming superconductivity via phonon interaction shifts. These foundations assure Cs-doped C<sub>60</sub> as a superconductive material【4:15†temp_paper_3f5b10bc54b98167a4f6a817fe130786.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.09429/images/1__page_18_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Figure_0.jpeg"
+    },
+    "1__page_22_Figure_0.jpeg": {
+      "caption": "Figure 4 depicts Cs<sub>3</sub>C<sub>60</sub>'s structural and superconductive traits under varied pressures. Subfigure (a) shows resistivity change with pressure. Subfigure (b) highlights how pressure influences T<sub>c</sub>, noting superconductive regimes underlined by uncertainties. Subfigure (c) presents x-ray diffraction patterns verifying structural constancy. Subfigure (d) demonstrates pressure-unit cell volume relationships, fittingly plotted against the Murnaghan equation. Subfigure (e) correlates lattice constant to T<sub>c</sub>. Insights define optimal superconductive parameters【4:5†temp_paper_3f5b10bc54b98167a4f6a817fe130786.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.09429/images/1__page_22_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Figure_0.jpeg"
+    },
+    "3__page_36_Figure_0.jpeg": {
+      "caption": "Extended Data Figure 2 illustrates the evolution of magnetic susceptibility (χ) of Cs3C60 with varying annealing times to achieve different superconducting shielding fractions (SFs) for a given sample. In panel (a), after annealing at 240°C for 24 hours, the sample exhibits a superconducting phase with an SF of 8.3%. Panel (b) shows an increase in SF to 20.6% after an additional 24 hours of annealing. Panel (c) demonstrates a further increase to 67.0% with continued annealing. Panels (d) and (e) reveal that repeated annealing, up to four times totaling 84 hours, elevates SF to 114.5%; increasing to five times extends the SF to 162.9%. Panel (f) culminates with an SF of 243.8% after 132 hours of annealing. These observations highlight that prolonging annealing significantly amplifies SF, emphasizing the correlation between thermal treatment duration and superconducting phase enhancement.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.09429/images/3__page_36_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_36_Figure_0.jpeg"
+    },
+    "3__page_41_Figure_0.jpeg": {
+      "caption": "Extended Data Figure 6 presents the temperature dependence of the resistivity (ρ) for Cs3C60 as the sample is warmed. The main plot shows an increase in resistivity with decreasing temperature until a sharp drop to zero in the superconducting state. Two insets provide the derivative of resistivity against temperature (dρ/dT) across different temperature ranges, revealing anomalies around 110 K and 250 K. These anomalies are significant as they may indicate changes in electronic structure or carrier dynamics at these transitions, providing insights into the superconducting and normal states of the material.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2208.09429/images/3__page_41_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_41_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.137,
+    "api_cost": 0.137,
+    "file_storage_cost": 0.0,
+    "total_time": 140.84,
+    "request_count": 2,
+    "average_cost_per_request": 0.0685,
+    "average_time_per_request": 70.42,
+    "files_uploaded": 12,
+    "total_file_size": 1141902
+  }
+}

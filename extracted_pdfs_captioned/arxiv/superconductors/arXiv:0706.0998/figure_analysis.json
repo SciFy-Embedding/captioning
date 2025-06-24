@@ -1,0 +1,58 @@
+{
+  "paper_id": "e489ecde58792ae0f4ae7871cd784d59",
+  "pdf_path": "apl/Superconductors/arXiv:0706.0998.pdf",
+  "processing_timestamp": "2025-06-23T13:17:25.174227",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "Figure 3. This figure presents the real part of the 1st (χ_1') and 3rd (χ_3') harmonics of the AC magnetic susceptibility as a function of reduced temperature t=T/T_c for a low Bragg/Disordered phase transition temperature (Tp/T_c = 0.55). Panel a shows the scenario where the critical current density JcD0 is twice that of JcB0 (JcD0=2x10^8 A/m², JcB0=1x10^8 A/m²), revealing distinct temperature-dependent behaviors with pronounced features at low temperatures. Panel b illustrates the condition where JcB0 is equal to JcD0, both being 10⁸ A/m², showing a subtle signature of the phase transition with diminished peak effects. This figure highlights how different critical current densities influence the magnetic signature of phase transition, crucial for understanding vortex dynamics in type-II superconductors and confirming theoretical predictions about phase behavior in varied conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0706.0998/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "_page_7_Figure_1.jpeg": {
+      "caption": "Figure 4. Real parts of the 1st (panel a) and 3rd (panel b) harmonics of the AC magnetic susceptibility measured on V3Si single crystal. These values are plotted as functions of temperature, examined across various DC fields. The first harmonic graph (a) indicates a dip corresponding to the peak effect occurring within the 1 T – 7 T range, with the peak effect not observed at higher fields and lower temperatures. In contrast, the 3rd harmonic graph (b) displays two main positive peaks across temperatures, but with a decreasing low-temperature peak height as the field strength increases. These observations reflect the magnetic response similarity to Nb3Sn and emphasize the harmonics' role as a sensitive probe for detecting phase transitions and the magnetic field's effects on superconducting materials where traditional methods fall short.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0706.0998/images/_page_7_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_1.jpeg"
+    },
+    "_page_8_Figure_0.jpeg": {
+      "caption": "Figure 5. This field-temperature phase diagram represents data acquired from both the 1st and 3rd harmonics of AC magnetic susceptibility on a sphere-shaped V3Si single crystal. The reduced phase diagram plots reduced field (h=H/Hc2) against reduced temperature (t=T/Tc) where critical field Hc2 = 20 T and critical temperature Tc = 17 K. The graphical representation supports theoretical predictions by displaying transition markers at reduced temperatures up to t = 0.75, highlighting the detection capability of the Bragg/Disordered phase transition beyond usual peak effect observations. This diagram provides a robust analysis framework to better interpret phase transition behaviors within vortex matter of type-II superconductors, facilitating broader research on vortex states.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0706.0998/images/_page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_0.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Figure 1. Illustrates the behavior of critical current density J_c as a function of reduced temperature t=T/Tc in two distinct phases: a disordered phase (dashed line) and Bragg Glass phase (solid line), analyzed with two different pinning model applications. In panel a, JcB0 equals 10^8 A/m² while JcD0 is 2x10^8 A/m², manifesting a peak effect visibly at transition temperatures visible for all temperatures, which indicates a Bragg/Disordered transition. In panel b, equal values JcB0=JcD0=10^8 A/m² at zero temperature yield no peak effect at low temperatures, illustrating the subtle transition detections only feasible with harmonic analyses. This figure emphasizes the role of the pinning model on vortex behavior and how it influences critical current density profiles, underlying the physical intricacies of the phase transition within superconductors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0706.0998/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    },
+    "_page_3_Figure_2.jpeg": {
+      "caption": "Figure 2. Depicts the real part of the 1st and 3rd harmonics of AC magnetic susceptibility plotted against reduced temperature, assuming a high phase transition temperature Tp/Tc = 0.85. Using Bean model computations, panel a shows results for different Jc0 values (JcD0 = 2x10^8 A/m², JcB0 = 1x10^8 A/m²), where the distinctive peak effect can be observed. In panel b, harmonics are presented when JcB0 equals JcD0 in both phases, displaying peak effect dynamics. The results demonstrate how susceptibility harmonics correlate with Bragg/Disordered phase transitions, offering critical insights into the superconductors' vortex matter phase transitions where peak effect hypothesizing can be speculated using harmonic markers.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0706.0998/images/_page_3_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_2.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0461,
+    "api_cost": 0.0461,
+    "file_storage_cost": 0.0,
+    "total_time": 44.78,
+    "request_count": 1,
+    "average_cost_per_request": 0.0461,
+    "average_time_per_request": 44.78,
+    "files_uploaded": 6,
+    "total_file_size": 318293
+  }
+}

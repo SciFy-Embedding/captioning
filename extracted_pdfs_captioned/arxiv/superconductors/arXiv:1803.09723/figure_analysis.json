@@ -1,0 +1,114 @@
+{
+  "paper_id": "15a7e0e1e69d53d89de70c248fb6a62a",
+  "pdf_path": "apl/Superconductors/arXiv:1803.09723.pdf",
+  "processing_timestamp": "2025-06-23T14:07:40.960704",
+  "figure_analysis": {
+    "_page_1_Figure_3.jpeg": {
+      "caption": "This figure illustrates the relationship between peak luminosity and center-of-mass energy for various past, present, and future proton-proton and proton-antiproton colliders. The horizontal axis represents the center-of-mass energy in TeV on a logarithmic scale, while the vertical axis represents peak luminosity in cm⁻² s⁻¹ on a logarithmic scale. The data points are color-coded to distinguish between colliders: blue for past and present, red for upcoming, and green and purple for longer-term future colliders like the FCC-hh and HE-LHC. This visualization highlights the trend of increased luminosity with higher energies, indicating technological progress in collider design aimed at exploring higher energy frontiers for particle physics.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1803.09723/images/_page_1_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_3.jpeg"
+    },
+    "_page_4_Figure_1.jpeg": {
+      "caption": "This figure presents the distribution of the electron cloud within an LHC dipole magnet as influenced by varying proton bunch populations and the corresponding central electron density versus bunch intensity. The left panel shows electron density profiles across the horizontal position in the magnet for different proton bunch populations, while the right panel plots central electron density as a function of bunch intensity. This data is crucial for understanding and mitigating electron cloud effects which pose a significant challenge for beam stability in hadron colliders like the LHC.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1803.09723/images/_page_4_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_1.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "This figure depicts the 24-hour time evolution of the HE-LHC operational parameters at 100% machine availability. Shown are the instantaneous luminosity, event pile-up, bunch population, normalized transverse emittance, total beam-beam tune shift, and integrated luminosity as functions of time. The analysis of these parameters offers insights into the expected operational dynamics and performance efficiency of the HE-LHC, focusing on optimizing luminosity and managing pile-up.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1803.09723/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_13_Figure_1.jpeg": {
+      "caption": "Illustrated are the tunnel cross-sections for three different collider designs: HE-LHC, SppC, and FCC-hh. The comparison shows significant differences in tunnel dimensions and construction methods: the HE-LHC must adapt to the existing LHC tunnel size constraints, while SppC and FCC-hh are expected to have larger tunnels to accommodate future technological requirements. This figure underscores the engineering requirements and challenges related to infrastructure for next-generation colliders.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1803.09723/images/0__page_13_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_1.jpeg"
+    },
+    "0__page_14_Figure_0.jpeg": {
+      "caption": "This timeline depicts the magnet production schedule for FCC, in sync with the progress of FCC-hh or HE-LHC implementation. The stages outlined include development and testing of prototype magnets, ramping up to full-scale production, and aligning with the broader construction plans for these advanced colliders. This highlights the critical path for magnet development essential to achieving future collider project milestones.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1803.09723/images/0__page_14_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_0.jpeg"
+    },
+    "0__page_12_Picture_0.jpeg": {
+      "caption": "This image showcases the prototype segments of the proposed vacuum chamber design for the FCC-hh, developed by CERN. These components are crucial for mitigating synchrotron radiation impacts and maintaining beam quality at high energy densities. This hardware prototype represents a significant advancement over existing designs, accommodating the demands of next-generation hadron colliders.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1803.09723/images/0__page_12_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Picture_0.jpeg"
+    },
+    "_page_5_Figure_4.jpeg": {
+      "caption": "Presented here is a chronological timeline of various circular collider projects at CERN, including past, present, and anticipated future initiatives. Each project's phases—design, prototyping, construction, and physics operation—are documented, emphasizing progress towards upcoming projects such as the FCC. This overview indicates the strategic evolution and long-term planning involved in advancing particle collider technologies.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1803.09723/images/_page_5_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_4.jpeg"
+    },
+    "0__page_11_Figure_2.jpeg": {
+      "caption": "This graph compares the critical current density limits in entire superconducting wire samples at 4.2 K for different materials used in high-field magnets. Materials such as Nb-Ti for LHC, Nb3Sn for HL-LHC and FCC, and developments in iron-based superconductors (such as IBS for SppC) are represented. The plot highlights the material improvements needed to achieve higher magnetic fields within the economic constraints of future hadron collider projects.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1803.09723/images/0__page_11_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_2.jpeg"
+    },
+    "_page_8_Figure_0.jpeg": {
+      "caption": "This composite figure demonstrates time-variant parameters over 24 hours for FCC-hh Phases 1 and 2 with a focus on beam dynamics and collision efficiency. Each subplot shows a different parameter: instantaneous and integrated luminosity, bunch intensity, normalized transverse emittance, and event pile-up per bunch crossing. These illustrate the complex dynamics and control strategies required for maintaining optimal collider performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1803.09723/images/_page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_0.jpeg"
+    },
+    "0__page_11_Figure_0.jpeg": {
+      "caption": "This figure displays the relationship between the HE-LHC's average annual luminosity achieved and the average turnaround time per cycle. The horizontal axis indicates the turnaround time in hours, while the vertical axis displays the annual integrated luminosity in inverse femtobarns (fb⁻¹). This plot is crucial for evaluating the optimal balance between operational efficiency and downtime, indicating how decreasing the turnaround time can significantly enhance annual luminosity outputs. Optimizing turnaround times is a key strategy in maximizing the collider's output potential【8:10†temp_paper_15a7e0e1e69d53d89de70c248fb6a62a.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1803.09723/images/0__page_11_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_0.jpeg"
+    },
+    "0__page_13_Figure_5.jpeg": {
+      "caption": "This timeline showcases the development stages for the FCC 16 T magnets, critical for realizing future hadron collider projects. The timeline spans from initial qualification and prototype development stages (2018-2025) to the planned series production phase (starting in 2035). This plan is aligned with the strategic goals for the Future Circular Collider, underscoring the importance of advanced magnet design in achieving high energies and luminosities required for cutting-edge collider physics【8:18†temp_paper_15a7e0e1e69d53d89de70c248fb6a62a.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1803.09723/images/0__page_13_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_5.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "This figure charts the evolution of the peak luminosity of hadron colliders over time, charting historical, current, and proposed projects, with a focus on the Future Circular Collider (FCC). The graph effectively captures technological advances in collider design, highlighting key milestones from past projects like the ISR and Tevatron, to ongoing projects such as the LHC, and into future projects such as the FCC. It demonstrates a clear upward trend in luminosity over the decades, reflecting both engineering advancements and scientific objectives to enhance particle collision rates for future discoveries【8:1†temp_paper_15a7e0e1e69d53d89de70c248fb6a62a.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1803.09723/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1285,
+    "api_cost": 0.1285,
+    "file_storage_cost": 0.0,
+    "total_time": 84.04,
+    "request_count": 2,
+    "average_cost_per_request": 0.0642,
+    "average_time_per_request": 42.02,
+    "files_uploaded": 13,
+    "total_file_size": 668140
+  }
+}

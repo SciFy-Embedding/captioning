@@ -1,0 +1,82 @@
+{
+  "paper_id": "6bad9e4ea5ffc7190511f05634077ab8",
+  "pdf_path": "apl/Superconductors/arXiv:2504.15004.pdf",
+  "processing_timestamp": "2025-06-23T15:31:26.328796",
+  "figure_analysis": {
+    "0__page_9_Figure_1.jpeg": {
+      "caption": "Figure 1 presents the resistance-temperature data for BaH12 under 100 GPa pressure during heating #1 as measured by Chen et al. (2021) . The top panel (a) shows the raw resistance data (R(T)) along with a fit to the Bloch-Grüneisen model, indicating an onset superconducting transition temperature, Tc, of 8.3 K. The bottom panel (b) provides a fit to the Einstein model, confirming a consistent Tc onset. Derived parameters such as Debye temperature (ΘD = 349 ± 1 K) and electron-phonon coupling (λe-ph,D = 0.709) align with these models. The ratio ΘE/ΘD = 0.805 is noted, lower than the theoretical value of 0.828. These findings contribute to understanding electron-phonon interactions in this superconducting material.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2504.15004/images/0__page_9_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_1.jpeg"
+    },
+    "0__page_7_Figure_1.jpeg": {
+      "caption": "Figure 2 illustrates the X-ray diffraction (XRD) analysis on a CeO2 standard used to deduce the instrumental peak broadening using the Caglioti equation. The derived parameters—U, V, and W—are displayed, with W indicating a value of (1.29 ± 0.06) ×10^-6, and both U and V being zero. The measured βinst(θ) values are shown across various Bragg angles, with a fit aligning closely within a 95% confidence band. This instrumental calibration is essential for accurate peak breadth determination in further diffraction studies.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2504.15004/images/0__page_7_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_1.jpeg"
+    },
+    "0__page_10_Figure_1.jpeg": {
+      "caption": "Figure 3 showcases the temperature-dependent resistance data for BaH12 during heating #2 at 100 GPa . Similar to heating #1, raw data is plotted with fits to both Bloch-Grüneisen and Einstein models, yielding a second Tc onset at 7.0 K. Debye temperature and electron-phonon coupling are slightly lower than heating #1, with λe-ph,D = 0.69. The Einstein-to-Debye temperature ratio is calculated to be 0.806, reinforcing the results from the initial sample and further asserting BaH12's superconductive characteristics under high-pressure conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2504.15004/images/0__page_10_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_1.jpeg"
+    },
+    "0__page_11_Figure_1.jpeg": {
+      "caption": "Figure 4 provides the resistance versus temperature data for BiH4 under 172 GPa pressure, highlighting superconductivity . The panels outline raw data fitted with Bloch-Grüneisen and Einstein models (top and bottom respectively), indicating a transition onset at Tc = 86.2 K. Parameters extracted include substantially higher Debye temperature (ΘD = 493 ± 3 K) and notably increased electron-phonon coupling (λe-ph,D = 2.89), alongside the Einstein-Debye ratio maintaining a value of 0.822. This aligns with theoretical predictions and underscores BiH4's robust superconducting potential under extreme pressure.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2504.15004/images/0__page_11_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_1.jpeg"
+    },
+    "0__page_13_Figure_2.jpeg": {
+      "caption": "Figure 5 explores the upper critical field Bc2(T) of BiH4 under 172 GPa, fitted to the Prozorov-Kogan model . Initial field values are prominent at 19 ± 2 T and a Tc of 85.5 ± 0.5 K, with coherence length ξ(0) deduced as 4.1 ± 0.1 nm. These parameters, deduced from resistive transition criteria and represented with a 95% confidence interval, elucidate the upper field limits essential for characterizing high-pressure superconductors and contribute to an understanding of BiH4's superconducting behavior near its critical temperature.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2504.15004/images/0__page_13_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_2.jpeg"
+    },
+    "1__page_14_Figure_2.jpeg": {
+      "caption": "Figure 6 represents a comparative plot of superconducting transition temperature (Tc) versus Fermi temperature (TF) among different materials, including BiH4 at 172 GPa. This diagram places BiH4 alongside other significant superconducting families, suggesting its unconventional placement outside the typical hydrogen-based superconductor band, indicative of unique superconducting mechanisms that merit further investigation in advanced materials science.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2504.15004/images/1__page_14_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_14_Figure_2.jpeg"
+    },
+    "1__page_15_Figure_1.jpeg": {
+      "caption": "Figure 7 presents a ΘD/TF plot comparing BiH4 at 172 GPa to major superconducting families, revealing BiH4's exceptional compliance with Migdal's theorem with a Θ/Tc ratio akin to pure metals and A-15 alloys. Such findings introduce potential novel structures, possibly involving dissociated hydrogen contributions to the Fermi surface characteristics, thereby advancing the current understanding of superconductivity in compressed hydrides.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2504.15004/images/1__page_15_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_15_Figure_1.jpeg"
+    },
+    "0__page_8_Figure_0.jpeg": {
+      "caption": "Figure 8 examines the pressure dependence of grain size (D) and microstrain (ε) in BaH12, derived from raw XRD data. Both parameters appear steady across the 126 to 160 GPa range; notably, the negligible microstrain underlines structural robustness in extreme conditions. These details aid comprehensive assessments of structural integrity within high-pressure experimental frameworks.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2504.15004/images/0__page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0631,
+    "api_cost": 0.0631,
+    "file_storage_cost": 0.0,
+    "total_time": 80.99,
+    "request_count": 1,
+    "average_cost_per_request": 0.0631,
+    "average_time_per_request": 80.99,
+    "files_uploaded": 9,
+    "total_file_size": 749858
+  }
+}

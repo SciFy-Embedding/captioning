@@ -1,0 +1,138 @@
+{
+  "paper_id": "b229126b3e516334378b2f913a5e9ab3",
+  "pdf_path": "apl/Superconductors/arXiv:2310.18245.pdf",
+  "processing_timestamp": "2025-06-23T15:12:20.419779",
+  "figure_analysis": {
+    "0__page_9_Figure_0.jpeg": {
+      "caption": "FIG. 11 shows the band structure of a model without spin-orbit coupling (SOC) for a system characterized by parameters: E1=6.359 eV, E2=3.205 eV, t1α=1.691 eV, t1β=1.594 eV, t2α=-0.516 eV, t2β=-0.518 eV, t3=-0.065 eV, t4=-0.495 eV. The band positions, relative to the Fermi level set at zero energy, indicate the control of E1 and E2 on the bands near 1 eV and -3 eV at the R point, respectively. This figure is significant for understanding the electronic properties of the material without SOC, providing a baseline for how SOC affects band degeneracies and topological gap openings.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2310.18245/images/0__page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_0.jpeg"
+    },
+    "_page_1_Figure_3.jpeg": {
+      "caption": "FIG. 1 illustrates the crystal structure of the A3B compound with 3D perspective views. Part (a) depicts the crystallographic orientation showing A sites in yellow and B sites in brown, with bonding directions indicated. Part (b) presents the Brillouin zone with high-symmetry points Γ, M, and X marked, as well as the kx, ky, kz axes. This structural representation is crucial for contextualizing the electronic properties and band structure calculations discussed in the study.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2310.18245/images/_page_1_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_3.jpeg"
+    },
+    "_page_5_Figure_2.jpeg": {
+      "caption": "FIG. 5b visualizes the surface states of Nb3Ge for various U (0, 2, 3, and 4 eV) values, showcasing spin-momentum locked Dirac dispersions. The spectral weight distribution is indicated on the right, and the Fermi level aligned to zero energy. These findings illustrate how Coulomb repulsion influences the visibility and positioning of Dirac dispersions relative to the Fermi level, providing insights into topological state stabilization in correlated systems like Nb3Ge.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2310.18245/images/_page_5_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_2.jpeg"
+    },
+    "_page_6_Figure_3.jpeg": {
+      "caption": "FIG. 8 presents phonon dispersion curves coupled with anisotropic Migdal-Eliashberg spectral functions and phonon density of states for (a) Nb3Ge and (b) Nb3Sn. These graphs are essential for understanding lattice dynamics and their impact on superconducting properties, illustrating that these compounds feature distinct vibrational properties which could influence their electron-phonon interactions and critical temperatures.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2310.18245/images/_page_6_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_3.jpeg"
+    },
+    "_page_3_Figure_0.jpeg": {
+      "caption": "FIG. 3 shows the electronic structure and spin-momentum locked surface states of (a) Nb3Ge, (b) Nb3Sn, and (c) Nb3Sb. The middle panels (d)-(f) illustrate the Dirac dispersions at the Γ point, while the lower panels (g)-(i) exhibit the slab band structures, with red bands from the top surface and blue from the bottom. The Fermi level is set to zero. These results highlight the topological characteristics and surface state contributions essential for understanding the compounds' electronic environments",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2310.18245/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "_page_4_Figure_6.jpeg": {
+      "caption": "FIG. 4 depicts the spin Hall conductivity of Ta3As and Ta3Bi as a function of energy, highlighting its proximity to the Fermi level. This close proximity suggests potential for realizing strong spintronic properties, emphasizing the relevance of these materials in spintronics due to high SHC associated with robust orbital textures.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2310.18245/images/_page_4_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_6.jpeg"
+    },
+    "0__page_13_Figure_1.jpeg": {
+      "caption": "FIG. 14 (c, d) illustrates the phonon dispersion curves and corresponding Migdal-Eliashberg spectral functions for Ta3Bi and Nb3Sb. These graphs are vital for analyzing phonon-related physical properties such as superconductivity, defining how vibrational dynamics may affect electron pairing mechanisms and superconducting T_c",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2310.18245/images/0__page_13_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_1.jpeg"
+    },
+    "0__page_13_Figure_0.jpeg": {
+      "caption": "FIG. 13 showcases the local density of states (LDOS) in (a) Nb3Ge, (b) Nb3Sn, and (c) Nb3Sb with the Fermi level set at zero. These LDOS plots are critical in determining how electronic states at the atomic level contribute to overall material properties like conductivity and potential for hosting topological states.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2310.18245/images/0__page_13_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_0.jpeg"
+    },
+    "0__page_12_Figure_0.jpeg": {
+      "caption": "FIG. 14 displays the phonon dispersion curves and corresponding Migdal-Eliashberg spectral functions for (a) Ta3As, (b) Ta3Sb, (c) Ta3Bi and (d) Nb3Sb. Such spectral analyses underpin the understanding of phonon interactions with electrons, essential for predicting superconducting behavior and critical temperatures based on vibrational properties revealed by these curves.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2310.18245/images/0__page_12_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_0.jpeg"
+    },
+    "0__page_8_Figure_6.jpeg": {
+      "caption": "FIG. 10 depicts a top view of the A3B compound crystal structure, with A sites in yellow and B sites in brown. The figure shows a green bond illustrating the dimer along the b-axis, emphasizing the geometric arrangement analogous to an SSH chain. Hopping parameters, t1α and t1β, highlight the essential geometric configuration influencing electronic properties without considering SOC effects. This structural representation plays a crucial role in investigating the material's electronic properties influenced by dimer bonds and the tight-binding model framework where SOC and hopping parameters control the topology.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2310.18245/images/0__page_8_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_6.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "FIG. 3 displays the electronic structures and surface states of Nb-based compounds: (a) Nb3Ge, (b) Nb3Sn, and (c) Nb3Sb. Panels (d)-(f) present the Dirac dispersions at the Γ point, while (g)-(i) illustrate slab band structures, where the red and blue bands indicate contributions from the top and bottom surface layers, respectively. This setup demonstrates the impact of spin-orbit coupling on electronic dispersion, essential for interpreting topological characteristics and potential surface state contributions to the transport properties of these compounds.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2310.18245/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    },
+    "0__page_9_Figure_2.jpeg": {
+      "caption": "This figure focuses on magnifications of the band structure at the R point without and with SOC. It highlights the band degeneracy differences when SOC is applied, showing the π band splits and δ band split characteristics. These adjustments provide insights into topological gap openings controlled by spin-orbit coupling and differences in hopping parameters, essential for understanding the evolution of topological properties in the investigated materials.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2310.18245/images/0__page_9_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_2.jpeg"
+    },
+    "_page_6_Figure_1.jpeg": {
+      "caption": "FIG. 7 illustrates the electronic structure and surface states of Nb3Sb for U values of 0, 2, 3, and 4 eV. The right panel indicates the spectral weights within the band structure, where spin-momentum locked Dirac dispersions shift further from the Fermi level as U increases. The depiction of these changes in spectral distribution emphasizes the relationship between electronic correlation (U) and surface state evolution, pivotal for topological insulator examination in Nb3Sb.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2310.18245/images/_page_6_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_1.jpeg"
+    },
+    "0__page_12_Figure_7.jpeg": {
+      "caption": "FIG. 14 presents the phonon dispersion and Migdal-Eliashberg spectral functions for (a) Ta3As, (b) Ta3Sb, (c) Ta3Bi, and (d) Nb3Sb, with phonon density of states F(ω) included. The graphs underscore lattice dynamics and electron-phonon coupling coefficients relevant for predicting superconducting behavior and critical temperatures. This comprehensive analysis of vibrational modes offers insights into the superconductivity potential of A15 type structures and their variabilities.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2310.18245/images/0__page_12_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_7.jpeg"
+    },
+    "_page_5_Figure_0.jpeg": {
+      "caption": "FIG. 5 focuses on the electronic structure of Nb3Ge for U values 0, 2, 3, and 4 eV, embedding the impact of spin-orbit coupling. The surface state panel further showcases the presence of Dirac dispersions, shifting noticeably as U increases, facilitating the understanding of correlations between surface states and electronic properties in topological metals. The spectral weight distributions on the right panels enhance comprehension of how energy interaction varies with U increments.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2310.18245/images/_page_5_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1338,
+    "api_cost": 0.1338,
+    "file_storage_cost": 0.0,
+    "total_time": 78.56,
+    "request_count": 2,
+    "average_cost_per_request": 0.0669,
+    "average_time_per_request": 39.28,
+    "files_uploaded": 16,
+    "total_file_size": 1520181
+  }
+}

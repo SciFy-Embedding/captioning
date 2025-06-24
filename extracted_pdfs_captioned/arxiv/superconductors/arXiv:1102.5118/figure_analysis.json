@@ -1,0 +1,58 @@
+{
+  "paper_id": "6e0164f2ec3f45d2b093cd71fae68886",
+  "pdf_path": "apl/Superconductors/arXiv:1102.5118.pdf",
+  "processing_timestamp": "2025-06-23T13:22:45.951105",
+  "figure_analysis": {
+    "0__page_9_Figure_0.jpeg": {
+      "caption": "Figure 2 illustrates the high homogeneity of Nb3Sn samples by demonstrating the overlap between the percolative Hc2 deduced from the 90% point on resistivity curves and the volumetric average Hc2 from reversible magnetization measurements using a Vibrating Sample Magnetometer (VSM) up to 14 T. This overlap indicates consistency in determining critical current density limits and confirms the reliability of high-field resistivity measurements across the samples.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1102.5118/images/0__page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_0.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "Figure 3 shows the X-ray diffraction (XRD) traces at low temperatures for nominally 25% Sn (a) and 27% Sn (b) samples, displaying the low-temperature tetragonal transformation. The transformation is absent in samples annealed at 1800°C, when A15 Sn content falls below 24 at%. This structural transition, evident from the split of the 2θ peak, influences the material's superconducting properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1102.5118/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_12_Figure_0.jpeg": {
+      "caption": "Figure 5 categorizes Nb3Sn samples into 'cleaner' and 'dirtier' based on their resistivities and Residual Resistance Ratio (RRR) as defined by Orlando et al. 'Clean' samples exhibit lower μ0Hc2, whereas this field is relatively unaffected by Sn content. The results suggest that microstructural cleanliness, not stoichiometric variance, plays a pivotal role in critical field characteristics.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1102.5118/images/0__page_12_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_0.jpeg"
+    },
+    "0__page_11_Figure_0.jpeg": {
+      "caption": "Figure 4 compares the μ0Hc2(T) plots of the Nb3Sn samples. Panel (a) shows the representative plot for bulk samples; (b) compares this with Foner’s polycrystalline samples; and (c) contrasts with Foner and Arko's single crystal samples. Both cubic and tetragonal phases demonstrate similar μ0Hc2(T) behavior, challenging previous assumptions about significant depressions in the tetragonal state.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1102.5118/images/0__page_11_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_0.jpeg"
+    },
+    "0__page_8_Figure_0.jpeg": {
+      "caption": "Figure 1 presents the Tc plots derived from resistivity and specific heat measurements for Nb3Sn samples with 25 at% (a) and 27 at% (b) Sn. The data shows superconducting transitions with specific heat Tc distributions obtained through deconvolution in the superconducting transition region. The narrow transitions, especially for 25 at% Sn, indicate high sample homogeneity, crucial for reliable superconducting properties analysis.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1102.5118/images/0__page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0412,
+    "api_cost": 0.0412,
+    "file_storage_cost": 0.0,
+    "total_time": 34.03,
+    "request_count": 1,
+    "average_cost_per_request": 0.0412,
+    "average_time_per_request": 34.03,
+    "files_uploaded": 6,
+    "total_file_size": 332876
+  }
+}

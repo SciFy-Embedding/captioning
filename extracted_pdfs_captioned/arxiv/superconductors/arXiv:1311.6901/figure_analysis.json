@@ -1,0 +1,90 @@
+{
+  "paper_id": "d3fbafae294e71a1e323dc952dd7a786",
+  "pdf_path": "apl/Superconductors/arXiv:1311.6901.pdf",
+  "processing_timestamp": "2025-06-23T13:37:48.546779",
+  "figure_analysis": {
+    "_page_3_Figure_1.jpeg": {
+      "caption": "Figure 1 shows the normalized pinning force data obtained via magnetometry, alongside the pinning force function f(b) and a comparison of the temperature dependencies of the upper critical field (Bc2) and the scaling field (B*c2) for the RRP-54 wire. The pinning force function is derived from the Unified Scaling Law (USL), reflecting the role of reduced magnetic field (b) and the scaling exponents p = 0.379 and q = 2.102 for the RRP-54 wire. The data is crucial for understanding deviations from ideal grain boundary pinning behavior and the peculiarities of Nb3Sn wire structures.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1311.6901/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "_page_3_Figure_11.jpeg": {
+      "caption": "Figure 4 displays magnetometry data, the pinning force function f(b), and comparisons of temperature dependencies for the upper critical field Bc2 and the scaling field B*c2, specifically for the IT-246 wire unirradiated. The pinning force curve shows deviations from standard scaling, typical of the materials used, reflecting changes in Bc2 and B*c2 parameters as temperature increases.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1311.6901/images/_page_3_Figure_11.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_11.jpeg"
+    },
+    "_page_4_Figure_1.jpeg": {
+      "caption": "Figure 5 illustrates magnetometry data, the pinning force function f(b), and the corresponding Bc2 and B*c2 comparisons for the PIT-114 wire. The deviations observed in the pinning force scaling relate to distinctive scaling exponents p and q due to the dual grain morphology in the PIT-produced wires, important for superconductive applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1311.6901/images/_page_4_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_1.jpeg"
+    },
+    "_page_5_Figure_5.jpeg": {
+      "caption": "Figure 7 depicts point-pinning contributions β of five different wire types in relation to fast neutron fluence. The plot demonstrates that at lower fluences, β increases steeply, though a saturation trend is evident at higher fluences. The data supports a universal behavior applicable across all wire types, demonstrating the effect of neutron-induced pinning on Nb3Sn wires.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1311.6901/images/_page_5_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_5.jpeg"
+    },
+    "_page_3_Figure_7.jpeg": {
+      "caption": "Figure 2 includes magnetometry data and plots of the normalized field dependence of the pinning force function f(b) alongside critical field comparisons (Bc2 and B*c2) for the PIT-192 wire. The data visualizes shifts occurring from neutron irradiation, showing characteristic changes to pinning attributes important for advancing superconductive efficiency in Nb3Sn wires.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1311.6901/images/_page_3_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_7.jpeg"
+    },
+    "_page_5_Figure_7.jpeg": {
+      "caption": "Figure 8 shows relative changes in maximum volume pinning force (Fp) of PIT-192 and IT-246 wire types at 4.2 K influenced by fast neutron fluence. The figure highlights that the PIT wires experience significant enhancements in Fp compared to IT wires, showcasing irradiation effects differentiating binary from ternary alloys.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1311.6901/images/_page_5_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_7.jpeg"
+    },
+    "_page_3_Figure_9.jpeg": {
+      "caption": "Figure 3 outlines magnetometry insights into the RRP-108 wire, juxtaposing b-dependent pinning force function f(b) data with Bc2 and B*c2 dependencies. Results are visualized for various temperature points, illustrating how particular alloy compositions and addition of elements like Ti affect overall superconducting performance through modified pinning dynamics.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1311.6901/images/_page_3_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_9.jpeg"
+    },
+    "_page_4_Figure_9.jpeg": {
+      "caption": "Figure 6 provides a comparative depiction of pinning force scaling for IT-246 wires—comparing the unirradiated state against post-irradiation conditions at 10^22 m^−2 neutron fluence, showcasing a peak shift towards higher b values, indicative of enhanced pinning post-damage. This demonstrates increased pinning potency due to radiation-induced defects.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1311.6901/images/_page_4_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_9.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "Figure 9 highlights the temperature dependence of the upper critical field, Bc2, for the unirradiated versus irradiated states of the IT-246 wire subjected to 10^22 m^−2 neutron fluence, demonstrating a minor 2.6% increase. This provides critical insight into resilience and alterations due to radiation exposure in superconductor materials.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1311.6901/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0615,
+    "api_cost": 0.0615,
+    "file_storage_cost": 0.0,
+    "total_time": 64.11,
+    "request_count": 1,
+    "average_cost_per_request": 0.0615,
+    "average_time_per_request": 64.11,
+    "files_uploaded": 10,
+    "total_file_size": 296313
+  }
+}

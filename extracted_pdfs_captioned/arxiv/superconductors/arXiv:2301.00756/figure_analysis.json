@@ -1,0 +1,82 @@
+{
+  "paper_id": "ef91fcabcd08d5332894b4d2e84b7edb",
+  "pdf_path": "apl/Superconductors/arXiv:2301.00756.pdf",
+  "processing_timestamp": "2025-06-23T14:55:54.205613",
+  "figure_analysis": {
+    "0__page_9_Figure_1.jpeg": {
+      "caption": "Figure 6 depicts the relative strain and phase stability of Nb3Sn thin films across different thermal treatments. Panel (a) presents the relative strain normalized to the high-temperature anneal limit as a function of annealing temperature for 100 nm and 2 µm thick Nb3Sn films on Nb substrates, and a 300 nm Nb3Sn film on Cu substrates, highlighting the thermal strain response. Panel (b) shows the temperature-dependent strain diagram derived from stable and unstable (220) diffraction peak shifts for V3Si films, emphasizing the mechanical stability differences in films of varying thicknesses and substrate types. Lastly, panel (c) provides an example XRD pattern from a 2 µm V3Si film, demonstrating the coexistence of stable and unstable diffraction peaks crucial for understanding the film's structural integrity. This figure underscores the significance of strain management in optimizing superconducting film performance during high-temperature treatments .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.00756/images/0__page_9_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_1.jpeg"
+    },
+    "_page_6_Figure_4.jpeg": {
+      "caption": "Figure 3 illustrates the physical characteristics of a 100 nm Nb3Sn thin film on an Nb substrate post-950 ℃ annealing. Panel (a) details the resistive transition revealing the critical temperature of 17.5 K, critical for its superconductivity performance. Panel (b) shows the XPS spectrum post surface sputtering, presenting the Nb and Sn atomic composition, indicating successful stoichiometry maintenance post-surface oxidation removal. Panel (c) exhibits an AFM image reflecting a low surface roughness, crucial for minimizing scattering losses in superconducting radiofrequency applications. Collectively, these analyses confirm the film's phase purity and surface quality necessary for high-performance superconducting applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.00756/images/_page_6_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_4.jpeg"
+    },
+    "_page_8_Figure_3.jpeg": {
+      "caption": "Figure 5 presents the compositional dynamics of Nb3Sn and V3Si films under annealing. Panel (a) shows Sn/[Sn+Nb] or Si/[Si+V] atomic ratios as functions of annealing temperature, illustrating Sn and Si loss tendencies in thick Nb3Sn and V3Si films deposited on different substrates. The annealing-induced atomic concentration changes are critical for understanding the thermal stability and phase transformations within these films. Panel (b) gives an example of an EDS spectrum highlighting compositional data acquisition in V3Si films, underlining the utility of EDS in compositional analysis. This figure is pivotal in elucidating the metallurgical evolution of superconducting films under thermal stress .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.00756/images/_page_8_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_3.jpeg"
+    },
+    "0__page_15_Figure_2.jpeg": {
+      "caption": "Figure S1 depicts an SEM map of multiple samples at various stages: as-deposited, after 700 °C anneal, and post-950 °C anneal. The images vividly capture the grain growth and morphological evolution of films with increasing annealing temperatures, with significant coarsening and recrystallization occurring at higher temperatures. These transformations, observable across different sample conditions, illustrate critical microstructural changes necessary for enhancing superconducting film performance, ultimately contributing to the understanding and optimization of thin film processes for superconductor applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.00756/images/0__page_15_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_2.jpeg"
+    },
+    "_page_4_Picture_6.jpeg": {
+      "caption": "Figure 1 provides an SEM comparative analysis of 100 nm Nb3Sn films on Nb substrates at various annealing temperatures: (a) as-deposited, (b) 600 °C, (c) 800 °C, and (d) 950 °C. The images reveal the grain recrystallization dynamics initiated by thermal annealing, with significant grain size increase at 950 °C. These morphological changes reflect crucial shifts in film microstructure, induced by the release of strain energy, vital for achieving optimal superconducting properties in Nb3Sn films .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.00756/images/_page_4_Picture_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Picture_6.jpeg"
+    },
+    "0__page_10_Picture_5.jpeg": {
+      "caption": "Figure 7 compares SEM images of 300 nm Nb3Sn and V3Si films on Cu substrates, illustrating surface morphological transformations from as-deposited to after 950 °C annealing. Both films exhibit significant grain structure changes, with Nb3Sn showing angular grain formations and V3Si displaying large surface artifacts post-anneal. These structural evolutions highlight the influence of high-temperature annealing on alloy phase formations and are essential for comprehending phase behavior and optimizing film properties for practical applications in superconducting cavities .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.00756/images/0__page_10_Picture_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Picture_5.jpeg"
+    },
+    "_page_5_Figure_1.jpeg": {
+      "caption": "Figure 2 illustrates X-ray diffraction (XRD) patterns of a 100 nm thin Nb3Sn film recorded at various annealing temperatures: (a) as-deposited, (b) 600 °C, (c) 700 °C, (d) 800 °C, and (e) 950 °C. These XRD profiles showcase the persistence of specific Nb3Sn diffraction planes across temperature changes and suggest a stable phase, confirming the film's structural resilience and ability to maintain crystallographic integrity under thermal stress. The data elucidates the crystallization dynamics pivotal for developing stable, high-performance superconducting films .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.00756/images/_page_5_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_1.jpeg"
+    },
+    "_page_7_Picture_6.jpeg": {
+      "caption": "Figure 4 provides SEM morphologies of 2 µm thick Nb3Sn and V3Si films on Nb substrates under various states: (a, c) as-deposited and (b, d) post-950 °C annealing. This comparison highlights high built-in film strain and its influence on grain size and boundary density variations, reflecting the mechanical repercussions of thermal treatments. The image series is instrumental in visualizing the stress-induced phase transformations in these superconducting films .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.00756/images/_page_7_Picture_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Picture_6.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0638,
+    "api_cost": 0.0638,
+    "file_storage_cost": 0.0,
+    "total_time": 75.98,
+    "request_count": 1,
+    "average_cost_per_request": 0.0638,
+    "average_time_per_request": 75.98,
+    "files_uploaded": 9,
+    "total_file_size": 1603213
+  }
+}

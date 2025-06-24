@@ -1,0 +1,58 @@
+{
+  "paper_id": "832d97bec72631cf57cd3ae523419ce3",
+  "pdf_path": "apl/Superconductors/arXiv:1810.10569.pdf",
+  "processing_timestamp": "2025-06-23T14:13:06.502740",
+  "figure_analysis": {
+    "0__page_9_Figure_1.jpeg": {
+      "caption": "Figure 3: This figure presents back-scattered electron (BSE) images of polished cross sections of two Advanced Process Concept (APC) Nb3Sn wires, namely APC-A and APC-B. In these images, the grain size distribution and area fractions of fine-grain (FG) Nb3Sn, coarse-grain (CG), and unreacted Nb are illustrated. The calculated FG area fractions are approximately 33% and 22% for APC-A and APC-B, respectively, while residual Nb area fractions are 36% and 45%. The CG fractions for both are about 13%, indicative of their similarities to other high-performance wires like TT and PIT. These images are pivotal in assessing the microstructural properties central to enhancing the superconducting performance, highlighting the potential for recipe modifications to increase FG area fraction, aligning with the goals of optimizing Nb3Sn conductors for high-field applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.10569/images/0__page_9_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_1.jpeg"
+    },
+    "0__page_10_Figure_1.jpeg": {
+      "caption": "Figure 4: The plot displays the layer critical current density (Jc) of Nb3Sn at 4.2 K across different magnetic fields for three wire types: RRP (Rod Restack Process), APC-A, and APC-B. The graph demonstrates that APC wires significantly outperform RRP at high fields. At a magnetic field of 16 T, the Jc values for RRP, APC-A, and APC-B are recorded as 1850, 3450, and 4710 A/mm², respectively, showcasing up to 2.5 times increase in performance with APC methods. This figure underscores the enhanced flux pinning capabilities offered by APC techniques, making them crucial for advancing superconducting materials for high-field magnet applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.10569/images/0__page_10_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_1.jpeg"
+    },
+    "0__page_11_Figure_1.jpeg": {
+      "caption": "Figure 5: Shown here are secondary-electron (SE) images of fractured cross sections of two APC wire samples, APC-A and APC-B. These images highlight the grain size distribution within the filaments post reaction at 675°C. APC-A and APC-B present average grain sizes of 81 nm and 72 nm, respectively, reflecting the effectiveness of the internal oxidation technique in refining grain sizes towards optimal sizes observed in previous research. Such microstructural refinement is crucial for improving superconducting performance in terms of Jc and Hc2 in Nb3Sn conductors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.10569/images/0__page_11_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_1.jpeg"
+    },
+    "0__page_8_Figure_1.jpeg": {
+      "caption": "Figure 2: This graph illustrates the non-Cu critical current density (Jc) values for Nb3Sn conductors at 4.2 K as a function of magnetic field for RRP, APC-A, and APC-B wires. The data, fitted with a two-component pinning force model, indicates that APC-A and APC-B demonstrate superior performance over RRP in high-field conditions. At 16 T, APC-A and APC-B exhibit critical current densities of 1150 and 1040 A/mm², respectively, outperforming RRP due to enhanced grain refinement and pinning capabilities, making these wires suitable for high-field superconducting applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.10569/images/0__page_8_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_1.jpeg"
+    },
+    "_page_6_Figure_1.jpeg": {
+      "caption": "Figure 1: The resistance vs magnetic field (R-B) curves for the two reference wires (RRP and TT) and three APC wires (APC-A, APC-B, and APC17) are displayed. The figure highlights the critical transition fields and evidences the superior magnetic performance of the APC wires, particularly APC-A and APC-B, which demonstrate higher upper critical fields (Bc2) reaching up to 27.6 T compared to conventional conductors. These findings underscore the APC approach's effectiveness in retaining superconducting properties under high magnetic field environments, offering valuable insights for future high-energy physics applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.10569/images/_page_6_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0572,
+    "api_cost": 0.0572,
+    "file_storage_cost": 0.0,
+    "total_time": 61.43,
+    "request_count": 1,
+    "average_cost_per_request": 0.0572,
+    "average_time_per_request": 61.43,
+    "files_uploaded": 6,
+    "total_file_size": 339132
+  }
+}

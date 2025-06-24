@@ -1,0 +1,66 @@
+{
+  "paper_id": "bfc8cbb9e9066040f8ab595d1f0400e2",
+  "pdf_path": "apl/Superconductors/arXiv:1305.1269.pdf",
+  "processing_timestamp": "2025-06-23T13:34:25.711978",
+  "figure_analysis": {
+    "0__page_9_Figure_0.jpeg": {
+      "caption": "Figure 4 depicts the effect of overpressure heat treatment (HT) on the engineering current density (JE) of Bi-2212 superconducting wires. Panel (a) presents a graph illustrating JE at 4.2 K and 5 T as a function of total pressure applied during HT, with a significant increase in JE observed with higher pressures. The X-ray tomography images in panels (b) and (c) compare wire porosity before and after applying 100 bar overpressure, respectively, highlighting the elimination of extensive porosity seen at 1 bar in (b) and demonstrating a dense cross-section at 100 bar in (c). This figure demonstrates the critical role of overpressure in enhancing superconducting performance, vital for advancing high-field magnet technology by significantly increasing JE without compromising wire integrity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1305.1269/images/0__page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_0.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "Figure 5 illustrates a high-field demonstration coil constructed with 30 meters of 1.4 mm diameter Bi-2212 wire, designed to operate in a 31.2 T background magnetic field and generate an additional 2.6 T, achieving a total field of 33.8 T. The coil underwent heat treatment at 10 bar overpressure (OP), and despite the lower pressure compared to ideal conditions, it demonstrated robust performance by withstanding multiple quenches without damage. The coil achieved a maximum quench current of 388 A, translating to an engineering current density (JE) of 252 A/mm² at a total field strength of 33.8 T. This operational test highlights the feasibility and resilience of Bi-2212 coils for use in high-magnetic-field applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1305.1269/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_7_Figure_0.jpeg": {
+      "caption": "Figure 2 presents the architectural contrast between Nb-Ti and REBCO coated conductors used in high-field magnet applications. Panel (a) provides a cross-section of a CERN/LHC superconducting strand characterized by 6426 Nb-Ti filaments, each 6 µm in diameter encased in pure copper, contributing to electromagnetic stability against flux jumps and quench protection. Panel (b) demonstrates the configuration of a state-of-the-art REBCO coated conductor featuring layers of oxide seed and buffer with strong biaxial texture grown on a Hastelloy substrate, with a thick protective copper layer. The figure underscores the differences in conductor geometry, critical for optimizing performance under magnetic and structural stress.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1305.1269/images/0__page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_0.jpeg"
+    },
+    "0__page_11_Figure_0.jpeg": {
+      "caption": "Figure 6 illustrates the engineering current densities (JE) achievable by various superconductors including OP-processed Bi-2212, REBCO, Bi-2223, and Nb3Sn, emphasizing the superior performance of Bi-2212 above 17 T in a round-wire, multi-filament format. The main graph plots JE against applied fields, emphasizing Bi-2212's competitiveness for high-field applications. An inset graph compares the irreversibility field characteristics across materials, indicating significant advantages of REBCO at elevated temperatures beyond 4 K. This figure highlights the capacity of OP Bi-2212 to redefine high-field magnet technology by providing unrivaled current densities in a desirable conductor form.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1305.1269/images/0__page_11_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_0.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "Figure 1 displays critical current densities (Jc) of various superconducting conductors at 4.2 K, contrasting Nb3Sn, Bi-2212, Bi-2223, and REBCO. The dataset shows that OP-treated Bi-2212 offers improved performance due to its reduced bubble density during heat treatment, particularly when compared to conventional conductors, including Nb3Sn which falls off quickly beyond 20 T due to its critical field limitations. This graphical comparison underscores Bi-2212's potential to substitute for current technologies in high-magnetic-field applications, with the round-wire form facilitating more effective utilization and cabling.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1305.1269/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    },
+    "0__page_8_Figure_0.jpeg": {
+      "caption": "Figure 3 provides detailed images of the Bi-2212 conductor's architecture and microstructure. Subfigure (a) shows a transverse cross-section of a Bi-2212 wire containing 15 µm filaments prior to heat treatment. Subfigure (b) focuses on the filament structure post-heat treatment, featuring large transformed grains. Subfigure (c) highlights bubble formations within the filaments, significant detriments to current density that can be minimized by optimal processing. Subfigures (d) and (e) offer longitudinal views demonstrating grain alignment post-treatment, whereas (f) utilizes EBSD imaging to display grain orientation and high angle grain boundaries, key factors affecting conductivity and application potential in superconducting magnets.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1305.1269/images/0__page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0616,
+    "api_cost": 0.0616,
+    "file_storage_cost": 0.0,
+    "total_time": 45.21,
+    "request_count": 1,
+    "average_cost_per_request": 0.0616,
+    "average_time_per_request": 45.21,
+    "files_uploaded": 7,
+    "total_file_size": 970678
+  }
+}

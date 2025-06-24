@@ -1,0 +1,74 @@
+{
+  "paper_id": "90492220dbeea000236d170a19a67409",
+  "pdf_path": "apl/Superconductors/arXiv:1112.3483.pdf",
+  "processing_timestamp": "2025-06-23T13:29:41.034326",
+  "figure_analysis": {
+    "0__page_9_Figure_0.jpeg": {
+      "caption": "Figure 6 shows the material dependence of effective electronic interaction parameters in C60 and aromatic compounds. (a) The onsite Coulomb repulsion U¯, an indicator of electron localization, varies between 0.8 eV to 1.1 eV for C60 systems, illustrating significant material dependence due to variations in Wannier orbital sizes and dielectric screening. (b) Onsite exchange interaction J remains consistent and small at ~0.03 eV, suggesting a preference for low-spin states. (c) Offsite Coulomb repulsion V¯ is substantial, approximately 0.3 eV, indicating significant electron-electron interaction at adjacent sites. (d) Bandwidth W decreases with lattice constant increase, suggesting reduced electronic delocalization. (e) Correlation strength (U¯ − V¯ )/W increases monotonically, categorizing these materials as strongly correlated electron systems. The findings highlight both the shared and distinct electronic behaviors across these compound classes, emphasizing the intricacy of electronic correlations and their critical role in the superconductivity observed in fullerene and aromatic systems.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1112.3483/images/0__page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_0.jpeg"
+    },
+    "_page_5_Figure_3.jpeg": {
+      "caption": "Figure 8 presents the electronic density of states (DOS) for fcc and A15 Cs3C60 systems, following constrained random phase approximation (cRPA) calculations. Panel (a) displays DOS for different doping levels of the fcc phase, while panel (b) addresses the A15 phase. The DOS reflects the stability of the metallic state and potential for superconductivity. K and Rb have narrow states indicating less metallicity, whereas Cs surrounds superconductive potentials near the Fermi level under various lattice configurations. These comparisons of DOS profiles highlight the interplay of electronic correlations and lattice geometry in influencing superconducting transitions in alkali-doped fullerene compounds .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1112.3483/images/_page_5_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_3.jpeg"
+    },
+    "_page_3_Figure_0.jpeg": {
+      "caption": "Figure 1 depicts the ab initio band structures for different phases of alkali-doped C60 (fcc and A15 structures) and aromatic compounds. The band structures show narrow bands around the Fermi level, essential for low-energy electronic properties modeling. In C60 systems, the threefold degenerate '⁀1u' band closely associates with the Fermi level, crucial for superconductivity studies. Aromatic systems, while structurally different, exhibit narrow target bands derived from molecular orbitals, indicating potential for electronic cooperative effects. This comparative look into band structures derives significant information about density of states, helping to understand the electronic basis of superconductivity .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1112.3483/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "0__page_7_Figure_0.jpeg": {
+      "caption": "Figure 5 visualizes the intralayer transfer interactions among aromatic compounds, designated by transfer integrals t_|| for three primary directions due to anisotropy in these molecular systems. The figure schematically shows transfer paths (t_||1, t_||2, t_||3), critical for understanding electron hopping between molecular sites. This configuration emphasizes aromatic molecular packing that can lead to direction-dependent electronic responses, essential for tailoring material properties such as conductivity or superconductivity. The anisotropic nature of these transfers plays a significant role in mesoscopic material behavior .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1112.3483/images/0__page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_0.jpeg"
+    },
+    "0__page_10_Figure_1.jpeg": {
+      "caption": "Figure 7 illustrates the correlation between superconducting (Tc) or magnetic transition (TN) temperatures and the correlation strength (U¯ − V¯ )/W across different volumes for fcc A3C60, A15 Cs3C60, and aromatic compounds. Panels (a) and (b) show correlations for the fcc and A15 structures, where positive correlation exists at lower volumes but inhibits superconductivity as correlation increases further. Panel (c) for aromatic compounds, however, displays an inverse trend, where stronger correlations do not support, and even suppress, superconductivity. This highlights critical material design factors when engineering new superconducting materials based on these compounds .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1112.3483/images/0__page_10_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_1.jpeg"
+    },
+    "_page_4_Figure_4.jpeg": {
+      "caption": "Figure 3 presents the isosurfaces of a px-like maximally localized Wannier orbital from the t1u bands of A15-Cs(VAFI), visualized along the x, y, and z axes. Positive and negative isosurface lobes characteristic of px-like geometry reveal localization within a single C60 molecule. These orbitals directly influence electronic band dispersion, essential for constructing accurate low-energy models of the electronic structure in fullerite systems, impacting theoretical superconductivity predictions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1112.3483/images/_page_4_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_4.jpeg"
+    },
+    "_page_4_Figure_2.jpeg": {
+      "caption": "Figure 2 displays the density of states (DOS) for the 1u band in various alkali-doped C60 phases, fcc and A15 structures. DOS plots reveal sharp states near Fermi level, indicative of electron localization facilitating superconducting states. Different lattice constants and alkali doping levels alter electronic configurations, highlighting the adjustment of electronic character vital for material optimization. Observations on differences among DOS profiles suggest tunable superconducting properties by altering lattice and doping parameters .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1112.3483/images/_page_4_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_2.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0609,
+    "api_cost": 0.0609,
+    "file_storage_cost": 0.0,
+    "total_time": 42.61,
+    "request_count": 1,
+    "average_cost_per_request": 0.0609,
+    "average_time_per_request": 42.61,
+    "files_uploaded": 8,
+    "total_file_size": 1039981
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "paper_id": "39df629eb7588ab489e620658e9639d3",
+  "pdf_path": "apl/Superconductors/arXiv:2307.13067.pdf",
+  "processing_timestamp": "2025-06-23T15:10:14.396479",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "Figure 1: This figure illustrates the decomposition runs of La4H23 across various pressures (120 to 91 GPa) as evidenced by changes in electrical resistance with temperature. Part (a) of the figure shows how the resistance varies with temperature for different decompression pressures, highlighting the superconducting critical temperature (*T*<sup>c</sup>) transitions marked by the onset of resistance decrease. Part (b) presents resistance versus magnetic field at 114 GPa, where the inset displays the sample and electrodes following laser heating. Part (c) depicts the pressure dependence of the critical temperature with a schematic of the sample setup, emphasizing resistance declines as pressure decreases. Part (d) uses extrapolated models including Ginzburg-Landau and Werthamer-Helfand-Hohenberg to determine the upper critical magnetic field, revealing response curves significant for understanding superconductive resilience to magnetic fields【4:0†temp_paper_39df629eb7588ab489e620658e9639d3.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2307.13067/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "0__page_19_Figure_0.jpeg": {
+      "caption": "Figure S5: Convex hull of the La-H system at high temperature (1500 K) and pressure (150 GPa), representing thermodynamic stability of various lanthanum hydride phases. The stability regions and deviations from the hull with fitness energy in eV/atom are identified, demonstrating which La-H compounds are thermodynamically viable under these conditions. Notably, LaH10 shows low energy positioning, indicative of high stability .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2307.13067/images/0__page_19_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_19_Figure_0.jpeg"
+    },
+    "0__page_18_Figure_2.jpeg": {
+      "caption": "Figure S4: This dynamic convex hull depicts the energy stability landscape for La-H compounds at 150 GPa and 1000 K. The figure details the stability regions for various hydride compounds close to the convex hull, with the energy offset specified in eV/atom. Phases lying near or on the convex hull offer a glimpse into the likely stable phases under these conditions, with specific attention to LaH and its variant structures .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2307.13067/images/0__page_18_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_18_Figure_2.jpeg"
+    },
+    "1__page_22_Figure_3.jpeg": {
+      "caption": "Figure S8: Plots of La4H23's transport properties under 121 GPa in fixed magnetic fields ranging from 0 to 8 Tesla across warming cycles, highlighting superconducting transition points based on R50% criteria. The figure provides crucial data for understanding the critical magnetic fields using onset *T*<sup>c</sup> with application of WHH models shown with dashed lines, indicating extrapolated superconductor resilience .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2307.13067/images/1__page_22_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Figure_3.jpeg"
+    },
+    "0__page_17_Figure_1.jpeg": {
+      "caption": "Figure S1: Thermodynamically calculated convex hull of the La-H system at 100 GPa including zero-point energy. The stability of lanthanum hydride phases is assessed based on their proximity to the convex hull, outlining how stable these phases are under given pressures, which marks technologically significant phases for further high-pressure chemistry .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2307.13067/images/0__page_17_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_17_Figure_1.jpeg"
+    },
+    "1__page_23_Figure_0.jpeg": {
+      "caption": "Figure S9: Temperature-dependent voltage response of La4H23 in a 4-contact setup, exhibiting a quasi *T*-linear resistance from 100 to 260 K. This behavior contrasts conventional models, implying novel non-Fermi liquid behaviors in the sample, critical for interpreting unconventional superconductivity .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2307.13067/images/1__page_23_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_23_Figure_0.jpeg"
+    },
+    "1__page_27_Figure_0.jpeg": {
+      "caption": "Figure S13: The figure includes superconducting state parameters and Eliashberg function for the *Pm-3n* La4H23 superhydride at 150 GPa. With parameters like Tc from multiple theoretical models being spotlighted alongside the electron-phonon interaction, the data reflect on how these theoretical insights parallel experimental observations and enhance superconductor design principles .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2307.13067/images/1__page_27_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_27_Figure_0.jpeg"
+    },
+    "1__page_24_Figure_0.jpeg": {
+      "caption": "Figure S11: Displays the phonon band structure and corresponding density of states for La4H23 computed at 100 GPa. Despite a few imaginary phonon modes, the structure suggests dynamic stability likely amendable with anharmonic effects, signifying the robustness of such superconducting materials near megabar pressures .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2307.13067/images/1__page_24_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_24_Figure_0.jpeg"
+    },
+    "1__page_22_Figure_1.jpeg": {
+      "caption": "Figure S7: Captures the decompression impact on La4H23's resistance, demonstrating a substantive rise as a metal-to-insulator transition starts post *T*<sup>c</sup> in decompression. This anomaly at 114 GPa permits deeper insights into phase transitions under varying pressures, critical to understanding the electronic phase behavior of hydrides .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2307.13067/images/1__page_22_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Figure_1.jpeg"
+    },
+    "1__page_26_Figure_1.jpeg": {
+      "caption": "Figure S13: Detailed analysis of the Eliashberg function α²F(ω) and electron-phonon coupling (EPC) coefficient λ, evaluated for La4H23 highlighting interpolated and direct calculated data points. Logarithmic average frequency ωlog, mean square frequency ω², and critical temperatures T<sub>c</sub> determined via McMillan and Allen-Dynes equations are presented, reflecting computational harmonization with experimental superconducting properties at high pressures. The data define how modifications in phonon modes influence superconductivity through these coefficients, showing La4H23's stability under varied conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2307.13067/images/1__page_26_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_26_Figure_1.jpeg"
+    },
+    "1__page_27_Figure_2.jpeg": {
+      "caption": "Figure S14: Presents the electronic density of states, phonon dispersion, and Eliashberg spectral function for LaH10 under specified conditions at 150 GPa. The figure provides insights into superconductivity critical temperature predictions from theoretical models correlated with observed values, accentuating the role of high EPC values and broadening understanding of hydrogen-rich compounds' superconducting potentials. The integration of calculated and interpolated data sheds light on density of states influence on electron interaction mechanisms.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2307.13067/images/1__page_27_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_27_Figure_2.jpeg"
+    },
+    "1__page_23_Figure_2.jpeg": {
+      "caption": "Figure S10: Depicts resistance measurement of La4H23 using up-down sweeps in a constant magnetic field at 121 GPa and different temperatures up to around 100 K. This demonstrates critical magnetic field (H<sub>c2</sub>) extraction via R50% criteria, detailing compound's superconducting regime boundary exploration. The results elucidate how reversible superconducting transitions are influenced by magnetic fields under conditions pertinent for superhydride systems.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2307.13067/images/1__page_23_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_23_Figure_2.jpeg"
+    },
+    "0__page_17_Figure_3.jpeg": {
+      "caption": "Figure S2: Thermodynamic convex hull at 120 GPa analyzed for La-H compositions at temperatures encompassing ZPE. Phases close to hull are vital for identifying stable light element hydride structures under pressure, facilitating predictions of experimental viability of phases that could exhibit superconductivity similarly as explored phases in La4H systems.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2307.13067/images/0__page_17_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_17_Figure_3.jpeg"
+    },
+    "1__page_24_Figure_2.jpeg": {
+      "caption": "Figure S12: Volume-dependent energy data for La4H23, represented as equations of state at varying pressures (80–155 GPa). Important parameters include bulk modulus and its pressure derivative, providing insights into the material's compressibility, crucial for determining mechanical stability of superconducting phases under high-pressure synthesis conditions using VASP code calculations.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2307.13067/images/1__page_24_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_24_Figure_2.jpeg"
+    },
+    "_page_8_Figure_0.jpeg": {
+      "caption": "Figure 3: Combinatorial analysis of electronic, phonon, and superconducting properties for La4H23, with theoretical calculations at 100, 120, and 150 GPa. Illustrates Eliashberg functions unconsidered for symmetry, phonon density of states and band structure projections indicating hydrogen sublattice influence on superconductivity response, enriching understanding of high-pressure hydrides as potential superconductors. This reflects on calculated T<sub>c</sub> variability with pressure and EPC measurements indicating moderate superconductivity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2307.13067/images/_page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_0.jpeg"
+    },
+    "1__page_25_Figure_1.jpeg": {
+      "caption": "Figure S11: Phonon band structure and density of states analysis for La4H23 under high pressure condition (100, 150 GPa). Dynamics showcase Philon modes and energy contribution variations critical for maintaining stability in superconducting paradigms, addressing hydride superconductors’ vibrational characteristics upon theoretical predictions and highlighting lattice interactions influencing their properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2307.13067/images/1__page_25_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_25_Figure_1.jpeg"
+    },
+    "0__page_19_Figure_2.jpeg": {
+      "caption": "Figure S6: High-temperature convex hull projections (2000 K) at pressure (150 GPa) for La-H compositions with ZPE. Stability data identifies hydridic phases relevant for advanced compressive techniques targeting ultra-high T<sub>c</sub> superconductivity. This work contextualizes desired phase proximity to hull necessary for viable synthesis implications of hydrides.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2307.13067/images/0__page_19_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_19_Figure_2.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "Figure 2: Advanced portrayal of La4H23’s electrical resistance response to pulsed magnetic fields and overall lattice diffraction. Detailed magnetic phase mapping at 121 GPa, indicating superconducting, pseudogap, and Fermi liquid regions. X-ray diffraction dynamics solidify compound's structural attributes at specified pressures, asserting La system superhydride stability via phase reproduction comparative to theoretical models.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2307.13067/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    },
+    "0__page_18_Figure_0.jpeg": {
+      "caption": "Figure S3: The convex hull diagram for the La-H system computed at 150 GPa at 0 K, incorporating zero-point energy (ZPE). This figure delineates the thermodynamic stability of various lanthanum hydride phases, with markers indicating phases that lie within 30 meV/atom of the convex hull. The phases closest to the hull are considered thermodynamically favorable, revealing insights into which hydride compositions might be attainable under such extreme pressure conditions. The relevance of the phases proximal to or on the hull helps identify potentially stable superconducting materials, particularly given the influence of zero-point energy in these predictions. This analysis is crucial for guiding experimental synthesis and understanding stability trends in lanthanum-hydride based systems at high pressures【12:2†temp_paper_39df629eb7588ab489e620658e9639d3.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2307.13067/images/0__page_18_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_18_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.2102,
+    "api_cost": 0.2102,
+    "file_storage_cost": 0.0,
+    "total_time": 145.38,
+    "request_count": 3,
+    "average_cost_per_request": 0.0701,
+    "average_time_per_request": 48.46,
+    "files_uploaded": 20,
+    "total_file_size": 2242936
+  }
+}

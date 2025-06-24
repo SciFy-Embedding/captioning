@@ -1,0 +1,98 @@
+{
+  "paper_id": "fe6cf09456ffa950df207c6f49d8d302",
+  "pdf_path": "apl/Superconductors/arXiv:cond-mat_0211217.pdf",
+  "processing_timestamp": "2025-06-23T15:38:42.555918",
+  "figure_analysis": {
+    "1__page_17_Figure_0.jpeg": {
+      "caption": "Voltage-current (V-I) curves for a magnetic field H = 4.3 T at T = 13.8 K, demonstrating the presence of two distinct phases: the metastable phase (open squares) with higher critical current and the stable phase (solid squares) with lower critical current. The main panel outlines how V-I curves evolve for different temperatures around the peak effect temperature Tp, shown with insets for T = 13.9 K, 14.0 K, and 14.1 K. These measurements reveal the dynamical transition through metastability, indicative of a competition between elasticity and pinning in the vortex matter below Hp. Scientific significance includes insights into Bardeen-Stephen flux flow onset and vortex reordering mechanisms [7†source].",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0211217/images/1__page_17_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_17_Figure_0.jpeg"
+    },
+    "1__page_23_Figure_0.jpeg": {
+      "caption": "Magnetic phase diagram of V3Si derived from transport and magnetization measurements, depicting multiple regimes including the pinned, 'order-disorder' transition, and glass-like/amorphous vortex phases across a range of temperatures (T) and magnetic fields (H). The diagram identifies critical field lines: Hp indicating the peak effect and Hc2 as the upper critical field, which signifies the onset of superconductivity. Block arrows infer the presence of long-range order against pinning, showcasing a trend of decreased order at elevated temperatures. This visualization highlights the complex interplay between competing forces affecting the Order-Disorder transitions in superconductors [9†source].",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0211217/images/1__page_23_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_23_Figure_0.jpeg"
+    },
+    "0__page_14_Figure_0.jpeg": {
+      "caption": "Magnetization (M) versus applied magnetic field (μ0H) for V3Si at T = 13.2 K. The top panel presents a hysteresis loop likely associated with Pauli paramagnetism, revealing the delicate peak effect in critical current density (Jc) seen in the lower panel for this and two other temperatures. These observations are crucial for understanding the peak effect characterized by changes in vortex dynamics and order in type-II superconductors, signifying the transition from weak to strong pinning upon reaching Hc2 [4†source].",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0211217/images/0__page_14_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_0.jpeg"
+    },
+    "1__page_19_Figure_0.jpeg": {
+      "caption": "Progression from metastable to stable V-I curves at T < Tp (4.3 T) by pausing at increasingly higher currents Is. The curved lines mark transitions among states. The inset illustrates how the critical current Ic alters based on Is, pointing towards metastable behavior and eventual stabilization. These findings provide critical insight into the intrinsic properties of vortex matter dynamics, emphasizing the role of driving currents in facilitating transitions between metastable and stable states within superconductors [11†source].",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0211217/images/1__page_19_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_19_Figure_0.jpeg"
+    },
+    "1__page_20_Figure_0.jpeg": {
+      "caption": "Voltage-current (V-I) characteristics measured at H = 4.3 T demonstrate a hysteresis loop between stable and metastable states, transitioning through current levels I = 0.2 A and 0.5 A, leading to stable states over the time shown. Insets explore the time evolution of voltage when sustaining a constant current, highlighting the effects of thermal agitation on vortex movement. This behavior is vital for delineating dissipative dynamics in superconductive vortices, providing a theoretical framework for designing current-driven stabilization processes [10†source].",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0211217/images/1__page_20_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_0.jpeg"
+    },
+    "1__page_21_Figure_0.jpeg": {
+      "caption": "Energy over current density (E/J) curves against current (I) for V3Si at T = 14.0 K, comparing cases for magnetic field H > Hp and H < Hp. Arrows denote increasing H, while distinct field-dependent resistivity plateaus correspond to transitions in vortex behavior. These insights reveal complex transition behavior, indicating potential paths for tailoring superconductive material properties by capitalizing on specific field conditions and exploiting Bardeen-Stephen flux flow regimes [6†source].",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0211217/images/1__page_21_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Figure_0.jpeg"
+    },
+    "1__page_18_Figure_0.jpeg": {
+      "caption": "Stable transport V-I curves at T = 14.0 K highlight differences in vortex state stability across fields H > Hp and H < Hp, distinguished by block arrows. This depiction underscores the impact of magnetic field variations on flux flow dynamics, pivotal for fine-tuning superconducting applications. The accompanying inset shows a peak in Jc, underscoring crucial changes in vortex lattice structure as influenced by varying external fields [13†source].",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0211217/images/1__page_18_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Figure_0.jpeg"
+    },
+    "0__page_15_Figure_0.jpeg": {
+      "caption": "Plot illustrating magnetization (m) against temperature (T) under an applied field of H = 6.0 T. The figure captures field-cooled and zero-field-cooled paths, showing near the upper critical field Hc2. Insets display hysteresis linked to temperature-dependent critical current density Jc, contributing to the broader understanding of temperature's effect on superconductive states just below melting transitions [5†source].",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0211217/images/0__page_15_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_0.jpeg"
+    },
+    "1__page_22_Figure_0.jpeg": {
+      "caption": "Ratio of flux flow resistivity (ρf) to normal-state resistivity (ρn) against H/Hc2 at various constant temperatures, with shaded regions representing Hp ranges. Curves corresponding to C values in equation (1) provide comparative analysis of flux dynamics. This nuance in resistivity behavior assists in verifying the transition conditions under Bardeen-Stephen flux flow and pinning scenarios, serving as a base for validating order-disorder paradigms utilized in superconductor studies [14†source].",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0211217/images/1__page_22_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Figure_0.jpeg"
+    },
+    "1__page_16_Figure_0.jpeg": {
+      "caption": "Temperature dependence of small-angle neutron scattering data under a 6 Tesla magnetic field parallel to the [110] crystallographic direction. Panel (a) shows the intensity of the principal Bragg spot that indicates vortex lattice order during cooling (circles) and subsequent warming (squares), highlighting a decrease in intensity as temperature approaches the peak effect at 13 K, suggesting a loss of lattice order. Panel (b) reports the azimuthal and radial peak widths of the Bragg spot intensity, measured as half width at half maximum (HWHM), for both cooling (solid circles) and warming (open circles). These widths reveal significant broadening near the peak effect, indicating increased disorder. The history effects depicted here, with higher intensity and narrower peaks after warming, suggest a 'healing' process in the vortex lattice at low temperatures. These measurements are crucial for understanding the transition from an ordered vortex lattice to a disordered state as temperature approaches the peak-effect regime, providing insight into the elastic-properties-driven order-disorder transformations in vortex physics.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0211217/images/1__page_16_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_16_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1226,
+    "api_cost": 0.1226,
+    "file_storage_cost": 0.0,
+    "total_time": 74.18,
+    "request_count": 2,
+    "average_cost_per_request": 0.0613,
+    "average_time_per_request": 37.09,
+    "files_uploaded": 11,
+    "total_file_size": 1327104
+  }
+}

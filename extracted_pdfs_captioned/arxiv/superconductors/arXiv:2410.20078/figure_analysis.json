@@ -1,0 +1,90 @@
+{
+  "paper_id": "b25604adef69f66a0fd668d72fd72bdb",
+  "pdf_path": "apl/Superconductors/arXiv:2410.20078.pdf",
+  "processing_timestamp": "2025-06-23T15:24:45.790408",
+  "figure_analysis": {
+    "_page_7_Figure_1.jpeg": {
+      "caption": "Schematic of the Simulation Geometry: The simulation geometry for the study is depicted as a cubic domain with side length X. Like-colored surfaces are assigned periodic boundary conditions while different fields are applied at red and green surfaces in the Z-direction. The illustration of the Sn-deficient island as a blue ellipsoid, with projections marked by dotted lines, indicates how the island's placement parallel to the surfaces impacts field interactions. The overarching simulation goal is to model the superconducting response and vortex behavior through changes in field application, defined by various domain boundary conditions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2410.20078/images/_page_7_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_1.jpeg"
+    },
+    "0__page_9_Figure_1.jpeg": {
+      "caption": "3D Visualization of |ψ|² During Vortex Nucleation: This volume plot showcases |ψ|², representing superconducting order during a vortex nucleation event within a cubic domain, sized 10λ on each side. The occurrence highlights foundational steps in understanding vortex dynamics, specifically with an applied field equivalent to Hvort for the given Sn-deficient island and placement .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2410.20078/images/0__page_9_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_1.jpeg"
+    },
+    "0__page_9_Figure_8.jpeg": {
+      "caption": "Vortex Penetration Versus Island Distance: This graph displays the vortex penetration field (Hvort) as a function of island position relative to the superconducting surface, measured in units of penetration depth. The figure compares results from three island sizes, with the black dotted line indicating the bulk Nb3Sn superheating field. It reveals that islands closer to the surface substantially reduce the Hvort, emphasizing the effect of island proximity on superconducting performance .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2410.20078/images/0__page_9_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_8.jpeg"
+    },
+    "_page_7_Figure_4.jpeg": {
+      "caption": "Quality Factor of Nb SRF Cavities Versus Applied Field: The quality factor of Nb superconducting RF (SRF) cavities is plotted against the applied field (normalized to √2Hc), calculated using geometric factor G = 270 Ω. The sharp quality drop near the superheating threshold results from vortex nucleation, highlighted by the black dotted line indicating the superheating field, providing insights into the limitations imposed by superconducting properties on cavity performance .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2410.20078/images/_page_7_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_4.jpeg"
+    },
+    "0__page_9_Figure_5.jpeg": {
+      "caption": "Isosurface Visualization of |ψ|² = 0.1: Demonstrates the spatial configuration of a vortex isosurface within the superconducting domain, combining visualization capabilities with specific contouring to show induced vortex nucleation around the Sn-deficient island with defined field conditions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2410.20078/images/0__page_9_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_5.jpeg"
+    },
+    "0__page_8_Figure_1.jpeg": {
+      "caption": "Comparison of Different Dissipation Terms: This plot compares unitless dissipation between terms representing electric field dissipation and order parameter relaxation under various applied fields. It shows the electric field dissipation dominates initially, but with increasing applied field, vortex-induced changes reverse this dominance as visualized in simulations .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2410.20078/images/0__page_8_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_1.jpeg"
+    },
+    "0__page_10_Figure_4.jpeg": {
+      "caption": "Quality Factor for Sn-deficient Island Coverage: Illustrates the dramatic quality factor drop as Sn-deficient islands cover larger areas of cavity surfaces, under applied fields exceeding Hvort. The figure aligns simulation outcomes with experimental observations, providing a comprehensive view of material deficiencies affecting SRF cavity performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2410.20078/images/0__page_10_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_4.jpeg"
+    },
+    "0__page_9_Figure_3.jpeg": {
+      "caption": "2D Slice through Vortex Nucleation: This figure gives a cross-sectional view of |ψ|² during vortex nucleation within a defined plane of the superconducting domain. It aids in understanding depth-dependent vortex dynamics associated with Sn-deficient islands .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2410.20078/images/0__page_9_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_3.jpeg"
+    },
+    "0__page_8_Figure_0.jpeg": {
+      "caption": "Dissipation Values Analysis: Plots unitless dissipation values relevant to calculating superconducting cavity quality factors, distinguishing key contributions from electronic versus order parameter dynamics. The rapid increase in dissipation above superheating fields aligns with the stress on superconducting stability under operational conditions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2410.20078/images/0__page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0631,
+    "api_cost": 0.0631,
+    "file_storage_cost": 0.0,
+    "total_time": 53.76,
+    "request_count": 1,
+    "average_cost_per_request": 0.0631,
+    "average_time_per_request": 53.76,
+    "files_uploaded": 10,
+    "total_file_size": 367616
+  }
+}

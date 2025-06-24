@@ -1,0 +1,178 @@
+{
+  "paper_id": "0fe69ea8feb290c1a4cc423d73338b77",
+  "pdf_path": "apl/Superconductors/arXiv:1501.07169.pdf",
+  "processing_timestamp": "2025-06-23T13:59:07.162407",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "This figure presents cross-sectional views of the Tevatron (left) and HERA (right) dipole magnets. The diagrams highlight the design and construction differences between the two accelerator magnets. Both use Nb-Ti superconducting materials; however, the filament diameters and the wire surface treatments vary, with the Tevatron utilizing a tin-oxidized surface and HERA using just a silver-tinned surface. These design choices impact the operational magnetic fields and mechanical stability during high-energy particle accelerations. The scientific significance lies in understanding how design variations affect magnet performance, crucial for advancements in high-energy physics experiments.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07169/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "0__page_14_Figure_6.jpeg": {
+      "caption": "The figure displays the ATLAS detector (left) and a general view of its barrel toroid (right). The ATLAS detector, a crucial part of the LHC experiments at CERN, integrates a superconducting solenoid and toroidal magnet system. These systems are critical for accurately measuring particles' momenta in high-energy collisions, fundamental to exploring phenomena like the Higgs boson. The integration of these enormous magnet systems constitutes one of the most significant engineering challenges, having been tested rigorously to handle immense magnetic forces.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07169/images/0__page_14_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_6.jpeg"
+    },
+    "_page_8_Picture_5.jpeg": {
+      "caption": "This cross-section image details an LHC dipole magnet, illustrating the 'two-in-one' assembly design. The diagram outlines the structural components, including the coil configurations, the superconducting material Nb-Ti, and the collar material which enhances structural stability against magnetic forces. The use of superfluid helium ensures efficient thermal management. Such details are crucial for understanding the operational efficiencies and stability necessary for sustaining the high magnetic fields required in particle accelerators like the LHC.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07169/images/_page_8_Picture_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Picture_5.jpeg"
+    },
+    "_page_7_Figure_0.jpeg": {
+      "caption": "The illustrated diagram showcases the relationships between various components of the LHC collider. It shows the positions of ATLAS, CMS, ALICE, and LHC-B experiments, denoting areas of high luminosity and ion collisions. The layout emphasizes the collider's complexity and its capacity to conduct multiple high-energy physics experiments simultaneously. Such a configuration is integral in exploring subatomic particles and forces, furthering the field of particle physics.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07169/images/_page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_0.jpeg"
+    },
+    "0__page_17_Picture_1.jpeg": {
+      "caption": "The figure illustrates the MFTF yin-yang magnet coils (left) and a conductor detail (right). The yin-yang design presents an innovative approach to creating compact yet intense magnetic fields necessary for mirror fusion experiments. The conductor's sophisticated design, including high-purity copper sheathing, enhances cooling and stability. This technological achievement represents a significant step forward in the practical application of superconducting magnets in fusion research.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07169/images/0__page_17_Picture_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_17_Picture_1.jpeg"
+    },
+    "_page_3_Figure_0.jpeg": {
+      "caption": "This figure showcases the Tevatron accelerator complex (left) juxtaposed with the HERA accelerator (right). It serves as a visual comparison between two prominent high-energy physics research facilities. The Tevatron was instrumental in discovering the top quark, while HERA facilitated deep inelastic scattering experiments providing insights into proton structure. Such infrastructure underpins particle physics' experiments and has contributed significantly to our understanding of fundamental forces.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07169/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "1__page_21_Picture_0.jpeg": {
+      "caption": "Depicted here is a section of the W7-X machine assembly (left) alongside the non-planar coils (NPC) (right). The Wendelstein 7-X is a stellarator designed for advancing plasma confinement, utilizing a complex array of superconducting coils to maintain stable magnetic fields. Its NPCs are engineered with high precision to enable long-duration plasma studies, pivotal for future fusion energy projects. This intricate arrangement showcases advances in fusion technology and experimental physics.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07169/images/1__page_21_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Picture_0.jpeg"
+    },
+    "_page_6_Figure_4.jpeg": {
+      "caption": "Featured in this figure are the main parameters of the LHC main dipole and quadrupole magnets presented in a tabular format. The data outlines design specifications such as operating temperatures, field gradients, and structural compositions, critical for ensuring optimal magnetic containment and stability within the collider. Understanding these parameters is vital for the LHC's role in probing the fundamental aspects of the universe through high-energy particle collisions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07169/images/_page_6_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_4.jpeg"
+    },
+    "0__page_9_Picture_0.jpeg": {
+      "caption": "This figure provides insights into experimental setups used for fusion, specifically detailing superconducting magnets used in mirror machines. Key features include magnetic field configurations and structural optimizations that support advanced experimentation in fusion technology facilities, reflecting ongoing efforts to achieve practical fusion power.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07169/images/0__page_9_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Picture_0.jpeg"
+    },
+    "1__page_18_Picture_3.jpeg": {
+      "caption": "The image on the left depicts the Tore Supra Tokamak's toroidal field (TF) coils, while the right shows the conductor utilized in these coils. Completed in 1988 in Cadarache, France, Tore Supra was a prominent superconducting Tokamak that demonstrated the feasibility of operating a TF system under the harsh conditions inherent to tokamak environments. With 26 double pancakes per coil, the system incorporates superfluid helium for cooling, reaching peak performance with fields up to 9.3 T on the conductor, emphasizing the superconducting technology's potential in sustaining fusion reactions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07169/images/1__page_18_Picture_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Picture_3.jpeg"
+    },
+    "0__page_17_Picture_6.jpeg": {
+      "caption": "This figure illustrates the T-15 Tokamak's toroidal field (TF) coils and their conductor design, completed in Moscow, Russia, during the late 1980s. As one of the largest Nb3Sn-based devices at the time, the T-15 featured 24 TF coils whose construction involved flat cables of Nb3Sn strands bonded to copper pipes. Though economic challenges led to its closure in 1995, T-15 marked a significant step in exploring high current capacities with a critical current exceeding 3.9 kA at 6.5 T.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07169/images/0__page_17_Picture_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_17_Picture_6.jpeg"
+    },
+    "0__page_14_Figure_0.jpeg": {
+      "caption": "The figure presents the CMS detector, emphasizing its massive solenoidal magnetic system (displayed right within its iron yoke). CMS, a fundamental component of CERN's LHC experiments, employs the largest solenoid magnet with impressive energy per coil mass characteristics. Achieving a 4 T nominal field within its 5.9 m diameter bore, the solenoid plays a central role in studying particle collisions, facilitating discoveries in high-energy physics such as the Higgs boson.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07169/images/0__page_14_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_0.jpeg"
+    },
+    "0__page_16_Picture_6.jpeg": {
+      "caption": "Displayed here is the Baseball II superconducting coil, developed at Lawrence Livermore National Laboratory during the 1960s for magnetic fusion experiments. Designed to generate peak magnetic fields of 7.5 T, this coil represents early efforts in utilizing superconducting magnets for fusion energy research. Its construction, featuring a composite of Nb−Ti filaments in a copper matrix, underscores the pioneering work in superconducting technology critical for future advances.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07169/images/0__page_16_Picture_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_16_Picture_6.jpeg"
+    },
+    "0__page_11_Picture_6.jpeg": {
+      "caption": "This figure contrasts two historic bubble chambers: Fermilab's 15 ft chamber (left) and CERN's BEBC (right). Both chambers utilized groundbreaking superconducting magnets; Fermilab's featured a solenoid with bath-cooled Nb−Ti conductors, achieving 3 T fields, while BEBC's magnet reached 3.5 T fields. These chambers were pivotal in exploring fundamental particles and forces, serving as essential tools in the development of high-energy physics.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07169/images/0__page_11_Picture_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Picture_6.jpeg"
+    },
+    "1__page_21_Picture_5.jpeg": {
+      "caption": "The left image displays the Wendelstein 7-X stellarator assembly, with the right showcasing its non-planar coils (NPC). This advanced experimental fusion device, utilizing over 500 superconducting coils with sophisticated cooling systems, aims to improve plasma stability for fusion experiments. Its complex coil configurations are designed to facilitate long-duration plasma confinement, highlighting innovative progress in fusion technology.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07169/images/1__page_21_Picture_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Picture_5.jpeg"
+    },
+    "1__page_19_Picture_0.jpeg": {
+      "caption": "Pictured is the EAST TF coil assembly which marks a substantial innovative step in the experimental fusion device operated in China. Its TF coils are made from NbTi/Cu CICC, handling high magnetic fields effectively due to advanced cooling. The EAST's design ensures robust plasma confinement, contributing valuable insights towards achieving sustained fusion reactions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07169/images/1__page_19_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_19_Picture_0.jpeg"
+    },
+    "_page_5_Figure_6.jpeg": {
+      "caption": "This diagram of the RHIC collider focuses on its structural configuration and superconducting magnet layout. Featuring intersecting rings 'Blue' and 'Yellow,' this setup enables high-energy ion collisions for nuclear physics research. The accurate positioning of insertion points and arcs demonstrates RHIC’s capacity to unravel the structure of atomic nuclei by generating new states of nuclear matter.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07169/images/_page_5_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_6.jpeg"
+    },
+    "1__page_20_Picture_2.jpeg": {
+      "caption": "The left image illustrates the KSTAR device, an advanced Tokamak designed for steady-state operation of high-performance plasmas in Korea. The right displays its TF coil. Key features include a peak magnetic field of 7.2 T and intricate CS and PF coil designs that support sustained plasma operation, significantly furthering research endeavors in fusion technology.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07169/images/1__page_20_Picture_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Picture_2.jpeg"
+    },
+    "1__page_19_Picture_6.jpeg": {
+      "caption": "This image shows the toroidal field (TF) coil assembly for the Steady State Superconducting Tokamak (SST-1) located in Gandhinagar, India. The system consists of 16 superconducting D-shaped TF coils, producing a magnetic field of 3.0 T at the major radius with a peak field of 5.1 T on the coils. Each TF coil comprises six double pancakes with nine turns each, and the entire TF system stores 56 MJ of magnetic energy. The TF coils use Nb-Ti Cable-In-Conduit Conductor (CICC), with a high copper to superconductor ratio of 4.9:1, ensuring enhanced mechanical stability and thermal protection. This infrastructure is crucial for advancing plasma confinement studies, contributing significantly to long-pulse and steady-state operational goals in fusion research.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07169/images/1__page_19_Picture_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_19_Picture_6.jpeg"
+    },
+    "1__page_22_Picture_5.jpeg": {
+      "caption": "Depicted is the ITER reactor design (left) alongside a detailed image of its toroidal field (TF) conductor (right). ITER's magnetic system, featuring Nb3Sn and Nb-Ti based CICC conductors, is a massive assembly aimed at demonstrating the feasibility of fusion power. The TF system comprises 18 coils, exhibiting a peak magnetic field of 11.8 T, and stores an immense energy of 41 GJ. The TF conductor cross-section showcases a sophisticated configuration of superconducting strands enclosed within high-strength steel, highlighting the advanced engineering efforts to withstand substantial electromagnetic forces during operation. This setup is essential for testing and refining fusion technologies for future power plants.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07169/images/1__page_22_Picture_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Picture_5.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.2117,
+    "api_cost": 0.2117,
+    "file_storage_cost": 0.0,
+    "total_time": 173.12,
+    "request_count": 3,
+    "average_cost_per_request": 0.0706,
+    "average_time_per_request": 57.71,
+    "files_uploaded": 21,
+    "total_file_size": 1155952
+  }
+}

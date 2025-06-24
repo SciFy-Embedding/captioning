@@ -1,0 +1,50 @@
+{
+  "paper_id": "da5dc03e35ce87e8495cd9fedbd13a05",
+  "pdf_path": "apl/Superconductors/arXiv:cond-mat_0605718.pdf",
+  "processing_timestamp": "2025-06-23T15:45:34.442486",
+  "figure_analysis": {
+    "_page_2_Figure_3.jpeg": {
+      "caption": "Figure 3 shows the spectral density distribution n(B) calculated for a hexagonal flux line lattice (FLL) with (d = 0.004) and without (d = 0) non-local corrections under external fields at different intensities: 0.5 T and 4 T. The horizontal axis represents the magnetic field B minus the external field µ0H in mT, while the vertical axis plots the spectral density n(B). The sharp peaks in the graph correspond to the van Hove singularities owing to the turning points in B(r), where r represents the gradient in magnetic field distribution. An additional peak indicated by an arrow appears in the presence of non-local correction due to the incommensurability between the triangular FLL and the squared shape of B(r) around a vortex. These observations are significant as they imply the influence of non-local effects and anisotropies in superconductors, particularly pointing to a deviation in local vortex lattice environments compared to an ideal model.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0605718/images/_page_2_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_3.jpeg"
+    },
+    "_page_1_Figure_5.jpeg": {
+      "caption": "Figure 5 displays patterns of small-angle neutron scattering (SANS) diffraction obtained by subtracting background data at 30 K from data at 2.6(1) K after field cooling under various external magnetic fields (1 T to 4 T). Panel a corresponds to 1 T, b to 2 T, c to 3 T, and d to 4 T. The diffraction patterns reveal transitions in the FLL structure, from a potentially distorted hexagon to a more square lattice at higher fields, showing distinct changes around 2 - 3 T. These findings are related to the field-induced transformations in the vortex lattice configurations between triangular and square arrangements, providing key insights into the anisotropic properties in Nb3Sn, starkly contrasting behaviors found in other materials like V3Si.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0605718/images/_page_1_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_5.jpeg"
+    },
+    "_page_3_Figure_4.jpeg": {
+      "caption": "Figure 4 illustrates the magnetic field dependencies of various parameters obtained by analyzing transverse field muon spin rotation spectra, using a modified London model across fields up to 4 T. Panels a to e plot the effective London penetration depth (λ), cutoff parameter (ξ), enhanced relaxation rate due to local disorder of FLL (σ_l), apex angle of the rhombic unit cell, and dimensionless parameters describing supercurrent anisotropy (ρ_xy, d), respectively. Panel f shows reduced chi-squares to evaluate fit quality, highlighting statistical and systematic uncertainties. The figure signifies the observation of anisotropy in the superconducting state's magnetic response, underscoring superconducting features such as non-local effects, and providing evidence for anisotropic or multigapped s-wave pairing in Nb3Sn.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0605718/images/_page_3_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_4.jpeg"
+    },
+    "_page_0_Figure_15.jpeg": {
+      "caption": "Figure 15 presents muon spin rotation (SR) and small-angle neutron scattering (SANS) experiments on the vortex lattice state of Nb3Sn. Panel a shows an SR time spectrum at 2 T within a rotating reference frame of 201 MHz, while panel b captures the real amplitude of the Fast Fourier Transformed (FFT) time spectra under various magnetic fields in the mixed state of Nb3Sn. These spectra, adjusted for clarity, reflect the density n(B) of internal magnetic fields. The figure sheds light on the SR's ability to detail local field distributions while the SANS captures broader lattice structures, elaborating on superconducting characteristics and transformative behaviors within magnetic fields.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0605718/images/_page_0_Figure_15.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_0_Figure_15.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0566,
+    "api_cost": 0.0566,
+    "file_storage_cost": 0.0,
+    "total_time": 59.69,
+    "request_count": 1,
+    "average_cost_per_request": 0.0566,
+    "average_time_per_request": 59.69,
+    "files_uploaded": 5,
+    "total_file_size": 220900
+  }
+}

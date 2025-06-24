@@ -1,0 +1,90 @@
+{
+  "paper_id": "3929c8597e16e8f75e0c3c9caccf1e6b",
+  "pdf_path": "apl/Superconductors/arXiv:cond-mat_0410463.pdf",
+  "processing_timestamp": "2025-06-23T15:42:11.254378",
+  "figure_analysis": {
+    "0__page_7_Figure_6.jpeg": {
+      "caption": "Figure 6 illustrates the variation in upper critical field (μ₀Hc2) and critical temperature (Tc) of Nb₃Sn superconductors as a function of heat treatment time, at a fixed temperature of 12 K. The y-axis on the left represents the upper critical field in Tesla, while the right y-axis shows the critical temperature in Kelvin. The x-axis denotes the heat treatment time in hours. The figure uses data from Vibrating Sample Magnetometer (VSM) and SQUID measurements to provide insights into changes in μ₀Hc2 and Tc over time. The results indicate that extended heat treatment enhances the critical properties, with 10-90% of Tc (0) showing drastic improvements. The data signifies that optimizing heat treatment can significantly enhance superconducting properties, crucial for applications needing high magnetic fields.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0410463/images/0__page_7_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_6.jpeg"
+    },
+    "0__page_8_Figure_2.jpeg": {
+      "caption": "Figure 2 compares the resistivity and upper critical field (μ₀H) characteristics of ternary and binary PIT superconducting wires. The main plot shows the temperature dependence of the upper critical field for various superconducting samples: Furukawa bronze, Vacuumschmelze bronze, SMI-PIT, and SMI reinforced PIT, with a 99% normal state resistivity as the baseline. An inset highlights the differential between binary PIT and bulk samples, emphasizing reduced upper critical fields in bulk binaries. This figure underscores the superior field-temperature phase boundaries in ternary conductors, thus guiding the optimization of superconducting wire designs for high-field applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0410463/images/0__page_8_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_2.jpeg"
+    },
+    "0__page_6_Figure_2.jpeg": {
+      "caption": "Figure 2 presents the upper critical field versus temperature plots for various heat treatment duration at 675°C. Each subplot corresponds to different annealing times: 4h, 16h, 64h, and 768h. The graphs showcase curves for different resistance-to-normal state transition percentages (10%, 90%, etc.), illustrating how longer heat treatments enhance superconducting properties by narrowing critical transition widths. The figure reinforces the concept that increased annealing time improves A15 phase crystallinity and enhances superconductor performance by reducing the μ₀Hc2 transition width significantly.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0410463/images/0__page_6_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_6_Figure_2.jpeg"
+    },
+    "_page_5_Figure_5.jpeg": {
+      "caption": "Figure 5 visualizes magnetic moment versus temperature for SMI ternary PIT wire samples subjected to different durations of heat treatment at 675°C. Each curve reflects samples' normalized magnetic responses, indicating partial-flux exclusion across the temperature range. The comparison across heat treatments demonstrates enhanced superconducting properties with extended annealing, especially observed in flux exclusion benefit in 768h treated samples. This highlights the importance of optimizing heat treatment to improve flux pinning and superconducting efficiency.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0410463/images/_page_5_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_5.jpeg"
+    },
+    "0__page_9_Figure_13.jpeg": {
+      "caption": "Figure 13 features a Kramer plot for a ternary PIT wire at 4.2 K, determining the relationship between critical current density and applied magnetic field. The primary curve represents the high-field transport current measurements, while the linear fit predicts Kramer extrapolated fields. Dotted lines depict extrapolated transitions to a hypothetical ideal A15 layer, achieving perfectly homogeneous superconductive properties. This figure provides critical insights for enhancing wire design by optimizing the A15 layer homogeneity, crucial for significantly increasing the critical current capacity under high magnetic fields.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0410463/images/0__page_9_Figure_13.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_13.jpeg"
+    },
+    "0__page_10_Figure_2.jpeg": {
+      "caption": "Figure 2 illustrates the normalized H-T phase boundaries for various Nb3Sn superconductors, fitted using the Maki-DeGennes equation. The normalization is noted across different resistance criteria (1%, 10%, 50%, 90%, 99%). The graph confirms that a general scaling model, validated across samples including literature data, efficiently beskribes transition behaviour in Nb3Sn phases. This uniformity across normalized plots confirms the adaptability of MDG modeling for diverse compositions, providing a generalized approach for superconducting phase boundary understanding and design.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0410463/images/0__page_10_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_2.jpeg"
+    },
+    "_page_4_Figure_2.jpeg": {
+      "caption": "Figure 2 highlights resistance transitions for ternary PIT wire samples under different field conditions. The resistivity is plotted against temperature, showing intersections at 10%, 50%, and 90% of the normal state. Polynomial and exponential fits (solid and dashed lines) applied to the data help overcome high field noise, facilitating accurate μ₀Hc2 estimation. This accurate resistive transition measurement is essential for evaluating the enhancement of superconducting wire performance and is critical for advancing practical applications where precise phase boundary determination is necessary.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0410463/images/_page_4_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_2.jpeg"
+    },
+    "0__page_7_Figure_9.jpeg": {
+      "caption": "Figure 9 displays the synthetic analysis of normalized upper critical field data for different SMI-PIT ternary samples under various applied magnetic fields and temperatures. Data are shown across 10% to 90% of the transition breadth, supported by fits using the Maki-DeGennes model. This figure confirms uniform behavior across all samples and helps validate the MDG model’s application for calculating phase transitions in inhomogeneous conductors, contributing to the foundational knowledge to enhance superconducting materials for industry use.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0410463/images/0__page_7_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_9.jpeg"
+    },
+    "_page_2_Figure_1.jpeg": {
+      "caption": "Figure 1 provides microstructural examination of PIT wire cross-sections after various heat treatments, showcasing both macroscopic and detailed grain distribution changes. SEM images illustrate microstructural transformations, including grain size growth and Sn distribution alterations, across multiple heating profiles. This microstructural evidence supports the understanding of textural effects on superconductivity, directly linking processing conditions with materials' superconducting properties improvements, essential for efficient A15 transformation and practical wire manufacturing.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0410463/images/_page_2_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0658,
+    "api_cost": 0.0658,
+    "file_storage_cost": 0.0,
+    "total_time": 75.36,
+    "request_count": 1,
+    "average_cost_per_request": 0.0658,
+    "average_time_per_request": 75.36,
+    "files_uploaded": 10,
+    "total_file_size": 1046717
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "paper_id": "05f3ea79ccfa73c3ed76f4721da97430",
+  "pdf_path": "apl/Superconductors/arXiv:1504.00594.pdf",
+  "processing_timestamp": "2025-06-23T13:49:09.616134",
+  "figure_analysis": {
+    "_page_6_Figure_2.jpeg": {
+      "caption": "This figure shows a cross-sectional view of the FLUKA-MARS model in the central part of the D1 dipole. The diagram illustrates the arrangement of various structural components within the D1 dipole including non-organic material like NbTi coils, and the homogenization approach for scoring within the simulation. This methodological representation is critical in the computation of power density, absorbed dose, neutron fluence, and Displacement-Per-Atom (DPA) aligned with the integrated luminosity of the HiLumi LHC operation. This structural visualization underpins the detailed simulation studies necessary for evaluating radiation impacts on the D1 dipole, pivotal for operational safety and performance reliability of high-energy physics experiments.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1504.00594/images/_page_6_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_2.jpeg"
+    },
+    "_page_7_Figure_0.jpeg": {
+      "caption": "This diagram presents a cross-sectional view of the FLUKA-MARS model specifically for the MCBX orbit correctors. This visualization highlights the central part configuration including homogenized components and structural analysis, facilitating a high-statistics run for power distribution and radiation load assessments. The methodology encompasses fine-mesh power density calculations and the impact of proton-proton collision debris. Such detailed simulations enable the evaluation of radiation-related challenges and aid in ensuring the stability of superconducting materials such as Nb3Sn within these critical accelerator components .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1504.00594/images/_page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_0.jpeg"
+    },
+    "_page_4_Figure_1.jpeg": {
+      "caption": "This figure graphically represents the number of debris particles produced from proton-proton inelastic interactions at two specific locations: 5 mm from the interaction point and at the exit of each 60-mm TAS aperture. The histogram data is given in two colors, black for the count close to the interaction point (IP) and red for the exit at the TAS aperture. This visualization underscores the significant energy carried by debris particles, affecting both the TOT (Target Absorber Secondaries) and the surrounding accelerator components. Such insights are crucial to optimizing protective shielding strategies within high-energy physics systems .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1504.00594/images/_page_4_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_1.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "This figure illustrates the longitudinal peak power density profile on the inner coils of the IT magnets. Utilizing FLUKA systems, it indicates power density distribution along the magnets, essential for assessing operational safety regarding thermal threshold limits. The results reflect energy dissipation forces from IP1 collision debris, split between cold mass and tungsten absorber configurations. The findings support design efficacy, contributing to the management of dynamic heat loads within the inner triplet, ensuring accelerator stability over sustained high-energy physics operations .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1504.00594/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_13_Figure_1.jpeg": {
+      "caption": "This image presents the longitudinal peak dose profile across different segments of the beam screen. It provides a top-to-bottom view, indicating dose impacts on the beam screen component critical morphologies, elucidating irradiation effects and mechanical stabilities, including electron cloud mitigations. These insights are important for designing effective energy absorption and distribution methods in the beam screen, safeguarding the superconducting coils' structural integrity over prolonged exposure in high-luminosity collider environments .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1504.00594/images/0__page_13_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_1.jpeg"
+    },
+    "1__page_19_Figure_0.jpeg": {
+      "caption": "The diagram provides modifications to the beam screen model from its original design (BS#2) to an enhanced version (BS#3), driven by energy deposition considerations, enhancing absorber coverage towards pole regions. These configuration enhancements aim at reducing absorbed doses, thus impacting design parameters for safety improvements in magnetic coils. The evolution illustrates essential design flexibility needed to mitigate radiation impact across IT magnet coils, vital for long-term operational sustainability under high-energy conditions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1504.00594/images/1__page_19_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_19_Figure_0.jpeg"
+    },
+    "0__page_13_Figure_0.jpeg": {
+      "caption": "This figure demonstrates a top-to-bottom longitudinal peak dose profile on beam screen sections. It assesses absorbed dose effects varying in beam screen sections under FLUKA and MARS codes, critical to evaluating radiation loads imposed on structural and insulative materials. These results advocate strategic absorptive materials deployment, relevant to design optimizations, and safety margins in mitigating radiation-induced degradation in magnetic components in LHC operational settings .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1504.00594/images/0__page_13_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_0.jpeg"
+    },
+    "1__page_20_Figure_0.jpeg": {
+      "caption": "The figure presents a scientific assessment of the longitudinal distributions of peak dose on inner IT magnet coils under varying beam screen design scenarios (top) and interconnect gap lengths (bottom). It demonstrates how design variations in absorber materials and structural interconnects influence absorbed radiation dose characteristics. These analytics provide detailed insights into protective strategies optimizing radiation limits, crucial for maintaining operability and shielding integrity under high-integrated luminosity conditions in ultra high-energy accelerators .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1504.00594/images/1__page_20_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_0.jpeg"
+    },
+    "0__page_12_Figure_1.jpeg": {
+      "caption": "This graph delineates the longitudinal peak dose profile on inner coils and nearby insulators, showcasing dose levels affecting beam screen attachments and structural materials under high-radiation exposure. FLUKA and MARS codes converge on this data, supporting the resilience of IT magnet configurations. Understanding dose distribution helps enhance the durability of magnetic and insulation materials against radiation damage in high-luminosity circumstances, a cornerstone of sustainable operational plans for the LHC .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1504.00594/images/0__page_12_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_1.jpeg"
+    },
+    "0__page_8_Figure_1.jpeg": {
+      "caption": "This figure shows a cross-sectional view of the FLUKA-MARS model fragments with notable detailing of kapton cells within the Q1-Q3 quadrupoles and MCBX correctors. This model is used for radiation effect simulations in the LHC experiment environment. The kapton and other depicted layers illustrate the materials involved in the thermal and mechanical design simulations. These models are crucial for understanding and mitigating the deleterious effects of radiation in high-energy physics environments, optimizing safety protocols, and material longevity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1504.00594/images/0__page_8_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_1.jpeg"
+    },
+    "1__page_16_Figure_1.jpeg": {
+      "caption": "This graph presents the longitudinal peak neutron fluence and peak Displacement-Per-Atom (DPA) profiles along the bare regions in the IT magnet coils exposed to intense radiation. The identified peaks occur at inner coils, correlating with high neutron exposure areas. The data supports strategic planning for material and design improvements to mitigate radiation impact over the LHC operational tenure, aligning superconducting materials' exposure to established thresholds.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1504.00594/images/1__page_16_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_16_Figure_1.jpeg"
+    },
+    "0__page_9_Figure_2.jpeg": {
+      "caption": "This figure illustrates power density isocontours at the inner triplet quadrupole Q2A near the interaction point (IP). It highlights the spatial variation in power density, which is critical in evaluating the heat dissipation and managing thermal loads. The contours serve to ensure that the power density remains below quench limits, underscoring the importance of effective cooling and insulation strategies in preventing superconducting material damage, crucial for ongoing collider experiments.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1504.00594/images/0__page_9_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_2.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "Depicting the HiLumi LHC inner triplet with connected correctors and D1 dipole, this 3D model visually integrates the geometries and components crucial for simulating high-energy proton-proton collisions. Such models allow for comprehensive engineering assessments, providing insights into mechanical and magnetic field setups vital for maintaining the stability and precision needed in cutting-edge physics experiments.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1504.00594/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    },
+    "_page_7_Figure_2.jpeg": {
+      "caption": "This cross-sectional illustration of the FLUKA-MARS model within the central D1 dipole section highlights the geometric and material configurations critical to dissipating collision-induced energy. Radial subdivisions are indicated to represent calculation zones for absorbed doses, neutron fluence, and DPA, essential for evaluating the coil's radiation tolerances and structural integrity over prolonged high-luminosity phases.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1504.00594/images/_page_7_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_2.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1283,
+    "api_cost": 0.1283,
+    "file_storage_cost": 0.0,
+    "total_time": 91.3,
+    "request_count": 2,
+    "average_cost_per_request": 0.0641,
+    "average_time_per_request": 45.65,
+    "files_uploaded": 15,
+    "total_file_size": 1107866
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "paper_id": "5a449345ef59376951ad18b3dda57e79",
+  "pdf_path": "apl/Superconductors/arXiv:cond-mat_0108397.pdf",
+  "processing_timestamp": "2025-06-23T15:35:19.162587",
+  "figure_analysis": {
+    "_page_2_Figure_2.jpeg": {
+      "caption": "This figure presents selected area electron diffraction patterns from the 101 and 211 zone axes. The upper panels show diffraction patterns with primary diffraction arcs centered around the direct beam, indicated by solid lines in the schematic sketches below, representing diffraction from graphite. The surrounding dashed arcs indicate double diffraction around MgCNi3 spots. These patterns reveal the textured relationship between graphite and the MgCNi3 lattice, with graphite nanoparticles visualized as having sizes between 2-5 nm【4:4†temp_paper_5a449345ef59376951ad18b3dda57e79.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0108397/images/_page_2_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_2.jpeg"
+    },
+    "_page_2_Figure_8.jpeg": {
+      "caption": "This high-resolution transmission electron microscopy (TEM) image showcases a thin region of the sample, observed along the 301 zone axis, emphasizing the nanoparticle sizes. The inset provides a high-resolution image of the moiré fringe spacing relative to atomic rows of the MgCNi3 phase, indicating a lattice fringe separation spanning about five MgCNi3 unit cells. This figure supports the study on the size of nanoprecipitates (2-5 nm) and the cube-on-cube texture with the MgCNi3 matrix, highlighting the significance of moiré fringes in examining nanoprecipitate size and mismatches【4:1†temp_paper_5a449345ef59376951ad18b3dda57e79.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0108397/images/_page_2_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_8.jpeg"
+    },
+    "_page_2_Figure_6.jpeg": {
+      "caption": "Depicted here is a selected area diffraction pattern from the 100 zone axis from a different sample region than previous figures, illustrating primary diffraction spots from MgCNi3 and cubic precipitates. The sketches indicate primary spots, cubic precipitate spots, and double diffraction spots, which result from primary MgCNi3 beams doubling as incident beams for the precipitate. This figure underscores the presence of additional cubic precipitate spots following the matrix's cubic symmetry and contributes to understanding precipitate-induced strain【4:6†temp_paper_5a449345ef59376951ad18b3dda57e79.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0108397/images/_page_2_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_6.jpeg"
+    },
+    "_page_1_Figure_6.jpeg": {
+      "caption": "This magnetization curve graph spans temperatures from 1.8 K to 10 K, illustrating the variation in magnetization with the external magnetic field (0 to 12 T). The inset focuses on data at 4.2 K, detailing the methodologies for determining irreversibility and upper critical fields, H* and Hc2, respectively. The curves reveal the systematic shift in bulk pinning force towards higher fields at lower temperatures, indicating diverse pinning mechanisms across temperatures【4:2†temp_paper_5a449345ef59376951ad18b3dda57e79.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0108397/images/_page_1_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_6.jpeg"
+    },
+    "_page_1_Picture_1.jpeg": {
+      "caption": "Electron microscopy image of a polished MgCNi3 sample reveals its microstructure with light gray regions indicating MgCNi3 colonies and black areas representing graphite. The inset from transmission electron microscopy shows these colonies as consisting of grains sized 100 to 300 nm, separated by graphite layers. This figure provides an overview of the microstructural context crucial for understanding the superconducting and pinning properties studied in the paper【4:5†temp_paper_5a449345ef59376951ad18b3dda57e79.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0108397/images/_page_1_Picture_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Picture_1.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Displayed here are reduced bulk pinning-force curves from 1.8 K to 6.5 K, with notable overlapping of curves at 5.0 K and 5.5 K. These curves are pivotal in assessing the flux pinning mechanisms as temperature decreases, indicating shifts from grain boundary to core pinning at low temperatures【4:0†temp_paper_5a449345ef59376951ad18b3dda57e79.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0108397/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0488,
+    "api_cost": 0.0488,
+    "file_storage_cost": 0.0,
+    "total_time": 91.66,
+    "request_count": 1,
+    "average_cost_per_request": 0.0488,
+    "average_time_per_request": 91.66,
+    "files_uploaded": 7,
+    "total_file_size": 273075
+  }
+}

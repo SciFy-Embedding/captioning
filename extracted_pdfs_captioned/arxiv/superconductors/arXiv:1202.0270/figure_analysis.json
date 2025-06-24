@@ -1,0 +1,50 @@
+{
+  "paper_id": "397494dccd6f31573bb1c2c65df671e5",
+  "pdf_path": "apl/Superconductors/arXiv:1202.0270.pdf",
+  "processing_timestamp": "2025-06-23T13:30:18.867712",
+  "figure_analysis": {
+    "_page_2_Figure_11.jpeg": {
+      "caption": "Figure 4 depicts the cross-section of an Interaction Region (IR) dipole designed for a Muon Collider. The figure illustrates the shell-type coil configuration, which uses a 4-layer coil system with an iron yoke having an inside diameter of 320 mm. The IR dipole must manage a large vertical beam size and open mid-plane design to minimize muon decay electron showers and background fluxes in detectors. The dipole provides a maximum design field within a 9.82 T aperture at 4.5 K, aligning with a nominal field of 8 T and achieving a significant ~23% operational margin. This design choice balances magnet aperture and mid-plane gap requirements, amidst substantial Lorentz forces. Achieving appropriate geometrical harmonics within the elliptical field quality region further demonstrates the design's precision and capacity to handle operational stresses, critical for accommodating Muon Collider's challenging operational parameters【4:8†temp_paper_397494dccd6f31573bb1c2c65df671e5.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1202.0270/images/_page_2_Figure_11.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_11.jpeg"
+    },
+    "_page_1_Figure_11.jpeg": {
+      "caption": "Figure 3 showcases the cross-sections of three types of interaction region quadrupoles: Q1 (a), Q2 (b), and Q3-Q5 (c). Each subfigure symbolizes the differing aperture sizes: Q1 with 80 mm, Q2 with 110 mm, and Q3-Q5 with 160 mm. These cross-sections are pivotal, demonstrating how aperture size and coil arrangement cater to the variations in beam dynamics in the interaction region. The quadrupoles utilize a 2-layer shell coil configuration, focusing on optimizing the balance between field quality and mechanical stability. The larger apertures are crucial for integrating necessary components such as beam pipes and cooling channels. Such designs ensure the quadrupoles can accommodate the intense dynamic conditions of a high-energy Muon Collider while maintaining sufficient operational margins .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1202.0270/images/_page_1_Figure_11.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_11.jpeg"
+    },
+    "_page_0_Figure_8.jpeg": {
+      "caption": "Figure 1 presents the layout of the interaction region (IR) and beam size variations within the magnets of the Muon Collider's storage ring. The visualization emphasizes the small transverse beam size, approximately 0.5 mm, necessitating only a minimal aperture of about 10 mm diameter for the primary magnets. However, it also highlights the extensive handling of muon decay particles and the associated heat load localized horizontally. The layout from the Figure is integral to demonstrate the arrangement's capability to manage such high-intensity decay and dynamically changing thermal loads, pivotal for maintaining performance stability and efficiency in collider operations .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1202.0270/images/_page_0_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_0_Figure_8.jpeg"
+    },
+    "_page_1_Figure_0.jpeg": {
+      "caption": "Figure 2 illustrates two configurations of MC Storage Ring dipoles: the block-type coil (left) and the shell-type coil (right). These cross-sectional views are essential for demonstrating the different design approaches used in muon storage rings, each optimized for specific parameters such as field quality and structural integrity amidst high mechanical and thermal stress conditions. Both configurations share similar conductor volumes yet offer varied mechanical and electromagnetic properties, useful in assessing the balance between operational stability and magnetic field precision required for high-energy physics applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1202.0270/images/_page_1_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.038,
+    "api_cost": 0.038,
+    "file_storage_cost": 0.0,
+    "total_time": 44.95,
+    "request_count": 1,
+    "average_cost_per_request": 0.038,
+    "average_time_per_request": 44.95,
+    "files_uploaded": 5,
+    "total_file_size": 75204
+  }
+}

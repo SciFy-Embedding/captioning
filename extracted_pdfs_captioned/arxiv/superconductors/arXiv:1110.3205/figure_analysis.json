@@ -1,0 +1,290 @@
+{
+  "paper_id": "d0a3105de7090e38fbea75c64598bcc8",
+  "pdf_path": "apl/Superconductors/arXiv:1110.3205.pdf",
+  "processing_timestamp": "2025-06-23T13:28:39.627249",
+  "figure_analysis": {
+    "1__page_16_Figure_3.jpeg": {
+      "caption": "Figure 18 illustrates the relationship between the nτ value and the twist pitch ratio between successive stages for different first stage twist pitches, with the last stage twist (petals) fixed at 300 mm. The figure shows how nτ, which represents coupling loss time constant, evolves as the twist pitch ratio varies, indicating that minimizing the ratio closer to 1 is critical for reducing coupling loss. The figure provides critical insight into the optimization of superconducting cables for minimizing energy loss, which is significant for the design of efficient superconductor conductors【4:8†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/1__page_16_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_16_Figure_3.jpeg"
+    },
+    "0__page_15_Figure_5.jpeg": {
+      "caption": "Figure 16 explores the AC loss versus frequency for cables of varying twist pitch ratios between stages; the first stage twist pitch is fixed at 100 mm, and the final stage petal twist pitch is constant at 450 mm. Lines represent different ratios from 1.05 to 1.50, illustrating the increase in energy loss with higher stage ratios. The study highlights the potential for achieving lower AC losses through optimized twist ratio selections, important for improving superconducting cable efficiency【4:13†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/0__page_15_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_5.jpeg"
+    },
+    "0__page_12_Figure_4.jpeg": {
+      "caption": "Figure 12 validates the JackPot-ACDC model through comparisons with measurements taken at the Twente Press, focusing on coupling loss minus the hysteresis loss. The plotted data shows the close agreement between predicted and measured results, confirming the model's capability to predict interstrand coupling losses accurately. This provides a strong validation for using the JackPot-ACDC model in the design and optimization of superconducting cables【4:2†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/0__page_12_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_4.jpeg"
+    },
+    "1__page_21_Figure_4.jpeg": {
+      "caption": "Figure 27 depicts the average strand-to-strand contact length as a function of the twist pitch sequence ratio for different first stage triplet twist lengths, with copper strands included and the last stage pitch fixed at 450 mm. This figure demonstrates the impact of varying sequence ratios on average contact lengths, essential for understanding the role of twist pitch in mechanical stability and coupling loss reduction【4:7†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/1__page_21_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Figure_4.jpeg"
+    },
+    "_page_2_Figure_3.jpeg": {
+      "caption": "Unable to provide a detailed caption as the source document specific to this particular figure was not explicitly discussed in the searched snippets. Further, the figure filename was not found in the provided content snippets from the document.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/_page_2_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_3.jpeg"
+    },
+    "2__page_26_Picture_10.jpeg": {
+      "caption": "Figure 34 showcases different cable patterns after wrapping the petals with steel tape in various layouts such as the CS short twist pitch, the CS baseline, and the CS-Twente layout. These images illuminate differences in post-wrapping structure and highlight the advantage of a more orderly cable pattern, which affects mechanical stability and strain resistance of superconducting cables【4:9†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/2__page_26_Picture_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_26_Picture_10.jpeg"
+    },
+    "_page_6_Figure_4.jpeg": {
+      "caption": "Figure 6 illustrates the stress-strain relationship for the TFJA5-B sample under different load cycles as measured in the Twente Press. It shows a gradual increase in cable deformation with continued cycling, relevant for understanding the mechanical behavior and degradation characteristics of the cable. This figure aids in assessing the long-term mechanical stability of composite cables under cyclic loads【4:4†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/_page_6_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_4.jpeg"
+    },
+    "2__page_25_Figure_3.jpeg": {
+      "caption": "Figure 33 displays the coupling loss as a function of frequency under an applied sinusoidal AC field with an amplitude of 0.15 T. The striped line represents a coupling loss time constant (nτ) of 75 ms. Each conductor layout's AC loss characteristics help identify layout designs that minimize energy loss, fundamental for designing efficient superconductors【4:19†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/2__page_25_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_25_Figure_3.jpeg"
+    },
+    "0__page_12_Figure_2.jpeg": {
+      "caption": "Figure 11 compares the measured inter-strand and bundle contact resistances on the TFJA5-J sample using the Twente Press, and predictions from the JackPot-ACDC model. This comparison validates the model's accuracy in simulating contact resistances critical to superconducting cable performance【4:2†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/0__page_12_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_2.jpeg"
+    },
+    "_page_5_Figure_5.jpeg": {
+      "caption": "Figure 4 showcases the axial tensile stress-strain curves of strands from the TFEU3 and TFJA5 samples. The figure highlights differences in mechanical properties and performance under stress conditions, essential for understanding cable behavior during operation in superconducting applications. This analysis is critical for optimizing conductor design to mitigate deformation under operational electromagnetic forces【8:17†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/_page_5_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_5.jpeg"
+    },
+    "1__page_20_Figure_1.jpeg": {
+      "caption": "Figure 24 presents the distribution of the number of strand-to-strand contacts versus the contact length across different cable layouts including CS alternatives and TFPRO2-OST2. The CS alternative with Lp1=20 mm and CS-Twente with Lp1=110 mm are compared to their baseline counterparts. The figure demonstrates variations in mechanical support and coupling loss characteristics, which are key to optimizing cable layouts for mechanical stability and minimal energy dissipation【8:2†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/1__page_20_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_1.jpeg"
+    },
+    "1__page_16_Figure_5.jpeg": {
+      "caption": "Figure 19 illustrates the relationship between the coupling loss time constant, nτ, and the twist pitch ratio between successive stages for various initial twist pitches with a fixed last stage petal pitch at 450 mm. The data highlights the impact of twist pitch adjustments on coupling loss, emphasizing the need to maintain a twist ratio close to 1 for optimizing energy efficiency in cable designs【8:6†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/1__page_16_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_16_Figure_5.jpeg"
+    },
+    "1__page_19_Figure_1.jpeg": {
+      "caption": "Figure 22 depicts AC power loss density against frequency for full sample lengths of 1 m and 10 m, simulated to investigate potential cable length influences on power loss results. The data highlights that variations in length have negligible impact on overall power dissipation, central to refining models of cable performance during operational load conditions【8:2†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/1__page_19_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_19_Figure_1.jpeg"
+    },
+    "0__page_14_Figure_1.jpeg": {
+      "caption": "Figure 13 explores the loss energy density as a function of frequency for variations in the first-stage twist pitch of a multi-stage cable sequence. The outcomes indicate that optimizing the initial stage twist pitch can significantly reduce coupling losses, crucial for designing superconductors with improved energy performance against high-frequency electromagnetic fields【8:0†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/0__page_14_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_1.jpeg"
+    },
+    "1__page_22_Figure_1.jpeg": {
+      "caption": "Figure 28 demonstrates average strand-to-strand contact lengths as a function of twist pitch sequence ratios for different initial triplet twist pitches, including copper strands, with a fixed last stage pitch of 300 mm. This observation underpins the importance of optimizing twist sequences to enhance mechanical support and reduce losses, pivotal for cable structural integrity【8:9†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/1__page_22_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Figure_1.jpeg"
+    },
+    "0__page_11_Figure_1.jpeg": {
+      "caption": "Figure 11 compares measured inter-strand and -bundle resistances for the TFJA5-J sample against predictions from the JackPot-ACDC model. It validates the model's reliability, key for assessing inter-strand coupling impacts on cable behavior and informing design improvements in superconducting cables【8:4†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/0__page_11_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_1.jpeg"
+    },
+    "2__page_25_Figure_1.jpeg": {
+      "caption": "Figure 32 illustrates the accumulated energy dissipation comparison among four conductor layouts, highlighting that the CS-Twente design significantly reduces peak power demands compared to traditional CS baselines. This finding is crucial for enhancing superconductor efficiency in magnetic applications【8:16†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/2__page_25_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_25_Figure_1.jpeg"
+    },
+    "1__page_17_Figure_4.jpeg": {
+      "caption": "Figure 20 presents AC loss versus frequency across varied twist pitch sequences, emphasizing the significance of optimizing pitch lengths for frequencies up to 2 Hz, specifically targeting ITER operational conditions. It shows the effects of both short and long pitches on loss characteristics, essential for achieving optimal low-frequency performance【8:18†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/1__page_17_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_17_Figure_4.jpeg"
+    },
+    "1__page_19_Figure_3.jpeg": {
+      "caption": "Figure 23 shows the dependency of AC power loss density on frequency for the CS-Twente cable layout with variations in the fourth stage twist pitch length. The study outlines how power loss is sensitive to modifications in cable configuration, providing crucial insights for reducing energy dissipation in designing superconducting cable layouts【12:6†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/1__page_19_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_19_Figure_3.jpeg"
+    },
+    "_page_7_Picture_1.jpeg": {
+      "caption": "Figure 7 captures the cross-sectional view of the ITER CS1 Model Coil conductor post 40,000 cycles at peak load. It reveals the degree of plastic deformation as evidenced by the visible gap between the cable and jacket, illustrating the mechanical endurance and deformation characteristics under cyclic loads【12:1†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/_page_7_Picture_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Picture_1.jpeg"
+    },
+    "1__page_20_Figure_3.jpeg": {
+      "caption": "This figure presents the distribution of strand-to-strand contact lengths with varying twist pitches, highlighting differences in mechanical performances across different cable layouts. These metrics help to evaluate mechanical stability and support, contributing to the overall efficiency and lifetime assessment of superconducting cables【12:7†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/1__page_20_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_3.jpeg"
+    },
+    "_page_4_Figure_4.jpeg": {
+      "caption": "Figure 3 details the impact of varying cable layouts on transverse load effect and coupling loss in superconducting components, using the characteristic bending wavelength as a key parameter. The analysis demonstrates how design optimizations can mitigate degradation under load, which is critical for improving the structural durability and performance of superconducting cables【12:5†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/_page_4_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_4.jpeg"
+    },
+    "2__page_24_Figure_3.jpeg": {
+      "caption": "Figure 31 illustrates field decay and strand current in a CS baseline conductor, presenting important data on conductor performance under stress. It also compares the critical current necessary for maintaining superconductivity, offering essential insights for the development of stable conductor designs in high-stress environments【12:10†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/2__page_24_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_24_Figure_3.jpeg"
+    },
+    "0__page_14_Figure_3.jpeg": {
+      "caption": "Figure 14 explores loss energy density against frequency for a cable sequence 131-161-241-296-453. The findings emphasize how variations in the initial twist pitch affect coupling losses, providing a reference for optimizing twist pitch to achieve efficient cable performance【12:0†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/0__page_14_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_3.jpeg"
+    },
+    "0__page_8_Figure_6.jpeg": {
+      "caption": "Figure 8 illustrates effective axial strain as a function of the first stage cabling pitch for three different cable patterns. This analysis demonstrates how increased twist lengths enhance cable performance by lessening compressive strain and improving mechanical stability, thus informing better design practices【12:4†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/0__page_8_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_6.jpeg"
+    },
+    "1__page_21_Figure_1.jpeg": {
+      "caption": "Figure 26 shows average strand-to-strand contact lengths across several cable layouts. This logarithmic representation highlights how contact length impacts load distribution and mechanical stability, aiding in the selection of layouts that optimize these parameters for better cable durability【12:8†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/1__page_21_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Figure_1.jpeg"
+    },
+    "1__page_23_Figure_4.jpeg": {
+      "caption": "Figure 30 demonstrates bending strain for several twist pitch combinations, showcasing its dependency on axial tensile strain. The results underline the significance of pitch optimization for reducing strain effects and maintaining structural integrity in superconducting cable configurations【12:12†temp_paper_d0a3105de7090e38fbea75c64598bcc8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/1__page_23_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_23_Figure_4.jpeg"
+    },
+    "1__page_22_Picture_5.jpeg": {
+      "caption": "Figure 29 presents the cabling pattern comparisons among CS baseline, CS-Twente, and CS-S1 configurations, showing contrasting support gap and structural differences. This visualization highlights the distinct strand support between cabling options, which is crucial for mitigating deformation and optimizing mechanical stability and performance of superconducting cables under operational stresses.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/1__page_22_Picture_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Picture_5.jpeg"
+    },
+    "1__page_18_Figure_6.jpeg": {
+      "caption": "Figure 21 displays the cumulative distribution of strand currents under a sinusoidal applied field at 100 mHz for cable lengths of 1 m and 10 m. The data confirms that cable length has minimal influence on strand current distribution within simulations, a finding important for cable design that ensures optimal magnetic field control and energy efficiency.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/1__page_18_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Figure_6.jpeg"
+    },
+    "0__page_15_Figure_7.jpeg": {
+      "caption": "Figure 17 shows the AC loss versus frequency for varying twist pitch ratios between stages with a fixed initial and final twist pitches. The results underscore the importance of maintaining twist pitch ratios close to 1.0 to minimize coupling losses, which is significant for enhancing superconducting cable efficiency.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/0__page_15_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_7.jpeg"
+    },
+    "_page_6_Figure_1.jpeg": {
+      "caption": "Figure 5 highlights the decrease in transverse cable modulus as a function of load cycles in TFEU3 and TFJA5 samples, revealing increased cable compression and jacket disengagement as consequence. These mechanical modifications inform strategies to enhance cable durability under cyclic loads for superconducting applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/_page_6_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_1.jpeg"
+    },
+    "0__page_10_Picture_3.jpeg": {
+      "caption": "Figure 9 showcases two cable sections post-compaction, comparing the deformation in standard CS and CS-Twente cables. Notably, the CS-Twente design exhibits reduced petal deformation, pointing to its potential advantage in structural integrity over shorter twist pitch configurations, critical for minimizing electromagnetic load-related stresses.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/0__page_10_Picture_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Picture_3.jpeg"
+    },
+    "_page_3_Figure_2.jpeg": {
+      "caption": "Figure 2 illustrates the decrease in critical current, Tcs, relative to the first stage twist pitch for the PITSAM and TFPRO2 cables. The findings underscore the effectiveness of longer twist pitches in reducing Tcs degradation, important for optimizing cable performance under transverse loads.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/_page_3_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_2.jpeg"
+    },
+    "0__page_14_Figure_5.jpeg": {
+      "caption": "Figure 15 depicts the loss energy density in relation to frequency for modifications in the fourth stage twist pitch. A small reduction in this twist pitch significantly decreases coupling losses, guiding design improvements towards more efficient superconducting cables.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.3205/images/0__page_14_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_5.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.3136,
+    "api_cost": 0.3136,
+    "file_storage_cost": 0.0,
+    "total_time": 189.19,
+    "request_count": 4,
+    "average_cost_per_request": 0.0784,
+    "average_time_per_request": 47.3,
+    "files_uploaded": 35,
+    "total_file_size": 1737661
+  }
+}

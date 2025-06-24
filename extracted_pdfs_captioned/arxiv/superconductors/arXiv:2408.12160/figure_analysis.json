@@ -1,0 +1,170 @@
+{
+  "paper_id": "7f090d1fcba31948c05b4a7546647a30",
+  "pdf_path": "apl/Superconductors/arXiv:2408.12160.pdf",
+  "processing_timestamp": "2025-06-23T15:25:35.094387",
+  "figure_analysis": {
+    "_page_7_Figure_1.jpeg": {
+      "caption": "Figure 1 illustrates the preparation and phase analysis of V3M superconductors (V3Si, V3Ge, V3Sn). (a) Shows the schematic of the arc-melting process used to fabricate these superconductors. XRD patterns in panels (b), (c), and (d) present the observed and calculated crystallographic phases for V3Si, V3Ge, and V3Sn respectively. The insets highlight the cubic crystal structure with the space group of Pm-3n, affirming successful synthesis of the V3M compounds. This analysis is fundamental to establish the structural integrity of the materials for further electrochemical characterization.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2408.12160/images/_page_7_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_1.jpeg"
+    },
+    "2__page_30_Picture_0.jpeg": {
+      "caption": "Figure S8 provides ICP measurement results after 6000 CV cycling, illustrating the content of V and Si elements in the electrolyte. The data suggest leaching of elements due to repeated cycling, crucial for assessing structural stability during electrochemical applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2408.12160/images/2__page_30_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_30_Picture_0.jpeg"
+    },
+    "2__page_29_Figure_0.jpeg": {
+      "caption": "Figure S7 displays XRD patterns for a carbon paper, the electrode in its initial state, and after activation. The stability of crystal peaks post-activation indicates the preservation of crystal structure under test conditions, essential for ensuring sustained electrochemical performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2408.12160/images/2__page_29_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_29_Figure_0.jpeg"
+    },
+    "2__page_28_Figure_2.jpeg": {
+      "caption": "Figure S6 presents cyclic voltammetry (CV) measurements for V3Si superconductor at different cycles with a scan rate of 100 mV s^-1. These measurements are crucial for evaluating the electrochemical stability and activation of V3Si over extended cycling.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2408.12160/images/2__page_28_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_28_Figure_2.jpeg"
+    },
+    "2__page_31_Figure_2.jpeg": {
+      "caption": "Figure 4 depicts the detailed atomic structure characterizations for V3Si using XPS and EXAFS. Panels (a) and (b) show high-resolution V 2p and Si 2p XPS spectra revealing electronic state shifts indicative of charge transfer dynamics. Panels (c) and (d) provide XANES and EXAFS spectral Fourier transforms, which indicate changes in local electronic and bonding environments tying back to the superconducting properties and catalytic performance integrity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2408.12160/images/2__page_31_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_31_Figure_2.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "Figure 2 showcases the HER electrocatalytic properties of the V3M catalysts. Panel (a) illustrates iR-corrected LSV curves, while (b) details Tafel slopes, key indicators of catalytic efficiency. Panels (c) to (h) encompass comparisons of overpotential, specific activities normalized by ECSA, turnover frequency values, and cycling stability against Pt/C, elucidating V3Si's superior catalytic performance, which surpasses other reported Si-based electrocatalysts.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2408.12160/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_13_Figure_1.jpeg": {
+      "caption": "Figure 3 provides structural insights into the V3M superconductors. Panel (a) examines temperature-dependent resistivity highlighting superconducting transitions. HRTEM images in (b) and (c) reveal lattice fringes, confirming V3Si's structural fidelity. Panel (d) and (e) through HAADF−STEM and elemental mapping demonstrate V and Si distribution crucial for understanding atomic level durability during electrochemical applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2408.12160/images/0__page_13_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_1.jpeg"
+    },
+    "2__page_27_Figure_0.jpeg": {
+      "caption": "Figure S3 displays CV curves of the V3Si electrode across various scan rates. These curves determine the electrocatalytic surface activity and charge storage capabilities, critical for evaluating dynamic HER performance characteristics.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2408.12160/images/2__page_27_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_27_Figure_0.jpeg"
+    },
+    "2__page_32_Figure_2.jpeg": {
+      "caption": "Figure 5 investigates V3Si's electrocatalytic mechanism through temperature-dependent I-V curves and electronic conductivity analysis. Panels (c) and (d) integrate theoretical valence band spectra and reaction schematic diagrams to rationalize enhanced HER activity due to optimal d-band center positioning and hydrogen adsorption Gibbs energy approaching zero.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2408.12160/images/2__page_32_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_32_Figure_2.jpeg"
+    },
+    "1__page_26_Figure_2.jpeg": {
+      "caption": "Figure S2 presents the electrochemical impedance spectroscopy (EIS) of V3Si, V3Ge, and V3Sn. The Nyquist plot compares the impedance behavior, with the V3Si catalyst exhibiting the smallest semicircle, indicating the lowest charge transfer resistance. The inset displays the equivalent circuit model used for fitting the EIS data, highlighting the resistive and capacitive elements that characterize the electron transfer efficiency in these materials【8:11†temp_paper_7f090d1fcba31948c05b4a7546647a30.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2408.12160/images/1__page_26_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_26_Figure_2.jpeg"
+    },
+    "2__page_31_Figure_0.jpeg": {
+      "caption": "This figure shows the high-resolution transmission electron microscopy (HRTEM) image of V3Si, revealing a lattice spacing of 0.217 nm corresponding to the (210) plane. The structural characterization, as shown by aligned lattice fringes, provides insight into the quality and crystallographic axis of the material, which is essential in understanding its superconducting properties【8:4†temp_paper_7f090d1fcba31948c05b4a7546647a30.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2408.12160/images/2__page_31_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_31_Figure_0.jpeg"
+    },
+    "0__page_11_Figure_1.jpeg": {
+      "caption": "Figure 3 examines the structural and temperature-dependent resistivity properties of V3M superconductors. (a) Displays the temperature dependence of normalized resistivity for V3Si, V3Ge, and V3Sn, highlighting their superconducting transitions. (b) and (c) show HRTEM images of V3Si, emphasizing lattice fringes. (d) HAADF-STEM image and (e) EDS mappings indicate even distribution of V and Si elements, crucial for a stable alloy structure【8:5†temp_paper_7f090d1fcba31948c05b4a7546647a30.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2408.12160/images/0__page_11_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_1.jpeg"
+    },
+    "0__page_15_Figure_1.jpeg": {
+      "caption": "Figure 5 investigates the electrocatalytic mechanism of V3Si through various assessments: (a) I-V curves under different temperatures illustrating electrical transport; (b) Temperature-dependent conductivity of V3M indicating highest conductivity for V3Si. (c) VBS analysis reflecting suitable d-band centers enhancing catalytic activity. (d) Reaction energy profiles for V3Si vs Si. (e) Schematic of improved HER due to charge transfer and d-band alignment【8:16†temp_paper_7f090d1fcba31948c05b4a7546647a30.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2408.12160/images/0__page_15_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_1.jpeg"
+    },
+    "2__page_30_Figure_3.jpeg": {
+      "caption": "EDX elemental analysis of V3Si samples. SEM images and accompanying elemental mappings show uniform V and Si distributions with a stoichiometry closely matching the expected 3:1 atomic ratio. EDX spectra confirm this compositional homogeneity, supporting the structural stability necessary for the preparation of superconducting and catalytic testing【8:4†temp_paper_7f090d1fcba31948c05b4a7546647a30.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2408.12160/images/2__page_30_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_30_Figure_3.jpeg"
+    },
+    "2__page_27_Figure_2.jpeg": {
+      "caption": "Supplementary Figure S4 presents cyclic voltammetry (CV) profiles of the V3Ge electrode at varying scan rates (30-110 mV s^-1), highlighting the distinctive electrochemical response pivotal for analyzing the capacitor's energy storage and transfer characteristics【8:12†temp_paper_7f090d1fcba31948c05b4a7546647a30.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2408.12160/images/2__page_27_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_27_Figure_2.jpeg"
+    },
+    "1__page_26_Figure_0.jpeg": {
+      "caption": "Figure S1 demonstrates LSV curves for V3Si, V3Ge, and V3Sn without iR-correction captured over different cycles at a scan rate of 100 mV s^-1. This raw data provides crucial insight into the electrochemical performance and kinetic behavior pre-activation of the materials【8:12†temp_paper_7f090d1fcba31948c05b4a7546647a30.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2408.12160/images/1__page_26_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_26_Figure_0.jpeg"
+    },
+    "2__page_32_Figure_0.jpeg": {
+      "caption": "Illustrating the temperature-dependent voltage-current behavior of V3Ge and V3Sn, this figure highlights the influence of thermal conditions on electrical performance. The material's linear I-V characteristics over a broad temperature range underscore their stability and potential applicability in various thermal environments【8:12†temp_paper_7f090d1fcba31948c05b4a7546647a30.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2408.12160/images/2__page_32_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_32_Figure_0.jpeg"
+    },
+    "2__page_29_Figure_2.jpeg": {
+      "caption": "Figure S8 shows ICP results for V and Si content in the electrolyte after 6000 CV cycles. These measurements are critical for understanding the leaching effects and potential degradation mechanisms during prolonged electrochemical operation, essential for energizing future material improvements【8:12†temp_paper_7f090d1fcba31948c05b4a7546647a30.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2408.12160/images/2__page_29_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_29_Figure_2.jpeg"
+    },
+    "2__page_28_Figure_0.jpeg": {
+      "caption": "Figure S5 shows the cyclic voltammetry (CV) curves for the V3Sn electrode at various scan rates (30, 50, 70, 90, and 110 mV s^-1) to assess its electrochemical properties for hydrogen evolution reaction (HER) applications. Panel (a) illustrates the CV curves in a three-electrode configuration setup. Panel (b) demonstrates the extracted capacitive current (Δj) vs. scan rate plot, indicating a linear relationship. This suggests a surface-controlled capacitive process, vital for evaluating the charge storage capacity and electrocatalytic performance of the V3Sn electrode.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2408.12160/images/2__page_28_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_28_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.2072,
+    "api_cost": 0.2072,
+    "file_storage_cost": 0.0,
+    "total_time": 160.46,
+    "request_count": 3,
+    "average_cost_per_request": 0.0691,
+    "average_time_per_request": 53.49,
+    "files_uploaded": 20,
+    "total_file_size": 1504402
+  }
+}

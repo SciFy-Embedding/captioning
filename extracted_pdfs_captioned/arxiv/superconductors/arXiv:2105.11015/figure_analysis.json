@@ -1,0 +1,50 @@
+{
+  "paper_id": "877e31cc87cf3a6933d3375a8abb3667",
+  "pdf_path": "apl/Superconductors/arXiv:2105.11015.pdf",
+  "processing_timestamp": "2025-06-23T14:38:00.664080",
+  "figure_analysis": {
+    "1__page_17_Figure_0.jpeg": {
+      "caption": "Figure 4: This figure illustrates the dependence of luminosity (L) on total power (P_tot) for two different scenarios at 2E0 = 250 GeV (top) and 2E0 = 500 GeV (bottom). The y-axis denotes the factor L/10^36 cm^2 s^-1, indicating the luminosity, while the x-axis shows P_tot in MW, representing total power consumption. Solid blue lines represent operation at the optimum duty cycle, whereas red dashed lines indicate continuous (CW) operation. This visualization highlights the challenges of power consumption in achieving high luminosities with superconducting technologies like Nb3Sn and Nb. Achieving a continuous operational mode requires significantly higher power, which raises concerns regarding feasibility and economic viability for particle collider designs, especially in achieving the desired luminosity levels within current technological constraints .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2105.11015/images/1__page_17_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_17_Figure_0.jpeg"
+    },
+    "_page_2_Figure_4.jpeg": {
+      "caption": "Figure: Schematic layout of the experimental setup for the linear collider with energy recovery. The diagram shows the configuration of linear accelerators (Linac) ranging from 1—100 GeV and 100—1 GeV, interconnected by damping rings and (De)bunchers, culminating in an experimental hall. The system is designed to optimize beam path and stability, crucial for reducing beam emittance and improving energy efficiency during the collision process. This arrangement is integral to minimizing parasitic collisions while maintaining high luminosity in superconducting twin linear colliders .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2105.11015/images/_page_2_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_4.jpeg"
+    },
+    "_page_4_Figure_7.jpeg": {
+      "caption": "Figure: Detailed view of beam dynamics in the collision scheme of a high-luminosity energy-recovery linear collider. It showcases the head-on collision mechanism and illustrates the paths for electron (e-) and positron (e+) beams undergoing acceleration and deceleration cycles, along with associated compressors and decompressors. Central to the design is achieving energy efficiency while keeping synchrotron radiation within allowable limits. Key features include energy recovery circuits and beam dump systems, essential for minimizing energy loss and maintaining sustainability of the collider design. This scheme aims to enhance beam stability and accuracy during experimental runs .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2105.11015/images/_page_4_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_7.jpeg"
+    },
+    "0__page_9_Figure_8.jpeg": {
+      "caption": "Figure 3: Graphical representation of the impact of collision effects on luminosity, specifically focusing on limitations caused by Beam Instability (BI) and Single Beamstrahlung (SBS) effects for 2E0 in the 250–500 GeV range. The y-axis denotes F_lum/10^18, representing a multiplicative factor of influence, while the x-axis is 2E0 in GeV, indicating beam energy. It highlights constraints where SBS-SZ(b) effects are predominant, thus limiting luminosity gains at higher energies. The data sheds light on how beam dynamics and electron interactions restrict achievable luminosities and informs modifications needed in collider designs to overcome these challenges .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2105.11015/images/0__page_9_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_8.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0579,
+    "api_cost": 0.0579,
+    "file_storage_cost": 0.0,
+    "total_time": 34.0,
+    "request_count": 1,
+    "average_cost_per_request": 0.0579,
+    "average_time_per_request": 34.0,
+    "files_uploaded": 5,
+    "total_file_size": 359894
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "paper_id": "57d23d03ecc2682391427c2a856411e8",
+  "pdf_path": "apl/Superconductors/arXiv:0804.0485.pdf",
+  "processing_timestamp": "2025-06-23T13:17:03.683903",
+  "figure_analysis": {
+    "_page_2_Figure_2.jpeg": {
+      "caption": "Figure 1 displays the resistance measurements R(B) as a function of magnetic field B for different temperatures, illustrating the superconducting transitions. (a) Depicts the R(B) for B applied perpendicular to the broad sample face, showcasing resistance for temperatures between 6 K and 25 K. The measurements utilize a 2 mA current in field sweeps in the 45T hybrid magnet and a 5 mA current in a superconducting magnet up to 9T. (b) Shows R(B) for fields parallel to the broad face, emphasizing grain alignment with a higher fraction of ab-oriented grains. The observations indicate a difference in zero-resistance field Bmin values, suggesting anisotropies due to grain texture. Key findings reveal significant variation between perpendicular and parallel alignments, supporting the presence of anisotropy in the upper critical field Bc2(q) influenced by grain orientation and crystalline anisotropy in the layered LaFeAsO0.89F0.1 compound. This study's significance lies in its examination of superconducting properties and anisotropies in layered superconductors influenced by orientations in high magnetic fields【4:3†temp_paper_57d23d03ecc2682391427c2a856411e8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0804.0485/images/_page_2_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_2.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Figure 2 illustrates the temperature dependence of critical fields in superconducting transitions. (a) Presents Bmax(T) and Bmin(T) as squares and midpoint fields as circles. Symbols indicate parallel (full) and perpendicular (open) field orientations, with dashed lines depicting the WHH model. (b) Plots Bmax(T) in black and Bmin(T) in red versus reduced temperature T/Tc, extending beyond 45T through extrapolation. Lines represent Bc2(T) predictions from the two-gap model. These graphs emphasize the dual-band superconductivity in LaFeAsO0.89F0.1, revealing an upward curvature in Bc2^(T) due to band structure influences and disproportionate diffusivity ratios between electron and hole bands. The findings underline distinctions in superconducting behavior influenced by band structure and anisotropy, providing insights into unconventional multi-gap superconductivity, which is significant for understanding high-field superconducting mechanisms in new materials【4:2†temp_paper_57d23d03ecc2682391427c2a856411e8.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0804.0485/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0439,
+    "api_cost": 0.0439,
+    "file_storage_cost": 0.0,
+    "total_time": 23.74,
+    "request_count": 1,
+    "average_cost_per_request": 0.0439,
+    "average_time_per_request": 23.74,
+    "files_uploaded": 3,
+    "total_file_size": 188926
+  }
+}

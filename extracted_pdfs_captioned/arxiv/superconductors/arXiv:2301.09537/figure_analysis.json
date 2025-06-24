@@ -1,0 +1,106 @@
+{
+  "paper_id": "d75800fdc822c40323d78e4ff229246a",
+  "pdf_path": "apl/Superconductors/arXiv:2301.09537.pdf",
+  "processing_timestamp": "2025-06-23T14:57:43.004419",
+  "figure_analysis": {
+    "0__page_9_Figure_0.jpeg": {
+      "caption": "The figure depicts a simulation of the azimuthal stress distribution in a superconducting coil and structural parts during the assembly process using the MQXF quadrant-by-quadrant strategy, as compared to the new symmetric procedure. The top part of the image shows the stress state when bladders are inflated before key insertion, and the bottom shows results after key insertion. The plotted stress values, shown in the center of each image with units in MPa, represent both peak and average stresses. This simulation demonstrates how the symmetric procedure leads to a more uniform stress distribution by reducing peak stresses during the assembly, supporting the methodology’s validity for reducing mechanical risks in superconducting magnets. Technically, this offers a refined approach to improve mechanical stability and performance in high-field superconducting applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.09537/images/0__page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_0.jpeg"
+    },
+    "_page_7_Figure_0.jpeg": {
+      "caption": "This bar plot represents the pole azimuthal stress results for various MQXF magnets assembled at CERN, highlighting the stress levels in the winding poles and peak stress values during bladder operations. The red squares indicate average azimuthal stress, while green dots represent peak stress values reached during the bladder operation, complete with error bars showing maximum and minimum values. The figure outlines stress targets (red lines) and peak stress requirements (green lines), underscoring its significance in ensuring optimal magnet assembly processes and mechanical stability by managing stress levels effectively in accelerator environments.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.09537/images/_page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_0.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "This graph illustrates the MQXF transfer function for two assembly methods, with data points using the original quadrant-by-quadrant procedure and the new symmetric method. The stress levels, indicated by the green rectangle, set the new target parameters. Measurement reveals lower winding pole stresses for the same cylinder stress level under the new method, suggesting a significant reduction of localized stress due to improved frictional interactions in the assembly, crucial for performance optimization in particle accelerator magnets.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.09537/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_12_Figure_0.jpeg": {
+      "caption": "These plots depict the azimuthal stress relationship between the winding pole and Al-cylinder as influenced by the loading key size during the assembly of MQXFS7e. The top plot shows average and min-max pole stress values, while the bottom displays the same for the Al-cylinder. Results illustrate enhanced stress management with new mechanical loading protocols, achieving a reduction in winding pole stress critical in superconductor applications for minimizing performance-degrading stress concentrations.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.09537/images/0__page_12_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_0.jpeg"
+    },
+    "0__page_11_Figure_0.jpeg": {
+      "caption": "The dual plot provides a comparative analysis of stress variations in a superconducting magnet’s winding pole and Al-cylinder during powering at 1.9 K for MQXFS7e (using new cooling hole bladders) versus MQXFS7d (original method). The azimuthal and longitudinal stress differences, visualized with solid and dotted lines, respectively, highlight how the revised method mitigates stress peaks, reflecting advancements in assembly techniques that ensure robust mechanical stability in cryogenic conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.09537/images/0__page_11_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_0.jpeg"
+    },
+    "0__page_10_Figure_8.jpeg": {
+      "caption": "Presented is the azimuthal stress evolution in the winding pole and Al-cylinder during the MQXFBMT3 assembly test, with red rectangles indicating critical bladder operations. The chart shows that employing a new bladder scheme effectively mitigates winding pole stress peaks during pressurization, despite increased Al-cylinder tension. These findings validate innovations aimed at enhancing superconducting magnet durability by managing stress during assembly processes.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.09537/images/0__page_10_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_8.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "This graph shows stress levels predicted by finite element modeling at mechanical instrumentation points for key insertion, highlighting azimuthal stress changes. It reflects the model's critical role in validating assembly techniques to optimize stress control and minimize mechanical degradation risks, essential for maintaining superconducting magnet performance during assembly and operation.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.09537/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    },
+    "_page_4_Picture_0.jpeg": {
+      "caption": "Illustrated is the computed azimuthal stress distribution across a superconducting coil during the assembly process with quadrant-by-quadrant and new symmetric strategies. This visualization showcases stress management improvements, emphasizing the technique's effectiveness in handling mechanical loads to avoid superconducting coils' stress-related failures.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.09537/images/_page_4_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Picture_0.jpeg"
+    },
+    "_page_6_Figure_1.jpeg": {
+      "caption": "The presented plot shows azimuthal stress levels in the magnet coil winding poles, indicating the stress outcomes at the insertion of the final loading keys under different pre-load methods. These results underpin strategic innovations in assembly to fine-tune key engagements and reduce peak stress without compromising superconducting coil performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.09537/images/_page_6_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_1.jpeg"
+    },
+    "_page_1_Figure_0.jpeg": {
+      "caption": "This figure provides a detailed schematic cross-section of the MQXF superconducting magnet assembly. It displays critical components such as the Iron Yoke, Iron Pad, Load Key, Bladder Slot, Alignment Pin, among others, along with their specific positional arrangement within the magnet assembly. The coil is centrally located, surrounded by the Al Shell, Titanium Pole, and additional structural elements like the Cooling Hole and Pole Key. The visualization aids in understanding the complex architecture and assembly of the MQXF magnet, vital for ensuring mechanical stability and performance in high-energy particle accelerators.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.09537/images/_page_1_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_0.jpeg"
+    },
+    "_page_5_Figure_0.jpeg": {
+      "caption": "The figure contrasts the azimuthal stress distributions in the superconducting coils between two assembly strategies: the Quadrant-by-quadrant method (a, b) and the new bladders scheme (c, d). Images (a) and (c) correspond to the phase when bladders are active, and images (b) and (d) are after key insertion. With the new procedure, a notable reduction in peak stress from -105 MPa to -72 MPa is observed during the bladder phase, indicating improved stress management. The comparisons affirm the effectiveness of the new scheme in minimizing stress peaks, thereby enhancing the reliability and longevity of superconducting magnets used in particle accelerators.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2301.09537/images/_page_5_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1258,
+    "api_cost": 0.1258,
+    "file_storage_cost": 0.0,
+    "total_time": 114.56,
+    "request_count": 2,
+    "average_cost_per_request": 0.0629,
+    "average_time_per_request": 57.28,
+    "files_uploaded": 12,
+    "total_file_size": 854271
+  }
+}

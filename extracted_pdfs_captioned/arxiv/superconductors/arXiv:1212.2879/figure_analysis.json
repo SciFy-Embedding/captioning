@@ -1,0 +1,58 @@
+{
+  "paper_id": "be7357100cf7796c20f8b32316cea399",
+  "pdf_path": "apl/Superconductors/arXiv:1212.2879.pdf",
+  "processing_timestamp": "2025-06-23T13:33:09.669872",
+  "figure_analysis": {
+    "_page_2_Figure_11.jpeg": {
+      "caption": "This figure presents the temperature dependence of thermal conductivity (k_Cu) of copper in Nb3Sn wires across three samples: PIT#1, BR#1, and IT#1. The data is shown from 5K to 45K. Each subplot represents a different sample labeled as 'Cu only', indicating measurements where copper is the primary conducting medium. The black squares are experimental data points, the dashed lines denote theoretical curves calculated based on measured RRR values, and the solid lines are the best fit curves derived to match the experimental data. This figure highlights the variability of thermal conductivity with temperature and the different sample preparations. The presented trend shows peak thermal conductivity at low temperatures, which is influenced by copper purity, relevant for assessing the thermal stability of superconducting magnets using different fabrication techniques.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1212.2879/images/_page_2_Figure_11.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_11.jpeg"
+    },
+    "_page_1_Figure_10.jpeg": {
+      "caption": "This figure depicts the temperature dependence of thermal conductivity (k) of a round copper wire within the range of 5K to 80K. The solid line represents the best fit curve derived from a least squares fitting approach, treating RRR as a free parameter. It signifies how the thermal conductivity of copper, an essential parameter for superconducting magnet stability, peaks around 40K. These measurements offer valuable insights into the intrinsic thermal properties of copper, crucial for optimizing superconducting materials under cryogenic conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1212.2879/images/_page_1_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_10.jpeg"
+    },
+    "_page_1_Figure_19.jpeg": {
+      "caption": "This image shows micrographs of transverse cross-sections of three different Nb3Sn wires labeled PIT#1, BR#1, and IT#1, each corresponding to a distinct fabrication technique: powder-in-tube, bronze route, and internal tin process, respectively. The micrographs illustrate the detailed filamentary structure and copper distribution, crucial for understanding the thermal and electrical behavior of these materials in applications. These cross-sectional analyses aid in characterizing conductor architecture's impact on performance at low temperatures.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1212.2879/images/_page_1_Figure_19.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_19.jpeg"
+    },
+    "_page_1_Figure_1.jpeg": {
+      "caption": "This figure is a schematic representation of the experimental probe employed for thermal conductivity measurements. It illustrates the setup used for studying superconducting wires, highlighting key components such as the hot terminal with a heater, Cernox bare chips to measure temperature, sample placement, and cold terminal. The setup operates under a high vacuum to minimize convective and radiant losses, allowing precise thermal conductivity measurement essential for evaluating the stability of superconducting wires in applied magnetic fields.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1212.2879/images/_page_1_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_1.jpeg"
+    },
+    "_page_2_Figure_1.jpeg": {
+      "caption": "This figure shows the thermal conductivity as a function of temperature for PIT#1, BR#1, and IT#1 Nb3Sn superconducting wires at magnetic fields of 0 T and 15 T, represented by full and open symbols respectively. The temperature range is from 5K to 45K. The data indicate that all samples exhibit a maximum in thermal conductivity, which varies by wire type. The reduction in thermal conductivity under a magnetic field is visible, highlighting the influence of copper purity and wire design on thermal stability in superconducting applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1212.2879/images/_page_2_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0452,
+    "api_cost": 0.0452,
+    "file_storage_cost": 0.0,
+    "total_time": 46.62,
+    "request_count": 1,
+    "average_cost_per_request": 0.0452,
+    "average_time_per_request": 46.62,
+    "files_uploaded": 6,
+    "total_file_size": 149678
+  }
+}

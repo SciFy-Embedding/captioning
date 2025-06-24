@@ -1,0 +1,154 @@
+{
+  "paper_id": "62bfc4426ec2c6606ca399dfb305e144",
+  "pdf_path": "apl/Superconductors/arXiv:1203.1848.pdf",
+  "processing_timestamp": "2025-06-23T13:32:14.365868",
+  "figure_analysis": {
+    "_page_3_Figure_1.jpeg": {
+      "caption": "Specific heat of Nb3Sn single crystal at µ0H = 1 T displayed as C/T against T (K) showing the sharp first-order phase transition. A small shaking field with amplitude µ0hac = 0.5 mT and frequency f = 5 Hz was applied perpendicular to the main magnetic field H. This figure illustrates how the shaking field impacts the specific heat, crucial for understanding magnetic field effects on phase transitions in superconductors .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1203.1848/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "_page_7_Figure_1.jpeg": {
+      "caption": "Distorted specific heat of Nb3Sn at µ0H = 7 T, plotted as C/T (mJ gat⁻¹ K⁻²) versus temperature (T). Various shaking field amplitudes of hac are applied perpendicularly to the main magnetic field at a fixed frequency of 5 Hz. The data, shifted for clarity, depict the presence of dome-like features characterized by increased pinning strength, significant for assessing the superconducting phase transitions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1203.1848/images/_page_7_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_1.jpeg"
+    },
+    "_page_6_Figure_3.jpeg": {
+      "caption": "Distorted specific heat of Nb3Sn at µ0H = 6 T across different shaking amplitudes hac. Displayed as C/T against T, at a fixed frequency of 50 Hz, results show dome-like features at critical temperature regions. These results emphasize the effect of stronger pinning in superconductors, aiding in studying temperature-dependent pinning phenomena .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1203.1848/images/_page_6_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_3.jpeg"
+    },
+    "_page_2_Figure_4.jpeg": {
+      "caption": "Specific heat broadening in a Nb3Sn single crystal shown at µ0H = 2 T (a) and µ0H = 8 T (b). Both graphs plot C/T against T, demonstrating the impact of increasing magnetic fields on peak broadening correlated to dimensionality confinement effects. These differences highlight increased temperature fluctuations due to dimension reductions under magnetic fields.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1203.1848/images/_page_2_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_4.jpeg"
+    },
+    "_page_7_Figure_7.jpeg": {
+      "caption": "Raw magnetocaloric data ΔT for Nb3Sn showing self-heating patterns during temperature cycling at a fixed magnetic field of µ0H = 8 T. The data, featuring distinct ΔT variations upon heating and cooling, indicates absence of a first-order transition, providing insights into vortex lattice behaviors under thermal modifications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1203.1848/images/_page_7_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_7.jpeg"
+    },
+    "_page_1_Figure_8.jpeg": {
+      "caption": "Temperature dependence of the specific heat at various fixed magnetic fields for Nb3Sn, emphasizing a fluctuation peak near the critical temperature Tc(H). The high-density data points reveal broadening of transition widths with increasing magnetic fields, enhancing understanding of critical superconducting fluctuations .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1203.1848/images/_page_1_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_8.jpeg"
+    },
+    "_page_3_Figure_6.jpeg": {
+      "caption": "Specific heat measurements of Nb3Sn at µ0H = 3 T, utilizing various shaking field amplitudes and frequencies applied perpendicularly. Plotted as C/T against T, observations question vortex-lattice melting transitions, challenging prior claims on condensed matter flexibility under applied fields .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1203.1848/images/_page_3_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_6.jpeg"
+    },
+    "_page_6_Figure_6.jpeg": {
+      "caption": "Specific heat at µ0H = 0 T for Nb3Sn with a small shaking field applied. The graph contrasts the absence of a self-heating dip near Tc, emphasizing effects of vortex motion on superconducting transitions at zero magnetic field .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1203.1848/images/_page_6_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_6.jpeg"
+    },
+    "_page_7_Figure_5.jpeg": {
+      "caption": "At µ0H = 8 T, Nb3Sn's specific heat with applied shaking field (frequency f = 5 Hz, hac = 0.54 mT) shows a distorted pattern. It plots C/T against T to indicate increased self-heating typical of peak-effect region transitions, critical for study of vortex dynamics in superconducting settings .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1203.1848/images/_page_7_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_5.jpeg"
+    },
+    "_page_4_Figure_5.jpeg": {
+      "caption": "Distorted specific heat of Nb3Sn at µ0H = 6 T, plotted as C/T against temperature T (K). Various shaking field amplitudes hac at a frequency f = 100 Hz were applied perpendicular to the main magnetic field. Observation of self-heating patterns indicates distortion in specific heat data near Tc, without revealing any superimposed peak indicative of a first-order phase transition.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1203.1848/images/_page_4_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_5.jpeg"
+    },
+    "_page_8_Figure_0.jpeg": {
+      "caption": "Comparison of specific heat in Nb3Sn under field-cooled (FC) conditions at µ0H = 5 T, influenced by cooling rate. Slow-cooled measurements reveal usual sharp onset of self-heating, while fast-cooled data exhibit a smeared transition. This highlights the importance of cooling rate in vortex lattice pinning stability during FC.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1203.1848/images/_page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_0.jpeg"
+    },
+    "_page_3_Figure_8.jpeg": {
+      "caption": "Specific heat analysis in Nb3Sn at µ0H = 4 T. The plot examines the variation in C/T with temperature T under different shaking amplitudes hac. Data obtained at f = 50 Hz show no sharp peak or latent heat characteristic of vortex-lattice melting, suggesting the absence of this phase transition under the test conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1203.1848/images/_page_3_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_8.jpeg"
+    },
+    "_page_3_Figure_3.jpeg": {
+      "caption": "Distorted specific heat of Nb3Sn at µ0H = 2 T, plotted as C/T versus T. Shaking fields with varying hac and frequencies were applied. The absence of distinct peaks suggests no alignment with first-order phase transitions related to vortex-lattice melting.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1203.1848/images/_page_3_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_3.jpeg"
+    },
+    "_page_6_Figure_1.jpeg": {
+      "caption": "Illustrates the Nb3Sn specific heat under µ0H = 6 T with varied shaking amplitudes hac at f = 10 Hz. The significant presence of self-heating dips embeddings dome-like features provides evidence of increased pinning strength within the peak-effect region.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1203.1848/images/_page_6_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_1.jpeg"
+    },
+    "_page_2_Figure_1.jpeg": {
+      "caption": "Development of the fluctuation peak in Nb3Sn specific heat at low magnetic fields illustrated as C/T against T. Demonstrates the emergence and growth of the peak with increasing magnetic fields, providing insight into fluctuation dynamics and critical state broadening upon field application.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1203.1848/images/_page_2_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_1.jpeg"
+    },
+    "_page_5_Figure_0.jpeg": {
+      "caption": "Distorted specific heat at µ0H = 6 T for Nb3Sn with f = 10 Hz (a) and f = 5 Hz (b), under various hac. This comparison supports the understanding that self-heating impacts specific heat interpretation, with no peak distinguishing first-order phase transitions observed.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1203.1848/images/_page_5_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_0.jpeg"
+    },
+    "_page_4_Figure_3.jpeg": {
+      "caption": "Distorted specific heat of Nb3Sn at µ0H = 4 T with varied hac presented at f = 5 Hz. Close examination of self-heating effects highlights potential pitfalls in underestimating specific heat due to induced extra heat, adding context for self-heating dip interpretation.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1203.1848/images/_page_4_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_3.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1303,
+    "api_cost": 0.1303,
+    "file_storage_cost": 0.0,
+    "total_time": 89.7,
+    "request_count": 2,
+    "average_cost_per_request": 0.0651,
+    "average_time_per_request": 44.85,
+    "files_uploaded": 18,
+    "total_file_size": 565510
+  }
+}

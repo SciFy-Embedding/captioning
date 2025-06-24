@@ -1,0 +1,66 @@
+{
+  "paper_id": "fe977c4526aab6bda666de2d8559502d",
+  "pdf_path": "apl/Superconductors/arXiv:2305.05114.pdf",
+  "processing_timestamp": "2025-06-23T15:04:04.799868",
+  "figure_analysis": {
+    "_page_2_Figure_3.jpeg": {
+      "caption": "X-Ray Photoelectron Spectroscopy (XPS) spectra of the anodized Nb sample after 300°C annealing, showing peaks corresponding to Cl 2p, Nb 3d, Nb 3p, Sn 3d, and O 1s with binding energies labeled. The high intensity of the Sn 3d peak versus the Nb and O peaks indicates a high Sn presence relative to Nb and O at this subsurface location. These spectra illustrate the chemical state of surface elements and are used to study thermodynamic routes involving SnOx in the nucleation of Nb3Sn alloys, where SnOx plays a critical role under these conditions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2305.05114/images/_page_2_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_3.jpeg"
+    },
+    "_page_5_Figure_5.jpeg": {
+      "caption": "Concentration profiles illustrating atomic concentrations of Sn, Nb, O, and Cl as a function of depth for different Nb samples: as-deposited (a-c) and annealed at 300°C (d-f). Data is segmented into different surface treatments: clean Nb, native oxidized, and anodized. As-deposited samples show initial Sn and Nb presence with noticeable NbClx and NbxSny formation, while the absence of Cl in annealed samples signifies transformation into Sn oxides. The profiles detail how oxidation affects the chemical state transition from SnCl2 to SnOx and NbxSny alloy nucleation .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2305.05114/images/_page_5_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_5.jpeg"
+    },
+    "0__page_8_Figure_4.jpeg": {
+      "caption": "High-resolution X-ray diffraction (XRD) patterns for 300°C annealed samples showing phase structures: (a) clean Nb, (b) native oxidized, and (c) anodized. Rigaku SmartLab XRD with Cu Kα source is used. Peaks correspond to various phases, including SnO and SnO2, providing evidence of process-induced transformations during Nb3Sn alloy nucleation facilitated by SnOx as an intermediate phase .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2305.05114/images/0__page_8_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_4.jpeg"
+    },
+    "_page_1_Figure_4.jpeg": {
+      "caption": "Surface characterization of the anodized Nb: (a) Scanning Electron Microscope (SEM) image showing porous oxide layer and (b) XRD pattern reflecting phase composition. The anodization produces porous oxides crucial for the adsorption of SnCl2, impacting nucleation and growth processes during Nb3Sn formation. These results inform on surface morphology's role in optimizing superconducting intermetallic coatings .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2305.05114/images/_page_1_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_4.jpeg"
+    },
+    "_page_6_Figure_5.jpeg": {
+      "caption": "Variation of XPS full-width-at-half-maximum (FWHM) of Sn 3d5/2 (a) and Nb 3p3/2 (b) peaks as function of depth. Sn FWHM increase and Nb FWHM decrease suggest SnOx and NbxSny formation transformation influences. The FWHM data provide kinetic insights into alloy nucleation dynamics at the atomic level, highlighting SnOx's crucial role during the early-stage diffusion process .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2305.05114/images/_page_6_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_5.jpeg"
+    },
+    "0__page_7_Figure_2.jpeg": {
+      "caption": "XPS binding energies versus depth for Sn 3d5/2, Nb 3p3/2, O 1s, and Cl 2p3/2 in anodized samples post annealing. These profiles help to analyze chemical transformations during Nb3Sn alloy genesis, specifically the decline of Cl and rise of SnOx, indicating the role of oxides during nucleation. This highlights strategy implications for synthesizing superconductive layers with reduced Cl residuals .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2305.05114/images/0__page_7_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_2.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0585,
+    "api_cost": 0.0585,
+    "file_storage_cost": 0.0,
+    "total_time": 47.22,
+    "request_count": 1,
+    "average_cost_per_request": 0.0585,
+    "average_time_per_request": 47.22,
+    "files_uploaded": 7,
+    "total_file_size": 482719
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "paper_id": "2d6ab9dee49ad428ca67804d29c14d6c",
+  "pdf_path": "apl/Superconductors/arXiv:1807.03405.pdf",
+  "processing_timestamp": "2025-06-23T14:08:59.410589",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "Figure 2 illustrates the surface states of Ta3Sb on the [001] surface. (a) Highlights the electronic band structure along high-symmetry paths in the surface BZ, with green circles identifying surface-related features and the inset projecting parity products at TRIM. Comparisons are drawn between surface and bulk states. Spin angular momentum textures are displayed, with (b) and (d) depicting the x-component and (c) and (e) the y-component. Red and blue circles indicate positive and negative values, respectively, with grey regions corresponding to bulk states. This complex spin configuration stems from the reduced symmetry in the [001] surface, further enhanced by SOC, emphasizing its potential in spintronic applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1807.03405/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "_page_3_Figure_0.jpeg": {
+      "caption": "Figure 1 presents the electronic band structure and atomic structure of Ta3Sb. (a) shows the band structure along high-symmetry paths in the Brillouin Zone (BZ) with spin-orbit coupling (SOC) accounted for, revealing a separation between 'valence' and 'conduction' bands indicative of metallic characteristics. The inset highlights that bands near the Fermi energy predominantly originate from Ta d-orbitals. (b) displays the band structure without SOC, demonstrating the essential role of SOC in the band manifold separation. The crystal configuration is depicted in (c), indicating the cubic and nonsymmorphic space group Pm3n structural details of Ta3Sb. (d) illustrates parity products at time-reversal invariant momenta (TRIM) within the BZ, leading to a strong topological phase characterized by a Z2 index (ν0; ν1ν2ν3) = (1; 000). These findings underscore Ta3Sb's nontrivial topology and potential for topological surface state realization, important for quantum computing applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1807.03405/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "0__page_7_Figure_0.jpeg": {
+      "caption": "Figure 4 analyzes the electronic structure of Ta3Sn. (a) Shows the bulk band structure along high-symmetry paths, revealing similar topology to Ta3Sb with separate band manifolds crucial for defining nontrivial topological invariants. (b) Depicts the [001] surface band structure, mapping surface states with green circles and setting the Fermi level at zero, reinforcing the compound's topological classification. The study supports Ta3Sn's inclusion as a potential candidate for hosting Majorana modes due to topological surface states, advancing its applicability in topological quantum computing.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1807.03405/images/0__page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_0.jpeg"
+    },
+    "_page_5_Figure_0.jpeg": {
+      "caption": "Figure 3 details the spin angular momentum texture near Γ in the [001] surface of Ta3Sb. In (a) and (b), the spin texture of the lower and upper bands are presented, highlighting a unique mixture of Rashba and Dresselhaus spin textures due to surface symmetry reduction from C4v to C2v. Schematic illustrations in (c) show a Rashba-type helical spin texture, while (d) denotes a linear Dresselhaus-type texture. The study provides insights into Dirac cone anisotropy and electronic configurations at the surface, important for understanding spin polarization effects in topological materials.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1807.03405/images/_page_5_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0444,
+    "api_cost": 0.0444,
+    "file_storage_cost": 0.0,
+    "total_time": 34.35,
+    "request_count": 1,
+    "average_cost_per_request": 0.0444,
+    "average_time_per_request": 34.35,
+    "files_uploaded": 5,
+    "total_file_size": 393502
+  }
+}

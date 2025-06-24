@@ -1,0 +1,106 @@
+{
+  "paper_id": "bcb769ce7226a82fde2a5c064ec4c5ee",
+  "pdf_path": "apl/Superconductors/arXiv:1108.1640.pdf",
+  "processing_timestamp": "2025-06-23T13:25:44.930998",
+  "figure_analysis": {
+    "_page_1_Figure_2.jpeg": {
+      "caption": "Figure 2 displays an electron micrograph of the cross-section of a Bi-2212/Ag OPIT strand. This strand is integral in understanding the porosity issues that hinder current transport, a critical obstacle to improving the performance for potential LHC upgrades【4:0†temp_paper_bcb769ce7226a82fde2a5c064ec4c5ee.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1640/images/_page_1_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_2.jpeg"
+    },
+    "_page_1_Figure_5.jpeg": {
+      "caption": "Figure 5 presents a study of the texture parameters of Bi-2212 powder. The visualization includes a graph where the texture parameter is measured concerning compression for loose powder, OPIT cores, and pressed tablets. The data suggest that higher alignment of Bi-2212 grains improves connectivity and reduces porosity. This refinement is crucial for optimizing wire performance particularly in high-stress environments, as seen in superconductor applications【4:3†temp_paper_bcb769ce7226a82fde2a5c064ec4c5ee.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1640/images/_page_1_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_5.jpeg"
+    },
+    "_page_0_Figure_11.jpeg": {
+      "caption": "Figure 11 illustrates the cross-sectional view of the Bi-2212 inner winding, utilizing a 16-strand structured cable made with TPJR round strands. The structured cable is engineered to manage stress, enhancing the coil's stability under high fields, a vital consideration for LHC's energy upgrades【4:1†temp_paper_bcb769ce7226a82fde2a5c064ec4c5ee.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1640/images/_page_0_Figure_11.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_0_Figure_11.jpeg"
+    },
+    "_page_2_Figure_5.jpeg": {
+      "caption": "Figure 6 targets the manufacturing process of Bi-2212 jellyroll wire with a focus on texturing. This figure outlines the Chilsonator apparatus's role in roll-compacting fine powder into ribbons and their integration into Bi-2212/Ag tape. This fabrication method enhances grain alignment, potentially improving wire performance under operational stress【4:10†temp_paper_bcb769ce7226a82fde2a5c064ec4c5ee.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1640/images/_page_2_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_5.jpeg"
+    },
+    "_page_3_Picture_8.jpeg": {
+      "caption": "Cross section of a dual dipole structure conceptualized for the LHC energy upgrade. It visualizes the design that can accommodate 50 mm aperture, emphasizing the efficient engineering required to support Bi-2212 coil implementations for required field strengths【4:5†temp_paper_bcb769ce7226a82fde2a5c064ec4c5ee.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1640/images/_page_3_Picture_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Picture_8.jpeg"
+    },
+    "_page_1_Picture_0.jpeg": {
+      "caption": "Micrograph depicting cross-sectional detail of an OPIT Bi-2212/Ag strand. This image underscores the challenges such as porosity and connectivity that impact current density, thereby directly influencing how close it can come to the theoretical performance needed for elements like LHC dipoles【4:2†temp_paper_bcb769ce7226a82fde2a5c064ec4c5ee.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1640/images/_page_1_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Picture_0.jpeg"
+    },
+    "_page_4_Figure_2.jpeg": {
+      "caption": "Diagram revealing the design of a Bi-2212 winding within a 16-strand cable. The structured cable design effectively manages the mechanical stress within electromagnetic coils, aiming to maintain the integrity of highly stressed Bi-2212 components under the operational conditions envisioned for the upgraded LHC【4:8†temp_paper_bcb769ce7226a82fde2a5c064ec4c5ee.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1640/images/_page_4_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_2.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "The figure includes a bar graph evaluating the texture parameter across different stages of compression, illustrating a positive correlation between compression and the alignment of Bi-2212 grains, crucial for enhanced performance in high-field magnets【4:3†temp_paper_bcb769ce7226a82fde2a5c064ec4c5ee.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1640/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    },
+    "_page_4_Picture_0.jpeg": {
+      "caption": "Structured cable made from Bi-2212 round strands is displayed alongside a von Mises strain analysis under load. The data are essential for understanding strain effects, which provide critical insights into maintaining performance under mechanical stress in high-field dipoles【4:8†temp_paper_bcb769ce7226a82fde2a5c064ec4c5ee.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1640/images/_page_4_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Picture_0.jpeg"
+    },
+    "_page_3_Picture_0.jpeg": {
+      "caption": "Figure 7 illustrates the impact of texturing on porosity within a core channel used for TPJR wire fabrication. This visualization contrasts a core channel filled with randomly oriented (untextured) and aligned (textured) flakes, showing a reduction in porosity when texture is applied. This configuration facilitates grain re-arrangement during compression, promoting better grain alignment and potentially enhancing current transport in the Bi-2212 wires by reducing void spaces and improving connectivity【8:11†temp_paper_bcb769ce7226a82fde2a5c064ec4c5ee.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1640/images/_page_3_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Picture_0.jpeg"
+    },
+    "_page_3_Figure_2.jpeg": {
+      "caption": "Figure 8 demonstrates the bubble coalescence process during full-melt heat treatment of TPJR wire. It highlights how in a round channel (a), a full-diameter bubble forms that can occlude the pathway, while in a flattened, highly-aspected channel (b), bubbles aggregate along the channel edges, keeping the center passage clear for grain growth. This mechanism is significant in maintaining pathways for current transport and could permit improved current densities by minimizing obstruction from bubble formations, thereby advancing the wire's performance in superconducting applications【8:10†temp_paper_bcb769ce7226a82fde2a5c064ec4c5ee.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1108.1640/images/_page_3_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_2.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0918,
+    "api_cost": 0.0918,
+    "file_storage_cost": 0.0,
+    "total_time": 68.12,
+    "request_count": 2,
+    "average_cost_per_request": 0.0459,
+    "average_time_per_request": 34.06,
+    "files_uploaded": 12,
+    "total_file_size": 667160
+  }
+}

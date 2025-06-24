@@ -1,0 +1,122 @@
+{
+  "paper_id": "f150488516cfa1750e670a6991e82700",
+  "pdf_path": "apl/Superconductors/arXiv:1401.3939.pdf",
+  "processing_timestamp": "2025-06-23T13:39:53.174410",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "This figure illustrates the relationship between heater delay time and Kapton thickness ranging from 0 to 0.25 mm, using a simulation model with an I/Iss of 80%. The x-axis shows the Kapton thickness in millimeters, and the y-axis represents the delay time in milliseconds. The plot demonstrates a clear trend of increasing delay time as the Kapton thickness rises, highlighting the impact of thermal insulation on quenching delays in superconducting magnet protection heaters. This finding underscores the need to optimize insulation thickness to minimize delay time while maintaining electrical insulation integrity in high-field Nb3Sn accelerator magnets .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3939/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "_page_3_Figure_1.jpeg": {
+      "caption": "This is a plot of delay time versus magnet current/Short sample limit (%) at different turns and temperatures (4.4 K and 1.9 K) for a superconducting magnet. The x-axis shows the magnet current as a percentage of the short sample limit, and the y-axis represents the delay time in milliseconds. Different lines indicate heater delay behaviors at various coil turns and temperatures, illustrating how reductions in current increase the heater delay, particularly at lower temperatures and different coil turns. These results suggest that the delay is influenced by current, temperature, and coil position, which are critical factors for optimizing heater performance in superconductor quench protection setups.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3939/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "_page_6_Figure_2.jpeg": {
+      "caption": "This chart shows the simulation and measurement results of heater delays in an 11 T dipole with a Kapton thickness of 0.203 mm. The x-axis represents the magnet current normalized to the short sample limit (SSL), while the y-axis measures the delay time in milliseconds. The two lines highlight the effect of different field conditions (Bmax and Bprof) and temperatures (1.9 K and 4.5 K) on the quench delay—simulations and experimental data align closely within a 20% difference for higher SSL percentages, emphasizing the reliability of the computational model. This alignment underlines the model's usefulness in predicting quench delays under varying operating conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3939/images/_page_6_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_2.jpeg"
+    },
+    "_page_1_Figure_3.jpeg": {
+      "caption": "Shown is a schematic illustrating a generic heater geometry applied to superconducting magnet coils. The diagram highlights periodical coverage of the heater along different turns, indicating areas of heater placement and expected heat influence zones (PH period, PH coverage). This layout underpinning the model reflects the periodic nature of heat application in quench protection systems, important for designing effective heater configurations in terms of both thermal management and electrical integrity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3939/images/_page_1_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_3.jpeg"
+    },
+    "_page_5_Figure_3.jpeg": {
+      "caption": "Illustrated here is the field map of an 11 T dipole system, showing variations of magnetic field strengths across different regions of the coil. It provides critical insights into the locations of peak magnetic fields, influencing the operational dynamics of protection heaters. Understanding these field distributions is crucial for assessing heater efficacy and ensuring effective quench induction within superconducting systems.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3939/images/_page_5_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_3.jpeg"
+    },
+    "_page_4_Figure_11.jpeg": {
+      "caption": "This schematic depicts the heater connection scheme for the 11 T dipole, featuring PH-1L and PH-2L configurations which indicate insulation thickness due to Kapton layers. The two-dimensional representation outlines the U-shaped heater strips connected in series, which are crucial for distributing heat across the magnet to prevent domain-specific heat build-up. Such insights are vital for designing effective and safe quench protection measures in large-scale superconducting devices.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3939/images/_page_4_Figure_11.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_11.jpeg"
+    },
+    "_page_1_Figure_5.jpeg": {
+      "caption": "The thermal model visualizes the thermal transport mechanisms in a superconducting coil turn, capturing the longitudinal and radial heat flow paths through the cable's wide side. The model bears significant implications for understanding thermal dynamics under quench protection scenarios, offering insights into how heat spreads from heaters within the coil structure and affects quench delays.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3939/images/_page_1_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_5.jpeg"
+    },
+    "_page_2_Figure_5.jpeg": {
+      "caption": "This figure portrays one period of the HQ01 heater configuration on the coil's outer surface. It details the segmental heater coverage along with periodic geometry between turns 2 and 7, essential for calibrating the parametric impact of heater design on thermal delays. The representation aids in identifying optimal heater placement strategies for efficient thermal disruption in Nb3Sn superconducting magnets during quench events.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3939/images/_page_2_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_5.jpeg"
+    },
+    "_page_3_Figure_4.jpeg": {
+      "caption": "This graph illustrates the modeled and experimental HQ heater delays at 1.9 and 4.4 K against normalized magnet current, revealing a correlation between delay times and operational conditions. The x-axis denotes magnet current as a percentage of the short sample limit, while the y-axis indicates delay time in milliseconds. The close alignment of modeled results with experimental data underscores the precision of simulations in predicting real-world behaviors of quench protection systems, facilitating effective design optimizations.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3939/images/_page_3_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_4.jpeg"
+    },
+    "_page_3_Figure_8.jpeg": {
+      "caption": "This figure presents the simulated delay time as a function of peak heater power (PH power) in watts per square centimeter, showing a decrease in delay time with increasing heater power, plotted here at a simulation I/Iss of 80%. The x-axis indicates the heater power, while the y-axis shows delay time in milliseconds. As heater power increases to about 30 W/cm², the delay time significantly decreases before reaching a plateau, indicating diminishing returns past this point. This saturation suggests that further increases in power do not substantially enhance quenching efficacy. This result is critical for optimizing heater power settings to achieve efficient quench protection without unnecessary energy expenditure【8:3†temp_paper】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3939/images/_page_3_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_8.jpeg"
+    },
+    "_page_4_Figure_2.jpeg": {
+      "caption": "This figure plots the delay time against the length of the heater coverage (in mm) with a simulation setting of I/Iss = 80%. The x-axis represents the length of the covered cable segment by the heater, while the y-axis shows the delay time in milliseconds. As the length increases, the delay time decreases, approaching saturation at around 20 mm coverage. This behavior indicates a transition to a local one-dimensional heat transfer when coverage is extensive, pointing to the need for optimal heater coverage to balance efficiency and material costs. Understanding this relationship is essential for designing heater geometry with a maximized protection area while minimizing delay times【8:7†temp_paper】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3939/images/_page_4_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_2.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "This image shows the HQ01 superconducting magnet's outer layer coil's magnetic field distribution map at a current of 14.7 kA, emphasizing the variation in magnetic fields across different turns from #2 to #14. The color scale denotes the magnetic field strength in Tesla. This field map is critical for visualizing where the magnetic forces peak, affecting the quenching behavior and the prioritization of heater application in these regions. Such information is pivotal in developing quench protection strategies tailored to specific regions in the coil where magnetic interactions are most pronounced【8:10†temp_paper】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3939/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "This graph depicts the experimental and modeled delay times for heater-induced quenches in a 11 T Nb3Sn dipole, characterized by 0.076 mm Kapton insulation, over varying magnet currents (as a percentage of short sample limit, SSL). It compares the behavior under different field configurations (Bmax and Bprof) at temperatures of 1.9 K and 4.6 K. The x-axis is the magnet current over SSL percentage, while the y-axis is the delay time in milliseconds. The consistency between experimental results and modeled predictions, particularly in high magnetic fields, illustrates the model's capacity to reliably simulate delays, which is important for enhancing future quench protection measures【8:4†temp_paper】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1401.3939/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1171,
+    "api_cost": 0.1171,
+    "file_storage_cost": 0.0,
+    "total_time": 83.11,
+    "request_count": 2,
+    "average_cost_per_request": 0.0586,
+    "average_time_per_request": 41.56,
+    "files_uploaded": 14,
+    "total_file_size": 559235
+  }
+}

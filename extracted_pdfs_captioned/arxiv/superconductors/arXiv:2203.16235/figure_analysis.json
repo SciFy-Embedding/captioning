@@ -1,0 +1,82 @@
+{
+  "paper_id": "5b47f3f4bd930563c1b5fbb31e89088f",
+  "pdf_path": "apl/Superconductors/arXiv:2203.16235.pdf",
+  "processing_timestamp": "2025-06-23T14:48:51.453803",
+  "figure_analysis": {
+    "_page_3_Figure_0.jpeg": {
+      "caption": "Figure showing the temperature dependence of magnetic susceptibility for Cr3Ru samples with (a) bcc structure and (b) A15 structure under an applied magnetic field of 40 kOe. The main plot presents the broad temperature-dependent response between 1.8 K and 300 K, showing paramagnetic Curie-Weiss behavior prominently in the low-temperature region. Insets display the susceptibility in zero-field-cooled (ZFC) and field-cooled (FC) modes at 100 Oe, revealing broad hump structures around 150 K likely indicative of antiferromagnetic (AF) spin fluctuations. These observations underline the complex magnetic behavior possibly due to AF ordering or spin fluctuations, which contribute to the understanding of the magnetic properties of Cr-Ru binary alloys .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2203.16235/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "_page_4_Figure_1.jpeg": {
+      "caption": "Figure depicting the temperature dependence of resistivity from 2 K to 300 K for Cr3Ru samples under magnetic fields of 0 T and 9 T for (a) bcc and (b) A15 structures. Insets provide detail on resistance from 0.4 K to 6 K under various magnetic fields, while (c) and (d) present the upper critical field H_c2 as a function of temperature. The superconducting transition is shifted by the presence of a magnetic field, indicating suppression of superconductivity. The figures are fitted with Ginzburg-Landau (GL) theory to derive critical parameters. Such insights are essential for characterizing magnetoresistive properties and deducing upper critical field behavior under magnetic conditions for superconductor design .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2203.16235/images/_page_4_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_1.jpeg"
+    },
+    "0__page_7_Figure_0.jpeg": {
+      "caption": "The magnetization hysteresis loops (MHLs) at various temperatures for Cr3Ru samples with (a) bcc and (b) A15 structures indicate different vortex matter characteristics. A pronounced second peak effect is exclusively observed in bcc structure samples. The insets show the lower critical fields estimated from where M(H) deviates from Meissner state linearity. Panels (c) and (d) explore the field-dependence critical current density calculated using the Bean critical state model, with the inset in (c) focusing on MHLs' second peak. These findings highlight how structural differences affect vortex dynamics and pinning mechanisms, providing insights into superconducting material performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2203.16235/images/0__page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_0.jpeg"
+    },
+    "_page_2_Figure_5.jpeg": {
+      "caption": "Panels illustrating (a) temperature-dependent resistivity for Cr3Ru samples with bcc and A15 structures and (b) magnetic susceptibility in zero-field-cooled (ZFC) and field-cooled (FC) modes under a 10 Oe magnetic field. T_c values obtained from these measurements are 2.77 K (bcc) and 3.37 K (A15), confirming high-quality sample synthesis. Differences in superconducting transition sharpness between samples are apparent, with wider transition breadth for bcc-structured samples. Analysis affirms sample quality and offers comparative insights into electrical transport and magnetic characteristics across structural variations .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2203.16235/images/_page_2_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_5.jpeg"
+    },
+    "0__page_7_Figure_2.jpeg": {
+      "caption": "Temperature dependence of the tunneling spectrum, accentuated by results fit using the Dynes model. Figures (a) and (b) illustrate spectra for the bcc and A15 structures, respectively, measured at low temperatures. The data indicates dimming and smearing of coherence peaks with increasing temperature, attributable to sample-surface impurity scattering. Panels (c) and (d) show fits corresponding to superconducting gaps of 0.44 meV (bcc) and 0.3 meV (A15), suggesting difficulty in determining exact pairing symmetry from STS, yet revealing intriguing scattering impacts under experimental conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2203.16235/images/0__page_7_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_2.jpeg"
+    },
+    "_page_5_Figure_1.jpeg": {
+      "caption": "The figures present specific heat as a function of temperature for Cr3Ru samples in zero magnetic field (a, b) with (a) bcc and (b) A15 structures, and dependencies under variable magnetic fields (c, d). Insets reveal anomalous behaviors sensitive to the applied field, especially in A15 where a transition around 0.85 K is noted. Figures (e) and (f) relate electronic specific heat changes under various gap structure models, underlying the role of phononic/entropic factors in understanding superconductive phases and specific heat phenomena in these samples .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2203.16235/images/_page_5_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_1.jpeg"
+    },
+    "_page_2_Figure_1.jpeg": {
+      "caption": "X-ray diffraction (XRD) patterns for Cr3Ru samples with (a) bcc structure and (b) A15 structure, presented alongside Rietveld fitting curves. Insets depict respective schematic crystal arrangements, showcasing the elemental distribution. SEM images feature detailed surface morphologies (c and d) providing microstructural verification with corresponding energy dispersive X-ray spectra (EDS) that confirm sample composition closely aligning with expected stoichiometry. Such microstructural and compositional analyses are crucial for ensuring systematic material assessments .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2203.16235/images/_page_2_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_1.jpeg"
+    },
+    "0__page_8_Figure_0.jpeg": {
+      "caption": "Illustration of resistance's temperature dependence for bcc and A15 structured Cr3Ru samples at varying external pressures (a, b) and different magnetic fields (c, d). Panel (e) examines pressure-enhanced T_c, highlighting a consistent trend of increase in pressure enhancing T_c for both samples, relevant for applications demanding stable superconductivity under varied conditions. Panel (f) correlates observed changes to theoretical predictions, underscoring how external parameters influence transition temperatures. These trends are pivotal in advanced material design under extreme conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2203.16235/images/0__page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.065,
+    "api_cost": 0.065,
+    "file_storage_cost": 0.0,
+    "total_time": 107.96,
+    "request_count": 1,
+    "average_cost_per_request": 0.065,
+    "average_time_per_request": 107.96,
+    "files_uploaded": 9,
+    "total_file_size": 885177
+  }
+}

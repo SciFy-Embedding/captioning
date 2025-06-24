@@ -1,0 +1,74 @@
+{
+  "paper_id": "37337c439a70c919a093022f52c00046",
+  "pdf_path": "apl/Superconductors/arXiv:2001.03823.pdf",
+  "processing_timestamp": "2025-06-23T14:21:27.312986",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "Figure 6 illustrates the performance of multicell cavities coated with Nb3Sn. The graphs display the intrinsic quality factor (Q0) against the accelerating gradient (Eacc) for two coated cavities, 5C75-RI-NbSn2, tested at 4.4 K and 2.0 K on different dates. The data reveals a significant enhancement in quality factor compared to typical uncoated niobium cavities, achieving Q0 values close to 10^10 at 4 K, which is approximately a 30-fold improvement. This marked improvement in RF performance is significant, demonstrating the potential of Nb3Sn-coated cavities for applications in superconducting radiofrequency accelerators, providing higher efficiency and lower energy losses.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2001.03823/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "_page_3_Figure_1.jpeg": {
+      "caption": "Figure 3 presents typical AFM (top) and SEM (bottom) images of Nb3Sn-coated films. The AFM image depicts the surface topography with average roughness of about 50 nm over a 5 µm x 5 µm scan area, while the SEM image shows grains with an average size of 2-3 µm. These characterizations signify the uniformity and quality of Nb3Sn coatings achieved through the described technique, which is crucial for minimizing surface resistance and enhancing the superconducting properties of the cavities used in accelerator applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2001.03823/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "_page_3_Figure_0.jpeg": {
+      "caption": "Figure 3 also depicts the typical morphology and roughness of Nb3Sn-coated films through SEM and AFM imagery. The SEM image highlights grain structures typical of Nb3Sn films, measuring 2-3 µm in diameter. The AFM analysis reveals surface roughness values around 50 nm RMS. These parameters are critical in evaluating the coating process's success in achieving the desired quality for superconducting radiofrequency (SRF) applications, ensuring low surface resistance and minimal defects.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2001.03823/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "_page_3_Figure_7.jpeg": {
+      "caption": "Figure 5 presents the results from single-cell cavity tests of Nb3Sn-coated cavities at 4 K and 2 K. The graph demonstrates the resonant quality factor (Q0) against accelerating field (Eacc), comparing pre-coating and post-coating states. The coated cavities exhibit a substantial increase in Q0, reaching values as high as 2x10^10 at 2 K without significant Q-slope, indicative of enhanced performance. This highlights the efficacy of Nb3Sn coatings for enhancing SRF cavity performance, crucial for advancing particle accelerator technologies.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2001.03823/images/_page_3_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_7.jpeg"
+    },
+    "_page_1_Figure_8.jpeg": {
+      "caption": "Figure 1 offers a schematic representation of the coating chamber setup used for Nb3Sn film deposition on CEBAF 5-cell cavities. Various components like the multiport top plate, niobium support rods, and custom heat shields are labeled. This setup facilitates precise control during the coating process, essential for achieving uniform Nb3Sn films with optimized superconducting properties crucial for high-performance RF cavities.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2001.03823/images/_page_1_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_8.jpeg"
+    },
+    "_page_3_Figure_3.jpeg": {
+      "caption": "Figure 4 shows an EBSD map of the cross-section of a Nb3Sn-coated film. Different colors represent various grain orientations, and the film thickness of approximately 1.8 µm is indicated. The image confirms that the grains are largely uniform without preferential orientation, verifying the consistency of the vapor diffusion coating method used. This structural information is vital as it affects the film's superconducting efficacy in RF applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2001.03823/images/_page_3_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_3.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Figure 2 details the process parameters for the standard Nb3Sn coating procedure. The chart outlines the temperature ramping schedule and periods of temperature stabilization during the multi-step heating process, where the furnace reaches up to 1250 °C. This meticulous control over the heating parameters is essential for ensuring the correct phase formation of Nb3Sn, which directly correlates to the superconducting performance of the coated materials.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2001.03823/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0588,
+    "api_cost": 0.0588,
+    "file_storage_cost": 0.0,
+    "total_time": 50.53,
+    "request_count": 1,
+    "average_cost_per_request": 0.0588,
+    "average_time_per_request": 50.53,
+    "files_uploaded": 8,
+    "total_file_size": 294059
+  }
+}

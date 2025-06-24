@@ -1,0 +1,68 @@
+{
+  "paper_id": "12e200533ccfa6c08455fdf3d2e4c73b",
+  "pdf_path": "apl/Superconductors/arXiv:1112.3412.pdf",
+  "processing_timestamp": "2025-06-23T13:30:25.936324",
+  "figure_analysis": {
+    "_page_5_Figure_2.jpeg": {
+      "error": "Could not extract valid JSON from response",
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1112.3412/images/_page_5_Figure_2.jpeg",
+      "method": "assistants_api_batch"
+    },
+    "_page_4_Figure_11.jpeg": {
+      "error": "Could not extract valid JSON from response",
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1112.3412/images/_page_4_Figure_11.jpeg",
+      "method": "assistants_api_batch"
+    },
+    "_page_4_Figure_1.jpeg": {
+      "error": "Could not extract valid JSON from response",
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1112.3412/images/_page_4_Figure_1.jpeg",
+      "method": "assistants_api_batch"
+    },
+    "_page_5_Figure_9.jpeg": {
+      "error": "Could not extract valid JSON from response",
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1112.3412/images/_page_5_Figure_9.jpeg",
+      "method": "assistants_api_batch"
+    },
+    "_page_3_Figure_6.jpeg": {
+      "error": "Could not extract valid JSON from response",
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1112.3412/images/_page_3_Figure_6.jpeg",
+      "method": "assistants_api_batch"
+    },
+    "_page_3_Figure_9.jpeg": {
+      "error": "Could not extract valid JSON from response",
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1112.3412/images/_page_3_Figure_9.jpeg",
+      "method": "assistants_api_batch"
+    },
+    "_page_6_Figure_7.jpeg": {
+      "error": "Could not extract valid JSON from response",
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1112.3412/images/_page_6_Figure_7.jpeg",
+      "method": "assistants_api_batch"
+    },
+    "_page_2_Figure_1.jpeg": {
+      "error": "Could not extract valid JSON from response",
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1112.3412/images/_page_2_Figure_1.jpeg",
+      "method": "assistants_api_batch"
+    },
+    "_page_5_Figure_0.jpeg": {
+      "error": "Could not extract valid JSON from response",
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1112.3412/images/_page_5_Figure_0.jpeg",
+      "method": "assistants_api_batch"
+    },
+    "_page_4_Figure_3.jpeg": {
+      "error": "Could not extract valid JSON from response",
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1112.3412/images/_page_4_Figure_3.jpeg",
+      "method": "assistants_api_batch"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1301,
+    "api_cost": 0.1301,
+    "file_storage_cost": 0.0,
+    "total_time": 90.81,
+    "request_count": 2,
+    "average_cost_per_request": 0.0651,
+    "average_time_per_request": 45.4,
+    "files_uploaded": 11,
+    "total_file_size": 427607
+  }
+}

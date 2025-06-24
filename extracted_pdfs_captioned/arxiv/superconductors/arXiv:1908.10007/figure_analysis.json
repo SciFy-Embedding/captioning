@@ -1,0 +1,90 @@
+{
+  "paper_id": "89fc90d3b8820ce3e657e15574ea68c3",
+  "pdf_path": "apl/Superconductors/arXiv:1908.10007.pdf",
+  "processing_timestamp": "2025-06-23T14:16:20.168057",
+  "figure_analysis": {
+    "0__page_9_Figure_0.jpeg": {
+      "caption": "Figure 2. Temperature dependence of (a) resistivity and (b) magnetic susceptibility near the superconducting transition of HfV2−xNbx samples. Resistivity data are normalized for a better comparative analysis among samples with varying Nb content. The inset in (a) expands on the normal state resistivity, marking the anomaly at the structural transition near 110 K. This figure demonstrates how Nb doping affects the resistive and magnetic transitions, relevant for understanding the suppression of the structural transition and the alteration in superconducting properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1908.10007/images/0__page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_0.jpeg"
+    },
+    "0__page_9_Figure_1.jpeg": {
+      "caption": "Figure 2 (b) Magnetic susceptibility data, shown alongside resistivity data. The magnetic measurements reveal a strong diamagnetic signal that corroborates the onset of superconductivity. This cross-confirmation with resistivity data helps in robust characterization of superconductivity across different Nb doping levels.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1908.10007/images/0__page_9_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_1.jpeg"
+    },
+    "0__page_13_Figure_1.jpeg": {
+      "caption": "Figure 6. The Nb content x dependence in HfV2−xNbx samples is shown for (a) critical temperature Tc, (b) upper critical field Bc2(0), (c) electronic specific heat coefficient γe, and (d) Maki parameter αM along with spin-orbit coupling constant λSO. The data highlight non-monotonic behavior of Tc and Bc2, with notable peaks at x = 0.2. This figure captures the systematic influence of Nb on various superconducting parameters, underscoring the pivotal role played by optimal Nb doping .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1908.10007/images/0__page_13_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_1.jpeg"
+    },
+    "0__page_14_Figure_1.jpeg": {
+      "caption": "Figure 7. This comparative Bc2-T phase diagram places HfV1.8Nb0.2 among Nb-Ti and Nb3Sn, depicting how HfV1.8Nb0.2 exhibits a higher Bc2 compared to Nb-Ti despite a similar Tc. The comparison underscores the superior performance of Nb-doped HfV2 in achieving high upper critical fields using transition metal superconductors, paving the way for its potential in high-field applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1908.10007/images/0__page_14_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_1.jpeg"
+    },
+    "0__page_10_Figure_1.jpeg": {
+      "caption": "Figure 3. (a) Temperature dependence of specific heat Cp for different Nb doping levels in HfV2−xNbx samples. The data reveal a specific heat anomaly at ~110 K for x=0, indicative of the martensitic structural transformation, which is suppressed by Nb doping. (b) Normalized electronic specific heat Cel/Te, emphasizing the strong coupling nature of the superconducting state evidenced by higher specific heat jumps than predicted by the Bardeen-Cooper-Schrieffer (BCS) theory .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1908.10007/images/0__page_10_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_1.jpeg"
+    },
+    "0__page_11_Figure_1.jpeg": {
+      "caption": "Figure 4. (a) Resistivity as a function of temperature for x = 0.2 under various magnetic fields up to 9 T, reflecting the field-induced suppression of superconductivity. (b) Isothermal resistivity as a function of magnetic field for x = 0.2 at different temperatures demonstrates the robustness of superconductivity against magnetic perturbation up to 30 T. (c) A phase diagram of upper critical field Bc2 versus temperature, showcasing the phase boundary for various Nb doping levels in the samples .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1908.10007/images/0__page_11_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_1.jpeg"
+    },
+    "0__page_12_Figure_0.jpeg": {
+      "caption": "Figure 5. Normalized upper critical field h* plotted versus reduced temperature t = T/Tc for HfV2−xNbx samples. Each subplot (a-d) covers different Nb doping level, fitting theoretical WHH curves for different spin-orbit scattering scenarios. This figure provides insight into the effects of spin paramagnetism and spin-orbit scattering on the upper critical field behavior .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1908.10007/images/0__page_12_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_0.jpeg"
+    },
+    "_page_8_Figure_1.jpeg": {
+      "caption": "Figure 1. (a) Powder x-ray diffraction patterns at room temperature for the HfV2−xNbx samples. The patterns demonstrate the cubic C15 structure with all major peaks indexed to the space group Fd3m. Impurity phases, identified by asterisks, show variation depending on the Nb content. (b) A schematic representation of the crystal structure of HfV2, highlighting the arrangement of Hf and V atoms. (c) The cubic lattice parameter plotted as a function of Nb content indicates an expansion in the lattice with increasing Nb. This is consistent with Nb substituting for V, given the relative atomic sizes of Nb and V.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1908.10007/images/_page_8_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_1.jpeg"
+    },
+    "0__page_12_Figure_1.jpeg": {
+      "caption": "Figure 5 continued. The continuation of the plots of normalized upper critical field showing how deviations in WHH theory correlate with different dopant levels and provide crucial insights about superconducting state interactions and enhancements due to Nb addition .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1908.10007/images/0__page_12_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0644,
+    "api_cost": 0.0644,
+    "file_storage_cost": 0.0,
+    "total_time": 75.37,
+    "request_count": 1,
+    "average_cost_per_request": 0.0644,
+    "average_time_per_request": 75.37,
+    "files_uploaded": 10,
+    "total_file_size": 655558
+  }
+}

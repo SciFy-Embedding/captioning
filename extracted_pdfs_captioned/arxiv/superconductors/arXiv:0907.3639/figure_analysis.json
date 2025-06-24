@@ -1,0 +1,50 @@
+{
+  "paper_id": "7e316bcc9a8383acea275a5bf25b22f2",
+  "pdf_path": "apl/Superconductors/arXiv:0907.3639.pdf",
+  "processing_timestamp": "2025-06-23T13:20:45.390393",
+  "figure_analysis": {
+    "_page_3_Figure_0.jpeg": {
+      "caption": "Figure 3 illustrates the reflectance ratio R(T)/RN spectra of V3Si film 'd180' at selected temperatures within the terahertz (THz) frequency region. Panel (a) compares R(T)/RN as measured at different temperatures (6 K, 8 K, 11 K, and 17 K), showing an increase in reflectance with decreasing temperature until it becomes nearly constant below approximately 20 cm^-1. This suggests the presence of a superconducting gap close to 10 cm^-1. Panel (b) presents the RS/RN spectrum at 6 K compared against best-fit models utilizing both one-band (1-b) and two-band (2-b) fittings, revealing that the 2-b fitting describes the empirical data more accurately. The one-band model uses parameters such as plasma frequency = 2.35 eV, scattering rate = 125 cm^-1, and optical gap = 14 cm^-1. Panel (c) details the absorptive component σ1S from the 2-b model in units of 10^4 Ω^-1 cm^-1. The results are significant as they confirm a two-band superconducting state model for V3Si, marked by dual optical gaps.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0907.3639/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Figure 2 depicts the distribution of Fermi velocity magnitudes |vF| for bands crossing the Fermi level EF in V3Si, normalized by each band's density of states. The inset details the energy bands along symmetry lines of the Brillouin zone, with different symbols marking different bands. The distribution shows a bimodal behavior, chiefly attributed to differences among bands numbered 3 and 4, which have higher contributions compared to other bands with smaller density of states. This bimodal distribution suggests the existence of two types of charge carriers contributing distinctively to the plasma frequency, thereby hinting at a possible two-band system in the normal state of V3Si.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0907.3639/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    },
+    "_page_1_Figure_0.jpeg": {
+      "caption": "Figure 1 displays the transmittance T(ω) spectra of V3Si film 'd033' within the THz region at various temperatures. In panel (a), the transmittance at 20 K is plotted alongside the best fit using a two-band model, illustrating temperature dependence and sharper Drude-like peaks at lower temperatures due to narrower conduction pathways. Panel (b) presents transmittance spectra of a LaAlO3 substrate for reference. The analysis of these transmittance spectra implies poorer conducting properties for 'd033' compared to 'd180', and the data support the two-band model, indicating dual distinct superconducting gaps. Such findings underline the complexity of multiband superconductivity in these materials.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0907.3639/images/_page_1_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_0.jpeg"
+    },
+    "_page_3_Figure_2.jpeg": {
+      "caption": "Figure 4 captures the transmittance ratio T(T)/TN spectra for the 'd033' V3Si film at various temperatures within the THz frequency region, revealing a maximum around 40 cm^-1 as the temperature decreases. Panel (a) highlights the TS/TN spectrum showing a pronounced peak due to the superconducting transition, with the inset comparing this with a two-band fitted model (parameters include different plasma frequencies and scattering rates for two bands). Panel (b) shows the absorption coefficient αS derived from the 2-b model, demonstrating a defined minimum around twice the superconducting gap value 2ΔB. These observations, indicating two separate gaps, contribute significantly to understanding the multigap superconducting behavior of V3Si.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0907.3639/images/_page_3_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_2.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0571,
+    "api_cost": 0.0571,
+    "file_storage_cost": 0.0,
+    "total_time": 34.11,
+    "request_count": 1,
+    "average_cost_per_request": 0.0571,
+    "average_time_per_request": 34.11,
+    "files_uploaded": 5,
+    "total_file_size": 288204
+  }
+}

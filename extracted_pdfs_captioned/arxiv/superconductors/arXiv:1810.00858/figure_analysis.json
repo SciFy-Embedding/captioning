@@ -1,0 +1,178 @@
+{
+  "paper_id": "0975bcaa1e17bc5bf5044eaa8843a916",
+  "pdf_path": "apl/Superconductors/arXiv:1810.00858.pdf",
+  "processing_timestamp": "2025-06-23T14:13:07.176875",
+  "figure_analysis": {
+    "0__page_19_Figure_1.jpeg": {
+      "caption": "This figure presents the Z2 index plot for the surface states of Ta3Sb, highlighting their non-trivial topological nature. The left plot delineates the band structure at k_z = 0, and the right shows it at k_z = π, with k_y/π on the x-axis and θ(π) on the y-axis. The topological Z2 index indicates electronic states' stability against time-reversal invariant perturbations, underscoring the potential for realizing robust topological insulator behavior .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.00858/images/0__page_19_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_19_Figure_1.jpeg"
+    },
+    "1__page_21_Figure_2.jpeg": {
+      "caption": "This figure illustrates the electronic band structure and spin Hall conductivity (SHC) of Nb3Al with and without spin-orbit coupling (SOC). The left panel reveals the energy band dispersion along high symmetry points in the Brillouin zone, comparing with and without SOC (shown with different line styles). The right panel plots SHC as a function of energy, demonstrating spin currents' behavior due to SOC, critical for understanding spintronic applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.00858/images/1__page_21_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Figure_2.jpeg"
+    },
+    "1__page_25_Figure_2.jpeg": {
+      "caption": "Display of electronic band structure and SHC for Cr3Os both with and without SOC. In the band structure (left), the energy levels are shown as functions of wave vectors R, M, G, X, reflecting the influence of SOC through distinct line patterns. The SHC (right) is plotted in units of (ħ/e)(S/cm), highlighting the material's capability in spin current generation .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.00858/images/1__page_25_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_25_Figure_2.jpeg"
+    },
+    "1__page_23_Figure_0.jpeg": {
+      "caption": "The electronic band structure of Ta3Au, detailing bands with and without SOC, presented alongside the SHC curve. The left panel contrasts energy dispersions of electronic bands, demonstrating SOC's effect. The SHC plot (right) emphasizes SOC-induced spin responses, vital for spintronic technology exploitation .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.00858/images/1__page_23_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_23_Figure_0.jpeg"
+    },
+    "0__page_14_Figure_0.jpeg": {
+      "caption": "These panels (a to c) reveal the electronic structures and SHC for Ta3Ta, W3Re, and W3Ta. Panels juxtapose scenarios with and without SOC, delineating SOC's role in filling gaps and generating spin Berry curvature. SHC plots against energy underscore maximum SHC conditions—aiding in material suitability for spintronics .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.00858/images/0__page_14_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_0.jpeg"
+    },
+    "1__page_27_Figure_0.jpeg": {
+      "caption": "The figure showcases the electronic band structure and SHC of V3Pt with and without SOC. The left panel plots energy versus high symmetry directions, illustrating SOC's influence through distinct graphical patterns. The SHC (right) reveals result-driven interpretations of SOC's role in enhancing spintronic applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.00858/images/1__page_27_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_27_Figure_0.jpeg"
+    },
+    "0__page_13_Figure_0.jpeg": {
+      "caption": "Panel a depicts the electronic structure of W3W, focusing on Dirac crossings and decomposed contributions from orbitals and crystallographic sites. SOC-induced hybridization is elucidated in Panels b and c, illustrating gap openings and spin Berry curvature generation critical for optimizing spin Hall effects .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.00858/images/0__page_13_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_0.jpeg"
+    },
+    "1__page_24_Figure_0.jpeg": {
+      "caption": "Demonstrates the electronic structure and SHC for Ta3Os with and without SOC. The plotted energy bands on the left highlight SOC's effects, whereas the right SHC plot suggests intrinsic material capabilities, key for developing efficient spintronic devices .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.00858/images/1__page_24_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_24_Figure_0.jpeg"
+    },
+    "1__page_22_Figure_2.jpeg": {
+      "caption": "Illustrates the electronic band structure of Nb3Bi, detailing energy dispersions with comparisons to SOC inclusion. On the right, the SHC curve, represented against energy, highlights the interplay of SOC, spin currents, and material performance in spintronic contexts .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.00858/images/1__page_22_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Figure_2.jpeg"
+    },
+    "1__page_26_Figure_2.jpeg": {
+      "caption": "This figure presents the electronic band structure and spin Hall conductivity (SHC) for Ti3Pt, comparing scenarios with and without spin-orbit coupling (SOC). The left panel displays the band structure along high symmetry lines within the Brillouin zone, illustrating SOC effects through band gapping. The right panel shows the SHC, highlighting the potential of Ti3Pt as a candidate for spintronic applications due to significant SHC variation with energy .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.00858/images/1__page_26_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_26_Figure_2.jpeg"
+    },
+    "1__page_25_Figure_0.jpeg": {
+      "caption": "This figure depicts the electronic structure and SHC for Cr3Ir both without and with SOC. The band structure on the left shows the energy bands traversing through high symmetry points, while the SHC plot on the right showcases the impact of SOC on spin currents, demonstrating Cr3Ir's spintronic potential .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.00858/images/1__page_25_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_25_Figure_0.jpeg"
+    },
+    "1__page_21_Figure_0.jpeg": {
+      "caption": "Electronic structure and SHC for Nb3Os with and without SOC are displayed. The left panel reveals the energy dispersion along high symmetry directions, highlighting SOC-induced changes in band topology. The right panel plots SHC, emphasizing the effects of band gapping on spin transport properties .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.00858/images/1__page_21_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Figure_0.jpeg"
+    },
+    "0__page_12_Figure_0.jpeg": {
+      "caption": "Panel a shows the schematic failed topological insulator band structure, suitable for spin Hall devices. Panel b introduces the crystal structure of W3W, part of the A15 family, renowned for superconductivity and SHC properties. Panel c displays its Brillouin zone, while panels d and e present electronic band structures with/without SOC, showing Dirac crossings. Panel f plots SHC versus energy, and panel g visualizes spin Berry curvature distribution within BZ planes.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.00858/images/0__page_12_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_0.jpeg"
+    },
+    "1__page_23_Figure_2.jpeg": {
+      "caption": "Analysis of Ta3Ir through electronic band structure and SHC under different SOC conditions. Left: Energy bands indicating SOC impact, particularly on Dirac crossings. Right: SHC plot suggests potential for spintronic innovation through exploiting intrinsic spin responses .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.00858/images/1__page_23_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_23_Figure_2.jpeg"
+    },
+    "1__page_24_Figure_2.jpeg": {
+      "caption": "Displays Ta3Sn's electronic structure and SHC, emphasizing the SOC effects. The progression from left to right shows energy states, highlighting spin-related phenomena's critical role. The SHC highlights variations essential for applications involving spin current manipulation .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.00858/images/1__page_24_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_24_Figure_2.jpeg"
+    },
+    "1__page_26_Figure_0.jpeg": {
+      "caption": "Ti3Ir's electronic structure and SHC are assessed under SOC/no SOC scenarios, showcasing energy dispersion shifts and their effect on spin-current production. This indicates potential enhancements in spin-based applications due to observed SHC characteristics .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.00858/images/1__page_26_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_26_Figure_0.jpeg"
+    },
+    "0__page_15_Figure_0.jpeg": {
+      "caption": "Comprehensive analysis of Ta3Sb's electronic structure, with plots exhibiting scenarios without and with SOC, and consequential SHC. Significant peak close to Fermi energy is noted in SHC. A detailed examination highlights SOC-driven degeneracy in Dirac crossings near E_F, with supplementary panel showing topologically protected surface states.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.00858/images/0__page_15_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_0.jpeg"
+    },
+    "1__page_22_Figure_0.jpeg": {
+      "caption": "Depiction of Nb3Au's electronic structure alongside SHC comparison with/without SOC. Left panel explores band energy pathways, while right plots SHC, revealing SOC's translational effect on spin transport properties. This highlights the potential use in spintronic devices .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.00858/images/1__page_22_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Figure_0.jpeg"
+    },
+    "1__page_20_Figure_5.jpeg": {
+      "caption": "The figure illustrates the electronic band structure of W3Si along with its calculated spin Hall conductivity (SHC). On the left, the band structure without (black lines) and with spin-orbit coupling (SOC, red lines) is presented, showing the effects of SOC by the gapping of bands where Dirac crossings occur. The SHC plot on the right shows the variation of SHC as a function of energy, measured in units of (ħ/e)(S/cm), highlighting significant peaks indicative of spin accumulation from intrinsic mechanisms. These observations emphasize W3Si's potential for applications in next-generation spintronic devices due to its SOC-tuned spin current characteristics.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.00858/images/1__page_20_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_5.jpeg"
+    },
+    "0__page_18_Figure_1.jpeg": {
+      "caption": "This figure presents a detailed decomposition of the electronic band structure of platinum (Pt) and its spin Hall conductivity (SHC). Each subplot on the left side shows contributions from specific orbitals, t2g and eg, among others, reflecting how orbital hybridization induced by SOC alters band characteristics. The SHC plot on the right shows its quantitative relationship with energy, highlighting gap-opened crossings at the L-point and along the Γ-X line, known to correlate with substantial intrinsic spin Hall effects. These findings underscore Pt's efficiency in generating spin currents, essential for robust spintronic applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1810.00858/images/0__page_18_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_18_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.2071,
+    "api_cost": 0.2071,
+    "file_storage_cost": 0.0,
+    "total_time": 150.85,
+    "request_count": 3,
+    "average_cost_per_request": 0.069,
+    "average_time_per_request": 50.28,
+    "files_uploaded": 21,
+    "total_file_size": 1686017
+  }
+}

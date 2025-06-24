@@ -1,0 +1,58 @@
+{
+  "paper_id": "495f6792b148ff0c5da464e2252cec8a",
+  "pdf_path": "apl/Superconductors/arXiv:2010.07312.pdf",
+  "processing_timestamp": "2025-06-23T14:33:32.487406",
+  "figure_analysis": {
+    "_page_4_Figure_1.jpeg": {
+      "caption": "Figure 1 shows the change in out-of-plane lattice parameter with temperature for V3Si thin films deposited on sapphire and SiO2 on silicon substrates. The x-axis represents temperature in degrees Celsius, and the y-axis represents the percentage change in lattice parameter (Δd). Data points are visualized using markers: blue triangles for sapphire substrates and orange circles for SiO2 on silicon substrates. The inset provides a bar chart showing average linear thermal expansion coefficients for grains oriented along (200), (210), and (211) planes on both substrates from 700 to 1000 °C. Key findings include that on sapphire, the thermal expansion rate varies with grain orientation, while on silicon, it does not. The insets indicate larger expansions for grains oriented along the (211) plane, followed by (210) and (200). This figure is significant for demonstrating how substrate differences affect thermal expansion behavior in these films, which can influence their structural and electronic properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2010.07312/images/_page_4_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_1.jpeg"
+    },
+    "_page_1_Figure_9.jpeg": {
+      "caption": "Figure 9 illustrates the relationship between annealing temperature and the critical temperature (T_c) for V3Si films deposited on sapphire and SiO2 on Si substrates. The x-axis shows the annealing temperature in °C, while the y-axis indicates the critical temperature in Kelvin. The main graph displays a continuous increase in T_c with rising annealing temperature. Data for sapphire substrates is denoted by blue triangles and for SiO2 on Si substrates by orange circles. The inset graph shows normalized resistance measurements, highlighting the transition to superconductivity. Results reveal a clear offset, with samples on sapphire exhibiting a higher T_c than those on silicon. This offset is attributed to differing strain levels in the films, affecting superconducting properties without altering silicide formation dynamics, emphasizing the influence of substrates on superconductivity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2010.07312/images/_page_1_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_9.jpeg"
+    },
+    "_page_2_Figure_9.jpeg": {
+      "caption": "Figure 3 presents X-ray diffraction θ-2θ scans of V3Si thin films recorded at temperatures of 550, 780, and 1000 °C for both sapphire and SiO2 on Si substrates. The x-axis represents diffraction angle 2θ (degrees), and the y-axis shows counts on a logarithmic scale. The diffraction pattern highlights peaks at (200), (210), and (211) orientations, with the temperature-specific changes in these peaks' positions indicating thermal expansion and crystalline changes due to annealing. The results show sharper peaks at higher temperatures, correlating with increased crystallite sizes and reduced defect densities, which are crucial for understanding the annealing process impact on film crystalline quality and related superconducting properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2010.07312/images/_page_2_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_9.jpeg"
+    },
+    "_page_3_Figure_5.jpeg": {
+      "caption": "Figure 5 depicts the change in crystalline grain size and XRD peak positions of V3Si films as a function of temperature for sapphire and SiO2 on silicon substrates. The figure includes four panels: the top panel shows crystallite size (nm) vs. temperature (°C), while the bottom three panels display the position of distinct peaks corresponding to the (200), (210), and (211) latices as a function of temperature. The data is plotted with blue triangles for sapphire and orange circles for silicon-based substrates. The graphs highlight that grain size grows with temperature, but no significant substrate-dependent difference is evident—except at higher temperatures where divergence is ascribed to instrumental line broadening differences. The temperature-induced peak shifts correlate with thermal expansion, offering insight into how different substrates affect the structural properties and hint at variations in film quality and its implications on physical properties like superconductivity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2010.07312/images/_page_3_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_5.jpeg"
+    },
+    "_page_2_Figure_1.jpeg": {
+      "caption": "This figure presents the Residual-Resistance Ratio (RRR) defined as the ratio of resistances at 260 K to 20 K, plotted against annealing temperature for V3Si films on sapphire and SiO2 on Si substrates. The data shows an increasing trend in RRR with annealing temperature, suggesting reduced defect density in the films. The inset graph analyzes samples annealed at specified temperatures, showing square resistance against temperature in K. A comparative analysis shows higher RRR values on sapphire than silicon, corresponding with higher alloy quality and better superconducting properties. This figure confirms that substrate type impacts crystallinity and thus the superconducting behavior of V3Si, aligning with research goals to optimize film properties for electronic applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2010.07312/images/_page_2_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0597,
+    "api_cost": 0.0597,
+    "file_storage_cost": 0.0,
+    "total_time": 46.89,
+    "request_count": 1,
+    "average_cost_per_request": 0.0597,
+    "average_time_per_request": 46.89,
+    "files_uploaded": 6,
+    "total_file_size": 233535
+  }
+}

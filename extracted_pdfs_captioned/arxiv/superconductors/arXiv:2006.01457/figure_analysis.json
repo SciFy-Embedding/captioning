@@ -1,0 +1,106 @@
+{
+  "paper_id": "2fd4749461308dcfeed8037c25215123",
+  "pdf_path": "apl/Superconductors/arXiv:2006.01457.pdf",
+  "processing_timestamp": "2025-06-23T14:28:10.217076",
+  "figure_analysis": {
+    "0__page_11_Figure_5.jpeg": {
+      "caption": "Figure 8 shows the minimum quench energy (MQE) as a function of normalized transport current (I/Ic) for OST LARP Round Bare and Wrapped wires compared alongside Hypertech High-Cp strands. The graph details the enhanced MQE values of wrapped configurations, indicating increased stability against quenches. In the photograph, the wire cross-sections illustrate the material structure, important for thermal management. This analysis highlights the efficacy of wrapping in increasing the stability of superconductors, offering insights into the engineering of future high-performance superconducting magnets.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2006.01457/images/0__page_11_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_5.jpeg"
+    },
+    "_page_5_Figure_2.jpeg": {
+      "caption": "Figure 4 presents geometrical models of high-Cp Nb3Sn wires compared to cross-sectional microscopy images. The left panel depicts the geometrical model versus a cross section for a standard 54/61 wire by Hypertech, while the center shows a model for a high-Cp 48/61 wire by Hypertech. The models are used in finite element method (FEM) simulations to evaluate thermal properties and quenching behavior. The comparison serves as a validation of the model by correlating simulated and experimental outcomes, revealing the intricate internal structure that influences wire performance under superconducting conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2006.01457/images/_page_5_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_2.jpeg"
+    },
+    "_page_1_Picture_5.jpeg": {
+      "caption": "Figure 1 displays the cross-sectional images of two critical superconducting elements: the left shows a 150/169 Nb3Sn wire pre-heat treatment from the Restacked Rod Process® type, while the right presents a cross-section of a 28-strand Nb3Sn Rutherford cable. These visuals illustrate the structural configuration of superconducting and copper matrices instrumental in heat capacity and thermal diffusion properties. The imagery supports the research into wire design and thermal management, crucial for high field accelerator magnets where enhancements in thermal stability are pursued through structural configurations.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2006.01457/images/_page_1_Picture_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Picture_5.jpeg"
+    },
+    "0__page_11_Figure_3.jpeg": {
+      "caption": "Figure 7 illustrates the results of thermal simulations using various configurations of high-Cp subelements within Bruker geometry. Highlighted are different placements and quantities of high-Cp components, showing their negligible impact on thermal efficiency compared to the number of components. The findings align with efforts to optimize thermal properties without compromising mechanical integrity, thus informing the design strategy for future Nb3Sn superconducting wires with enhanced stability against thermal perturbations.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2006.01457/images/0__page_11_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_3.jpeg"
+    },
+    "_page_2_Picture_4.jpeg": {
+      "caption": "Figure 2 provides a detailed view of cross sections before heat treatment for high-Cp 48/61 Nb3Sn wire (Hypertech) and high-Cp 36/61 Nb3Sn wire (Bruker-OST). These images highlight the application of Cu and Gd2O3 ceramic powders, enhancing the wires' specific heat and thermal diffusion properties. The cross-sectional analyses inform on the pre-treatment material configurations that are crucial for optimizing the superconducting wire's resistance to quench events when assembled into high-field magnets.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2006.01457/images/_page_2_Picture_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Picture_4.jpeg"
+    },
+    "_page_0_Picture_1.jpeg": {
+      "caption": "No relevant scientific figure related captionable content found for the image labeled as MDPI instrument logo.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2006.01457/images/_page_0_Picture_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_0_Picture_1.jpeg"
+    },
+    "_page_3_Figure_5.jpeg": {
+      "caption": "Figure 3 compares minimum quench energy (MQE) across different wires as a function of normalized transport current (I/Ic), focusing on 60/61 and 108/127 RRP wires. It demonstrates the alteration in thermal quench stability with wire modification, emphasizing the effect of reducing dimensionality on quench performance. Such comparative baseline assessments are vital for validating FEM models against physical measurements, revealing practical superconducting wire enhancements for stability in accelerator contexts .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2006.01457/images/_page_3_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_5.jpeg"
+    },
+    "0__page_10_Figure_3.jpeg": {
+      "caption": "Figure 6 provides a comparison between simulated MQE values and experimental data for Hypertech wires under varying I/Ic conditions, offering insight into the model’s accuracy. This figure illustrates the difference in thermal quenching resistance in high-field conditions, critical for model validation and further advancements in high-Cp Nb3Sn wire developments. It emphasizes the role of FEM modeling in predicting superconductive behavior to improve the design efficiency of superconducting components used in accelerator magnets .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2006.01457/images/0__page_10_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_3.jpeg"
+    },
+    "_page_0_Picture_0.jpeg": {
+      "caption": "No relevant scientific figure-related captionable content found for the image labeled as MDPI logo.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2006.01457/images/_page_0_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_0_Picture_0.jpeg"
+    },
+    "_page_6_Figure_1.jpeg": {
+      "caption": "Figure 5 presents the measured specific heat of Gd2O3 as a function of temperature under various magnetic fields ranging from 0 to 16 Tesla. The data demonstrate the specific heat peak at low temperatures, providing crucial insights into Gd2O3's suitability as a high heat capacity material for improving the thermal stability of superconducting wires. This graph underscores the role of Gd2O3 in elevating the specific heat substantially at cryogenic temperatures, which is pivotal for reducing quench susceptibility in superconducting magnets used in particle accelerators.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2006.01457/images/_page_6_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_1.jpeg"
+    },
+    "0__page_13_Picture_5.jpeg": {
+      "caption": "No relevant scientific figure-related captionable content found for the image labeled as CC BY license icon.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2006.01457/images/0__page_13_Picture_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Picture_5.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1232,
+    "api_cost": 0.1232,
+    "file_storage_cost": 0.0,
+    "total_time": 69.13,
+    "request_count": 2,
+    "average_cost_per_request": 0.0616,
+    "average_time_per_request": 34.57,
+    "files_uploaded": 12,
+    "total_file_size": 548257
+  }
+}

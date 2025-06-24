@@ -1,0 +1,690 @@
+{
+  "paper_id": "38229d4e907beeaab4edd996ac8df383",
+  "pdf_path": "apl/Superconductors/arXiv:cond-mat_0607554.pdf",
+  "processing_timestamp": "2025-06-24T11:57:20.688611",
+  "figure_analysis": {
+    "1__page_26_Figure_9.jpeg": {
+      "caption": "This figure displays frequency-dependent Raman intensity spectra for multiple scattering configurations labeled a, b, c, and d, along the frequency shift axis measured in meV. The intensity is presented in arbitrary units indicative of differing signal strengths across these configurations. The data trend reveals notable increases and decreases in intensity corresponding to specific frequency shifts, with each spectrum configuration showing unique characteristics. These findings point towards underlying electronic and vibrational structures in the material under different conditions. The scientific significance lies in identifying and characterizing unique vibrational modes that may correspond to specific phonon or electronic excitations.",
+      "queries": [
+        "What configurations are represented in Figure 9 on page 26?",
+        "How does the Raman intensity vary across different frequency shifts for Figure 9?",
+        "What is the significance of the unique characteristics in the spectra configurations in Figure 9?",
+        "What might be inferred about the electronic properties from Figure 9?",
+        "What frequency shifts are significant in the Raman spectra recorded in Figure 9?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/1__page_26_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_26_Figure_9.jpeg"
+    },
+    "2__page_30_Figure_7.jpeg": {
+      "caption": "The figure portrays a Raman shift versus photon counts graph for V3Si with experimental data fitted to a theoretical model by M.V. Klein and S.M. Dierker. The x-axis denotes the Raman shift in cm^-1, ranging from 30 to 100, while the y-axis represents photon counts per second. The fitted curve demonstrates a peak near the lower Raman shift range that diminishes gradually at higher shifts. The experimental data closely follows the fit, underpinning the theoretical predictions. This correlation is crucial for substantiating the provided model in explaining material interactions observed in superconductors like V3Si.",
+      "queries": [
+        "What model is used for fitting the experimental data in Figure 7 on page 30?",
+        "What is the significance of the peak in photon counts in Figure 7?",
+        "How does the Raman shift correlate with photon counts in Figure 7?",
+        "What theoretical implications does Figure 7 hold for V3Si according to Klein and Dierker?",
+        "At which Raman shift is the peak photon count observed in Figure 7?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/2__page_30_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_30_Figure_7.jpeg"
+    },
+    "2__page_32_Figure_9.jpeg": {
+      "caption": "This image illustrates Raman spectra of 2H NbSe2 comparing states above and below the critical temperature Tc. Recorded at 9 K in the normal state and 2 K immersed in superfluid He, the intensities for superconducting spectra are offset by specified counts. This differential visualization highlights the effect of charge density wave (CDW) modulations and impurity concentrations on spectral properties. The inset comparison underscores the superconducting-induced spectral shifts significant in understanding the electronic properties of 2H NbSe2 under varying thermal conditions.",
+      "queries": [
+        "What are the effects of temperatures above and below Tc on phonon modes in Figure 9?",
+        "How do impurity concentrations affect the spectral properties observed in Figure 9?",
+        "What role does the charge density wave play in the changes depicted in Figure 9?",
+        "How are the superconducting and normal states differentiated in Figure 9?",
+        "What scientific conclusion can be drawn from the Raman spectra shifts in Figure 9?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/2__page_32_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_32_Figure_9.jpeg"
+    },
+    "3__page_36_Figure_2.jpeg": {
+      "caption": "This figure presents the temperature dependency of Raman spectra for Bi0.19Ca0.81MnO3, highlighting charge-ordering phenomena. Subfigure (a) details Raman spectra evolution, while (b) denotes fractional changes in scattering intensity around the charge-ordering temperature Tco, and (c) describes a closed-loop path for charge motion. Data illustrate significant spectral change indicators, important for analyzing charge and spin dynamics under changing thermal conditions in charge-ordered materials.",
+      "queries": [
+        "What does the temperature dependence of Raman spectra in Figure 2 reveal about charge ordering?",
+        "How does fractional change in scattering intensity correlate with Tco in Figure 2?",
+        "What is the significance of closed-loop charge motion paths represented in Figure 2?",
+        "How might charge ordering in Bi0.19Ca0.81MnO3 be understood from Figure 2?",
+        "What insights about electronic transitions can be gleaned from the changes shown in Figure 2?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/3__page_36_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_36_Figure_2.jpeg"
+    },
+    "4__page_51_Figure_2.jpeg": {
+      "caption": "Illustrating the behavior of various dopants in LMNO compounds, this figure connects changes in lattice parameters with modifications in electronic properties due to cation substitution. The graph compares effects like spin state transitions and crystal field influences evidenced by distinct shifts resulting from different elemental substitutions in the crystal structure. This correlation is pivotal for tailoring electronic and structural properties of complex oxides through targeted doping strategies.",
+      "queries": [
+        "How does cation substitution affect the lattice parameters in Figure 2?",
+        "What spin state transitions are indicated by the changes in Figure 2?",
+        "How does doping influence the crystal field effects depicted in Figure 2?",
+        "What differential outcomes are seen from various dopant elements in Figure 2?",
+        "What practical applications arise from understanding the lattice parameter modifications in Figure 2?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/4__page_51_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "4__page_51_Figure_2.jpeg"
+    },
+    "0__page_15_Figure_18.jpeg": {
+      "caption": "Displaying the temperature dependence of spin density wave or charge density wave features, this figure aggregates data over varying external conditions. The structure indicates how changes in temperature influence order parameters related to density waves and crystal lattice dynamics, with implications for physical behavior insights, such as conductivity adjustments and phase transition mechanisms in strongly-correlated systems.",
+      "queries": [
+        "What are the identified order parameters in Figure 18?",
+        "How does temperature impact spin/charge density waves in Figure 18?",
+        "What insights into lattice dynamics are gained from Figure 18?",
+        "How is conductivity affected by the properties depicted in Figure 18?",
+        "What phase transition mechanisms are discerned from the temperature trends in Figure 18?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/0__page_15_Figure_18.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_18.jpeg"
+    },
+    "3__page_37_Figure_1.jpeg": {
+      "caption": "Figure 1 depicts composite paths for possible charge migration highlighting molecular geometries or atomic positions in a crystallographic context, elucidated by schematic models in electronic or spin-lattice frameworks. It underscores spatial configuration changes affecting electronic communication routes, crucial for deciphering complex electron interactions responsible for observed macroscopic properties.",
+      "queries": [
+        "How are charge migration pathways visualized in Figure 1 on page 37?",
+        "What structural changes influence electronic pathways in Figure 1?",
+        "How do atomic positions contribute to electronic communication routes in Figure 1?",
+        "What models are proposed for electron interaction insights on Figure 1?",
+        "What macroscopic properties are inferred from geometric configurations in Figure 1?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/3__page_37_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_37_Figure_1.jpeg"
+    },
+    "2__page_31_Figure_12.jpeg": {
+      "caption": "This figure represents the Raman spectra under different polarization configurations in the superconducting state of MgB2, comparing experimental results with theoretical fits using models for disordered s-wave superconductors. The significant detail includes the spectral responses in xx and zz polarization geometries, showcasing variations in gap structures and implications for phonon influence on superconductivity.",
+      "queries": [
+        "What differences in Raman spectra are evident across polarization geometries in Figure 12?",
+        "How does Figure 12 corroborate theoretical models of superconductivity?",
+        "What phonon-related insights are derived from the MgB2 Raman spectra in Figure 12?",
+        "What spectral variations signify gap structures in Figure 12?",
+        "What conclusions are drawn regarding disorder effects in superconductors from Figure 12?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/2__page_31_Figure_12.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_31_Figure_12.jpeg"
+    },
+    "1__page_21_Figure_4.jpeg": {
+      "caption": "This schematic figure illustrates multiple Feynman diagrams for interaction processes analyzing scattering elements across various quantum states, distinguishing between ground and excited levels. It enhances comprehension of particle interaction dynamics, serving as a tool to associate complex quantum behaviors with critical experimental observables.",
+      "queries": [
+        "What quantum states are represented in Figure 4 diagrams?",
+        "How do various interaction processes in Figure 4 contribute to quantum behavior analysis?",
+        "What is the role of Feynman diagrams in elucidating processes in Figure 4?",
+        "How are ground and excited states distinguished in Figure 4?",
+        "What experimental observables are derived from interactions in Figure 4?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/1__page_21_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Figure_4.jpeg"
+    },
+    "3__page_42_Figure_2.jpeg": {
+      "caption": "Figure 2 displays pressure dependence data comparing the superconducting gap results for different high-temperature superconductors like Bi2Sr2CaCu2O8+x and YBa2Cu3O7. The top graph shows the correlation of 2Δ/kTc with pressure in GPa, highlighting the dependence of the gap on external pressure, with an inset further distinguishing between hole types from different materials. The bottom graph outlines changes in wavenumber (cm^-1) in response to the applied pressure. This figure underscores the sensitivity of superconducting properties to external conditions, indicating relationships between lattice dynamics and superconductivity.",
+      "queries": [
+        "How does pressure affect the superconducting gap in Figure 2?",
+        "What materials are compared in Figure 2 for gap analysis?",
+        "How is the pressure related to changes in the wavenumber in Figure 2?",
+        "What does the inset in Figure 2 reveal about hole types in superconductors?",
+        "What conclusions can be drawn about lattice dynamics from Figure 2?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/3__page_42_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_42_Figure_2.jpeg"
+    },
+    "1__page_25_Figure_5.jpeg": {
+      "caption": "The figure presents Raman spectra depicting imaginary parts of polarization-dependent responses (Α1g, B1g, and B2g) across a range of frequency (ω). Each panel shows different temperatures (t=0.1, 0.25,…, 0.9) denoting transition phenomena, crucial for identifying phase transitions in high-temperature superconductors. The peak shifts observed provide insights into electronic or phononic interactions that dominate at different energy scales, offering key findings for understanding the symmetry and interactions in such materials.",
+      "queries": [
+        "What polarization dependencies are shown in Figure 5?",
+        "How do different temperatures influence Raman spectra in Figure 5?",
+        "What insights about electronic interactions are seen in Figure 5?",
+        "What does Figure 5 reveal about phononic interactions in superconductors?",
+        "How are phase transitions characterized in the spectra of Figure 5?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/1__page_25_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_25_Figure_5.jpeg"
+    },
+    "3__page_43_Figure_10.jpeg": {
+      "caption": "Figure 10 compares low energy Raman response functions for Bi2Sr2CaCu2O8+ at different doping levels represented in different fluctuation modes (B1g and B2g). The Raman shift axis identifies energy-dependent shifts, and the spectral line differences highlight how doping affects asymmetry in energy scales. The findings are crucial in examining how electronic interactions are influenced by doping, especially in alterations in the charge dynamics and coherence phenomena in cuprates.",
+      "queries": [
+        "How does doping affect the Raman response in Figure 10?",
+        "What are the primary spectral differences shown in Figure 10?",
+        "What is the significance of fluctuation modes in Figure 10?",
+        "How is charge dynamics affected by doping in Figure 10?",
+        "What does Figure 10 reveal about coherence phenomena in superconductors?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/3__page_43_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_43_Figure_10.jpeg"
+    },
+    "2__page_34_Figure_6.jpeg": {
+      "caption": "Figure 6 illustrates the temperature dependence of Raman spectra in FeSi across various energy shifts labeled at 340 K, 175 K, 120 K, 50 K, and 15 K. Significant spectral features that evolve as the temperature decreases provide insights into electronic correlation effects and electron-phonon coupling in semiconductors. This transformation of spectral lines signifies the transition into potential charge density wave ordering or spin density wave features, marking key phases in FeSi under thermal variation.",
+      "queries": [
+        "What temperature range shows significant spectral changes in Figure 6?",
+        "What electronic correlations are inferred from the spectra in Figure 6?",
+        "How does temperature affect specific interactions in FeSi in Figure 6?",
+        "What wave ordering phenomena are indicated by Figure 6 spectral shifts?",
+        "How do electron-phonon couplings manifest in Figure 6?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/2__page_34_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_34_Figure_6.jpeg"
+    },
+    "3__page_43_Figure_0.jpeg": {
+      "caption": "This figure delineates Raman scattering intensity versus shift for Bi2Sr2Ca1-xYxCu2O8+ at various excitations (2.18 eV, 2.34 eV). Subgraphs (a) and (b) distinguish between different excitation energies, illustrating detailed examination of superconducting symmetries and energy gaps. The data explores the excitation energies’ influence on scattering intensity, linking them to superconducting phase properties like symmetry breaking and describing interactions pertinent to cuprate compounds.",
+      "queries": [
+        "What role do excitation energies play in Raman scattering in Figure 0?",
+        "How is symmetry affected in superconductors as shown in Figure 0?",
+        "What does Figure 0 suggest about energy gaps in cuprate superconductors?",
+        "How do different excitation energies affect scattering intensity in Figure 0?",
+        "What findings about phase properties are revealed in Figure 0?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/3__page_43_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_43_Figure_0.jpeg"
+    },
+    "4__page_48_Figure_10.jpeg": {
+      "caption": "This image captures the Raman scattering spectra across varying doping levels in the nodal and anti-nodal regions of the Brillouin zone, focusing on how B1g and B2g symmetries respond. The figure, with indicators above Tc, provides profound insights into doping influences on the electronic properties, demonstrating how the coexistence of symmetry modes influences overall material behavior, particularly in the context of pseudogap phenomena and the electronic states in underdoped cuprates.",
+      "queries": [
+        "How does doping influence symmetry modes in Figure 10?",
+        "What do the nodal and anti-nodal regions reveal in Figure 10?",
+        "What is the significance of pseudogap phenomena in Figure 10?",
+        "How does the data above Tc inform electronic property changes in Figure 10?",
+        "What role do B1g and B2g symmetries play in material behavior as shown in Figure 10?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/4__page_48_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "4__page_48_Figure_10.jpeg"
+    },
+    "4__page_50_Figure_7.jpeg": {
+      "caption": "Illustrating the low-energy response in underdoped La2-xSr3CuO4, Figure 7 emphasizes Drude-like peaks observed in B2g and B1g symmetries, with spectral scaling converging with temperature adjustments. The interpretation of response lines correlates with orientation and order of stripes in the lattice, providing insights into fluctuation phenomena important for understanding superconductivity at small dopings.",
+      "queries": [
+        "What does Figure 7 reveal about stripe order in lattice structures?",
+        "How do Drude-like peaks manifest in B2g and B1g symmetries in Figure 7?",
+        "What temperature-identical patterns are seen in Figure 7?",
+        "What fluctuation phenomena are significant for superconductivity in Figure 7?",
+        "How is spectral scaling represented in relation to temperature in Figure 7?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/4__page_50_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "4__page_50_Figure_7.jpeg"
+    },
+    "2__page_28_Figure_9.jpeg": {
+      "caption": "Examining electronic interactions, Figure 9 delves into the imaginary part of susceptibility over frequency under different δ values. Key insights show transitions in B1g and B2g channels, pivotal for understanding symmetry breaking and interaction dynamics in superconducting systems, particularly their transformation with doping level changes.",
+      "queries": [
+        "How does Figure 9 depict symmetry breaking in B1g and B2g channels?",
+        "What role does doping play in susceptibility transformations in Figure 9?",
+        "How are interaction dynamics highlighted in Figure 9?",
+        "What do the δ values indicate about system changes in Figure 9?",
+        "How is imaginary part of susceptibility critical in Figure 9's findings?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/2__page_28_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_28_Figure_9.jpeg"
+    },
+    "1__page_22_Figure_3.jpeg": {
+      "caption": "In Figure 3, the energy Ω over frequency ω illustrates Raman intensity dependence in high-temperature superconductors across different crystal symmetries, marked by peaks in B1g and B2g channels. Through comparison with theoretical models, this data helps elucidate underlying electronic structure influences and phononic-excitonic interactions critical for superconducting state properties.",
+      "queries": [
+        "How is Raman intensity depicted in high-temperature superconductors in Figure 3?",
+        "What electronic structures influence the findings in Figure 3?",
+        "How do theoretical models aid in explaining Figure 3's results?",
+        "What phononic-excitonic interactions are observed in Figure 3?",
+        "How is superconducting state variability showcased in Figure 3's measurements?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/1__page_22_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Figure_3.jpeg"
+    },
+    "1__page_23_Figure_0.jpeg": {
+      "caption": "Figure 0 illustrates the B1g, B2g, and A1g Raman response of a high-Tc superconductor across varying frequencies normalized to t. The response functions are vital for understanding the symmetry properties of the superconducting gap. The graph shows a steady increase in response as frequency increases, indicative of energy-dependent changes that are crucial for mapping out electron-phonon interactions and uncovering the symmetry of the underlying superconducting order parameter.",
+      "queries": [
+        "How does the B1g, B2g, and A1g response vary with frequency in Figure 0?",
+        "What does Figure 0 suggest about electron-phonon interactions?",
+        "What symmetry information is drawn from the Raman response in Figure 0?",
+        "How is superconducting order symmetry deduced from Figure 0?",
+        "What role does frequency play in the response mechanisms shown in Figure 0?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/1__page_23_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_23_Figure_0.jpeg"
+    },
+    "2__page_33_Figure_0.jpeg": {
+      "caption": "Figure 0 presents the Raman intensity spectra for various magnetic field strengths in a layered superconductor. The x-axis represents the shift in Raman frequency, while the y-axis shows normalized intensity, allowing for comparisons across different field strengths. These spectra are critical for understanding magnetic field effects on charge dynamics and the interplay between spin and lattice order in controlling superconducting properties.",
+      "queries": [
+        "What effect do different field strengths have on Raman spectra in Figure 0?",
+        "How does the Raman intensity vary across frequency shifts in Figure 0?",
+        "What are the implications of magnetic fields on symmetry properties shown in Figure 0?",
+        "What charge dynamics are revealed in layered superconductors from Figure 0?",
+        "How does spin-lattice interaction manifest in the spectra of Figure 0?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/2__page_33_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_33_Figure_0.jpeg"
+    },
+    "3__page_41_Figure_9.jpeg": {
+      "caption": "Figure 9 illustrates the relationship between energy and critical temperature (Tc) for different peak modes from electronic Raman scattering (ERS) and inelastic neutron scattering (INS). The figure distinguishes between B1g and A1g peaks, showing how energy scales relate to superconducting transition temperatures, providing key insights into the pairing mechanisms and energy landscape in hightemperature superconductors.",
+      "queries": [
+        "How do ERS and INS peaks compare across different temperatures in Figure 9?",
+        "What does Figure 9 reveal about energy scales and Tc in superconductors?",
+        "What can be inferred about pairing mechanisms from Figure 9?",
+        "How does energy relate to superconducting transitions in Figure 9?",
+        "What insights about energy landscapes are drawn from Figure 9?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/3__page_41_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_41_Figure_9.jpeg"
+    },
+    "3__page_39_Figure_0.jpeg": {
+      "caption": "The compositional difference in Raman spectra for superconductors measured at 300 K is shown in Figure 0, highlighting B1g and A1g symmetry distinctions among varying chemical compositions. This figure is significant in identifying how different elemental inclusions affect the electronic scattering rates and subsequently influence the superconducting state properties such as critical temperature and coherence length.",
+      "queries": [
+        "What does Figure 0 suggest about compositional impacts on Raman spectra?",
+        "How do different chemical compositions affect B1g and A1g symmetries in Figure 0?",
+        "What relationship exists between elemental inclusion and superconducting state properties in Figure 0?",
+        "How do scattering rates vary across compositions in Figure 0?",
+        "What compositional influences on critical temperature are highlighted in Figure 0?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/3__page_39_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_39_Figure_0.jpeg"
+    },
+    "1__page_20_Figure_14.jpeg": {
+      "caption": "Figure 14 presents the inverse Raman slope as a function of temperature for different interaction parameters (U). The log-scale for intensity highlights significant variations in energy dissipation processes, crucial for understanding correlations and coupling effects in complex lattice systems and deviations from expected behaviors at different temperatures.",
+      "queries": [
+        "How does the inverse Raman slope change with temperature in Figure 14?",
+        "What do different interaction parameters U imply for correlation effects in Figure 14?",
+        "How are energy dissipation processes represented in Figure 14?",
+        "What temperature dependencies emerge in Figure 14?",
+        "How do Figure 14's findings impact understanding of lattice system coupling?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/1__page_20_Figure_14.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_14.jpeg"
+    },
+    "1__page_25_Figure_3.jpeg": {
+      "caption": "Figure 3 depicts the theoretical predictions for dielectric function components as a function of normalized frequency, normalized to twice the gap, showcasing the impact of varying in-plane momentum transfer on the scattering processes. These findings provide critical information on anisotropic properties of the material and the corresponding optical transition asymmetries.",
+      "queries": [
+        "What role does normalized frequency play in dielectric function outcomes in Figure 3?",
+        "How do changes in in-plane momentum transfer affect scattering in Figure 3?",
+        "What anisotropic properties are deduced from the data in Figure 3?",
+        "How are optical transition asymmetries linked to scattering processes in Figure 3?",
+        "What theoretical predictions are reinforced by the dielectric data in Figure 3?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/1__page_25_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_25_Figure_3.jpeg"
+    },
+    "2__page_31_Figure_3.jpeg": {
+      "caption": "Figure 3 illustrates the temperature-dependent Raman scattering intensity in t-Nb2Sn3 for Eg and A1g modes at specified temperatures. The observation unveils phonon-related changes in the material’s optical properties with temperature variance, crucial for designing applications demanding precise thermal stability and insight into electron-phonon coupling.",
+      "queries": [
+        "What temperature-dependent changes are notable in Raman intensity for Figure 3?",
+        "How do Eg and A1g modes vary with temperature in Figure 3?",
+        "What phonon-related variations are highlighted in Figure 3?",
+        "How is thermal stability implied by Figure 3's data?",
+        "What insights into electron-phonon coupling are derived from Figure 3?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/2__page_31_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_31_Figure_3.jpeg"
+    },
+    "0__page_16_Figure_0.jpeg": {
+      "caption": "The different Feynman diagrams in Figure 0 illustrate processes contributing to Raman scattering cross-sections, showing distinctions between resonant and non-resonant terms and highlighting complex interactions within superconducting phases. Understanding these diagrams aids in modeling light-matter interactions and quantum state transitions.",
+      "queries": [
+        "What do the Feynman diagrams in Figure 0 reveal about scattering cross-sections?",
+        "How are resonant and non-resonant processes distinguished in Figure 0?",
+        "What insights into superconducting phase interactions are provided by Figure 0?",
+        "How are complex light-matter interactions depicted through Figure 0?",
+        "What role do Feynman diagrams play in understanding quantum transitions as shown in Figure 0?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/0__page_16_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_16_Figure_0.jpeg"
+    },
+    "1__page_22_Figure_1.jpeg": {
+      "caption": "Figure 1 portrays the spin configuration transitions from initial to final states in a unique serpentine path, indicating magneto-dynamics as the system evolves through intermediate states. These visualizations help in understanding spin-fluctuation driven transitions critical in the study of magnetic excitations and their connections to electronic phenomena.",
+      "queries": [
+        "What transitions are observed in spin configurations in Figure 1?",
+        "How do intermediate states contribute to magneto-dynamics in Figure 1?",
+        "What insights into spin-fluctuation transitions are derived from Figure 1?",
+        "How are magnetic excitations visualized through state transitions in Figure 1?",
+        "What connections between spin and electronic phenomena are implied by Figure 1?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/1__page_22_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Figure_1.jpeg"
+    },
+    "2__page_29_Figure_11.jpeg": {
+      "caption": "Figure 11 demonstrates Raman shift spectra with photon counts per second on the y-axis across various spectral panels (a-d). Each panel represents different sample or environmental conditions, revealing distinct peak positions and spectral intensities. These spectra facilitate the understanding of phononic and electronic interactions, particularly under different experimental setups, contributing to enhanced interpretation of superconducting and electronic phase transitions in the studied materials.",
+      "queries": [
+        "What experimental conditions are represented across the panels in Figure 11?",
+        "How do photon count peaks vary in Figure 11's Raman spectra?",
+        "What insights into electronic interactions are provided by Figure 11?",
+        "How are phonon interactions represented in Figure 11?",
+        "What experimental set-ups are critical in determining Figure 11's findings?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/2__page_29_Figure_11.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_29_Figure_11.jpeg"
+    },
+    "0__page_9_Figure_4.jpeg": {
+      "caption": "Figure 4 presents a conceptual framework of the transitions from the initial to intermediate and final states, depicted in energy diagrams with arrows indicating transition pathways. This schematic aids in visualizing possible energy level transitions within materials, providing a foundational understanding of interaction dynamics pertinent to photon absorption and emission processes in complex systems.",
+      "queries": [
+        "What energy transitions are depicted in Figure 4's schematic?",
+        "How does Figure 4 illustrate intermediate state transitions?",
+        "What photon interaction dynamics are emphasized in Figure 4?",
+        "How does the visual representation in Figure 4 aid understanding of energy pathways?",
+        "What foundational processes are highlighted in Figure 4's transition diagram?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/0__page_9_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_4.jpeg"
+    },
+    "4__page_51_Figure_6.jpeg": {
+      "caption": "Figure 6 provides a comprehensive temperature-dependent Raman response for Sr2CaCu2O8 along two orthogonal crystallographic directions. The temperature range displayed reflects responses from room temperature down to cryogenic levels, capturing phonon mode evolution and its implications for understanding phase transition mechanisms in high-temperature superconductors. Raman shifts compared across different temperatures elucidate the material's dynamic properties critical for electronic applications.",
+      "queries": [
+        "How does temperature affect Raman response in Figure 6?",
+        "What are the phonon mode evolutions observed in Figure 6?",
+        "How does Figure 6 elucidate phase transition mechanisms?",
+        "What is the significance of comparing Raman shifts at various temperatures in Figure 6?",
+        "How do crystallographic directions impact Raman spectra in Figure 6?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/4__page_51_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "4__page_51_Figure_6.jpeg"
+    },
+    "3__page_40_Figure_4.jpeg": {
+      "caption": "Figure 4 showcases Raman scattering intensity comparisons in B1g and B2g symmetries for high-Tc cuprates, with insets highlighting frequency-dependent peak behaviors. This comparative plot allows differentiation of nodal versus antinodal characteristics based on intensity variations, guiding the understanding of electronic and vibrational interactions among high-temperature superconductors.",
+      "queries": [
+        "How are nodal and antinodal characteristics reflected in Figure 4?",
+        "What do frequency-dependent peak variations indicate in Figure 4?",
+        "How does Figure 4 compare Raman intensities in B1g and B2g symmetries?",
+        "How are vibrational interactions revealed in high-Tc cuprates via Figure 4?",
+        "What insights into electronic interactions can be derived from Figure 4?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/3__page_40_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_40_Figure_4.jpeg"
+    },
+    "4__page_47_Figure_9.jpeg": {
+      "caption": "Figure 9 describes Raman frequency shifts relative to variable temperature conditions in La2-xCexCuO4 samples, each at distinct doping levels (x=0.10, 0.13, 0.17, 0.19, and 0.22). The shift in response as depicted by χ'(ω,T) plots provides a window into the changes in electronic dispersion characterized by doping-induced modifications in the sample, which is significant for tailored material design.",
+      "queries": [
+        "What doping levels are examined in Figure 9 for La2-xCexCuO4?",
+        "How does Raman frequency shift with temperature change in Figure 9?",
+        "What electronic dispersion insights are derived from Figure 9?",
+        "How do changes in χ'(ω,T) reflect modifications due to doping in Figure 9?",
+        "What implications does Figure 9 have on material design strategies?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/4__page_47_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "4__page_47_Figure_9.jpeg"
+    },
+    "0__page_9_Figure_8.jpeg": {
+      "caption": "Figure 8 displays simplified Feynman diagrams illustrating primary interaction processes significant for theoretical modeling of Raman scattering events. These diagrams help visualize non-resonant and resonant contributions, serving as teaching tools for understanding particle interaction dynamics and their respective symmetry terms.",
+      "queries": [
+        "What primary interaction processes are depicted in Figure 8?",
+        "How do Figure 8 diagrams enhance understanding of Raman scattering?",
+        "What is the educational significance of Feynman diagrams shown in Figure 8?",
+        "How does Figure 8 differentiate between non-resonant and resonant contributions?",
+        "What symmetry terms are identified through Figure 8's diagrams?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/0__page_9_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_8.jpeg"
+    },
+    "4__page_49_Figure_3.jpeg": {
+      "caption": "Figure 3 explores Raman resistivities in B1g and B2g symmetries across varied doping levels of Bi2Sr2CaCuO8, providing contrasts in nodal and antinodal Brillouin zone regions. This analysis underscores the qualitative variance in transport properties associated with doping variations, leading to enhanced comprehension of the peculiarities in electron transport within cuprates.",
+      "queries": [
+        "How do Raman resistivities vary across doping levels in Figure 3?",
+        "What are the nodal and antinodal distinctions presented in Figure 3?",
+        "How does Figure 3 inform electron transport properties with doping changes?",
+        "What qualitative differences in transport properties are showcased in Figure 3?",
+        "How does doping affect the B1g and B2g symmetries in Figure 3?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/4__page_49_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "4__page_49_Figure_3.jpeg"
+    },
+    "3__page_39_Figure_3.jpeg": {
+      "caption": "Figure 3 compares Raman intensity at 140 K and 30 K for two distinct energy shift conditions. These graphs illustrate temperature-induced spectral changes that influence the phononic behavior across the material, highlighting how thermal fluctuations impact the vibrational properties relevant to high-temperature superconductor performance.",
+      "queries": [
+        "How does temperature affect Raman intensity in Figure 3?",
+        "What impact do thermal fluctuations have on phononic behavior in Figure 3?",
+        "What vibrational property shifts are visible in Figure 3's spectra?",
+        "How do energy shift conditions compare across temperatures in Figure 3?",
+        "What implications do Figure 3's findings have for superconductor performance?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/3__page_39_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_39_Figure_3.jpeg"
+    },
+    "_page_6_Figure_7.jpeg": {
+      "caption": "Figure 7 represents the experimental setup for Raman spectroscopy, including components like laser, spatial filters, and CCD. The schematic lays out the pathway for light as it interacts with the sample, essential for explaining experimental procedures and facilitating reproducibility of Raman studies in complex systems.",
+      "queries": [
+        "What are the key components depicted in Figure 7's Raman setup?",
+        "How does Figure 7's schematic enhance understanding of experimental procedures?",
+        "What is the significance of reproducibility in the context of Figure 7?",
+        "How does light interact with samples based on Figure 7's pathway?",
+        "What experimental considerations are detailed in Figure 7's design?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/_page_6_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_7.jpeg"
+    },
+    "_page_8_Figure_13.jpeg": {
+      "caption": "Figure 13 displays an energy band diagram depicting initial and final states of a system undergoing photon-induced transitions. The left panel represents the absorption process moving to a higher energy state, while the right panel illustrates the emission process, where the state returns to a lower energy through photon emission. This diagram is essential for understanding energy exchange dynamics in photonic processes and their applications in both theoretical and practical contexts.",
+      "queries": [
+        "What processes are depicted in the energy band diagram of Figure 13?",
+        "How does Figure 13 illustrate photon-induced transitions?",
+        "What is the significance of initial and final states in Figure 13?",
+        "How are energy exchanges represented in Figure 13?",
+        "What theoretical implications can be drawn from Figure 13's transitions?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/_page_8_Figure_13.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_13.jpeg"
+    },
+    "0__page_11_Figure_0.jpeg": {
+      "caption": "Figure 0 presents transition diagrams between B1g and B2g scattering modes, highlighting characteristic symmetry patterns around high-symmetry points in the Brillouin zone. The different shading in the quadrants represents the intensity variations and underlying electronic anisotropies crucial for studying the symmetry-dependent electronic properties in superconductors.",
+      "queries": [
+        "What symmetry patterns are shown in Figure 0's transition diagrams?",
+        "How does Figure 0 illustrate symmetry-dependent electronic properties?",
+        "What electronic anisotropies are revealed in the diagrams of Figure 0?",
+        "How does Figure 0 contribute to the understanding of superconductors?",
+        "What role do Brillouin zone points play in Figure 0?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/0__page_11_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_0.jpeg"
+    },
+    "1__page_20_Figure_5.jpeg": {
+      "caption": "Figure 5 delineates the NFL (Non-Fermi Liquid) Raman cross-section as a function of frequency at different temperatures (10 K, 100 K, 300 K) with an exponent α = 0.55. This graph highlights the distinct behaviors between non-Fermi liquid and more conventional Fermi liquid systems, providing insights into the emergent properties and critical behaviors of complex materials under varying thermal conditions.",
+      "queries": [
+        "What does Figure 5 reveal about NFL Raman cross-sections?",
+        "How do frequencies vary with temperature in Figure 5?",
+        "What insights into non-Fermi liquid behaviors are provided in Figure 5?",
+        "How does Figure 5 explain emergent properties in complex materials?",
+        "What is the significance of the frequency dependence at α = 0.55 in Figure 5?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/1__page_20_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_5.jpeg"
+    },
+    "0__page_10_Figure_4.jpeg": {
+      "caption": "Figure 4 depicts various Feynman diagrams illustrating interaction processes involving photon emissions and absorptions in superconductors. These diagrams provide essential insights into particle interaction dynamics and their role in inelastic light scattering processes, integral for theoretical studies of superconductivity and quantum mechanics.",
+      "queries": [
+        "What interaction processes are depicted in Figure 4's Feynman diagrams?",
+        "How do Feynman diagrams in Figure 4 enhance understanding of light scattering?",
+        "What is the contribution of Feynman diagrams to superconductivity studies in Figure 4?",
+        "How do photon emissions and absorptions feature in Figure 4's diagrams?",
+        "What quantum mechanics insights can be drawn from Figure 4?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/0__page_10_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_4.jpeg"
+    },
+    "4__page_45_Figure_1.jpeg": {
+      "caption": "Figure 1 shows Raman scattering intensity variations in Bi2Sr2Ca1-xCu2O8 at different doping levels for B1g and B2g symmetries. The graphs are taken at 5 K and 100 K and illustrate how doping influences resonance peaks and electronic excitations, crucial for understanding the superconducting phase changes and carrier dynamics in these materials.",
+      "queries": [
+        "How does doping affect Raman scattering in Figure 1?",
+        "What are the differences between B1g and B2g symmetries in Figure 1?",
+        "What resonance peak changes are observed at different temperatures in Figure 1?",
+        "How does Figure 1 contribute to understanding carrier dynamics in superconductors?",
+        "What implications for superconducting phase changes are given by Figure 1?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/4__page_45_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "4__page_45_Figure_1.jpeg"
+    },
+    "0__page_15_Figure_16.jpeg": {
+      "caption": "Figure 16 displays Feynman diagrams relevant to non-resonant Raman scattering processes, depicting the pathways of electron-photon interactions. The wavy lines represent photon exchanges, while the solid lines illustrate electron trajectories. Such diagrams help elucidate scattered interactions within superconducting phases, providing insights into the matrix elements contributing to Raman scattering.",
+      "queries": [
+        "What pathways are shown in Figure 16's Feynman diagrams for scattering processes?",
+        "How do these diagrams apply to non-resonant Raman scattering in Figure 16?",
+        "What roles do photon and electron trajectories play in Figure 16?",
+        "How does Figure 16 enhance understanding of matrix elements in Raman scattering?",
+        "What can be inferred about superconducting phases from Figure 16?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/0__page_15_Figure_16.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_16.jpeg"
+    },
+    "4__page_49_Figure_8.jpeg": {
+      "caption": "Figure 8 presents temperature-dependent scattering rates, focusing on both B1g and B2g symmetries compared to resistivity data. This figure indicates how scattering characteristics evolve across temperature ranges, correlating with electronic transport and providing a detailed view of the underlying mechanisms affecting superconductivity.",
+      "queries": [
+        "How do scattering rates vary with temperature in Figure 8?",
+        "What comparisons are made between B1g, B2g symmetries, and resistivity in Figure 8?",
+        "How does Figure 8 relate to electronic transport properties?",
+        "What mechanisms affecting superconductivity are detailed in Figure 8?",
+        "How are temperature-dependent behaviors influential in Figure 8?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/4__page_49_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "4__page_49_Figure_8.jpeg"
+    },
+    "1__page_18_Figure_18.jpeg": {
+      "caption": "Figure 18 illustrates a Raman spectrum depicting phase dynamics with respect to temperature and a characteristic resonance frequency ω. The curve represents shifts in resonance as temperature approaches certain thresholds, ultimately aiding in the understanding of phase transitions and resonance conditions within the studied materials.",
+      "queries": [
+        "What phase dynamics are represented in the Raman spectrum of Figure 18?",
+        "How does the resonance frequency ω relate to temperature changes in Figure 18?",
+        "What significance do resonance shifts have in Figure 18 regarding phase transitions?",
+        "How does Figure 18 aid in understanding resonance conditions in materials?",
+        "What critical temperature thresholds are indicated in Figure 18?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/1__page_18_Figure_18.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Figure_18.jpeg"
+    },
+    "1__page_18_Figure_6.jpeg": {
+      "caption": "Figure 6 shows the change in SO (spin-orbit) coupling parameters as a function of normalized frequency and effective mass, highlighting a crossover between plasmon-like excitations and superconducting fluctuations. This graph provides a theoretical framework for understanding coupling phenomena in quantum materials.",
+      "queries": [
+        "What does Figure 6 reveal about spin-orbit coupling changes?",
+        "How does normalized frequency affect parameters shown in Figure 6?",
+        "What theoretical insights into coupling phenomena are provided in Figure 6?",
+        "How does Figure 6 highlight plasmon-like and superconducting fluctuations?",
+        "What role does effective mass play in Figure 6's analysis?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/1__page_18_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Figure_6.jpeg"
+    },
+    "_page_2_Figure_1.jpeg": {
+      "caption": "Figure 1 illustrates a complete Raman spectrum from a superconductor, showing peaks corresponding to laserline, phonon, and magnon modes, alongside a continuum. The Raman shift is on the x-axis in cm^-1, with intensity on the y-axis in cps/mW. The distinct peaks, labeled by their Raman shifts, correspond to various vibrational or electronic excitations within the material. The magnon peak around 3000 cm^-1 and the adjacent continuum illustrate strong spin interactions and magnetic fluctuations, key to understanding the complex phase behavior and excitation spectrum in superconductors.",
+      "queries": [
+        "What are the key features of the Raman spectrum in Figure 1?",
+        "How does Figure 1 distinguish phonon and magnon peaks?",
+        "What significance does the continuum in Figure 1 have?",
+        "How do spin interactions appear in the Raman spectrum of Figure 1?",
+        "What does Figure 1 suggest about electronic excitations in superconductors?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/_page_2_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_1.jpeg"
+    },
+    "0__page_16_Figure_11.jpeg": {
+      "caption": "Figure 11 displays a Feynman diagram illustrating a particle interaction process relevant to Raman scattering, with waves indicating incoming and outgoing photons and solid lines representing electron paths. This visualization helps comprehend the theoretical underpinnings of interaction processes in condensed matter physics, particularly the influence on the scattering cross-section and the resulting spectral features observed in experiments.",
+      "queries": [
+        "What interaction processes are depicted in Figure 11's Feynman diagram?",
+        "How does Figure 11 relate to Raman scattering?",
+        "What role do electron paths play in the processes shown in Figure 11?",
+        "How does Figure 11 contribute to understanding scattering cross-sections?",
+        "What theoretical implications for condensed matter physics are illustrated in Figure 11?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/0__page_16_Figure_11.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_16_Figure_11.jpeg"
+    },
+    "4__page_45_Figure_15.jpeg": {
+      "caption": "Figure 15 illustrates the relationship between normalized peak frequency (Ω_peak/Tc^max) and doping level (p) in superconductors. The trend observed shows how peak frequency varies with increasing doping, representing a parabola-like trend. This figure is significant for elucidating the doping dependence of peak modes in the superconducting state, directly impacting our understanding of the electronic properties and phase stability within these materials.",
+      "queries": [
+        "What does Figure 15 reveal about the relationship between peak frequency and doping?",
+        "How is the parabolic trend in Figure 15 significant for superconductors?",
+        "What insights into electronic properties does Figure 15 provide?",
+        "How does doping affect superconducting phases as seen in Figure 15?",
+        "What can be inferred about phase stability from Figure 15's data?"
+      ],
+      "image_path": "extracted_pdfs_captioned/arxiv/superconductors/arXiv:cond-mat_0607554/images/4__page_45_Figure_15.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "4__page_45_Figure_15.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.67,
+    "api_cost": 0.67,
+    "file_storage_cost": 0.0,
+    "total_time": 355.91,
+    "request_count": 6,
+    "average_cost_per_request": 0.1117,
+    "average_time_per_request": 59.32,
+    "files_uploaded": 49,
+    "total_file_size": 2256908
+  }
+}

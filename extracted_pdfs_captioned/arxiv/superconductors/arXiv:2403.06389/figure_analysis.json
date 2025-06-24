@@ -1,0 +1,122 @@
+{
+  "paper_id": "e80cbee1e4e8f8e5103dd775d8d6feaa",
+  "pdf_path": "apl/Superconductors/arXiv:2403.06389.pdf",
+  "processing_timestamp": "2025-06-23T15:20:28.595007",
+  "figure_analysis": {
+    "_page_7_Figure_1.jpeg": {
+      "caption": "Figure 10 illustrates the suppression of flux jumps in superconductor (SC) wires, comparing three configurations: bare Nb3Sn wire (SC), Nb3Sn wire with a copper layer (SC/Cu), and Nb3Sn wire with a ferromagnetic (FM) layer (SC/FM). Part (a) shows the number of flux jumps as a function of frequency (f) for an AC magnetic field with an amplitude fixed at Ba^0 = 0.75 T, demonstrating that the FM layer effectively eliminates flux jumps across all frequencies, while jumps are observed in SC and SC/Cu wires. Parts (b) and (c) plot temperature evolutions for f = 0.5 Hz and 10 Hz, respectively, revealing higher temperature ranges in SC and SC/Cu wires compared to SC/FM, suggesting FM's superior thermal management. Part (d) shows the effect of the magnetic field amplitude on flux jumps at a fixed frequency of 0.5 Hz, where flux jumps begin to occur in SC and SC/Cu wires above 0.3 T, but not until higher amplitudes in SC/FM wires. These findings support the FM layer's role in enhancing thermal stability and suppressing unwanted magnetic instabilities.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.06389/images/_page_7_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_1.jpeg"
+    },
+    "_page_8_Figure_8.jpeg": {
+      "caption": "Figure A1 depicts the simulated magnetization loss in the ferromagnetic (FM) layer and the associated Joule heating within the superconducting (SC) wire. The graph shows the comparative Joule heating impacts for SC wires unshielded and those with an FM layer, highlighting the FM layer's potential in reducing energy loss due to its magnetic shielding effects. This indicates the FM layer's efficacy in reducing thermomagnetic instability by absorbing unwanted magnetic losses.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.06389/images/_page_8_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_8.jpeg"
+    },
+    "_page_4_Figure_1.jpeg": {
+      "caption": "Figure 3 presents both experimental and simulated magnetization curves for various configurations of Nb3Sn wires subjected to a transversal magnetic field. Panels (a) to (d) show magnetization measurements at 4.2 K for bare Nb3Sn wires and those wrapped with FM layers of varying thicknesses (0.1 mm to 0.3 mm), revealing that the FM layers reduce the number and amplitude of flux jumps. The simulated results (e) to (h) mirror these trends, affirming that thicker FM layers significantly suppress flux jumps due to enhanced thermal stability, demonstrating the FM layer's dual role in thermal and electromagnetic stabilization.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.06389/images/_page_4_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_1.jpeg"
+    },
+    "_page_9_Figure_0.jpeg": {
+      "caption": "Figure A2 compares temperature curves in bare superconducting wires and those with an equivalent FM layer under identical critical current conditions. The FM layer shows reduced peak temperatures, indicating better thermal management and stability under operational conditions. This affirms the FM layer's contribution to lowering temperature fluctuations, preventing flux jumps, and thus enhancing the wire's thermomagnetic stability.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.06389/images/_page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_9_Figure_0.jpeg"
+    },
+    "_page_7_Figure_6.jpeg": {
+      "caption": "Figure 11 illustrates a phase diagram showing the thresholds for flux jumps as a function of frequency (f) and amplitude (Ba^0) of the AC magnetic field for three wire types: bare Nb3Sn, Nb3Sn/Cu, and Nb3Sn/FM. The diagram distinctly shows that SC/FM wires have reduced regions where flux jumps occur, indicating superior thermomagnetic stability compared to bare Nb3Sn and Nb3Sn/Cu wires. The FM layer's effectiveness in minimizing flux jump regions supports its role in enhancing the applicational robustness of superconducting wires in dynamic electromagnetic environments.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.06389/images/_page_7_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_6.jpeg"
+    },
+    "_page_5_Figure_4.jpeg": {
+      "caption": "Figure 6 illustrates simulated magnetization characteristics under varying field sweep rates for bare Nb3Sn wire, Nb3Sn wire with a copper layer, and Nb3Sn with an FM layer. The higher ramping rates reveal the FM layer's enhanced suppression of flux jumps compared to the other materials, indicating that electromagnetic effects of the FM material become more influential at increased sweep rates, with significant implications for high-field applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.06389/images/_page_5_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_4.jpeg"
+    },
+    "_page_1_Figure_4.jpeg": {
+      "caption": "Figure 1 showcases illustrative schematics of a bare Nb3Sn wire and a Nb3Sn wire with an FM strip. Panels (b) and (c) represent the setup used for magnetization tests, where wires are exposed to an external magnetic field with a sweeping rate of 0.02 T/s. These diagrams establish the physical model and experimental parameters for studying flux jumps, foundational for analyzing FM layers' impacts on thermomagnetic stability.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.06389/images/_page_1_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_4.jpeg"
+    },
+    "_page_6_Figure_7.jpeg": {
+      "caption": "Figure 9 highlights temperature and current density dynamics in Nb3Sn wires exposed to AC magnetic fields. Part (a) exhibits temperature changes over time among different wire types, while parts (b) to (d) show current density distributions when Ba(t) = 0.75 T. The diagram emphasizes the FM layer's role in reducing temperature variations and modifying current distributions, ultimately showcasing its effectiveness in preventing flux jumps by enhancing thermal and electromagnetic stability.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.06389/images/_page_6_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_7.jpeg"
+    },
+    "_page_5_Figure_6.jpeg": {
+      "caption": "Figure 7 charts the number of flux jumps in bare Nb3Sn wire, Nb3Sn/Cu, and Nb3Sn/FM wire during a magnetic field loop with different ramping rates. The FM layer's more significant suppression of flux jumps in comparison to the Cu layer as ramping rates increase highlights its dual thermal and electromagnetic stabilizing effects, crucial for applications needing reliable superconductivity at varying field dynamics.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.06389/images/_page_5_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_6.jpeg"
+    },
+    "_page_5_Figure_1.jpeg": {
+      "caption": "Figure 5 depicts the simulated distributions of magnetic flux lines and induced current densities over three configurations of Nb3Sn wires: bare Nb3Sn wire (a, d), Nb3Sn wire with a copper layer (b, e), and Nb3Sn wire with a ferromagnetic (FM) layer (c, f). The left panels present results at a low magnetic field (Ba = 0.2 T) and the right panels at a high field (Ba = 3.0 T). At low fields, the FM layer effectively shields magnetic flux and reduces current density within the superconducting core, demonstrating its magnetic shielding capacity. This shielding effect diminishes at higher fields, where the FM material's permeability decreases due to approaching saturation. These results highlight the FM layer's role in enhancing the thermomagnetic stability through magnetic shielding, significantly at low field conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.06389/images/_page_5_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_1.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Figure 2 presents the experimental (blue) and simulated (orange) magnetization (M) versus applied magnetic field (Ba) for Nb3Sn wire wrapped with an FM layer, plotted in part (a). Observations indicate a smooth magnetization curve with reduced flux jumps due to the FM layer's stabilizing effects. In part (b), the relative permeability (μr) of the FM material versus Ba shows a steep decline after 0.25 T, suggesting the FM layer's decreasing influence in high magnetic fields due to saturation, which is crucial for understanding its segregation of effects under varying field intensities.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.06389/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    },
+    "_page_6_Figure_1.jpeg": {
+      "caption": "Figure 8 illustrates the time-varying AC magnetic field profile and the resulting temperature evolution in a Nb3Sn wire, as used in numerical simulations. The study utilizes a sinusoidal AC magnetic field to investigate thermomagnetic behavior, showing that induced temperature changes within the wire are closely tied to the AC field's dynamics. This analysis is critical for evaluating how AC fields influence thermal management of Nb3Sn/FM wires in practical superconducting applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.06389/images/_page_6_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_1.jpeg"
+    },
+    "_page_4_Figure_3.jpeg": {
+      "caption": "Figure 4 features a schematic comparison between Nb3Sn wires with FM and copper layers, and associated magnetization curves. Panel (a) presents design schematics for the numerical simulations, while panel (b) shows magnetization characteristics for Nb3Sn/Cu wires across a range of copper layer thicknesses (0.1-0.6 mm). The results demonstrate that increasing copper thickness enhances flux jump suppression, primarily through thermal capacity expansion. Panel (c) quantitatively relates the number of observed flux jumps to the thickness of Cu and FM layers, elucidating the layers' respective contributions to superconducting stability enhancements.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2403.06389/images/_page_4_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_3.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1336,
+    "api_cost": 0.1336,
+    "file_storage_cost": 0.0,
+    "total_time": 85.7,
+    "request_count": 2,
+    "average_cost_per_request": 0.0668,
+    "average_time_per_request": 42.85,
+    "files_uploaded": 14,
+    "total_file_size": 828435
+  }
+}

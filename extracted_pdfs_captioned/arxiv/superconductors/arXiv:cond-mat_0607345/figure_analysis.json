@@ -1,0 +1,466 @@
+{
+  "paper_id": "bb19f50aca110e187b8e2627bc945625",
+  "pdf_path": "apl/Superconductors/arXiv:cond-mat_0607345.pdf",
+  "processing_timestamp": "2025-06-24T11:45:59.796520",
+  "figure_analysis": {
+    "0__page_18_Figure_3.jpeg": {
+      "caption": "Figure showing the reduction of critical current (Ic) versus strand layer number (Nl) from high to low field at a 750 kN/m load with a wavelength (Lw) of 0.006 m and void fraction (vf) of 0.36. The graph distinguishes between reductions due to pure interstrand contact load and pure bending. The data reveals that pure bending significantly contributes to the overall reduction in critical current as strand layer number increases.",
+      "queries": [
+        "What is the effect of interstrand contact load on critical current?",
+        "How does bending influence critical current reduction in cables?",
+        "What is the relationship between strand layer number and critical current?",
+        "How do bending and contact loads differ in their impact on Ic?",
+        "What is the significance of Lw and vf in critical current reduction?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/0__page_18_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_18_Figure_3.jpeg"
+    },
+    "_page_3_Figure_10.jpeg": {
+      "caption": "Schematic representation illustrating the application of forces (F) on a strand bent over multiple supports. The drawing demonstrates the conceptual setup for studying bending impacts, showing forces applied at intervals along a strand resting on cylindrical supports spaced by distance L, with deflection f.",
+      "queries": [
+        "What is the schematic representation's role in understanding strand bending?",
+        "How do periodic supports affect the bending of strands?",
+        "What is the impact of distributed forces on strand deflection?",
+        "How is bending load depicted in the schematic?",
+        "What are the structural implications of strand layout shown in the schematic?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/_page_3_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_10.jpeg"
+    },
+    "0__page_14_Figure_6.jpeg": {
+      "caption": "Graph depicting cable deflection (fc) in meters versus IxB load in kN/m for different wavelengths (Lw) ranging from 0.003 m to 0.012 m, with void fraction (vf) of 0.36 and strand modulus (E//) of 29 GPa. The graph illustrates that deflection increases with higher loads and is more pronounced at smaller wavelengths, indicating significant impact of mechanical load and strand geometry on cable performance.",
+      "queries": [
+        "How do different wavelengths affect cable deflection under load?",
+        "What role does IxB load play in cable deflection?",
+        "How does the modulus of elasticity influence deflection in cables?",
+        "What is the correlation between wavelength and mechanical load in strands?",
+        "How does void fraction (vf) affect cable deflection under IxB load?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/0__page_14_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_6.jpeg"
+    },
+    "0__page_15_Figure_5.jpeg": {
+      "caption": "Graph showing deflection per strand layer versus strand layer number (Nl) for bending deflection, contact compression, and total deflection under a load of 1152 strands with Lw of 0.007 m and vf of 0.36. It indicates a significant deflection starting at low number layers, leveling off at higher layers due to increased load bearing from strand accumulation.",
+      "queries": [
+        "How does strand layer number influence deflection?",
+        "What causes differences in bending and contact compression deflections?",
+        "How is total deflection in strands calculated?",
+        "What factors affect deflection per layer of strands?",
+        "How do increased layers impact total deflection?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/0__page_15_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_5.jpeg"
+    },
+    "0__page_19_Figure_1.jpeg": {
+      "caption": "Graph representing reduction of critical current (Ic) versus strand layer number (Nl) for different strand currents (Is), at a 750 kN/m load with Lw of 0.009 m and vf of 0.36, depicting overall reduction from bending and contact stress. Different symbols represent varying currents, demonstrating their impact on critical current reduction across strand layers.",
+      "queries": [
+        "How do varying strand currents affect critical current reduction?",
+        "What is the impact of load on different levels of critical current?",
+        "How does contact stress contribute to the reduction of Ic?",
+        "What trends exist in critical current reduction as strand layers increase?",
+        "What is the impact of Lw and vf on critical current?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/0__page_19_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_19_Figure_1.jpeg"
+    },
+    "0__page_16_Figure_5.jpeg": {
+      "caption": "Image showing a close-up of strands bundled together, emphasizing the arrangement and texture. This visual provides insight into strand connectivity and microstructural coherence essential for understanding mechanical and electromagnetic properties in applications.",
+      "queries": [
+        "How does strand arrangement affect mechanical properties?",
+        "What are the implications of strand texture in cable performance?",
+        "How does microstructural coherence influence strand functionality?",
+        "What is the significance of close-up imaging of strand bundles?",
+        "How does the arrangement contribute to electromagnetic properties?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/0__page_16_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_16_Figure_5.jpeg"
+    },
+    "_page_6_Picture_9.jpeg": {
+      "caption": "Photograph displaying a detailed view of a cable's structure, illustrating the arrangement of strands typical of an ITER CS1.1 Central Solenoid Model Coil conductor. The image highlights the strands' periodic crossing and interaction crucial for understanding structural integrity and electromagnetic performance.",
+      "queries": [
+        "How does periodicity in strand arrangements affect conductor performance?",
+        "What are the mechanical implications of strand crossing patterns?",
+        "How do structural aspects of strand arrangement support mechanical loads?",
+        "What role do strand interactions play in electromagnetic performance?",
+        "How does cable structure influence overall conductor integrity?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/_page_6_Picture_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Picture_9.jpeg"
+    },
+    "0__page_15_Figure_3.jpeg": {
+      "caption": "Graph detailing the transverse cable compression versus IxB load for different components like bending and contact stress with measurements of 0.36 void fraction. Highlights the progressive cable compression as loads increase, indicating component contributions to overall structural deformation.",
+      "queries": [
+        "How do bending and contact stress affect cable compression?",
+        "What is the impact of IxB load on transverse cable compression?",
+        "How does void fraction influence compression under mechanical load?",
+        "What are the contributing factors to total structural deformation in cables?",
+        "What is the role of elemental components in overall compression?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/0__page_15_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_3.jpeg"
+    },
+    "0__page_18_Figure_5.jpeg": {
+      "caption": "Graph presenting reduction in critical current (Ic) versus strand layer number (Nl) at different strand currents (Is) up to 750 kN/m load for Lw=0.006 m (vf=0.36). The graph indicates that higher currents exacerbate reduction from bending and contact stress.",
+      "queries": [
+        "How do higher currents exacerbate critical current reduction?",
+        "What are trends in Ic reduction with increasing strand layers?",
+        "How do bending and contact stresses vary across layer numbers?",
+        "What is the role of wavelength Lw in Ic reduction trends?",
+        "How does void fraction vf influence current reduction?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/0__page_18_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_18_Figure_5.jpeg"
+    },
+    "1__page_24_Figure_1.jpeg": {
+      "caption": "This figure shows the measured and computed overall transverse cable compression versus the applied electromagnetic IxB load for a CS1 conductor with a void fraction of 0.36. The experimental results are from the CS1 conductor under cyclic loading, while the computed curves are for different wavelengths (Lw). This figure illustrates the correlation between experimental data and model predictions, emphasizing the role of wavelength on cable deformation under electromagnetic load .",
+      "queries": [
+        "How does wavelength affect cable deformation under IxB load?",
+        "What are the implications of cyclic loading on CS1 conductor compression?",
+        "How accurate is the model in predicting cable deformation under electromagnetic loads?",
+        "What experimental methods were used to measure cable compression?",
+        "How do different wavelengths influence mechanical response in cables?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/1__page_24_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_24_Figure_1.jpeg"
+    },
+    "_page_4_Figure_6.jpeg": {
+      "caption": "This diagram provides a schematic representation of the layered bending configurations in a superconducting cable with different wavelength parameters. It outlines the layer interactions and conceptualizes the bending wave mechanics underpinning the cable's structural integrity and response to loads, which is crucial for understanding deformation mechanisms .",
+      "queries": [
+        "What is the significance of layered bending configurations in cables?",
+        "How do different wavelength parameters influence cable interactions?",
+        "What are the key bending mechanics affecting superconducting cable structure?",
+        "How does layer interaction affect cable deformation?",
+        "What conceptual models are used to represent cable bending behavior?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/_page_4_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_6.jpeg"
+    },
+    "1__page_20_Figure_1.jpeg": {
+      "caption": "The graph portrays the overall reduction of critical current (Ic) and peak bending strain versus the characteristic bending wavelength (Lw) with a void fraction (vf) of 0.36. It emphasizes how different wavelengths impact the stress-strain relationship in superconducting cables, specifically under electromagnetic load conditions .",
+      "queries": [
+        "What impact does bending wavelength have on critical current reduction?",
+        "How does peak bending strain vary with different wavelengths?",
+        "What is the relationship between bending wavelength and superconducting cable performance?",
+        "How does void fraction influence bending strain in cables?",
+        "What role does electromagnetic load play in altering cable properties?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/1__page_20_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_1.jpeg"
+    },
+    "_page_8_Figure_2.jpeg": {
+      "caption": "Cross-sectional image of an ITER CS1.1 Central Solenoid Model Coil conductor post-transverse cyclic loading, highlighting the sublayer interactions and distortions within the conductor. This visual aims to provide insights into mechanical deformations typical within superconducting applications .",
+      "queries": [
+        "What are the effects of transverse cyclic loading on coil conductor structure?",
+        "How do sublayer interactions influence mechanical properties in coils?",
+        "What insights can cross-sectional imagery provide in conductor deformation?",
+        "What are common mechanical distortions observed in superconducting coil conductors?",
+        "How does cyclic loading influence conductor structural integrity?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/_page_8_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_2.jpeg"
+    },
+    "0__page_16_Figure_3.jpeg": {
+      "caption": "This figure depicts the bending strain and contact stress per strand layer versus the strand layer number at a load of 750 kN/m for a wavelength of 0.014 m and a void fraction of 0.36. The results highlight the variation in strain and stress across layers, particularly how these parameters interact during high-load conditions .",
+      "queries": [
+        "How do bending strain and contact stress vary across different strand layers?",
+        "What influences bending strain at a high load in cables?",
+        "What role does wavelength play in strain and stress distribution across layers?",
+        "How do varying loads impact contact stress in cable strands?",
+        "What is the significance of void fraction in contact stress assessment?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/0__page_16_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_16_Figure_3.jpeg"
+    },
+    "1__page_21_Figure_3.jpeg": {
+      "caption": "Graph showing the relationship between reduced critical current (Ic) and different IxB loads for two types of strands with varying elastic modulus properties (E// = 29 GPa and E// = 21 GPa). The illustration elucidates how differing material properties affect Ic under load conditions, emphasizing the mechanical and electromagnetic trade-offs in superconducting strand design .",
+      "queries": [
+        "How does elastic modulus influence Ic reduction in superconducting strands?",
+        "What effects do IxB loads have on strains in different conductors?",
+        "How are mechanical and electromagnetic properties traded off in superconducting design?",
+        "What influence do varying modulus properties have on conductor performance?",
+        "What role does strand material choice play in superconducting applications?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/1__page_21_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Figure_3.jpeg"
+    },
+    "_page_9_Figure_1.jpeg": {
+      "caption": "Stress-strain graph illustrating the mechanical response of LMI-EM strands under transverse load using the TARSIS crossing strands probe. The figure presents data on deformation and strain profiles crucial for understanding plastic and elastic deformation characteristics in strand interactions .",
+      "queries": [
+        "What is the stress-strain relationship for LMI-EM strands under transverse load?",
+        "How do strand interactions influence mechanical deformation?",
+        "What insights can transverse load testing provide on strand performance?",
+        "How are plastic and elastic deformations differentiated in superconducting strands?",
+        "What methods measure stress-strain profiles in superconducting cables?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/_page_9_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_9_Figure_1.jpeg"
+    },
+    "1__page_22_Figure_1.jpeg": {
+      "caption": "Graph depicting peak bending strain against higher order bending wavelength number n, examining different bending wavelengths' effects on mechanical strain within superconducting cables. It illustrates how longer wavelengths promote strain homogenization across cable assemblies .",
+      "queries": [
+        "How do higher order bending wavelengths impact peak bending strain?",
+        "What trends are observed in strain homogenization with varying wavelengths?",
+        "How do different bending wavelengths affect cable assemblies?",
+        "What role do longer bending wavelengths play in mechanical strain distribution?",
+        "What are the implications of order number n in bending strain analysis?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/1__page_22_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Figure_1.jpeg"
+    },
+    "0__page_15_Figure_1.jpeg": {
+      "caption": "Figure showing overall transverse cable modulus of elasticity versus applied IxB load for different wavelengths, demonstrating how modulus changes reflect on cable stiffness under electromagnetic loads (vf=0.36). The data is critical for understanding how cable design and wavelength affect performance metrics like stiffness and deformation .",
+      "queries": [
+        "How does transverse cable modulus change with IxB load?",
+        "What influence do different wavelengths have on cable stiffness?",
+        "What are the performance metrics affected by modulus changes in cables?",
+        "How is cable design evaluated through modulus of elasticity?",
+        "What are key parameters influencing rigidity in superconducting cables?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/0__page_15_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_1.jpeg"
+    },
+    "1__page_20_Figure_3.jpeg": {
+      "caption": "Figure showing the peak contact stress and peak bending strain within a cable cross-section as a function of the characteristic bending wavelength (Lw) with a void fraction (vf) of 0.36. The data demonstrates the relationship between wavelength and mechanical stress-strain behavior, crucial for optimizing cable performance under applied mechanical loading conditions.",
+      "queries": [
+        "How does characteristic bending wavelength affect contact stress in cables?",
+        "What is the relationship between peak strain and wavelength in superconducting cables?",
+        "How do different Vf values influence contact stress in cable cross-sections?",
+        "What methods are used to compute peak stress and strain in cable analyses?",
+        "How does bending wavelength impact structural optimization in cable design?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/1__page_20_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_3.jpeg"
+    },
+    "0__page_12_Figure_1.jpeg": {
+      "caption": "Plot illustrating reduced critical current (Ic) as a function of peak bending strain for different strand configurations (bare strand and SS tube) at 12 T and 4.2 K, showing fitted polynomial curves for low and high resistivity conditions. This figure underscores the interplay between mechanical strain and electromagnetic properties, highlighting the effects of mechanical constraints on strand performance .",
+      "queries": [
+        "What impacts do different restraint conditions have on Ic reduction?",
+        "How does the polynomial fit provide insights into critical current behavior?",
+        "How do strand configurations affect performance at 12 T and 4.2 K?",
+        "What role does resistivity play in critical current variation with strain?",
+        "How is bending strain quantified in superconducting strand studies?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/0__page_12_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_1.jpeg"
+    },
+    "1__page_21_Figure_1.jpeg": {
+      "caption": "Graph displaying the reduction of critical current (Ic) under varying IxB loads for strands with void fractions 0.33 and 0.36, demonstrating how different voids affect performance. This figure provides a vital insight into the mechanical resilience and loading capacity of superconducting cables under specified loading conditions .",
+      "queries": [
+        "How do different void fractions affect cable performance under IxB loads?",
+        "What is the influence of void fraction on critical current under stress?",
+        "What methodologies are employed to measure Ic reduction in cables?",
+        "How do strand properties correlate with overall structural integrity under load?",
+        "What is the role of IxB load in superconductor cable performance?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/1__page_21_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Figure_1.jpeg"
+    },
+    "_page_5_Figure_6.jpeg": {
+      "caption": "Schematic diagram demonstrating the mechanical model for cable compression, showing potential for bending and deformation due to contact stress. The representation highlights structural arrangement considerations in cable design, critical for optimizing load distribution within strand arrangements .",
+      "queries": [
+        "How does cable compression modeling impact design optimization?",
+        "What are the implications of contact stress outlined in cable schematics?",
+        "How is bending potential analyzed in cable mechanical models?",
+        "What does the mechanical model suggest about load distribution in strands?",
+        "How are cable arrangement considerations translated into design metrics?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/_page_5_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_6.jpeg"
+    },
+    "0__page_16_Figure_1.jpeg": {
+      "caption": "Figure showing bending strain and contact stress per strand layer against strand layer number (Nl) from high to low field at a load of 750 kN/m with a wavelength of 0.007 m and void fraction of 0.36. The figure delineates variations in mechanical stress distribution as a function of strand layer structure, essential for understanding deformation and structural performance .",
+      "queries": [
+        "How do layer variations impact bending strain in superconducting cables?",
+        "What layer number trends are evident in strand contact stress analysis?",
+        "How is functional layering influential in deformation mechanics?",
+        "What is the effect of bending wavelength on layer-specific stress response?",
+        "What are the applications of load variation in structural performance studies?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/0__page_16_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_16_Figure_1.jpeg"
+    },
+    "0__page_19_Figure_5.jpeg": {
+      "caption": "Simulation of overall reduction in critical current (Ic) across varying bending wavelengths for CS1 conductor, indicating differences between full and no interstrand current transfer modes. This highlights the significance of cable cross-section configuration on current conduction efficiency .",
+      "queries": [
+        "How do bending wavelengths affect Ic in CS1 conductor analysis?",
+        "What influences do current transfer modes have on critical current?",
+        "How does cross-section configuration alter cable performance?",
+        "What are implications of varying conductor parameters in Ic simulations?",
+        "What methodologies clarify conduction efficiency in superconducting strands?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/0__page_19_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_19_Figure_5.jpeg"
+    },
+    "_page_7_Figure_3.jpeg": {
+      "caption": "Schematic showing the cable cross-section configuration for strand packing used in simulation models. This is vital for understanding the spatial relationship within strands under mechanical and electromagnetic loads .",
+      "queries": [
+        "How is strand packing schematized in simulation models?",
+        "What are the structural benefits of the depicted cable cross-section?",
+        "How do simulation models use strand spatial arrangement for performance predictions?",
+        "How does strand packing impact mechanical loaders in cable analysis?",
+        "What insights are gained from schematic representations of strand configurations?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/_page_7_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_3.jpeg"
+    },
+    "1__page_20_Figure_5.jpeg": {
+      "caption": "The graph outlines the reduction of critical current (Ic) under different bending wavelengths, demonstrating effects of interstrand resistance. It models predictions across a spectrum of ISR levels to optimize conductor configurations.",
+      "queries": [
+        "What are the main effects of ISR on critical current under bending?",
+        "How do varying bending wavelengths influence critical current deterioration?",
+        "What ISR level implications impact conductor optimization efforts?",
+        "How do predictive models aid in understanding strand electrical performance?",
+        "What comparative studies are available on ISR's effect on Ic?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/1__page_20_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_5.jpeg"
+    },
+    "1__page_22_Figure_7.jpeg": {
+      "caption": "Graph showcasing total compression of different model coil conductors against initial void fraction, highlighting displacement per strand. Data points to performance metrics tied to structural void considerations .",
+      "queries": [
+        "How does varying initial void fraction affect total compression in coils?",
+        "What performance metrics relate to structural void considerations in cables?",
+        "How do compression models influence cable displacement measurements?",
+        "What correlations exist between void fraction and cable resilience?",
+        "How does predictive modeling assist in evaluating compression metrics?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/1__page_22_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Figure_7.jpeg"
+    },
+    "0__page_12_Figure_6.jpeg": {
+      "caption": "The plot illustrates the reduction of the critical current (Ic) as a function of transverse stress for LMI-TFMC strands at 12 T and 4.2 K. Measurements are shown for specific strand configurations, indicating polynomial fits to data that highlight stress-dependent Ic degradation. This figure is crucial for understanding how transverse mechanical stress impacts superconducting efficiency and for validating stress-strain response models used in superconductor design .",
+      "queries": [
+        "How does transverse stress affect the critical current in superconducting strands?",
+        "What polynomial fit methods are used to model Ic degradation under stress?",
+        "How does the stress-strain response vary for different superconducting materials?",
+        "What are the implications of transverse stress on superconductor performance?",
+        "How can Ic reduction due to transverse stress be mitigated in superconductor design?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/0__page_12_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_6.jpeg"
+    },
+    "0__page_11_Figure_6.jpeg": {
+      "caption": "Graph showing reduced critical current (Ic) versus bending strain for LMI-EM strands at 12 T and 4.2 K. The curve is fitted using a polynomial model for both high and low rho conditions, showing significant critical current decrease with increasing bending strain. This emphasizes the importance of understanding mechanical strain impacts on critical properties for optimizing superconducting cable design.",
+      "queries": [
+        "What is the effect of bending strain on critical current in LMI-EM strands?",
+        "How do high and low rho conditions alter Ic reduction patterns?",
+        "What polynomial models depict bending strain effects in superconductors?",
+        "How important is mechanical strain understanding in cable design?",
+        "What are strategies to minimize strain-induced Ic reduction?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/0__page_11_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_6.jpeg"
+    },
+    "_page_6_Picture_11.jpeg": {
+      "caption": "Image showing the cable structure of an ITER CS2 Central Solenoid Model Coil conductor, with emphasis on longer twist pitches and less frequent periodic strand crossings. This visual highlights the cable arrangement's structural factors essential for understanding mechanical and electromagnetic interactions in cable design.",
+      "queries": [
+        "What is the structure of an ITER CS2 Central Solenoid Model Coil conductor?",
+        "How do longer twist pitches affect cable performance?",
+        "What role do periodic strand crossings play in cable design?",
+        "How are electromagnetic interactions influenced by cable arrangement?",
+        "What are the advantages of specific cabling structures in superconducting cables?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/_page_6_Picture_11.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Picture_11.jpeg"
+    },
+    "0__page_19_Figure_3.jpeg": {
+      "caption": "Graph illustrating the overall reduction of critical current (Ic) against IxB load across different wavelengths from 2 mm to 20 mm for superconducting strands with a void fraction of 0.36, showing the sensitivity of Ic to mechanical load variation. This data is pivotal for predicting performance under variable electromagnetic load conditions.",
+      "queries": [
+        "How does IxB load affect critical current across different wavelengths?",
+        "What is the significance of varying void fractions on superconductor performance?",
+        "How is Ic predicted under different load conditions in superconductors?",
+        "How do wavelength adjustments impact superconducting cable efficiency?",
+        "What design strategies optimize Ic against mechanical load?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/0__page_19_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_19_Figure_3.jpeg"
+    },
+    "1__page_23_Figure_5.jpeg": {
+      "caption": "Graph comparing measured and computed overall transverse cable modulus of elasticity versus applied IxB load for a CS1 conductor configuration. Highlights demonstrate the model's capability in predicting mechanical stiffness variations due to electromagnetic loading.",
+      "queries": [
+        "What is the relationship between modulus of elasticity and IxB load in superconductors?",
+        "How do computed models compare to experimental modulus measurements?",
+        "What influences do electromagnetic loads impart on cable mechanical properties?",
+        "How is mechanical stiffness in superconducting cables predicted?",
+        "What role does the modulus of elasticity play in cable performance design?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0607345/images/1__page_23_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_23_Figure_5.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.3399,
+    "api_cost": 0.3399,
+    "file_storage_cost": 0.0,
+    "total_time": 388.88,
+    "request_count": 4,
+    "average_cost_per_request": 0.085,
+    "average_time_per_request": 97.22,
+    "files_uploaded": 33,
+    "total_file_size": 1652297
+  }
+}

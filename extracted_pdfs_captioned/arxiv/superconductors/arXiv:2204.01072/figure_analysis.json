@@ -1,0 +1,170 @@
+{
+  "paper_id": "653f3beb2f6cb2ef4ddececa50920a5a",
+  "pdf_path": "apl/Superconductors/arXiv:2204.01072.pdf",
+  "processing_timestamp": "2025-06-23T14:51:49.859986",
+  "figure_analysis": {
+    "1__page_17_Figure_0.jpeg": {
+      "caption": "This figure illustrates the distribution of strand deformation within a Bi2212 cable, plotting strand deformation on the y-axis against strand location within the cable on the x-axis. The maximum strand deformation is observed at the cable edges, indicating areas of significant stress concentration. Bi2212 cables comprise 25 strands, each with a diameter of 0.8 mm, contributing to an overall packing factor of 84.4%. This measurement provides insights into mechanical strain effects on cable performance, crucial for optimizing cable design and enhancing superconducting properties under operational conditions【4:11†temp_paper_653f3beb2f6cb2ef4ddececa50920a5a.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.01072/images/1__page_17_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_17_Figure_0.jpeg"
+    },
+    "_page_5_Figure_2.jpeg": {
+      "caption": "Depicted is the critical current versus magnetic field for a Bi2212 wire, comparing undeformed samples to those wound with a 6.6 mm radius. The data demonstrates how mechanical deformation impacts critical current, with fields extending up to 14 T. Despite anticipations, winding does not significantly degrade current capacity, suggesting robustness of Bi2212 to certain mechanical stresses. This finding is pivotal in the context of coil fabrication where winding deformations typically occur【4:8†temp_paper_653f3beb2f6cb2ef4ddececa50920a5a.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.01072/images/_page_5_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_2.jpeg"
+    },
+    "0__page_15_Figure_4.jpeg": {
+      "caption": "This figure presents the normalized critical current density Jc(4.2 K, 14 T) and the n-value of deformed Bi2212 strands compared to virgin wires as a function of strand deformation. Three different Bi2212 wires (A, B, and C) are analyzed, revealing that strand deformation does not uniformly decrease critical current and n-values. The study concludes that deformation recovery is possible to some extent, indicating mechanical resilience in the superconducting wires. This research underlines the importance of understanding deformation impacts to predict cable performance post-installation【4:3†temp_paper_653f3beb2f6cb2ef4ddececa50920a5a.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.01072/images/0__page_15_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_4.jpeg"
+    },
+    "_page_4_Figure_1.jpeg": {
+      "caption": "The heat treatment cycle used for Bi2212 wire is shown, crucial for the optimization of superconductors. The procedure involves heating the wire above the peritectic decomposition temperature of Bi2212 and slowly cooling to achieve adequate grain structure. It uses a gas mixture of O2 and Ar with a 1 bar partial O2 pressure, enhancing the superconducting material's grain connectivity and density. Optimized treatment cycles like these are vital for enhancing the performance of HTS conductors in magnet applications【4:18†temp_paper_653f3beb2f6cb2ef4ddececa50920a5a.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.01072/images/_page_4_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_1.jpeg"
+    },
+    "0__page_13_Figure_1.jpeg": {
+      "caption": "Illustrated are the effects of transverse pressure on the normalized critical current I<sup>c</sup> of different types of superconductors, highlighting impacts observed on Bi2212 strips treated using epoxy impregnation. Critical current under varying pressure conditions, as high as 19 T, is analyzed, exposing a decline under increased pressure. Understanding such electromechanical interactions is crucial for designing superconductors capable of handling operational stresses in particle accelerators【4:1†temp_paper_653f3beb2f6cb2ef4ddececa50920a5a.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.01072/images/0__page_13_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_1.jpeg"
+    },
+    "_page_7_Figure_6.jpeg": {
+      "caption": "This cross-sectional diagram of a coil design shows 24 high-temperature superconducting Bi2212 strands, identified through the Bi2212 cross-section view. The symmetry and spacing of the strands illustrate a typical layout designed to optimize electromagnetic performance and minimize mechanical strain. Configurations such as these play a critical role in the efficient operation of superconducting magnets at high fields【4:14†temp_paper_653f3beb2f6cb2ef4ddececa50920a5a.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.01072/images/_page_7_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_6.jpeg"
+    },
+    "_page_7_Picture_2.jpeg": {
+      "caption": "Featured is a series of cross-sections of Bi2212 Rutherford cables showing the multi-filamentary structure typical of these superconducting materials. The detailed morphology highlights the dense packing and arrangement of individual superconducting filaments within the silver matrix, showcasing structural features significant to current transport properties in Bi2212 superconducting cables【4:11†temp_paper_653f3beb2f6cb2ef4ddececa50920a5a.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.01072/images/_page_7_Picture_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Picture_2.jpeg"
+    },
+    "0__page_14_Figure_1.jpeg": {
+      "caption": "The graph displays the relationship between applied transverse pressure and the measured reduction in normalized I<sup>c</sup> for Bi2212 samples, cross-referenced with tensile strain data from OST-Bruker studies and calculated Von Mises equivalent strain. These findings assist in understanding the mechanical impact on superconductors' critical performance, crucial for the development of robust coil technologies in high-field applications【4:10†temp_paper_653f3beb2f6cb2ef4ddececa50920a5a.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.01072/images/0__page_14_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_1.jpeg"
+    },
+    "0__page_8_Picture_0.jpeg": {
+      "caption": "A Bi2212 cable coil assembly is depicted in a mounted test position, displaying cable bent over a special holder designed to simulate operational conditions. The setup is critical for assessing mechanical and electrical performance under bending stresses typical in superconducting magnet applications. This experimental approach provides valuable data supporting the optimization of Bi2212 cables for flexible yet efficient superconducting magnets【4:12†temp_paper_653f3beb2f6cb2ef4ddececa50920a5a.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.01072/images/0__page_8_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Picture_0.jpeg"
+    },
+    "_page_3_Figure_6.jpeg": {
+      "caption": "The plot shows current density (J_E) at 4.2 K for different superconducting strands as a function of the magnetic field. Nb_3Sn and Bi-2212 (of years 2005, 2015, and 2017) strands are compared. Notably, the HL-LHC Nb_3Sn exhibits high current density up to around 16 T, beyond which its performance declines, whereas Bi-2212 strands, particularly the 2017 variant, maintain higher current densities at fields exceeding 25 T. This underscores the potential of Bi-2212 in high-field magnet applications, critical for next-generation accelerator technologies.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.01072/images/_page_3_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_6.jpeg"
+    },
+    "0__page_15_Figure_2.jpeg": {
+      "caption": "This figure presents the experimental setup for measuring the critical current (I<sub>c</sub>) of Bi-2212 wires, illustrating both the key geometric setup and the wiring configuration. The arrangement includes voltage taps and Ф_L acting laterally, demonstrating how force and magnetic fields interact in the experimental apparatus. Such setups are vital for determining the structural integrity and electromagnetic properties of Bi-2212 cables under laboratory conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.01072/images/0__page_15_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_2.jpeg"
+    },
+    "0__page_12_Figure_0.jpeg": {
+      "caption": "The graph depicts the normalized critical current I<sub>c</sub> at 4.2 K as a function of applied longitudinal strain for various Bi-2212 wires, analyzed at different magnetic fields. The critical current decreases approximately 2-3% per 1% tensile strain until a significant drop. This finding underscores the varying strain tolerance among different Bi-2212 formulations, crucial for optimizing the mechanical properties of superconducting wires under operational conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.01072/images/0__page_12_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_0.jpeg"
+    },
+    "1__page_17_Figure_4.jpeg": {
+      "caption": "Displaying a schematic of a Bi-2212 cable under testing, the diagram plots the critical current as a function of external magnetic field. The results distinguish between cables that perform best and worst at a packing factor of 84.4%. This is instrumental in understanding the electromagnetic behavior of cables in devices, enhancing reliable performance forecasts in operational magnet fields.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.01072/images/1__page_17_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_17_Figure_4.jpeg"
+    },
+    "0__page_13_Figure_3.jpeg": {
+      "caption": "This image showcases the arrangement for transverse pressure testing of superconducting cables. It depicts a single Nb3Sn strand embedded in a mock Rutherford cable, highlighting the Cu dummy components for mechanical and electrical stability when under load. This visualization aids in comprehending the mechanical deformation and current distribution within superconducting cables under test conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.01072/images/0__page_13_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_3.jpeg"
+    },
+    "0__page_10_Figure_2.jpeg": {
+      "caption": "Graphs depict the limit of critical current I<sub>c</sub> for Bi-2212 inserts at various external magnetic fields, showing expected performance relative to degradation levels. This analysis provides insights into the performance limits and field generation capabilities of superconducting magnet systems employing Bi-2212, critical for the development of hybrid magnets envisaged for particle colliders.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.01072/images/0__page_10_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_2.jpeg"
+    },
+    "0__page_11_Figure_0.jpeg": {
+      "caption": "Illustrated here are the orientations of Lorentz forces within coil blocks in a superconducting magnet configuration. The diagram emphasizes force distributions, which are fundamental to understanding the mechanical stability and design considerations necessary for optimizing superconducting coil assemblies in high-field applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.01072/images/0__page_11_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_0.jpeg"
+    },
+    "1__page_16_Figure_1.jpeg": {
+      "caption": "The plot assesses the relationship between cable packing factor and normalized I<sub>c</sub> for types A, C, and D Bi-2212 strands, post heat treatment at different facilities. The data indicates the degree of compaction's influence on superconducting performance, a factor that plays a critical role in the design and manufacture of coiled superconductors engineered for high-performance applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.01072/images/1__page_16_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_16_Figure_1.jpeg"
+    },
+    "1__page_18_Figure_6.jpeg": {
+      "caption": "This diagram compares uniaxial and multiaxial load cases on cable samples, highlighting the stress states under different transverse pressures. These load models are used to determine the equivalent strain—a parameter critical for accurately predicting mechanical impacts on Bi-2212 superconducting cables used in accelerator magnets.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.01072/images/1__page_18_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Figure_6.jpeg"
+    },
+    "_page_5_Figure_0.jpeg": {
+      "caption": "This figure illustrates two stages of the Split Melt Process (SMP) heat treatment for Bi2212 wires. The left panel shows the nominal cycle for the first stage conducted at 50 bar gas pressure at FSU, involving a gradual heating to 887°C followed by controlled furnace cooling. The right panel displays the actual cycle for the second stage conducted at 1 bar gas pressure at FNAL, where the sample is maintained at 887°C and then naturally cooled. This thermal processing strategy, splitting the heat treatment into high and low pressure cycles, aims to optimize grain structure and connectivity while potentially reducing ceramic leaks at lower pressures. These methodologies are crucial in enhancing the superconducting properties of Bi2212, thereby improving their performance in high-field magnet applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2204.01072/images/_page_5_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.2125,
+    "api_cost": 0.2125,
+    "file_storage_cost": 0.0,
+    "total_time": 212.01,
+    "request_count": 3,
+    "average_cost_per_request": 0.0708,
+    "average_time_per_request": 70.67,
+    "files_uploaded": 20,
+    "total_file_size": 871018
+  }
+}

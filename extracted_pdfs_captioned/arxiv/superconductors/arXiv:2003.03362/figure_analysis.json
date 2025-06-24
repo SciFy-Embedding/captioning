@@ -1,0 +1,146 @@
+{
+  "paper_id": "ea07e21280110097ee04af797535686b",
+  "pdf_path": "apl/Superconductors/arXiv:2003.03362.pdf",
+  "processing_timestamp": "2025-06-23T14:26:43.501950",
+  "figure_analysis": {
+    "_page_3_Figure_1.jpeg": {
+      "caption": "This figure shows a HAADF-STEM image combined with concentration profiles of niobium (Nb) and tin (Sn) across a grain boundary (GB) between two grains in a Nb3Sn coating. The x-axis represents the distance across the grains in nanometers (nm), and the y-axis denotes the concentration in atomic percentage (at.%) for Nb and Sn. There is a distinct segregation of Sn at the grain boundary, reaching a maximum concentration of approximately 33 at.% with a segregation width of around 3 nm. This segregation is significant as it affects the superconducting properties of the material, influencing the performance and efficiency of superconducting radio frequency (SRF) cavities by promoting vortex nucleation, which impairs the cavity quality factor.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2003.03362/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "0__page_8_Figure_14.jpeg": {
+      "caption": "Figure 14 plots the estimated percentage of active grain boundaries, expressed as a fraction, that contribute to the degradation of the SRF cavity quality factor (Q) as a function of the applied RF magnetic field strength (Brf) in millitesla (mT). The blue curve demonstrates a growing activation of surface grain boundaries correlating with the decline in Q depicted by the yellow curve, illustrating Q dropping from 10^10 to 10^9 as Brf increases from 22 mT to 66 mT. This model suggests that only a minuscule percentage (~0.03%) of grain boundaries need be activated to effect a significant Q degradation at the sulfur-RF conditions common to Nb3Sn cavities.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2003.03362/images/0__page_8_Figure_14.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_14.jpeg"
+    },
+    "0__page_10_Figure_12.jpeg": {
+      "caption": "Figure 16 details the temperature profiles as a function of distance from a grain boundary in an Nb3Sn/Nb system when exposed to external bath temperatures of 2K and 4K. The x-axis represents the distance in meters (m), and the y-axis indicates the temperature in Kelvin (K). The profiles reveal that temperatures near active grain boundaries can rise up to approximately 10K, significantly affecting the superconducting properties by localizing heating effects due to grain boundary activation at fields of B = 60mT. The spatial decay of temperature underscores the heating influence as being constrained primarily to the grain boundaries. This visualization aids in understanding local thermal anomalies that could drive quenching in SRF cavities .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2003.03362/images/0__page_10_Figure_12.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_12.jpeg"
+    },
+    "_page_2_Picture_3.jpeg": {
+      "caption": "This image illustrates a high-angle annular dark field scanning transmission electron microscopy (HAADF-STEM) image of a typical Nb3Sn coating of approximately 2 µm thickness on niobium (Nb), deposited via a Sn vapor-diffusion process. The visualization highlights the morphological uniformity and integrity of the coating, which is critical for assessing the performance capabilities of Nb3Sn in SRF cavities. The image plays a crucial role in understanding the microstructural basis affecting Nb3Sn's superconducting properties and provides a baseline for comparing different coating batches and their superconductive performance .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2003.03362/images/_page_2_Picture_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Picture_3.jpeg"
+    },
+    "_page_4_Figure_16.jpeg": {
+      "caption": "Figure 16 depicts calculated temperature profiles near a grain boundary for the Nb3Sn/Nb system subjected to external temperatures of 2K (blue curve) and 4K (yellow curve). The temperature rises significantly near the boundary in response to an applied magnetic field, illustrating localized thermal oscillations that can impact the superconducting performance by nearing critical temperature thresholds necessary for quenching. The red dashed lines represent the bath temperatures, and vertical lines indicate relevant distances from the grain boundary. These findings are pivotal for understanding the thermal management requirements for maintaining SRF cavity performance under operational stress.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2003.03362/images/_page_4_Figure_16.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_16.jpeg"
+    },
+    "_page_1_Figure_5.jpeg": {
+      "caption": "Figure 1 presents a Q0 vs Eacc (accelerating field) plot for several Nb3Sn SRF cavities processed at Fermilab and Cornell. The figure contrasts the behaviors observed between cavities with and without significant Sn segregation at grain boundaries, plotted as different symbols. Sn segregation correlates to noticeable Q-slopes in Fermilab Cavity 1 and 2, showing steep decreases in Q0 starting around 8 MV/m. These results substantiate the relevance of Sn segregation as a critical factor adversely impacting cavity performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2003.03362/images/_page_1_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_5.jpeg"
+    },
+    "_page_6_Figure_8.jpeg": {
+      "caption": "This figure demonstrates the behavior of a function T/Tc correlated with x/λ in a superconducting Nb3Sn film. The y-axis is non-dimensionalized as T/Tc minus a constant, illustrating phase transition patterns of the superconducting state as a function of the normalized distance along the vortex penetration length. The depicted sharp transition (solid lines) and gradual transformation (dashed lines) both highlight the effects of boundaries on superconducting properties, emphasizing their implications for vortex dynamics within SRF cavities and the importance of maintaining stable superconducting phases across the span.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2003.03362/images/_page_6_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_8.jpeg"
+    },
+    "0__page_8_Figure_4.jpeg": {
+      "caption": "Figure 4 schematically illustrates a sequence of vortices (represented as blue disks) translocating through a grain boundary (dark gray) under the influence of surface Lorentz forces caused by an applied RF magnetic field. Each vortex is subject to mutual repulsion from neighboring vortices. This design effectively visualizes the mechanism by which grain boundaries act as weak points in superconductors, suggesting a fundamental process by which grain boundary activations might induce degradation of the quality factor in high-performing SRF cavities under operational conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2003.03362/images/0__page_8_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_4.jpeg"
+    },
+    "0__page_9_Picture_1.jpeg": {
+      "caption": "This schematic model represents heat diffusion near an active grain boundary in a superconducting Nb3Sn/Nb system. The sketch displays a cross-section where red regions indicate hotter zones, and blue indicates cooler areas. The yellow dashed line marks the Nb/Nb3Sn interface with directional heat flux depicted by white arrows. This model highlights how grain boundary-induced thermal gradients can emerge, influenced by disparities in thermal conductivities between Nb3Sn and Nb, and help explain localized heating, critical for SRF cavity performance insights.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2003.03362/images/0__page_9_Picture_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Picture_1.jpeg"
+    },
+    "0__page_7_Picture_0.jpeg": {
+      "caption": "This figure illustrates vortex nucleation in a superconductor subjected to an applied surface magnetic field (H), where vortex lines (in red) appear in areas of weakened superconductivity, specifically at grain boundaries illustrated in dark gray. As the magnetic field increases, these vortices nucleate at the boundaries due to weakened superconducting properties in these regions, a phenomenon pivotal for understanding SRF cavity performance degradation. This visual serves to highlight the role of grain boundaries as initial sites for vortex entry, emphasizing the significant effects these boundaries have on the superconductor's overall electromagnetic properties and its superconducting performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2003.03362/images/0__page_7_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Picture_0.jpeg"
+    },
+    "_page_6_Figure_6.jpeg": {
+      "caption": "Figure 10 displays a phase diagram from time-dependent Ginzburg-Landau (TDGL) simulations predicting flux penetration within the presence of a grain boundary as a function of the applied magnetic field and the minimum critical temperature at the grain boundary. The diagram partitions regions with no flux penetration (blue), flux pinned to the grain boundary (yellow), and flux extending into the bulk (red) at increasing field strengths. These results underscore the complexity of magnetic flux behavior in segregated Nb3Sn grain boundaries, vital for comprehending cavity efficiency and designing improved SRF cavity solutions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2003.03362/images/_page_6_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_6.jpeg"
+    },
+    "_page_3_Picture_6.jpeg": {
+      "caption": "This high-angle annular dark field (HAADF) scanning transmission electron microscopy (STEM) image displays the cross-sectional view of a Nb3Sn grain boundary on the surface, emphasizing the significant structural changes at these boundaries. This image is integral in visualizing microstructural features that contribute to flux entry pathways, relevant for developing enhanced performance strategies for Nb3Sn-based SRF cavities by addressing the structural integrity at the grain scale.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2003.03362/images/_page_3_Picture_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Picture_6.jpeg"
+    },
+    "_page_3_Figure_8.jpeg": {
+      "caption": "Figure 6 showcases experimental (gray squares) and calculated (black circles) critical temperatures (T<sub>c</sub>) for Nb-Sn superconductors with varying stoichiometries. The data points indicate a pronounced decrease in T<sub>c</sub>, reaching a minimum of about 5 Kelvin at approximately 31.25% Sn content, illustrating the vulnerability of tin-rich regions within grain boundaries to temperature-driven performance reductions. This finding highlights the stoichiometric sensitivity of Nb3Sn, key to designing SRF materials with optimized stability and superconducting efficacy.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2003.03362/images/_page_3_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_8.jpeg"
+    },
+    "_page_3_Figure_3.jpeg": {
+      "caption": "This graph provides the Nb and Sn concentration profiles at a grain boundary (GB) in a Nb3Sn sample, using bright-field scanning transmission electron microscopy (BF-STEM) data. The plot illustrates distinct Sn enrichment at the GB, highlighting Sn as high as 33 at.% within a narrow zone (~3 nm), which underscores the detrimental impact of such segregation zones on superconducting performance and cavity efficiency by facilitating vortex penetration.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2003.03362/images/_page_3_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_3.jpeg"
+    },
+    "_page_6_Figure_1.jpeg": {
+      "caption": "Figure 9 details the sequenced penetration of vortices through a grain boundary under increasing magnetic fields. Initial vortex penetration occurs at the geometric defect (top), progress to the grain bulk (middle), and eventually disperses into an equilibrium distribution (bottom). These observations highlight critical transitions between confined and delocalized vortex behaviors, essential for assessing SRF cavity performance under varied operational conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2003.03362/images/_page_6_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_1.jpeg"
+    },
+    "_page_5_Figure_0.jpeg": {
+      "caption": "Figure 12 illustrates a set of vortex lines in a superconductor under a surface magnetic field, focusing on a grain boundary as the area of weakest superconductivity where vortices nucleate. This depiction shows how these defects serve as nucleation points for magnetic vortices that degrade superconducting performance, emphasizing the need to address these areas to maintain high SRF cavity quality.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2003.03362/images/_page_5_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1395,
+    "api_cost": 0.1395,
+    "file_storage_cost": 0.0,
+    "total_time": 121.14,
+    "request_count": 2,
+    "average_cost_per_request": 0.0697,
+    "average_time_per_request": 60.57,
+    "files_uploaded": 17,
+    "total_file_size": 490528
+  }
+}

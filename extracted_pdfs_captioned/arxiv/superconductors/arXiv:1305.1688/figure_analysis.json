@@ -1,0 +1,98 @@
+{
+  "paper_id": "951ce131eb9e03aa9ecdee185930546c",
+  "pdf_path": "apl/Superconductors/arXiv:1305.1688.pdf",
+  "processing_timestamp": "2025-06-23T13:35:28.489323",
+  "figure_analysis": {
+    "_page_3_Figure_1.jpeg": {
+      "caption": "This figure presents a micrograph of a longitudinal cross-section for the 2nd benchmarking of IT Nb3Sn used in the ITER project. The diagram illustrates the internal structure of the strand, highlighting the dividing areas and the tin core. This imaging is crucial for understanding the twist pitch and filament arrangement within Nb3Sn strands, which impacts the performance and verification processes for ITER superconducting strands .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1305.1688/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "_page_2_Figure_10.jpeg": {
+      "caption": "This plot analyzes the relationship between the measured twist pitch ratio (TPm/TP) and the rotation angle (θB). The data is presented for various fixed rotation angles of point A (θA) from -90 to 90 degrees. The inset focuses on smaller angle increments around 0 degrees, showing that deviations in TP resulting from angle determination remain below 2% with rotation angles set between -10 and 10 degrees. This finding is significant for ensuring accuracy in twist pitch measurements, especially crucial for superconducting strand verification .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1305.1688/images/_page_2_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_10.jpeg"
+    },
+    "_page_3_Figure_7.jpeg": {
+      "caption": "This microphotograph displays the tangent angles of Nb3Sn strands, important for estimating the twist pitch by method B, which involves image analysis and measurement of the tangent angle relative to the strand axial direction. The accurate determination of such angles is critical for verifying the twist pitch, which is pivotal for the performance of superconducting strands in ITER applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1305.1688/images/_page_3_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_7.jpeg"
+    },
+    "_page_2_Figure_17.jpeg": {
+      "caption": "This schematic diagram outlines the TP test process via the rotation method for determining twist pitch in superconducting strands. The procedure involves fixing the strand, etching to remove copper, and rotating one end of the sample until the filaments are untwisted. This method is particularly useful for strands like NbTi, where direct measurement of twist pitch can be challenging .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1305.1688/images/_page_2_Figure_17.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_17.jpeg"
+    },
+    "_page_1_Figure_10.jpeg": {
+      "caption": "This figure provides a schematic diagram to illustrate the TP measurement by the repetition of filament bundles. It shows how counting the number of visible filament bundles can help determine the twist pitch. This method is crucial for assessing the twist structure within strands, essential for ITER superconducting cable performance .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1305.1688/images/_page_1_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_10.jpeg"
+    },
+    "_page_1_Figure_19.jpeg": {
+      "caption": "This schematic diagram describes the TP measurement by filament angles, highlighting the use of SEM image analysis to obtain numerous angles for averaging. This approach ensures reduced random errors and influences the measurement accuracy of the twist pitch in superconducting strands employed in the ITER project .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1305.1688/images/_page_1_Figure_19.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_19.jpeg"
+    },
+    "_page_3_Figure_3.jpeg": {
+      "caption": "This micrograph exhibits the longitudinal cross-section of the 1st benchmarking BR Nb3Sn strand. The figure highlights the filament bundle construction, aiding in identifying the twist pitch via a repeating pattern. Such analysis supports the verification and fabrication processes of superconducting cable strands for ITER .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1305.1688/images/_page_3_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_3.jpeg"
+    },
+    "_page_0_Figure_14.jpeg": {
+      "caption": "This transverse micrograph shows the WST NbTi (type 2) strand used for the ITER conductor. This image is insightful for analyzing the cross-sectional composition and distribution of filaments within the strands, vital for meeting ITER technical specifications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1305.1688/images/_page_0_Figure_14.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_0_Figure_14.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "This figure represents a helix diagram used to aid in the understanding of the twist angle measurements and calculations necessary for determining the twist pitch in superconducting strands. Such geometric analyses are critical for detailed evaluations of strand configurations employed in ITER .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1305.1688/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    },
+    "_page_1_Figure_1.jpeg": {
+      "caption": "Figure 2 illustrates transverse cross-sections of Nb3Sn strands used for the ITER conductor, fabricated by the Western Superconducting Technology Company. The images show (a) the WST Bronze Route (BR) Nb3Sn strand and (b) the WST Internal Tin (IT) Nb3Sn strand. These micrographs are crucial for visualizing the filament arrangement and barrier layers essential for the functionality and structural integrity of these superconductor strands. Analyzing these cross-sections helps in verifying that the strand's architecture adheres to the technical requirements, which include specific twist pitches and right-hand twist orientation. Through careful examination of the filament configuration and matrix material surrounding, critical insights are gained into the quality control and performance standards necessary for components in high-stakes applications such as ITER.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1305.1688/images/_page_1_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0913,
+    "api_cost": 0.0913,
+    "file_storage_cost": 0.0,
+    "total_time": 82.32,
+    "request_count": 2,
+    "average_cost_per_request": 0.0457,
+    "average_time_per_request": 41.16,
+    "files_uploaded": 11,
+    "total_file_size": 200729
+  }
+}

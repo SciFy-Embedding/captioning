@@ -1,0 +1,282 @@
+{
+  "paper_id": "adcfe55c4b13eaa100289ad09ec1530e",
+  "pdf_path": "apl/Superconductors/arXiv:1501.07146.pdf",
+  "processing_timestamp": "2025-06-23T13:46:21.162512",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "The figure presents the normalized pinning force (F_p/F_p,max) against the reduced magnetic field parameter (B/B_c2) for a Nb3Sn wire manufactured by Oxford Instruments (OST) with a stainless steel (SS) jacket. The data are plotted for different applied strains (ε), indicated by various symbols such as squares, triangles, and stars representing distinct strain levels ranging from ε_0 to ε_max. The uniform curve delineated by these data points indicates that the pinning mechanism remains unaffected by the application of uniaxial tensile strain. This observation confirms that variations in superconductor performance under strain are primarily due to changes in the upper critical field (B_c2), rather than modifications in the pinning mechanism itself, which is significant for understanding the strain dependencies of superconductor properties .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "0__page_7_Figure_7.jpeg": {
+      "caption": "This figure illustrates the temperature dependence of the irreversibility field (B_irr) and upper critical field (B_c2) for a binary MgB2 wire when the magnetic field is applied parallel to the ab plane. The red points and green triangles mark B_c2 at resistivities of 90% and 10% of the normal state resistance Rn, respectively, while blue circles represent B_irr at J_c = 10 A/cm². The data show that both critical fields diminish with increasing temperature, emphasizing the superconducting performance limits and the anisotropic properties of MgB2. This is crucial for applications requiring precise knowledge of superconductor behavior under varied thermal conditions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/0__page_7_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_7.jpeg"
+    },
+    "_page_1_Figure_3.jpeg": {
+      "caption": "The subfigures display various multifilamentary Nb3Sn wire types: (a) shows a bronze route wire, (b) presents a Powder-in-Tube (PIT) wire, and (c) illustrates an advanced RRP (Restacked Rod Process) wire type. Notably, in subfigure (c), non-Cu critical current densities for RRP wires are depicted up to a magnetic field of 16 T, showcasing their superior superconducting capabilities. These images provide a direct comparison of the internal structure and potential performance improvements due to different wire architectures, which is key for optimizing wire selection for high-field applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/_page_1_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_3.jpeg"
+    },
+    "0__page_11_Figure_5.jpeg": {
+      "caption": "This figure shows the critical current density (J_c) for MgB2 wires fabricated using a modified Internal Magnesium Diffusion (IMD) technique. The left side of the figure displays J_c within the filaments, whereas the right side presents the engineering J_c for the wire as a whole. The data indicate enhancements in critical current density achieved through this fabrication method, suggesting significant potential for MgB2 in high-field applications such as MRI. The improvements highlight the promises of innovative processing techniques in superconducting materials .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/0__page_11_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_5.jpeg"
+    },
+    "1__page_14_Figure_0.jpeg": {
+      "caption": "The figure details the heat treatment protocol employed for Bi-2212 wires after their final mechanical deformation. It shows various temperature stages and holding times crucial for the chemical and structural transformations that are required to optimize superconductive properties. The graph marks key temperature holds and ramps, illustrating the precision required in heat treatment to achieve desired filament qualities and high critical current densities, essential for advancing Bi-2212 wire performance in practical applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/1__page_14_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_14_Figure_0.jpeg"
+    },
+    "_page_2_Figure_3.jpeg": {
+      "caption": "The chart presents the critical current (I_c) of Nb3Sn wires as a function of uniaxially applied strain (ε), alongside changes in lattice parameters 'a' and 'c'. These measurements reveal the mechanical-electrical interaction in these superconductors, with specific focus on the response under mechanical stress. This understanding aids in predicting performance reliability under operating conditions where mechanical stress is present, which is vital for the design of coils for high magnetic field applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/_page_2_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_3.jpeg"
+    },
+    "1__page_17_Figure_1.jpeg": {
+      "caption": "This figure graphs the critical current (I_c) versus the thickness of a High-Temperature Superconducting (HTS) GdBCO layer at 77 K, measured at zero external magnetic field. The chart depicts a maximum critical current density (J_c) reached at a superconducting layer thickness of 6 µm, demonstrating that enhancing layer thickness can significantly improve current-carrying capability. This has direct implications for designing more efficient superconducting tapes and wires in cryogenic applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/1__page_17_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_17_Figure_1.jpeg"
+    },
+    "0__page_9_Figure_1.jpeg": {
+      "caption": "The figure shows the measured critical current density (J_c) in MgB2 wires subjected to different treatments, illustrating enhancements via cold densification processes. It represents the variation in field strengths at which J_c = 1 × 10⁴ A/cm² is achieved for wires processed with various densification pressures. This signifies potential for optimized MgB2 wire performance in low-temperature magnet applications, showing advancements in densification technology as a means to enhance superconducting characteristics .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/0__page_9_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_1.jpeg"
+    },
+    "0__page_8_Figure_2.jpeg": {
+      "caption": "Displayed is the anisotropy of upper critical fields (B_c2) for various superconductors including Nb3Sn, NbTi, and MgB2 (single crystals), with variations in field application directions marked. The figure highlights the considerable anisotropy present in MgB2 due to its unique crystalline properties. This information is significant for understanding the directional dependency of superconducting properties, which affects the material's performance in magnetic systems .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/0__page_8_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_2.jpeg"
+    },
+    "_page_3_Figure_0.jpeg": {
+      "caption": "This figure displays modified Walters spirals developed by the University of Geneva, utilized to measure the effect of uniaxial tensile strain on Nb3Sn wires, depicted on the left, and R.E.-123-coated conductor tapes on the right, under magnetic fields up to 21 T at 4.2 K. These spirals apply strain via rotation of their central axis, allowing insights into the critical current density, J_c, affected by these strains. The devices highlight a critical current limitation criterion of up to 1000 A, enhancing the evaluation of superconductor performance under mechanical stress, especially for high-field applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "_page_1_Figure_5.jpeg": {
+      "caption": "The figure compares two types of Nb3Sn wire cross-sections, tested at CERN for the LHC project: RRP (Restacked Rod Process) wires from Oxford Instruments and PIT (Powder-in-Tube) wires from Bruker. These images display differences in multifilament configurations, affecting their critical current densities under high electromagnetic stress. The experimental objective is to determine the suitability of these wire types for use in high-field quadrupole magnets.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/_page_1_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_5.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "This flow diagram depicts the three industrial methods of fabricating MgB2 wires using powder metallurgical processes: ex situ, in situ, and IMD (Internal Magnesium Diffusion) techniques. Each method has unique procedural steps involving mechanical deformation, bundling, and heat treatment, aimed at optimizing the wire's superconducting properties by refining the configuration of MgB2 into monocore or multifilamentary wire structures.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_7_Figure_0.jpeg": {
+      "caption": "The diagram on this figure illustrates the hexagonal crystalline lattice structure of the MgB2 phase, crucial for its superconducting properties. This structural representation helps in understanding how the lattice contributes to the material's current-carrying capability and anisotropic superconductivity, key for applications in high-current connections in particle accelerators like the LHC.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/0__page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_0.jpeg"
+    },
+    "0__page_8_Figure_4.jpeg": {
+      "caption": "The figure demonstrates the anisotropy observed in the upper critical field B_c2 of binary MgB2 wires as seen at different temperatures. This data reveals how MgB2's anisotropic properties affect its performance in electromagnetic applications and help understand the benefits of alloying for enhancing critical current densities in these superconductors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/0__page_8_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_4.jpeg"
+    },
+    "_page_5_Figure_8.jpeg": {
+      "caption": "This plot compares the effects of uniaxial tensile stress versus compressive stress on a bronze route Nb3Sn wire, demonstrating the substantial impact of compressive stresses on wire performance. The investigation underscores how wire configurations can mitigate stress impacts, crucial for designing robust superconducting structures in magnetic applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/_page_5_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_8.jpeg"
+    },
+    "1__page_16_Figure_4.jpeg": {
+      "caption": "Displayed is the multilayered architecture of coated conductors fabricated using RABITS and IBAD techniques, which are essential for optimizing superconductor performance. The structure influences mechanical stability and current density of tapes, setting a framework for improving coated conductor applications in high-energy physics magnets.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/1__page_16_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_16_Figure_4.jpeg"
+    },
+    "1__page_18_Figure_3.jpeg": {
+      "caption": "This graph depicts the reduction of AC losses in coated conductor tapes through the application of combined Roebel and striation techniques. The results emphasize the importance of low-loss configurations in enhancing the energy efficiency of superconductors under alternating current conditions in practical applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/1__page_18_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Figure_3.jpeg"
+    },
+    "1__page_14_Figure_5.jpeg": {
+      "caption": "The graph presents the critical current density J_c as a function of the applied magnetic field for various round wires based on known superconducting materials at 4.2 K. These findings demonstrate Bi-2212's superior J_c under high magnetic fields, confirming its potential for high-field applications over other round superconductors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/1__page_14_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_14_Figure_5.jpeg"
+    },
+    "0__page_11_Figure_1.jpeg": {
+      "caption": "The left panel shows the critical current density J_c as a function of magnetic field B in A/cm² for MgB₂ wires fabricated with varying pressures using cold densification techniques at 4.2 K. The panel indicates how increased densification pressure positively affects J_c, demonstrating significant improvements in superconducting performance. The right panel further describes J_c at higher temperatures of 20 K and 25 K under similar conditions, indicating multifold enhancements under advanced processing conditions, crucial for expanding MgB₂ applications in devices operating at elevated temperatures.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/0__page_11_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_1.jpeg"
+    },
+    "1__page_17_Figure_4.jpeg": {
+      "caption": "Presented is the critical current I_c performance of a GdBCO tape at various temperatures: 20 K, 50 K, 65 K, and 77 K, against the magnetic field, underlining the capabilities of this tape across different operational conditions. The tape, manufactured by Fujikura Co., achieves 1,120 A/cm-width at 5 T and exhibits substantial superconductivity even at lower fields and higher temperatures. The findings demonstrate this material's potential for broad superconducting applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/1__page_17_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_17_Figure_4.jpeg"
+    },
+    "0__page_10_Figure_2.jpeg": {
+      "caption": "This figure depicts cross-sectional images of MgB₂ multifilamentary wires crafted by three methods: (a) ex situ, (b) in situ, and (c) and (d) via IMD processing. The variations in arrangement and configuration of the wires highlight the differences in structural integrity and potential superconducting efficiency, aiding in selecting the best fabrication technique for different industrial applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/0__page_10_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_2.jpeg"
+    },
+    "1__page_15_Figure_15.jpeg": {
+      "caption": "The orthorhombic Pmmm crystal structure of YBa2Cu3O7−x, part of the REBaCuO family, is illustrated here, showing atom positions and lattice alignment. This structural detail is vital for understanding the anisotropy in high-temperature superconductors, distinctly influencing their superconducting properties and application in fabricating complex superconducting magnets.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/1__page_15_Figure_15.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_15_Figure_15.jpeg"
+    },
+    "0__page_7_Figure_2.jpeg": {
+      "caption": "Displayed is the Mg-B high-temperature phase diagram, emphasizing a gaseous domain above 1100°C, relevant for MgB₂ wire production. The diagram aids in understanding the thermal conditions impacting MgB₂ crystallization and confirming its suitability for high-current, low-field applications, essential in hydrogen-powered technologies.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/0__page_7_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_2.jpeg"
+    },
+    "1__page_18_Figure_1.jpeg": {
+      "caption": "This schematic represents a Roebel plus striation configuration developed to reduce AC losses in coated conductor tapes. The integration of this architecture mimics multifilamentary arrangements that lower AC losses significantly, thereby enhancing the efficiency and performance of superconducting tapes in practical applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/1__page_18_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Figure_1.jpeg"
+    },
+    "0__page_12_Figure_1.jpeg": {
+      "caption": "The graph compares the critical current densities J_c as a function of the magnetic field for various MgB₂ wire types and thin films, each varying by processing method. The visual data indicates that IMD-prepared MgB₂ wires can achieve competitive performance to other superconductors, underpinning their growing role in magnetic field applications up to 10 T.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/0__page_12_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_1.jpeg"
+    },
+    "1__page_16_Figure_1.jpeg": {
+      "caption": "This figure elaborates on the fabrication processes—RABITS and IBAD—used for producing REBaCuO-coated conductors, highlighting differences in substrate type and texture. These multilayered architectures are crucial for developing high-performance superconductors, where microstructural characteristics significantly influence current density and mechanical stability.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/1__page_16_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_16_Figure_1.jpeg"
+    },
+    "_page_3_Figure_3.jpeg": {
+      "caption": "The graph shows the normalized critical current I_c versus uniaxial strain for a Restacked Rod Process (RRP) Nb3Sn wire at 4.2 K, under different magnetic field strengths. It indicates that the critical current remains reversible within the specified strain window (ε_m = 0.25%), essential for evaluating wire performance under mechanical stress during application.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/_page_3_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_3.jpeg"
+    },
+    "_page_6_Figure_1.jpeg": {
+      "caption": "This figure illustrates the normalized critical current I_c/I_c0 for a Powder-in-Tube (PIT) Nb3Sn wire subjected to transverse stress at 19 T and 4.2 K. The tests examine different stress configurations: two-wall, four-wall, and four-wall with epoxy, simulating the stress on Rutherford cables. Benefits of epoxy include a more hydrostatic stress distribution reducing direct transverse stress on wires, crucial for maintaining mechanical integrity in superconducting magnets exposed to high Lorentz forces.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/_page_6_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_1.jpeg"
+    },
+    "_page_1_Figure_0.jpeg": {
+      "caption": "The diagram compares two fabrication methods for Nb3Sn superconducting wires: the Bronze Route and the Internal Sn Diffusion (RRP) technique. In the Bronze Route, extrusion and intermediate annealing are sequentially applied, while the RRP bypasses intermediate anneals, allowing direct diffusion from Nb barriers to form Nb3Sn. Understanding these processes aids in optimizing the manufacture for higher critical currents.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/_page_1_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_0.jpeg"
+    },
+    "1__page_14_Figure_2.jpeg": {
+      "caption": "This graph details the enhancement in the engineering critical current density (J_e) of Bi-2212 wires as a function of applied isostatic pressure. The application of external pressure during heat treatment significantly bolsters J_e, highlighting improvements in filament connectivity that are vital in achieving high current densities at cryogenic temperatures, essential for powerful magnet applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/1__page_14_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_14_Figure_2.jpeg"
+    },
+    "_page_4_Figure_3.jpeg": {
+      "caption": "The plot shows normalized critical current (I_c/I_co) as a function of applied strain ε for a Furukawa bronze route Nb3Sn wire tested at 4.2 K and 13 T. The stronger critical current criterion leads to earlier nanocrack detection, marking the irreversible strain limit. This insight is critical for ensuring mechanical resilience where wire performance can be compromised by mechanical deformations.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/_page_4_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_3.jpeg"
+    },
+    "0__page_10_Figure_5.jpeg": {
+      "caption": "The cross-sectional images depict typical round, Cu-stabilized ex situ MgB2 wires produced by Columbus for the CERN LINK project. The uniform distribution of superconducting filaments within the Cu matrix illustrates advancements in wire architecture designed to optimize superconducting performance and enable mechanical stability under high electromagnetic forces.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/0__page_10_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_5.jpeg"
+    },
+    "0__page_13_Picture_5.jpeg": {
+      "caption": "Shown is a multifilamentary round Bi-2212 wire pre-heat treatment, where filaments are housed in a silver matrix. The filament structure is optimized to address issues related to gas formation, improving critical current density (J_c) by mitigating void formation. These improvements are crucial for leveraging Bi-2212's high-field performance capabilities in accelerator magnet applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1501.07146/images/0__page_13_Picture_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Picture_5.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.315,
+    "api_cost": 0.315,
+    "file_storage_cost": 0.0,
+    "total_time": 227.85,
+    "request_count": 4,
+    "average_cost_per_request": 0.0787,
+    "average_time_per_request": 56.96,
+    "files_uploaded": 34,
+    "total_file_size": 1365030
+  }
+}

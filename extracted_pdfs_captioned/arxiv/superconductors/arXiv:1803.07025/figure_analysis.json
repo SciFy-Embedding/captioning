@@ -1,0 +1,74 @@
+{
+  "paper_id": "54e2225ec5d051f275b1ea41f0977aac",
+  "pdf_path": "apl/Superconductors/arXiv:1803.07025.pdf",
+  "processing_timestamp": "2025-06-23T14:05:52.063334",
+  "figure_analysis": {
+    "0__page_12_Figure_2.jpeg": {
+      "caption": "Figure 4 highlights the Tc distributions in Nb3Sn superconductors doped with Ta, Ta+Ti, and Ti at both zero and high magnetic fields (15 T), indicated by the fA15 frequency. The x-axis suggests critical temperature (Tc in Kelvin). These distributions are derived from specific heat measurements and are particularly relevant for understanding high-field performance and phase composition uniformity in Nb3Sn wires. Subtle shifts and broadening in Tc distributions hint at the impacts of doping strategies on superconducting phase stability.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1803.07025/images/0__page_12_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_2.jpeg"
+    },
+    "0__page_13_Figure_1.jpeg": {
+      "caption": "Composite image for Figure 7 displaying distinct Fourier Transforms of k²-weighted χ(k) EXAFS data for both niobium and tin sites within the Nb3Sn lattice. The spectra indicate the nearest-neighbor interactions specific to these sites, with the middle panel showing a schematic of the Nb3Sn unit cell with color-coded site identifications. This figure underscores the differential local environments presented to Nb and Sn atoms, pertinent to understanding compositional influences on superconducting performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1803.07025/images/0__page_13_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_1.jpeg"
+    },
+    "0__page_13_Figure_0.jpeg": {
+      "caption": "Figure 6 illustrates the correlation between upper critical field (μ0Hc2) values and disorder-mediated parameters (T*(1-η²) in arbitrary units) for Nb3Sn samples with varying dopants, Ta, Ta+Ti, and Ti#1. The upward trend reflects how lattice disorder, influenced by dopant site occupancy, significantly impacts superconducting properties like Hc2. Such findings stress the need for optimizing lattice site occupation to gain maximal superconducting performance under high-field conditions, essential for advanced applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1803.07025/images/0__page_13_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_0.jpeg"
+    },
+    "0__page_11_Figure_2.jpeg": {
+      "caption": "Figure 5 illustrates Fourier transformed EXAFS spectra for Ti-doped Nb3Sn samples at the K edge of titanium, illustrating the titanium occupation of lattice sites. The figure shows comparative data for Ti doped #1, Ti+Ta doped, and Ti doped #2 strands. The y-axis represents the EXAFS amplitude, while the x-axis covers radial distances (R in Å) up to 6 Å. For these samples, the spectra primarily indicate that titanium preferentially occupies Nb sites without any notable Ti occupancy at Sn sites. This understanding helps in discerning the microstructural impacts of Ti doping, helping to enhance Nb3Sn's critical current densities by leveraging antisite disorder.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1803.07025/images/0__page_11_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_2.jpeg"
+    },
+    "0__page_12_Figure_0.jpeg": {
+      "caption": "Figure 3 displays scanning electron microscopy images and X-ray fluorescence maps of internal-Sn A15 superconducting wires, illustrating the microstructural features and elemental distribution in doped Nb3Sn wires. The top images show an overview and individual sub-element structures of Ti#1, Ti+Ta, and Ta#1 doped strands with annotated voids and CuSn phases. The bottom images provide titanium and tin elemental maps from a Ti#2 sample, revelatory of distribution artifacts due to the experimental geometry. Such spatial and compositional data are crucial for tailoring the thermal processing routes to optimize superconducting wire performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1803.07025/images/0__page_12_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_0.jpeg"
+    },
+    "0__page_13_Figure_2.jpeg": {
+      "caption": "Figure 8 compares EXAFS spectra for Nb3Sn with different lattice configurations via graphical depictions of spectral patterns for both niobium and tin absorption sites. On either side of the central schematic, there are visualizations of symmetrical structures with distinct plotted data peaks, providing insights into potential antisite defects and configurational disorder critical to the superconducting behavior in doped Nb3Sn.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1803.07025/images/0__page_13_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_2.jpeg"
+    },
+    "0__page_11_Figure_0.jpeg": {
+      "caption": "Figure 2 compares Extended X-ray Absorption Fine Structure (EXAFS) Fourier transformed spectra for Ta-doped Nb3Sn samples at the L3 edge of tantalum, with peaks indicating the coordination environment around Ta atoms. The subfigures show the amplitude of the EXAFS signal as a function of radial distance (R in Å), comparing Ta doped #1, Ta+Ti doped, and Ta doped #2 Nb3Sn. The presence of peaks at specific R-values suggests significant Ta occupancy on Nb sites with some Ta present on the Sn sites, specifically at about 30% for Ta#1, 32% for the Ta+Ti, and 21% for Ta#2. These sites contribute to variations in the local atomic structure, thereby affecting superconducting properties like Hc2, a crucial factor for optimizing Nb3Sn wire performance for high-field magnet applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1803.07025/images/0__page_11_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0625,
+    "api_cost": 0.0625,
+    "file_storage_cost": 0.0,
+    "total_time": 45.62,
+    "request_count": 1,
+    "average_cost_per_request": 0.0625,
+    "average_time_per_request": 45.62,
+    "files_uploaded": 8,
+    "total_file_size": 505481
+  }
+}

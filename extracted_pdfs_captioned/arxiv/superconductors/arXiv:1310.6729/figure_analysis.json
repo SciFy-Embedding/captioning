@@ -1,0 +1,170 @@
+{
+  "paper_id": "affbf72c7361719c08939d37899ae255",
+  "pdf_path": "apl/Superconductors/arXiv:1310.6729.pdf",
+  "processing_timestamp": "2025-06-23T13:38:04.403229",
+  "figure_analysis": {
+    "0__page_10_Figure_6.jpeg": {
+      "caption": "Figure 6 presents the normalized specific heat capacity (Cₚ/γT) of Nb₃Sn across various heat treatment conditions (620°C/192h, 650°C/96h, 665°C/50h, 680°C/48h, 695°C/48h, 750°C/96h) against temperature (T). Data points reflect superconducting transitions, indicating sharper transitions at higher heat treatment temperatures, particularly notable in samples treated at 750°C/96h, reaching a specific heat capacity peak at approximately 18 K. This finding underscores a sharper superconducting phase transition with homogeneously distributed Sn at elevated treatment temperatures, reinforcing the critical role of thermal processing in optimizing the superconducting properties of Nb₃Sn.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6729/images/0__page_10_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_6.jpeg"
+    },
+    "_page_8_Figure_5.jpeg": {
+      "caption": "Figure 5 details the percentage composition of Sn and Cu in Nb₃Sn filaments, illustrating the Sn content variation from the filament edge to the center for four heat treatments (620°C/192h, 680°C/48h, 695°C/48h, 750°C/96h). The top panel shows that the Sn concentration increases from center to edge, indicating significant diffusion. The lower panel reveals Cu’s inverse relationship. This gradient decreases at higher HT, reflecting increased Sn homogeneity. These insights are critical for understanding the microchemical tailoring needed to maximize superconducting performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6729/images/_page_8_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_5.jpeg"
+    },
+    "0__page_9_Figure_0.jpeg": {
+      "caption": "Figure 0 depicts elemental maps derived from FESEM-EDS, showing atomic distributions of Nb, Ta, Sn, and Cu within Nb-Ta filaments post various heat treatments. Elemental distributions highlight the non-uniform Sn and Ta presence, essential in evaluating microchemical gradients. Enhancing Sn diffusion minimizes unreacted core layers, thereby improving stoichiometry and superconducting homogeneity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6729/images/0__page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_0.jpeg"
+    },
+    "0__page_12_Figure_4.jpeg": {
+      "caption": "Figure 4 demonstrates Tc distribution changes as determined by specific heat analyses of Nb₃Sn samples subjected to different heat treatments. The primary observation is the peak shift in the A15 phase Tc with increasing HT temperatures, moving towards higher Tc values with reduced peak width. The inset clarifies superconducting transition behaviors, crucial for understanding the effects of heat treatments on superconducting properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6729/images/0__page_12_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_4.jpeg"
+    },
+    "_page_5_Figure_2.jpeg": {
+      "caption": "Figure 2 illustrates the thickness of the unreacted Nb-Ta barrier across the sub-element's radial extent for the 680°C/48h treatment. There is a pronounced trend where barrier thickness diminishes closer to the Sn core, indicating progressive Sn diffusion outward. This trend aids in understanding material homogeneity, further confirmed by variations in the sub-element deformation and reaction kinetics during HT.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6729/images/_page_5_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_2.jpeg"
+    },
+    "_page_7_Figure_0.jpeg": {
+      "caption": "Figure 0 visualizes the changes in specific heat as a function of heat treatment under zero magnetic field. It plots dCp/dT as a function of temperature, revealing distinct thermal transitions due largely to the diffusion-induced changes in Nb₃Sn's superconducting phase. These transitions are pivotal, showcasing the sensitivity of superconducting states to thermal gradients which in turn influence material functionality in applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6729/images/_page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_0.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "Figure 0 presents specific heat data of Nb₃Sn measured at 0 and 16 T. The plot highlights the impact of magnetic fields on superconducting transitions, emphasizing the change in energy states at different fields and temperatures. Notably, reactions processed at higher temperatures show increased homogenization, suggesting improved performance under operational magnetic fields.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6729/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_14_Figure_0.jpeg": {
+      "caption": "Figure 0 shows the normalized fractional critical field κ(T) at 16 T plotted against heat treatment for several samples. The presented data showcases significant variability in critical temperature distributions based on heat treatments, underscoring the need for optimized thermal cycles to enhance superconducting characteristics within specific magnetic field ranges.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6729/images/0__page_14_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_0.jpeg"
+    },
+    "_page_8_Figure_3.jpeg": {
+      "caption": "Figure 3 highlights the variation in aspect ratio and mean A15 grain diameter across the A15 layer starting from the A15/Nb interface. Data indicates grain morphological changes with HT era, critical for optimizing pinning and thereby enhancing the critical current density (Jc). These measurements tie directly into understanding the trade-offs between grain growth and superconducting performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6729/images/_page_8_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_3.jpeg"
+    },
+    "_page_2_Figure_5.jpeg": {
+      "caption": "Figure 5 illustrates a cross-sectional FESEM-BSE image of a reacted Nb₃Sn RRP® wire treated at 665°C/50h. This transverse view shows the three-ring architecture, highlighting the sub-element degradation towards the outer ring, characterized by distortion at the corners. The diffusion barrier, A15 layer, and Cu stabilizer are clearly differentiated, emphasizing the impact of thermal treatment on material deformation and integrity at different sub-element locations.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6729/images/_page_2_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_5.jpeg"
+    },
+    "0__page_15_Figure_2.jpeg": {
+      "caption": "Figure 2 presents the critical current density (Jc), pinning force density (Fp), and Kramer plot of RRP® Nb₃Sn wires at 4.2 K, subjected to varying final heat treatments (620°C/192h, 650°C/96h, 665°C/50h, 680°C/48h, 695°C/48h, 750°C/96h). The upper panel indicates that Jc is highest at mid-range treatments, while the lower panel suggests improved performance at higher fields for short HTs. These results demonstrate how heat treatments influence superconducting properties, with implications for optimizing A15 microstructural characteristics.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6729/images/0__page_15_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Figure_2.jpeg"
+    },
+    "0__page_12_Figure_0.jpeg": {
+      "caption": "Figure 0 plots the superconducting volume fraction F(T) for different heat treatments of Nb₃Sn wire at zero magnetic field, highlighting the transition sharpness as HTs increase. The inset shows DC magnetization transitions corroborating these results. These findings underscore the critical role of thermal reactions in enhancing superconductive homogeneity and point towards optimal processing conditions for maximizing critical temperature distributions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6729/images/0__page_12_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_0.jpeg"
+    },
+    "_page_2_Picture_7.jpeg": {
+      "caption": "Picture 7 displays FESEM-BSE images of Nb₃Sn wires after various heat treatments, showing differences in interfilamentary Cu(Sn) islands and A15 layer thickness across Sn core annuli. Notably, increased heat treatment temperatures decrease interfilamentary contrast and barrier thickness, while promoting visible A15 formation outside initial barriers, indicating significant structural transformation facilitating superconductor performance enhancement.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6729/images/_page_2_Picture_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Picture_7.jpeg"
+    },
+    "1__page_19_Figure_2.jpeg": {
+      "caption": "Figure 2 illustrates the correlation between extrapolated irreversibility field (Hirr) and maximum Tc(16 T) with heat treatment temperatures for Nb₃Sn wires. The measurements at 4.2 K show that increased HT temperatures substantially raise Hirr and Tc, reinforcing the significance of thermal processing for achieving higher uniformity and enhanced superconducting performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6729/images/1__page_19_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_19_Figure_2.jpeg"
+    },
+    "_page_7_Figure_3.jpeg": {
+      "caption": "Figure 3 provides FESEM images of fractured Nb₃Sn wires, laid next to each other, to compare the microstructural changes across the A15 layer for wires treated at 620°C/192h and 680°C/48h. The images reveal varied grain structures, with circles marking original filament centers. Differences in grain formation and composition gradients indicate evolving superconducting properties, critical for optimizing HT treatments.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6729/images/_page_7_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_3.jpeg"
+    },
+    "_page_4_Figure_2.jpeg": {
+      "caption": "Figure 2 examines the integrity of the Nb-Ta diffusion barriers in Nb₃Sn wires across different heat treatments. The analysis of percentage thickness, breakthrough points, and mean barrier thickness reveals significant thinning at high HTs, with compromised RRR in cases of complete breakthrough, essential for understanding material longevity and effectiveness in maintaining superconductive properties under varied conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6729/images/_page_4_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_2.jpeg"
+    },
+    "_page_6_Figure_1.jpeg": {
+      "caption": "Figure 1 presents cross-sectional views of multi-heated Nb₃Sn wires, highlighting how sub-elements evolve with progressive heat treatments at 620°C/192h, 680°C/48h, and 750°C/96h, each affecting Cu and Sn diffusion, barrier integrity, and void formation. This visualization is crucial for assessing the impacts of different HT cycles on the structural and functional stability of RRP® superconductors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6729/images/_page_6_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_1.jpeg"
+    },
+    "_page_3_Figure_2.jpeg": {
+      "caption": "Figure 2 provides a compositional breakdown, showing the percentage of non-Cu, A15, and Nb across the wire sub-elements for varying HTs. The NB percentage within the non-Cu fraction across the A15 layer quantifies diffusion dynamics and resulting compositional shifts, critical to enhancing Nb₃Sn superconductor uniformity and performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6729/images/_page_3_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_2.jpeg"
+    },
+    "0__page_13_Figure_4.jpeg": {
+      "caption": "Figure 4 presents the superfluid volume fraction F(T) of Nb₃Sn wires at 16 T for various heat treatments, providing a comparative analysis of superconducting transition behaviors. The heat treatments range from 620°C/192h to 750°C/96h, with each corresponding F(T) curve highlighting the response to strong applied fields. The data show that higher heat treatment temperatures, particularly at 750°C, result in a marked increase in the superfluid volume fraction, reaching up to 50% at temperatures above Tc. This suggests that higher temperature treatments significantly enhance the superconducting homogeneity and elevate the transition temperatures, thereby optimizing Nb₃Sn wire performance under high magnetic fields.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1310.6729/images/0__page_13_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_4.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.2084,
+    "api_cost": 0.2084,
+    "file_storage_cost": 0.0,
+    "total_time": 119.88,
+    "request_count": 3,
+    "average_cost_per_request": 0.0695,
+    "average_time_per_request": 39.96,
+    "files_uploaded": 20,
+    "total_file_size": 1939711
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "paper_id": "b62a04e4a2ef5a353616c0f42a5d0bab",
+  "pdf_path": "apl/Superconductors/arXiv:1701.08681.pdf",
+  "processing_timestamp": "2025-06-23T14:00:57.403828",
+  "figure_analysis": {
+    "1__page_17_Figure_0.jpeg": {
+      "caption": "Figure 3a. Critical current (Ic) as a function of heat treatment temperature at 12 Tesla magnetic field for Nb3Sn strands from JASTEC. The plot shows data for three different durations of heat treatment (80 hours, 100 hours, and 150 hours) at various temperatures (640°C to 660°C). The y-axis represents the critical current (Ic) measured in amperes (A), while the x-axis shows the heat treatment temperature in degrees Celsius (°C). The results indicate that the critical current remains stable across the studied temperature range within the experimental uncertainty. This suggests that moderate variations in heat treatment conditions do not significantly affect the critical current of JASTEC strands, an important consideration for large-scale applications in magnet technologies such as ITER. This stability is crucial for maintaining the performance of superconducting materials under variable heat treatment conditions.【4:14†temp_paper_b62a04e4a2ef5a353616c0f42a5d0bab.txt】",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1701.08681/images/1__page_17_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_17_Figure_0.jpeg"
+    },
+    "1__page_17_Figure_1.jpeg": {
+      "caption": "Figure 3b. Critical current (Ic) as a function of heat treatment temperature at 12 Tesla magnetic field for Nb3Sn strands from Kiswire Advanced Technology (KAT). Similar to the JASTEC strands, the KAT strands were evaluated over a heat treatment temperature range of 640°C to 660°C across different durations (100 hours, 120 hours, 150 hours). The y-axis denotes the critical current in amperes (A), while the temperature is represented on the x-axis in degrees Celsius (°C). The data shows little variation in critical current with changes in heat treatment parameters, highlighting the strands' robustness to temperature fluctuations, which is important for ensuring reliable performance in superconducting applications like fusion reactors.【4:14†temp_paper_b62a04e4a2ef5a353616c0f42a5d0bab.txt】",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1701.08681/images/1__page_17_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_17_Figure_1.jpeg"
+    },
+    "1__page_23_Figure_0.jpeg": {
+      "caption": "Figure 9. Residual Resistance Ratio (RRR) as a function of heat treatment time for KAT strands at different temperatures (640°C, 650°C, and 660°C) and comparison with literature data. The figure illustrates a downward trend in RRR as the heat treatment duration increases at each temperature setting. The x-axis represents the heat treatment time in hours, while the y-axis indicates the RRR value. The solid lines represent calculated trends using a numerical model developed to predict RRR changes based on Cr diffusion parameters. This depicts the susceptibility of RRR to degradation over time due to potential impurities, offering insights into the material's stability which is critical for optimizing the performance and lifespan of superconducting strands in demanding environments like those faced in ITER【4:5†temp_paper_b62a04e4a2ef5a353616c0f42a5d0bab.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1701.08681/images/1__page_23_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_23_Figure_0.jpeg"
+    },
+    "1__page_19_Figure_0.jpeg": {
+      "caption": "Figure 5. Hysteresis losses (Qhyst) as a function of heat treatment time for JASTEC strands over different treatment durations. On the x-axis is the heat treatment time in hours, and on the y-axis is the hysteresis loss measured in kJ/m³. The graph presents a fit based on an exponential function, similar to the approach used for critical current, suggesting a correlation between heat treatment duration and the magnitude of hysteresis losses. These findings illuminate the impact of heat treatment time on energy dissipation characteristics, which are essential for superconducting strands where minimizing energy loss is crucial for efficient performance【4:7†temp_paper_b62a04e4a2ef5a353616c0f42a5d0bab.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1701.08681/images/1__page_19_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_19_Figure_0.jpeg"
+    },
+    "1__page_20_Figure_0.jpeg": {
+      "caption": "Figure 6. Residual Resistance Ratio (RRR) as a function of heat treatment time during the first step at 570°C, comparing samples with and without a plated Cr layer. The x-axis represents the heat treatment duration in hours, while the RRR value is plotted on the y-axis. The presence of the Cr layer significantly impacts the RRR, displaying a decreasing trend with increasing time, whereas samples without Cr exhibit relatively stable RRR. This contrast underscores the role of Cr in RRR degradation via diffusion into the copper stabilizer, highlighting a critical factor affecting the electrical performance of these superconducting strands【4:10†temp_paper_b62a04e4a2ef5a353616c0f42a5d0bab.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1701.08681/images/1__page_20_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_0.jpeg"
+    },
+    "0__page_15_Picture_0.jpeg": {
+      "caption": "Figure 1. Cross-sectional micrographs of Nb3Sn wires, showing the JASTEC and KAT strands on the left and right, respectively. The image illustrates the architecture of these strands, critical for understanding the microstructural differences arising from their manufacturing processes—the internal-tin method for KAT and bronze route for JASTEC. The copper stabilizer (Cu) and chromium layer (Cr) are labeled, providing a visual reference for the physical configuration relevant for superconducting performance analysis. Such depictions are vital for correlating structural attributes with the strands' superconducting properties and their adaptation in large-scale applications【4:8†temp_paper_b62a04e4a2ef5a353616c0f42a5d0bab.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1701.08681/images/0__page_15_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_15_Picture_0.jpeg"
+    },
+    "1__page_16_Picture_0.jpeg": {
+      "caption": "Figure 2. Scanning electron microscope images showing the progressive heat treatment effects on JASTEC strands at 650°C between 0 and 100 hours. The images demonstrate Sn diffusion from the periphery towards the center of the filament over time, highlighting a Sn deficient core initially, which becomes more reacted as the heat treatment progresses. These cross-sectional views provide insight into microstructural changes critical for maximizing superconducting properties by optimizing heat treatment schedules. Such observations are pivotal for adjusting heat treatment parameters to achieve desired strand properties for use in superconducting magnets【4:9†temp_paper_b62a04e4a2ef5a353616c0f42a5d0bab.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1701.08681/images/1__page_16_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_16_Picture_0.jpeg"
+    },
+    "1__page_21_Figure_0.jpeg": {
+      "caption": "Figure 7. Residual Resistance Ratio (RRR) as a function of second-step heat treatment time for JASTEC strands at temperatures of 640°C, 650°C, and 660°C. The x-axis represents heat treatment time in hours, while the RRR is plotted on the y-axis. The figure clearly shows a decrease in RRR with increased treatment time and temperature, consistent with theoretical predictions of Cr and other alloying element diffusion into copper. This diminishing trend in RRR substantiates the model's reliability for predicting the effects of heat treatment on superconducting wire performance, important for the ITER project's superconducting magnet quality assurance【4:5†temp_paper_b62a04e4a2ef5a353616c0f42a5d0bab.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1701.08681/images/1__page_21_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Figure_0.jpeg"
+    },
+    "1__page_18_Figure_1.jpeg": {
+      "caption": "Figure 4. (a) Critical current (Ic) in amperes at 11, 12, and 13 Tesla as a function of heat treatment time at 650°C. The data follows an exponential fit suggesting a rapid achievement of close to maximum Ic, indicating efficient reaction at this temperature. (b) Upper critical field (Bc2) at 4.2 K versus heat treatment time, illustrating the influence of Sn content stabilization on superconducting limits. Both plots emphasize the importance of optimized heat treatment schedules to ensure maximal performance. These analyses are critical in guiding manufacturing processes for high-performance superconductors【4:13†temp_paper_b62a04e4a2ef5a353616c0f42a5d0bab.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1701.08681/images/1__page_18_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_18_Figure_1.jpeg"
+    },
+    "1__page_22_Figure_0.jpeg": {
+      "caption": "Figure 8. Schematic illustration showing the radial distribution of chromium (Cr) concentration within the copper (Cu) region of a Nb3Sn strand at a specific point during heat treatment. The figure demonstrates the diffusion gradient from a plated Cr layer into the Cu stabilizer, depicted at the outer boundary (r2) towards the interior non-Cu core (r1). The y-axis represents the concentration of Cr, with a distinct peak at the Cr/Cu interface, illustrating how Cr concentration diminishes inward. This graph models the Cr diffusion behavior which is crucial in understanding the degradation of Residual Resistance Ratio (RRR) with prolonged heat treatment at elevated temperatures. Such visualization supports analysis into the metallurgical processes affecting superconducting properties, and it is instrumental in developing predictive numerical models for RRR drops in superconductor manufacturing. The depiction is based on complementary error function calculations of Cr concentration as a function of distance and time, highlighting the phenomena associated with Cr layer impurities impacting the performance consistency of superconducting strands.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1701.08681/images/1__page_22_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1311,
+    "api_cost": 0.1311,
+    "file_storage_cost": 0.0,
+    "total_time": 88.06,
+    "request_count": 2,
+    "average_cost_per_request": 0.0655,
+    "average_time_per_request": 44.03,
+    "files_uploaded": 11,
+    "total_file_size": 660236
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "paper_id": "9f8b83c1b38161cad6fa482dc7cdfb45",
+  "pdf_path": "apl/Superconductors/arXiv:1908.07548.pdf",
+  "processing_timestamp": "2025-06-23T14:16:35.532767",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "The image presents Extended X-ray Absorption Fine Structure (EXAFS) results at the Ta L3 edge to study Ta site occupancy in Nb3Sn post various heat treatments. The graphs illustrate changes in Fourier transform magnitudes (|χ(R)| Å^(-3) ) across temperatures: 634°C, 666°C, and 711°C, revealing a dynamic shift in Ta positions, primarily affecting antisite disorder. Schematic lattice diagrams detail dopant occupancy showing temperature-dependent trends—Ti consistently occupies the Nb site, unlike Ta that switches between Nb and Sn sites depending on temperature. The scientific significance lies in understanding antisite disorder impact on superconducting parameters like *Hc2*, offering insights into tailoring heat treatments for optimal superconducting performance .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1908.07548/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "_page_3_Figure_0.jpeg": {
+      "caption": "This figure exhibits the magnetic hysteresis and normalized pinning force (Fp) curves at various temperatures (from 3.01 K to 14 K) for a Nb-Ta-Hf alloyed Nb3Sn wire. The Fp curves (a) are depicted as functions of applied magnetic field (μ₀H, in Tesla), showing critical current density responses across temperatures. The bottom chart (b) presents Fp normalized by its maximum value and plotted against the field strength relative to HMax, indicative of grain boundary (GB) and point defect (PD) pinning mechanisms with theoretical representations as dashed lines. This analysis reflects the temperature-dependence of Fp in pinning mechanisms, aligning with commercial wire performances and serves to optimize materials for high-field applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1908.07548/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "_page_6_Figure_4.jpeg": {
+      "caption": "The figure examines HIrr estimations versus maximum fitting field (μ₀HFitMax*) using modified Kramer functions, represented as circles and triangles, for Ta-Hf-doped monofilamentary wire and Ta-doped RRP wire (post 666°C treatment), at 4.2 K. Horizontal bands depict actual HIrr values acquired from high-field measurements. The analysis underscores utilizing tailored Kramer functions to address traditional methods' overestimation and enhance accuracy under restricted field data, driving development for high-performance superconducting wires.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1908.07548/images/_page_6_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_4.jpeg"
+    },
+    "_page_2_Figure_5.jpeg": {
+      "caption": "This figure illustrates Kramer plots for a Ta-doped RRP wire across temperatures, highlighting upward curvatures at low fields and high temperatures. An inset focuses on 4.2 K data, showcasing disparities in extrapolation ranges affecting HIrr estimations. It reveals the unreliability of Kramer extrapolations, often adopted in lieu of high-field experiences, challenging traditional paradigms and pushing high-field characterizations forward for superconductors like Nb3Sn .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1908.07548/images/_page_2_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_5.jpeg"
+    },
+    "_page_5_Figure_7.jpeg": {
+      "caption": "Figure displays HIrr evaluation based on fitting fields and two methodological approaches: standard Kramer function (squares) and Fp curve fits (stars) in Ta-Hf-doped and Ta-doped RRP wires (treated at 666°C), at 4.2 K. Variations in HIrr estimates are plotted against maximum fitting fields (μ₀HFitMax*), signifying a need for refined estimation techniques amidst observed divergence from actual measurements in high-field applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1908.07548/images/_page_5_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_7.jpeg"
+    },
+    "_page_1_Picture_0.jpeg": {
+      "caption": "This image presents FESEM backscattered electron images showing the cross-sections of three wire samples: (a) Ta-doped RRP-13711, (b) Ti-doped RRP-149984, and (c) Ta and Hf doped monofilamentary wire. Distinct layers and textures, such as A15 layers, are observable, emphasizing compositional contrasts and microstructural features resultant from different doping strategies. This visualization is critical for understanding how dopant integrations affect the Nb3Sn superconductors' microstructure, influencing their magnetic and superconducting properties .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1908.07548/images/_page_1_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Picture_0.jpeg"
+    },
+    "_page_3_Figure_4.jpeg": {
+      "caption": "This Kramer plot displays the response of a high-Jc Ta-Hf-doped monofilamentary wire at diverse temperatures. The depiction emphasizes downward curvatures over substantial field ranges, attributed to mixed grain boundary and point defect pinning mechanisms, which leads to HIrr overestimation in standard assessments. This figure suggests modifications in traditional Kramer function applications to align with observed high-field performances in engineered superconducting materials .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1908.07548/images/_page_3_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_4.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "In this figure, the lower graph displays the field-dependence of normalized non-Cu Fp curves for a Ta-doped RRP wire across temperatures. Utilizing the theoretical grain boundary (GB) and point defect (PD) pinning models as benchmarks, significant deviations, especially above 6 K, imply a transition in dominant pinning behavior. These insights flesh out dynamic pinning landscapes critical for developing high-field superconductors like Nb3Sn, thus guiding further material optimizations .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1908.07548/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "Illustrated in this figure are the data fitting results for Ta-Hf-doped monofilamentary wires using Kramer and modified Kramer functions. Graphs for a 4.2 K temperature setting illustrate significant agreements over broader field ranges when adapting modified Kramer methods, revealing their potential utility for optimized high-field applications. The figure captures the ongoing refinement in analysis methods essential in advancing superconductor technologies .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1908.07548/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    },
+    "_page_5_Figure_0.jpeg": {
+      "caption": "The figure illustrates the temperature dependency of the upper critical field (*Hc2*) for a Ta-doped Nb3Sn conductor subjected to three distinct heat treatments: 634°C, 666°C, and 711°C for 48 hours. The *Hc2* values are plotted against temperature (T in Kelvin), with each curve denoting a specific heat treatment temperature. The slopes for transitions between 2.188 T/K at 634°C to 2.227 T/K at 666°C and 2.254 T/K at 711°C indicate an increasing trend of *Hc2* with higher temperatures. These variations are attributed to changes in Ta site occupancy, enhancing antisite disorder and normal state resistivity. The findings underscore how controlled thermal processes can tailor *Hc2*, emphasizing its critical role in optimizing Nb3Sn superconductors for altered disorder levels and improved high-field performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1908.07548/images/_page_5_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1278,
+    "api_cost": 0.1278,
+    "file_storage_cost": 0.0,
+    "total_time": 115.34,
+    "request_count": 2,
+    "average_cost_per_request": 0.0639,
+    "average_time_per_request": 57.67,
+    "files_uploaded": 11,
+    "total_file_size": 729144
+  }
+}

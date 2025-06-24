@@ -1,0 +1,50 @@
+{
+  "paper_id": "2c0ea1f2b316577cc043df21e26a399f",
+  "pdf_path": "apl/Superconductors/arXiv:2311.00841.pdf",
+  "processing_timestamp": "2025-06-23T15:11:49.527066",
+  "figure_analysis": {
+    "_page_0_Figure_16.jpeg": {
+      "caption": "Figure 1 depicts the crystal structure of Nb3Sn, as characterized by X-ray diffraction, revealing a cubic A15 structure. The Sn atoms are positioned at the corners and center of the cell, while Nb atoms are oriented along three orthogonal chains on each face of the cube. This structural detail is crucial as it influences the superconducting properties and electronic interactions within the material, which has not been extensively studied using NMR methods before. The high-quality Nb3Sn powder used in the study was slightly Sn-rich with a composition of 27% Sn and 73% Nb, and it exhibits a superconducting transition temperature T<sub>c</sub> of approximately 17.2 K.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2311.00841/images/_page_0_Figure_16.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_0_Figure_16.jpeg"
+    },
+    "_page_1_Figure_8.jpeg": {
+      "caption": "Figure 2 presents the spectra of <sup>93</sup>Nb in Nb3Sn at a magnetic field of 7 T. Panel (a) shows the spectrum at 80 K where the fit, highlighted in red, follows the theoretical predictions for a randomly oriented powder. In panel (b), spectra at 4 K, 20 K, and 80 K reflect changes after low field cooling to 1.5 K and subsequent ramping to 7 T, illustrating alignment due to magnetic anisotropy. The right-side peak originates from <sup>63</sup>Cu, which is part of the NMR coil. These changes underscore the alignment effect in the powder sample, associated with the anisotropic Knight shift and nuclear quadrupole coupling.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2311.00841/images/_page_1_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_8.jpeg"
+    },
+    "_page_2_Figure_7.jpeg": {
+      "caption": "Figure 3 illustrates the temperature dependence of <sup>93</sup>Nb Knight shift (a) and Korringa relation (b) in the normal state at 14 T. The decrease in the Knight shift with reducing temperature suggests an increased core polarization contribution. This effect is crucial for understanding the electronic state interactions and density of states at the Fermi surface. The Knight shift's small temperature dependence and the spin lattice relaxation rate, plotted using the Korringa relation, provide insight into electronic correlations in the material.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2311.00841/images/_page_2_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_7.jpeg"
+    },
+    "_page_3_Figure_2.jpeg": {
+      "caption": "Figure 4 displays the <sup>93</sup>Nb spin-lattice relaxation rate T<sup>-1</sup><sub>1</sub> in the superconducting state of Nb3Sn powder. Panel (a) shows the relaxation rate ratio relative to the normal state for magnetic fields of 3.2 T and 7 T, with data points depicting quasiparticle coherence below T<sub>c</sub>. Panel (b) fits the temperature dependence of relaxation rates to BCS theory, revealing energy gaps Δ(0) = 2.0 kB T<sub>c</sub> at 3.2 T and Δ(0) = 1.73 kB T<sub>c</sub> at 7 T, indicating field-induced suppression of the order parameter. Such data contribute to understanding the superconducting state characteristics and the electronic structure's response to an external magnetic field.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2311.00841/images/_page_3_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_2.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0572,
+    "api_cost": 0.0572,
+    "file_storage_cost": 0.0,
+    "total_time": 34.1,
+    "request_count": 1,
+    "average_cost_per_request": 0.0572,
+    "average_time_per_request": 34.1,
+    "files_uploaded": 5,
+    "total_file_size": 192987
+  }
+}

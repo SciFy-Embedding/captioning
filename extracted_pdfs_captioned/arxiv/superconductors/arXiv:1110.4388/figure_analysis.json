@@ -1,0 +1,66 @@
+{
+  "paper_id": "dbbf6ef84c5064454fc65319e6c142a1",
+  "pdf_path": "apl/Superconductors/arXiv:1110.4388.pdf",
+  "processing_timestamp": "2025-06-23T13:29:18.967579",
+  "figure_analysis": {
+    "_page_3_Figure_1.jpeg": {
+      "caption": "Figure 4: Displays subsequently recorded I-V curves at a fixed temperature of 15.8 K, main magnetic field μ₀H = 3 T, and shaking field frequency of 1 kHz. Panel (a) shows the curves with a current step-width of δI = 0.5 mA, and panel (b) with δI ≈ 0.2 mA. The voltage U (V) is plotted against the current I (mA). The key finding is the presence of a step feature in the I-V curves, particularly emphasized in lower current step-width cases, which may suggest intrinsic phase transition behaviors possibly linked to the peak effect. This indicates a disorder-driven non-thermal phase transition in the vortex lattice dynamics of Nb3Sn. Further studies are suggested to discern if the step feature is intrinsic to the Nb3Sn samples or results from sample inhomogeneity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.4388/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "_page_3_Figure_0.jpeg": {
+      "caption": "Figure 5: A magnification of panel (b) from Figure 4, focusing on the peak effect region with a step feature marked by dashed areas. The magnification highlights the features that become evident with careful current step-width modulation, emphasizing the reproducibility of the pattern. This magnification is crucial for examining the likelihood of the step feature being a first-order phase transition, which supports the broader study's assertion of a disorder-driven transition nature in the superconductor's phase behavior.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.4388/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "_page_2_Figure_6.jpeg": {
+      "caption": "Figure 3: Depicts I-V curves at a temperature of 15.8 K and a magnetic field μ₀H = 3 T, with varying shaking-field amplitudes (μ₀hac) and a fixed frequency of 1 kHz. The main figure shows the voltage U against current I, while the inset illustrates the linear dependence of the peak current Iₚ on μ₀hac. Key findings include a distinct voltage-dip pattern emerging in the presence of a shaking field and a notable step feature at approximately 13 mA for μ₀hac = 1 mT. These results underline the threshold amplitude for shaking fields that influence I-V characteristics and support the hypothesis of disorder-induced non-thermal phase transitions in Nb3Sn.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.4388/images/_page_2_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_6.jpeg"
+    },
+    "_page_3_Figure_5.jpeg": {
+      "caption": "Figure 5: Presents a detailed view of the I-V curves highlighting the step feature at a high shaking-field amplitude (μ₀hac = 1 mT). The voltages are plotted against current; the step feature at about 13 mA, depicted within dashed areas, indicates potential first-order phase transition characteristics. This reproduction across measurements suggests a significant relationship to disorder-driven peak effects in the Nb3Sn sample when subjected to a shaking field.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.4388/images/_page_3_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_5.jpeg"
+    },
+    "_page_1_Figure_0.jpeg": {
+      "caption": "Figure 1: Shows the temperature dependence of resistance R(T) measured at a fixed magnetic field μ₀H = 3 T and a transport current of Iᵐ = 5 mA, with an oscillating magnetic field (frequency f = 1 kHz and amplitude μ₀hac = 0.58 mT). This figure establishes the baseline resistivity characteristics and features a peak effect dip, marked by Tₚ, coinciding with peak resistance at Tᵐ, pertinent to the study of kind vortex dynamics in the superconducting state near the peak effect.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.4388/images/_page_1_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_0.jpeg"
+    },
+    "_page_2_Figure_1.jpeg": {
+      "caption": "Figure 2: I-V characteristics recorded at T = 14.8 K and μ₀H = 3 T, with varied shaking-field amplitudes at a fixed frequency of 1 kHz. Panel (a) shows I-V curves when μ₀hac varies, highlighting a voltage-dip pattern resembling the peak effect. Panel (b) explores variable averaging periods over power line cycles. Panel (c) demonstrates hysteresis with increasing and decreasing current sweeps. These observations indicate alterations in vortex lattice behaviors due to shaking fields, supporting the non-thermal phase transition model and showcasing distinct hysteresis giving insights into vortex dynamics.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1110.4388/images/_page_2_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0517,
+    "api_cost": 0.0517,
+    "file_storage_cost": 0.0,
+    "total_time": 173.21,
+    "request_count": 1,
+    "average_cost_per_request": 0.0517,
+    "average_time_per_request": 173.21,
+    "files_uploaded": 7,
+    "total_file_size": 234114
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "paper_id": "c6c17c8700230edc74fcf96147c15768",
+  "pdf_path": "apl/Superconductors/arXiv:0905.0029.pdf",
+  "processing_timestamp": "2025-06-23T13:20:01.465390",
+  "figure_analysis": {
+    "_page_5_Figure_2.jpeg": {
+      "caption": "Figure 6: (Color online) Normalized electronic specific heat, C(T)/C_N(T). Symbols represent data from a reference, while the solid line illustrates results of the α-model calculated using specific energy parameters. This depiction confirms the agreement between model predictions and experimental observations for superfluid densities, providing an insightful correlation for practitioners to analyze superconductive behaviors .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0905.0029/images/_page_5_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_2.jpeg"
+    },
+    "_page_2_Figure_10.jpeg": {
+      "caption": "Figure 1: (Color online) Calculated superfluid density and the gaps vs. reduced temperature for zero interband coupling, λ12 = 0. The figure illustrates the effect of zero interband coupling on superfluid density and gap temperature dependence. With parameters λ11 = 0.5, λ22 = 0.45, n1 = n2 = 0.5, and temperature scaling factor c = 0.5, this figure serves as a reference for understanding superconductivity without interband interactions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0905.0029/images/_page_2_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_10.jpeg"
+    },
+    "_page_4_Figure_1.jpeg": {
+      "caption": "Figure 3: (Color online) Data and fits of the superfluid density for MgB2 single crystal and corresponding temperature-dependent gaps (inset). This figure depicts the superfluid density of MgB2 as a function of reduced temperature, demonstrating the role of interband coupling in superconductors. The fitting parameters used are λ11 = 0.23, λ22 = 0.08, and λ12 = 0.06, with fixed partial density of states n1 = 0.44 and n2 = 0.56. This work employs a weak-coupling two-band model to demonstrate how well these fits match experimental data, underscoring the model's effectiveness for analyzing superconductivity phenomena.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0905.0029/images/_page_4_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_1.jpeg"
+    },
+    "_page_6_Figure_15.jpeg": {
+      "caption": "Figure 7: (Color online) Suppression of the critical temperature Tc by non-magnetic impurities in a two-band superconductor. Demonstrated with intraband couplings λ11 = 0.3 and λ22 = 0.2, this figure shows a significant Tc suppression when interband coupling λ12 is negative (repulsive). For strong repulsive λ12, Tc reaches zero at finite scattering parameter ρ0. These findings are critical for understanding impurity effects and interband interactions on superconductive phenomena.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0905.0029/images/_page_6_Figure_15.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_15.jpeg"
+    },
+    "_page_5_Figure_0.jpeg": {
+      "caption": "Figure 5: (Color online) Dependence of the specific heat jump on the mismatch between λ11 and λ22. The normalized specific heat jump, shown as C/C_N at Tc, is plotted against λ22. Calculations are performed using Eq.(30) with λ11 = 0.3, λ12 = 0.06 for various n1 values. The abrupt changes illustrate potential impacts on superconductors' thermal properties when energy band mismatches exist .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0905.0029/images/_page_5_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_0.jpeg"
+    },
+    "_page_4_Figure_3.jpeg": {
+      "caption": "Figure 4: (Color online) Data and fits of the superfluid density for V3Si single crystal and corresponding temperature-dependent gaps (inset). This figure presents the superfluid density of V3Si single crystal as a function of reduced temperature, incorporated via a two-band model. The fitting parameters are λ11 = 0.1, λ22 = 0.1, λ12 = 1 × 10^-5, with partial density of states n1 = 0.47. The figure demonstrates that V3Si may exhibit nearly decoupled band behavior, where the interband coupling is extremely weak yet sufficient for superconductivity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0905.0029/images/_page_4_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_3.jpeg"
+    },
+    "_page_2_Figure_12.jpeg": {
+      "caption": "Figure 2: (Color online) Calculated superfluid density and the gaps vs. reduced temperature for λ12 = 0.01. This data demonstrates a scenario with weak interband coupling, contrasting the behavior of superfluid density as influenced by λ12. The parameters are λ11 = 0.5, λ22 = 0.45, n1 = n2 = 0.5, and c = 0.5. The subtle impact of weak interband coupling on superconducting properties is evident, highlighting how variable interband interactions can modify superfluid densities.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0905.0029/images/_page_2_Figure_12.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_12.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0605,
+    "api_cost": 0.0605,
+    "file_storage_cost": 0.0,
+    "total_time": 44.62,
+    "request_count": 1,
+    "average_cost_per_request": 0.0605,
+    "average_time_per_request": 44.62,
+    "files_uploaded": 8,
+    "total_file_size": 291026
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "paper_id": "2ad2c532b4f0eb433ccb1f34a2f7224c",
+  "pdf_path": "apl/Superconductors/arXiv:2107.14689.pdf",
+  "processing_timestamp": "2025-06-23T14:39:27.477343",
+  "figure_analysis": {
+    "_page_1_Figure_3.jpeg": {
+      "caption": "Figure 1 illustrates the crystal structure and X-ray diffraction (XRD) pattern of Nb3Sb. Panel (a) shows the cubic structure of Nb3Sb with the A15 phase, highlighting the arrangement of niobium (Nb) and antimony (Sb) within the lattice. Panel (b) presents the XRD pattern for ground Nb3Sb crystals, demonstrating the fidelity of the synthesized material to the expected A15 crystalline phase. The refinement using Rietveld analysis yields lattice parameters of a = b = c = 5.26 Å, underscoring the high-quality synthesis of the sample as indicated by a weighted profile factor (Rwp) of 7.62% and a goodness-of-fit (χ²) of 2.556. These details confirm the successful creation of high-purity Nb3Sb, which is pivotal for accurate electronic property measurements and analyses.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2107.14689/images/_page_1_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_3.jpeg"
+    },
+    "_page_2_Figure_3.jpeg": {
+      "caption": "Figure 4 aligns Hall resistivity and charge-carrier parameters of Nb3Sb. Panel (a) graphs the field-dependence of Hall resistivity (ρxy) across different temperatures, and infers electron-hole balance. Panel (b) delineates electron (n<sub>e</sub>) and hole (n<sub>h</sub>) concentrations and their mobilities (µ<sub>e</sub> and µ<sub>h</sub>) over the temperature range, noting near parity under 100 K, confirming electron-hole compensation. Panels (c)-(f) display the experimental and fitted curves of longitudinal and Hall conductivities (σ<sub>xx</sub> and σ<sub>xy</sub>) for 2 K and 10 K, illustrating the excellent agreement with the two-carrier model, thus supporting Nb3Sb’s nature as a compensated semimetal.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2107.14689/images/_page_2_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_3.jpeg"
+    },
+    "_page_2_Figure_5.jpeg": {
+      "caption": "Figure 5 explores the quantum oscillation phenomena within Nb3Sb using the de Haas-van Alphen (dHvA) effect. Panel (a) presents amplitude modulation of the dHvA oscillations as a function of reciprocal magnetic field (1/µ<sub>0</sub>H). Panel (b) displays the Fast Fourier Transformation (FFT) spectra of the oscillations observed between 2 Ker and 8 K, highlighting distinct frequency components related to quantum oscillations. Panel (c) assesses the temperature dependency of FFT amplitudes relative to frequency, accompanied by a fit based on the LK theory. Panel (d) further elucidates the precision fitting of observed dHvA oscillations at 2 K within a multi-band LK formula context. These fitting exercises extract crucial parameters like effective mass, Dingle temperature, and Berry phase—a finitude thereof, roping Nb3Sb into the echelons of nontrivial topological semimetals, with potential research implications for quantum electronic devices.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2107.14689/images/_page_2_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_5.jpeg"
+    },
+    "_page_1_Figure_12.jpeg": {
+      "caption": "Figure 2 displays the evolution of longitudinal resistivity (ρxx) and magnetoresistive behavior in Nb3Sb. Panel (a) reports ρxx across a range of temperatures in various magnetic fields, exhibiting metallic characteristics, while the inset underscores low-temperature resistivity measurements. Panel (b) shows MR as a function of temperature, reinforced through inset data normalized to values at 2 K across magnetic field variations—implying stability against field-induced metal-insulator shifts. This resistive and magnetoresistive pathway reinforces the material’s potential for high-functioning electronic applications due to its substantial magnetoresistance and evident strengths in carrier compensation.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2107.14689/images/_page_1_Figure_12.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_12.jpeg"
+    },
+    "_page_2_Figure_1.jpeg": {
+      "caption": "Figure 3 (formerly depicted as Figure 2) shows the magnetoresistance (MR) behavior of Nb3Sb. Panel (a) charts the MR as a function of external magnetic field (H) at various temperatures, showing a large MR value of nearly 717% at 2 K and 9 T with no saturation observable at the maximum field. This indicates robust MR properties consistent with semimetals exhibiting perfect electron-hole compensation. Panel (b) demonstrates the MR scaled against the ratio of magnetic field H to base resistivity ρxx(0) plotted on a log scale. The MR follows a Kohler’s law, collapsing onto a single line across different temperatures, indicative of systematic scaling behaviors rooted in carrier compensation mechanisms.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2107.14689/images/_page_2_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0607,
+    "api_cost": 0.0607,
+    "file_storage_cost": 0.0,
+    "total_time": 64.35,
+    "request_count": 1,
+    "average_cost_per_request": 0.0607,
+    "average_time_per_request": 64.35,
+    "files_uploaded": 6,
+    "total_file_size": 347354
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "paper_id": "fe972281b320a3a923392b305b74acaf",
+  "pdf_path": "apl/Superconductors/arXiv:cond-mat_0606491.pdf",
+  "processing_timestamp": "2025-06-24T11:37:57.934989",
+  "figure_analysis": {
+    "1__page_23_Figure_0.jpeg": {
+      "caption": "Figure 4 showcases the transverse (J ⊥ B, δ = 90°) and longitudinal (J || B, δ = 0°) magnetoresistivity curves of bulk samples for three different values of the parameter β = τπ / τσ equal to 0.2, 1.5, and 5.0. The continuous lines represent calculations considering the anisotropy of randomly oriented grains, while the open symbols depict an isotropic approximation. The upper panel illustrates variations with respect to squared magnetic field (B²), while the lower panel highlights magnetoresistivity as a function of the angle δ between the magnetic field and applied current density at B = 45T. Key findings indicate anisotropic treatments capture significant differences, especially for low β, where longitudinal contributions become comparable to transverse ones. This emphasizes the importance of anisotropy in accurately describing the magnetoresistivity of these systems, proposing it as a method to unambiguously extract the β parameter from experiments.",
+      "queries": [
+        "Significance of anisotropy in magnetoresistivity",
+        "Effects of β parameter variations on magnetoresistivity",
+        "Isotropic vs anisotropic magnetoresistivity modeling",
+        "Influence of angle δ on magnetoresistivity",
+        "How do magnetic field orientations affect magnetoresistivity?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0606491/images/1__page_23_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_23_Figure_0.jpeg"
+    },
+    "1__page_20_Figure_0.jpeg": {
+      "caption": "Figure 1 illustrates calculated magnetoresistivity curves for configurations with B ⊥ ab, B || ab, and θ = 45° for four different β values (0.2, 1.5, 5.0, 10.0), represented from top to bottom. Specific parameter values of α ensure a uniform in-plane resistivity (ρ*ab = 1µΩ⋅cm). The figure demonstrates that as β increases, the σ-bands become increasingly dirty relative to π-bands. Key observations show that at low β, magnetoresistivity is higher for B ⊥ ab, whereas this reverses at high β. The saturation reflects anisotropic characteristics and the interplay between σ and π band contributions.",
+      "queries": [
+        "Effect of increasing β on magnetoresistivity",
+        "Comparison of magnetoresistivity in different B orientations",
+        "Role of α parameter in magnetoresistivity calculations",
+        "Scattering mechanisms in σ- and π-bands",
+        "Behavior of magnetoresistivity curves under different β"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0606491/images/1__page_20_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_0.jpeg"
+    },
+    "1__page_21_Figure_0.jpeg": {
+      "caption": "Figure 2 presents the angular dependence of magnetoresistivity at different magnetic field strengths (9T, 20T, 45T) for β parameters 0.2, 1.5, 5.0, and 10.0. The plots show how, at lower β, magnetoresistivity increases with angle θ and higher β lead to opposite trends. The curves exhibit non-monotonic behavior at intermediate β values with maximum shifts influenced by magnetic field intensity, significantly larger values at stronger fields underline the saturation trends.",
+      "queries": [
+        "Angular dependence of magnetoresistivity at varying magnetic fields",
+        "Impact of field strength on magnetoresistivity",
+        "Understanding non-monotonic behavior in magnetoresistivity",
+        "Magnetoresistivity trends across different β and B fields",
+        "How does angle θ affect magnetoresistivity behavior?"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0606491/images/1__page_21_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Figure_0.jpeg"
+    },
+    "1__page_22_Figure_0.jpeg": {
+      "caption": "Figure 3 shows schematic illustrations of magnetic field and current orientations relative to crystalline axes, depicting configurations for transverse and longitudinal magnetoresistivity. Additionally, it includes plots of magnetoresistivity as a function of angle θ for B = 45T across different β values (0.2, 1.5, 5.0). The transverse configuration merges with longitudinal contributions near 90°, demonstrating pronounced effects of anisotropy and angular dependence in these measurements, useful in distinguishing conduction mechanisms in complex band structures.",
+      "queries": [
+        "Configurations of magnetoresistivity relative to crystalline axes",
+        "Influences of angle θ on transverse and longitudinal magnetoresistivity",
+        "Comparison of transverse magnetoresistivity configurations",
+        "Merger of transverse and longitudinal magnetoresistivity angles",
+        "Dominance of anisotropy in magnetoresistivity phenomena"
+      ],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:cond-mat_0606491/images/1__page_22_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0599,
+    "api_cost": 0.0599,
+    "file_storage_cost": 0.0,
+    "total_time": 90.45,
+    "request_count": 1,
+    "average_cost_per_request": 0.0599,
+    "average_time_per_request": 90.45,
+    "files_uploaded": 5,
+    "total_file_size": 447679
+  }
+}

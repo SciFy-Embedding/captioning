@@ -1,0 +1,82 @@
+{
+  "paper_id": "d1c1f0834e4a4751db53245c3480251f",
+  "pdf_path": "apl/Superconductors/arXiv:1102.5693.pdf",
+  "processing_timestamp": "2025-06-23T13:23:22.900162",
+  "figure_analysis": {
+    "_page_3_Figure_1.jpeg": {
+      "caption": "Figure 1 illustrates the nuclear spin lattice relaxation rate, 1/133T1T, for the T' site of the fcc-Cs3C60 phase under varying pressure conditions. The horizontal axis represents temperature (T) in Kelvin (K), while the vertical axis shows the relaxation rate in units of (s^−1K^−1). Different pressures ranging from 0.5 to 9 kbar are indicated by distinct symbols. The transition from a superconducting (SC) state to the paramagnetic Mott state is marked by dashed lines indicating Tc, the critical temperature. The graph reveals a departure from the constant Korringa value as the temperature increases, highlighting magnetic fluctuations near the Mott transition. The results underscore the effect of pressure on superconductivity and Mott transition in fulleride compounds, providing insights into the strong electron correlations involved .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1102.5693/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "_page_2_Figure_8.jpeg": {
+      "caption": "Figure 8 presents a detailed pressure versus temperature phase diagram (a) and the corresponding relaxation rates (b) for A15 and fcc phases of Cs3C60. In panel (a), pressure p is shown on the upper axis in kbar, while temperature T in Kelvin is on the lower axis. It highlights the superconducting (SC) dome in blue and the paramagnetic (PM) and insulating (PI) regions. Panel (b) plots 1/133T1T, showcasing the deviation from Korringa behavior near the Mott transition. This figure emphasizes the systematic differences and similarities in electronic structure transformation with pressure changes, providing a broader understanding of superconductivity emergence in these phases .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1102.5693/images/_page_2_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_8.jpeg"
+    },
+    "_page_2_Figure_9.jpeg": {
+      "caption": "Figure 9 visualizes the 3D plot of the relaxation rate 1/T1 as a function of pressure (p) and temperature (T). Pressure is measured in kbar, and temperature in Kelvin. This figure effectively demonstrates the variation of electronic states from insulating to metallic with increasing p and T, emphasizing the complex interplay of parameters affecting superconductivity. Black dots show data points, and a transition boundary is visible, suggesting the impact of critical p and T on phase transitions, aligning with interpretations of spin susceptibility variations near the Mott transition .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1102.5693/images/_page_2_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_9.jpeg"
+    },
+    "_page_3_Figure_6.jpeg": {
+      "caption": "Figure 6 offers a clearer mapping of relaxation rates 1/T1 at the T' site plotted against pressure for two isothermal conditions, 100K and 290K. This figure illustrates how the transition step of 1/T1 near the critical pressure pc becomes pronounced upon lowering temperature. The measurement effectively conveys the critical point behavior and demonstrates a nearly continuous evolution from insulating to metallic states, highlighting the nuances of the Mott transition influenced by thermal expansion and compressibility .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1102.5693/images/_page_3_Figure_6.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_6.jpeg"
+    },
+    "_page_4_Figure_4.jpeg": {
+      "caption": "Figure 4 showcases the variation of the Mott transition temperature (TMIT) concerning pressure pc and volume corrections for lattice variations. Panel (a) plots TMIT against pc from different experimental sets, comparing them against existing phase diagrams. The figure depicts how lattice compressibility profoundly impacts these transitions. This figure is critical for understanding how precise lattice parameter controls can drive transition behaviors in correlated electron systems .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1102.5693/images/_page_4_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_4.jpeg"
+    },
+    "_page_4_Figure_5.jpeg": {
+      "caption": "Figure 5 encapsulates the phase boundaries in these superconducting materials, providing a visual insight into the superconducting dome and the transitions from metal to insulator under varying pressures. These findings reinforce the hypothesis regarding the pivotal role of lattice expansion and interball distance in dictating phase behaviors, emphasizing the transition to a more metallic behavior with enhanced pressure levels .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1102.5693/images/_page_4_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_5.jpeg"
+    },
+    "_page_1_Figure_1.jpeg": {
+      "caption": "Figure 1 delineates the phase diagram for Cs3C60 compounds, plotting the critical temperature Tc against the volume per C60 molecule. This diagram distinguishes between the magnetic insulating (MI) phase and the superconducting (SC) region denoting A15 and fcc phases. Notably, the hatched gray bar marks the Mott transition pressure, showing the correlation of electronic properties with structural factors such as interball distance, underscoring the distinct magnetic states under different phases .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1102.5693/images/_page_1_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_1.jpeg"
+    },
+    "_page_2_Figure_1.jpeg": {
+      "caption": "Figure 2 portrays a comparative study of 1/T1T for the A15 phase of Cs3C60, highlighting substantial temperature dependence in the paramagnetic insulating state and its drop at the antiferromagnetic transition. The consistent Korringa-like behavior across increased pressure illustrates the transition of electronic states with pressure, further contextualizing the critical role of spin dynamics in these superconducting materials. The scaling of 13C and 133Cs data provides a comprehensive view of the system’s thermodynamic behavior as pressure varies .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1102.5693/images/_page_2_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0657,
+    "api_cost": 0.0657,
+    "file_storage_cost": 0.0,
+    "total_time": 44.33,
+    "request_count": 1,
+    "average_cost_per_request": 0.0657,
+    "average_time_per_request": 44.33,
+    "files_uploaded": 9,
+    "total_file_size": 322264
+  }
+}

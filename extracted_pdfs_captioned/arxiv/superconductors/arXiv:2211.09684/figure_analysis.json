@@ -1,0 +1,122 @@
+{
+  "paper_id": "671f0422b3fc47c23a74fd2c44d789d0",
+  "pdf_path": "apl/Superconductors/arXiv:2211.09684.pdf",
+  "processing_timestamp": "2025-06-23T14:55:10.688624",
+  "figure_analysis": {
+    "_page_3_Figure_10.jpeg": {
+      "caption": "The image displays a longitudinal sample from the MQXFBP1 quadrupole magnet coil CR 108 designed for deep Cu etching to reveal crack-events. The extent of these cracks is about 20 mm, predominantly located at the crests of seven top strands within the coil. The polished side, indicated by the red arrow, is where the analysis is intended to be performed. This approach is critical for assessing the axially aligned fractures that critically affect the coil's performance by deteriorating current pathways, leading to quench events during operations【4:0†temp_paper_671f0422b3fc47c23a74fd2c44d789d0.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2211.09684/images/_page_3_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_10.jpeg"
+    },
+    "_page_2_Figure_11.jpeg": {
+      "caption": "This figure illustrates the as-prepared transverse cross-section of the MQXFBP1 quadrupole magnet coil CR 108, showcasing two distinct sections: the inner and outer coil layers surrounding a titanium pole. The inspection primarily focuses on radial cracks mainly localized in the Rutherford-type cables of the Midplane Block (MB) as marked by red pins and white arrows. Additionally, shrinkage cavities and metal-to-metal cracks are visible, which represent significant structural failures contributing to performance degradation【4:12†temp_paper_671f0422b3fc47c23a74fd2c44d789d0.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2211.09684/images/_page_2_Figure_11.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_11.jpeg"
+    },
+    "_page_5_Figure_2.jpeg": {
+      "caption": "The MQXFA07 coil AUP 214 is depicted in terms of transverse crack-events (marked by red marks) observed across longitudinal cross-sections for both LJ-PB and LJ-MB samples, as well as OLJ equivalents. Close-ups of these crack-events highlight significant structural concerns, manually identified, underscoring areas prone to damage that impact superconducting performance. This portrayal aids in mapping high-stress zones related to quench start localizations【4:11†temp_paper_671f0422b3fc47c23a74fd2c44d789d0.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2211.09684/images/_page_5_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_2.jpeg"
+    },
+    "_page_4_Figure_11.jpeg": {
+      "caption": "Representing the MQXFA quadrupole magnet coil AUP 214, this figure focuses on a 10 mm thick coil slice that includes the spacer-wedge (S-W) transition. The slice reveals visible detailing of the S-W transition, vital for understanding structural integrity in these regions. Such transitions are linked to stress fields influencing quench behavior as exhibited through embedded red markings pointing to potential crack sites【4:8†temp_paper_671f0422b3fc47c23a74fd2c44d789d0.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2211.09684/images/_page_4_Figure_11.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_11.jpeg"
+    },
+    "_page_2_Figure_10.jpeg": {
+      "caption": "This image provides a comprehensive view of the transverse cross-section of the MQXFBP1 quadrupole magnet coil CR 108, indicating the positioning and potential damage within specific cable layers. Highlighted sections using yellow dashed frames identify inspection regions crucial for evaluating the filament damage that affects the magnets’ superconductive capabilities and quench performance【4:12†temp_paper_671f0422b3fc47c23a74fd2c44d789d0.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2211.09684/images/_page_2_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_10.jpeg"
+    },
+    "_page_3_Figure_0.jpeg": {
+      "caption": "Fig. 2 in the report, this figure shows the typical post-Cu etching transverse section of MQXFBP1 quadrupole magnet coil CR 108 with a focus on strand integrity. A SEM inset reveals damaged strands with broken filaments alongside intact portions, pointing to alignment and layer vulnerabilities critical for superconductive function and pinpointing quench origins in operation settings【4:0†temp_paper_671f0422b3fc47c23a74fd2c44d789d0.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2211.09684/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "_page_5_Picture_9.jpeg": {
+      "caption": "This illustration represents the OLJ side inspection of the MQXFA08 quadrupole magnet coil AUP 213, with numerous transverse crack-events highlighted by red marks within a narrow 2 mm field at the resin-Cu wedge interface. This inspection methodology is crucial for validating structural integrity and recognizing areas prone to quench initiation【4:0†temp_paper_671f0422b3fc47c23a74fd2c44d789d0.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2211.09684/images/_page_5_Picture_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Picture_9.jpeg"
+    },
+    "_page_4_Figure_4.jpeg": {
+      "caption": "Fig. 5 displays a layout of the full 7-meter coil CR108 from the MQXFBP1 magnet. The illustration marks inspected regions with light blue rectangles, while red stars denote areas with damaged strands where sub-element breakages have been identified. This mapping crucially relates the quench start locations with structural abnormalities within pole-to-pole transitions【4:4†temp_paper_671f0422b3fc47c23a74fd2c44d789d0.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2211.09684/images/_page_4_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_4.jpeg"
+    },
+    "_page_5_Picture_12.jpeg": {
+      "caption": "The figure illustrates the cut sections at the resin-Cu wedge interface of LJ-PB in the MQXFA08 coil AUP 213. These are set for Cu etching, a technique used to unveil substantial structural damages through deep inspection processes. This methodological figure stresses its efficacy in identifying hidden weaknesses that compromise magnet performance【4:1†temp_paper_671f0422b3fc47c23a74fd2c44d789d0.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2211.09684/images/_page_5_Picture_12.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Picture_12.jpeg"
+    },
+    "_page_3_Figure_3.jpeg": {
+      "caption": "Figure 3 shows a broken Nb3Sn filament from the MQXFBP1 quadrupole magnet coil CR 108, observed using a Scanning Electron Microscope (SEM). The close-up in the green frame reveals the typical intergranular fracture of Nb3Sn present in cases of complete transverse breakage. These findings are critical as they help identify regions on the filament that are prone to damage, consistent with flexural stresses experienced during operation, which undermine superconducting performance【8:2†temp_paper_671f0422b3fc47c23a74fd2c44d789d0.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2211.09684/images/_page_3_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_3.jpeg"
+    },
+    "_page_3_Figure_12.jpeg": {
+      "caption": "Figure 4 presents a longitudinal sample from the MQXFBP1 quadrupole magnet coil CR 108. It highlights the midplane of the first row of strands within the damaged Rutherford-type cable, with a detailed illustration of an approximately 20 mm extent of crack-events. The cracks are concentrated at the crests of seven top strands, which were revealed after Cu etching in a transverse cross-section. The detailed inspection through this slice advances the understanding of stress concentrations that lead to superconductor performance issues【8:3†temp_paper_671f0422b3fc47c23a74fd2c44d789d0.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2211.09684/images/_page_3_Figure_12.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_12.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "In Figure 11, the MQXFA08 quadrupole magnet coil AUP 213 is shown after Cu etching on the LJ-MB (top) and LJ-PB (bottom) transverse cross-sections. Red squares highlight the damaged areas, and the different damages observed are zoomed in the yellow/green frames. This examination underscores the importance of using Cu etching to visually assess and confirm damage in the superconducting structure, significantly aiding in identifying potential areas of performance degradation【8:7†temp_paper_671f0422b3fc47c23a74fd2c44d789d0.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2211.09684/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    },
+    "_page_4_Figure_13.jpeg": {
+      "caption": "Figure 7 illustrates the MQXFA07 quadrupole magnet coil AUP 214's 10 mm thick OLJ side, embedded in epoxy resin for a detailed metallurgical inspection. The image displays extraction and polishing planes for longitudinal samples facing the Spacer-Wedge (S-W) transition in both the PB and MB. The red arrows denote the extracted samples, while yellow dashed lines mark the polished planes. These methodological insights are critical for pinpointing damage that correlates with performance-limiting quenches, aiding in the enhancement of quadrupole magnet construction【8:6†temp_paper_671f0422b3fc47c23a74fd2c44d789d0.txt】.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2211.09684/images/_page_4_Figure_13.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_13.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1322,
+    "api_cost": 0.1322,
+    "file_storage_cost": 0.0,
+    "total_time": 82.27,
+    "request_count": 2,
+    "average_cost_per_request": 0.0661,
+    "average_time_per_request": 41.14,
+    "files_uploaded": 14,
+    "total_file_size": 533634
+  }
+}

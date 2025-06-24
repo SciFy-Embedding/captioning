@@ -1,0 +1,106 @@
+{
+  "paper_id": "261fb1283d54bcc1863eb2d5998c4568",
+  "pdf_path": "apl/Superconductors/arXiv:1012.1771.pdf",
+  "processing_timestamp": "2025-06-23T13:23:12.789595",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "This figure provides a schematic electronic phase diagram for cuprate superconductors, mapping the phases as a function of hole doping, denoted by x, which correlates to the average Cu oxidation state (2+x). The vertical axis represents temperature (T), while the horizontal axis represents the hole doping percentage. The diagram highlights different regions, including antiferromagnetic, pseudogap, and superconducting phases, along with a broad area depicting a correlation-driven metal transition towards normal metallicity at higher doping levels. This diagram is crucial for understanding the phases of cuprates and their behavior under variations in hole concentration, directly relating to superconductivity optimization strategies and theoretical modeling of unconventional superconductors .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1012.1771/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "_page_6_Figure_2.jpeg": {
+      "caption": "This schematic phase diagram illustrates the temperature-dependent phase transitions in Ba1-xKxBiO3, focusing on the onset of superconductivity as doping level x changes. The y-axis represents temperature (T), while the x-axis represents dopant concentration (x), specifically in relation to the charge-ordered insulating phase and its suppression. Superconductivity appears as a dome peaking shortly after the disappearance of charge order at around x = 0.38, signifying the critical threshold where charge modulation turns conducive to superconductivity. This diagram underscores the delicate interplay between structural changes and electronic ground states in Barium Bismuthate, furthering understanding of charge order suppression as a path to emergent superconducting phases .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1012.1771/images/_page_6_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_2.jpeg"
+    },
+    "_page_5_Figure_3.jpeg": {
+      "caption": "This figure presents a phase diagram for A3C60 fulleride superconductors depicting the relationship between the superconducting transition temperature (Tc) and the unit cell volume per C60 molecule. The diagram illustrates a peak Tc at an optimal volume, beyond which Tc decreases due to the development of antiferromagnetic order. The x-axis represents the molecular volume (Å³) and the y-axis represents the temperature in Kelvin. The diagram is accompanied by an inset showing the face-centred cubic arrangement of the fulleride structure, emphasizing structural influence on superconductivity. These insights are pivotal in understanding how lattice expansion can modulate electronic interactions and phase stability in molecular superconductors .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1012.1771/images/_page_5_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_3.jpeg"
+    },
+    "_page_2_Figure_3.jpeg": {
+      "caption": "This figure outlines the structural components of high-Tc cuprate superconductors, particularly YBa2Cu3O7. It includes an illustration with molecular building blocks—a CuO2 plane, interspersed with BaO and Y layers, forming a repetitive layered structure, typical of 'layered perovskites'. Important structural motifs are presented which influence the material's electronic characteristics, particularly in promoting superconductivity through layer separation by electropositive cations like Ba²⁺ and Y, optimizing plane interactions. The structural intricacies explained here directly relate to the superconducting properties and guide synthetic adaptations for performance enhancements .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1012.1771/images/_page_2_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_3.jpeg"
+    },
+    "0__page_12_Figure_2.jpeg": {
+      "caption": "This figure visualizes the relationship between the critical temperature (Tc) and the atomic fraction of non-metal elements in various high-Tc superconductors, plotted on a logarithmic scale. It compares seven distinct high-Tc materials and highlights Nb3Ge for reference. The graph emphasizes that high-Tc materials typically contain at least 50% nonmetals, showcasing the importance of nonmetal and metal bonds within these structures. This trend provides a pivotal chemical insight into the optimization strategies for discovering and developing future superconducting materials, focusing on nonmetal richness as a critical factor.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1012.1771/images/0__page_12_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_2.jpeg"
+    },
+    "0__page_11_Figure_2.jpeg": {
+      "caption": "In this figure, the influence of the Fe-As-Fe bond angle and unit cell volume on the critical temperature (Tc) of iron arsenide superconductors is displayed. The upper panel depicts variations in the Fe-As-Fe angle, while the lower panel shows corresponding changes in Tc, specifically for RFeAsO1-xFx and RFeAsO1-δ, using different rare earth elements (R). It demonstrates an optimal superconducting Tc at a near-ideal tetrahedral angle of 110.6°, underpinning the essential role of lattice geometry in high-Tc superconductivity. This highlights the geometric control mechanism in adjusting electronic band structures affecting superconducting transitions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1012.1771/images/0__page_11_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_2.jpeg"
+    },
+    "0__page_16_Figure_0.jpeg": {
+      "caption": "This figure shows the statistical distribution of maximum Tc values across different superconductor families, visualized as a Fréchet probability distribution. By categorizing Tc in 10 K intervals for materials with Tc ≥ 23 K, it predicts the likelihood of achieving Tc > 100 K or beyond. The x-axis represents the Tc range, while the y-axis measures the probability density. This distribution provides insights into the extreme value statistical analysis of high-Tc superconductors, offering significant implications for material discovery and theoretical understanding of upper limits in superconductivity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1012.1771/images/0__page_16_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_16_Figure_0.jpeg"
+    },
+    "_page_9_Figure_2.jpeg": {
+      "caption": "This figure illustrates the hexagonal crystalline structure of MgB2, highlighting layers of boron sheets interspersed with magnesium atoms. This configuration is critical to its superconducting properties, serving as a prototype for BCS superconductivity. The structural details elucidate the unique electronic band interactions responsible for MgB2’s superconducting phase and reinforce the relevance of crystal architecture in influencing electronic properties conducive to strong electron-phonon coupling .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1012.1771/images/_page_9_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_9_Figure_2.jpeg"
+    },
+    "_page_8_Figure_1.jpeg": {
+      "caption": "This figure depicts the crystal structures of intercalated nitride halide superconductors, highlighting structural variations. (a) NaxHfNCl displays hexagonal layers intercalated with alkali metals, while (b) shows LixTiNCl with an orthorhombic lattice type. These structures illustrate the crucial role of interlayered alkali atoms in facilitating electron doping and superconductivity. The differences in structural symmetry between Hf and Ti materials reveal that superconductivity is not uniquely tied to one lattice type, offering versatility for exploring new superconducting systems .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1012.1771/images/_page_8_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_8_Figure_1.jpeg"
+    },
+    "0__page_10_Figure_2.jpeg": {
+      "caption": "This figure illustrates the electronic and structural phase diagram of iron arsenide superconductors, specifically RFeAsO1-xFx, in relation to the electron doping level x. The phase changes are depicted with temperature (T) on the y-axis against doping levels on the x-axis. It highlights transitions from antiferromagnetic to superconducting phases, alongside structural modifications from orthorhombic to tetragonal symmetries upon electron doping. The inset visualizes the crystal structure, showing the stacking of RO and FeAs slabs. This diagram emphasizes the importance of structural symmetry in achieving high-temperature superconductivity and demonstrates how doping levels influence phase stability and superconductivity emergence in iron arsenides, underscoring parallels with cuprate superconductors while highlighting intrinsic metallicity.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1012.1771/images/0__page_10_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_2.jpeg"
+    },
+    "_page_7_Figure_3.jpeg": {
+      "caption": "This figure shows the crystal structure of YPd2B2C superconductor, highlighting its metal-metal bonded palladium layers interconnected by linear BCB units, and with yttrium atoms located within the Carbon planes. The atomic arrangement and bonding illustrated here are crucial for understanding how structural configuration and hybridized bonding influence superconducting properties. This particular borocarbide class demonstrates distinct s-wave superconductivity characteristics with an anisotropic energy gap. The figure captures the mixed influence of metallic and nonmetallic components on electronic states conducive to high-Tc superconductivity and illustrates the structural pathways to optimize superconducting transition temperatures in borocarbide materials.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1012.1771/images/_page_7_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_3.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1301,
+    "api_cost": 0.1301,
+    "file_storage_cost": 0.0,
+    "total_time": 70.17,
+    "request_count": 2,
+    "average_cost_per_request": 0.0651,
+    "average_time_per_request": 35.09,
+    "files_uploaded": 12,
+    "total_file_size": 442010
+  }
+}

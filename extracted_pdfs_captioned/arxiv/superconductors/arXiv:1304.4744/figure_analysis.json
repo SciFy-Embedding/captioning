@@ -1,0 +1,50 @@
+{
+  "paper_id": "d4316d64cd02b6b9f159e76433b8e781",
+  "pdf_path": "apl/Superconductors/arXiv:1304.4744.pdf",
+  "processing_timestamp": "2025-06-23T13:33:50.756088",
+  "figure_analysis": {
+    "0__page_9_Figure_0.jpeg": {
+      "caption": "This figure displays theoretical expectations for the imaginary versus real parts of the ac magnetic susceptibility (χ'' vs. χ') for a Nb3Sn single crystal, underlining the effects of creep exponents 'n' ranging from 3 to 51 as interpolated by Brandt for finite-bar geometry. Data for an excitation field of μ0Hac = 1.5 mT are illustrated, emphasizing the peak-effect region's influence on susceptibility behavior. It is evident that, in the narrow peak-effect region around 0 μH = 3 T to 7.5 T, the model predictions transition from flux-creep to Bean's critical-state behaviors, illustrating the divergence between mono- and multivalent χ'' vs. χ' relationships. This provides insights into the superconductor's flux dynamics and offers a comparative framework for experimental susceptibility data against theoretical models of different superconducting behaviors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1304.4744/images/0__page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_0.jpeg"
+    },
+    "0__page_11_Figure_0.jpeg": {
+      "caption": "This figure presents the measured dissipative self-heating power in a Nb3Sn crystal subjected to a superimposed ac magnetic field of μ0Hac ≈ 6.5 mT within an external magnetic field of μ0H = 6 T across various frequencies. The experimental data (solid lines) compare to simulated predictions (dashed lines) extrapolated from lower magnetic susceptibility measurements. The temperature dependencies highlight substantial peaks, illustrating the magnetic and thermal interaction during the peak effect near critical temperatures, showcasing agreement between empirical observations and theoretical calculations. This assists in understanding thermal management challenges in superconductors due to magnetic variability in the peak-effect region.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1304.4744/images/0__page_11_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_0.jpeg"
+    },
+    "0__page_8_Figure_1.jpeg": {
+      "caption": "The figure displays left panels showing ac magnetic-susceptibility data (real, χ', and imaginary, χ'' parts) across various temperatures and fields for a Nb3Sn single crystal. Right panels feature χ'' vs. χ' curves, correlating field-induced phase transitions. These show the effect of peak current densities in field-induced increases of critical-current density (peak effect) near Tc. Data indicate a single peak in χ'' at smaller fields (e.g., 3 T) bifurcating into a double peak at enhanced fields (6+ T), resonating with the flux-creep regime transitioning to the peak effect, highlighting vortex dynamics and electromagnetic behavior in superconductors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1304.4744/images/0__page_8_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_1.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "Presented is a theoretical model of ac magnetic-susceptibility, portraying both real and imaginary components for a type II superconductor displaying a peak effect. Left panels depict the temperature dependency while right panels show corresponding χ'' vs. χ' representations. Increases in critical-current densities are notable in the peak region context, varying from type II superconductors without peak effect to those with weak or strong peak effects, characterized by single or double-peak structures in imaginary susceptibility. Such visualizations elucidate ac susceptibility variances, aiding the mechanistic understanding of temperature-dependent behavior in superconductors.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1304.4744/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.046,
+    "api_cost": 0.046,
+    "file_storage_cost": 0.0,
+    "total_time": 34.61,
+    "request_count": 1,
+    "average_cost_per_request": 0.046,
+    "average_time_per_request": 34.61,
+    "files_uploaded": 5,
+    "total_file_size": 455150
+  }
+}

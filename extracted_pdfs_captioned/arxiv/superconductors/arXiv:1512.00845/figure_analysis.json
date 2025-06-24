@@ -1,0 +1,202 @@
+{
+  "paper_id": "a2a20f2b8033b0c3837ea2a69cb382c8",
+  "pdf_path": "apl/Superconductors/arXiv:1512.00845.pdf",
+  "processing_timestamp": "2025-06-23T13:54:28.815040",
+  "figure_analysis": {
+    "0__page_8_Figure_3.jpeg": {
+      "caption": "Figure 18 depicts the cable temperature evolution along the cooling length as a function of time for the A1 channel. The y-axis represents the temperature in Kelvin (K), while the x-axis displays the position along the cooling length in meters (m). The curves represent different times after the cooling starts, indicated by different marker styles and colors for each time instance, ranging from 2 to 9 seconds. The figure illustrates the temperature distribution of the cable, showing a peak temperature over time along the different sections of the cable. Key findings show that the temperature decreases as the cooling progresses, and the cable's hottest section gradually shifts position. This trend highlights the efficiency of the cooling system in reducing the cable temperature along its length over time.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/0__page_8_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_3.jpeg"
+    },
+    "0__page_7_Figure_15.jpeg": {
+      "caption": "Figure 16 shows the normal zone length and quench voltage evolution over time for the B1 channel. The left y-axis indicates quench voltage in volts (V) and the right y-axis indicates normal zone length in meters (m), both plotted against time in seconds. The red dashed line represents the variation of the quench voltage, while the blue line represents the normal zone length. The data suggest that as time progresses, both the quench voltage and normal zone length increase, indicating the expansion of the quench-affected region, while the voltage rises. This behavior is crucial for understanding the quench dynamics in superconducting coils and optimizing quench protection systems.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/0__page_7_Figure_15.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_15.jpeg"
+    },
+    "_page_4_Figure_1.jpeg": {
+      "caption": "Figure 17 exhibits the hot spot temperature evolution as a function of time for the A1 channel. The graph plots temperature, shown on the y-axis in Kelvin, against time on the x-axis in seconds. The results indicate the temperature increase in the hot spot area over the set time for a holding time of 2.0 seconds, initial disturbance length of 1 meter, and quench threshold voltage of 0.4 V. The trend reveals how the maximum cable temperature reaches approximately 78.9 K, remaining within the design criteria for safe operations, illustrating the effectiveness of thermal regulation measures in the superconducting system.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/_page_4_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_1.jpeg"
+    },
+    "0__page_6_Figure_9.jpeg": {
+      "caption": "Figure 10 illustrates the minimum temperature margin and current evolution as a function of time for the A1 channel. The graph displays temperature (K) on the left y-axis, and current (kA) on the right y-axis, plotted against time in seconds on the x-axis. The solid blue line indicates the current, and the red dashed line shows the minimum temperature margin. The figure illustrates cyclic operation effects where the temperature margin drops significantly while cyclic current load is applied, providing insights into the thermal behavior under varying operational currents.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/0__page_6_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_6_Figure_9.jpeg"
+    },
+    "0__page_6_Figure_13.jpeg": {
+      "caption": "Figure 12 presents the maximum cable temperature, outlet temperature, and current evolution as a function of time for the A1 channel. Temperature is displayed on the left y-axis, and current (kA) on the right y-axis, against time on the x-axis. The graph includes blue lines for current and red lines for temperature metrics, highlighting how outlet and maximum temperatures evolve. This context shows a critical overview of thermal stability and efficiency of heat removal during cyclic operations, ensuring performance within safety parameters.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/0__page_6_Figure_13.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_6_Figure_13.jpeg"
+    },
+    "0__page_9_Figure_13.jpeg": {
+      "caption": "Figure 23 provides the cable temperature evolution along the cooling length as a function of time for the B1 channel. It has temperature (K) on the y-axis and cooling length (m) on the x-axis, showing how temperature varies across the cable length over time. This graph offers insight into heat distribution and temporal cooling in different segments, highlighting the setup's capability to maintain temperature limits under operational specifications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/0__page_9_Figure_13.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_13.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "Figure 24 shows helium pressure evolution along the cooling length as a function of time for the B1 channel. Along the x-axis is the cooling length (m), and the y-axis denotes helium pressure in MegaPascal (MPa). The data profile delineates how helium's pressure changes spatially over the cooling channel, emphasizing system response for appropriately maintaining precise pressure levels and ensuring maximum pressure safety constraints are not exceeded.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_7_Figure_0.jpeg": {
+      "caption": "Figure 13 portrays the maximum temperature, outlet temperature, and current variations as functions of time for the B1 channel. The chart demonstrates temperature (K) on the left y-axis and current (kA) on the right y-axis against time (seconds), denoting diverse operational states. This visualization provides critical findings on thermal handling capabilities and current adjustments to maintain safe operational conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/0__page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_0.jpeg"
+    },
+    "0__page_8_Figure_8.jpeg": {
+      "caption": "Figure 19 displays the maximum helium pressure evolution as a function of time for the A1 channel. On this graph, pressure is given in MegaPascal, plotted against time in seconds. Observations reveal pressure levels at different points and highlight pressure peaks safely managed below required stress limits for effective thermal hydraulic management.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/0__page_8_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_8.jpeg"
+    },
+    "_page_1_Figure_10.jpeg": {
+      "caption": "Figure 2 in the paper illustrates the magnetic field distribution of the superconducting magnet at 56 kA. The nodal solution depicts the vector field distribution indicating the magnetic flux density across the magnet structure. This image is central to understanding the magnetic field inhomogeneities that could affect superconductive efficiency and provide insights into improving coil design parameters .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/_page_1_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_10.jpeg"
+    },
+    "0__page_7_Figure_13.jpeg": {
+      "caption": "Figure 15 portrays the evolution of normal zone length and quench voltage as time progresses for the A1 channel of the superconducting magnet system. Quench voltage is monitored to understand the transition from superconducting to normal state, which is crucial in optimizing the protection systems against potential quench-induced damages.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/0__page_7_Figure_13.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_13.jpeg"
+    },
+    "_page_5_Figure_16.jpeg": {
+      "caption": "Figure 9 shows the magnetic field and current sharing temperature profiles along the cooling length at 56 kA for the B1 channel. The graph contrasts magnetic induction along the conductor length with the temperature where current begins to transition into a resistive state, which aids in assessing magnetic performance.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/_page_5_Figure_16.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_16.jpeg"
+    },
+    "0__page_6_Figure_11.jpeg": {
+      "caption": "Figure 11 indicates the relationship between minimum temperature margin and current over time for the B1 channel. These parameters are critical for determining the channel's stability during operating conditions, particularly in cyclic loading situations.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/0__page_6_Figure_11.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_6_Figure_11.jpeg"
+    },
+    "0__page_8_Figure_10.jpeg": {
+      "caption": "Figure 20 illustrates changes in helium pressure along the cooling length as time progresses for the A1 channel. This analysis is key to optimizing cooling efficacy and maintaining pressure levels that prevent mechanical deformation under varying thermal loads.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/0__page_8_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_10.jpeg"
+    },
+    "0__page_9_Figure_11.jpeg": {
+      "caption": "Figure 22 plots the maximum helium pressure evolution over time for the B1 channel. Observations from this figure contribute to determining the pressure thresholds that can be tolerated without exceeding design specifications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/0__page_9_Figure_11.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_11.jpeg"
+    },
+    "0__page_9_Figure_9.jpeg": {
+      "caption": "Figure 21 depicts the evolution of hot spot temperature as a function of time for the B1 channel. Recognizing the peak temperature points across time is crucial for assessing thermal limits of the superconducting system.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/0__page_9_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_9.jpeg"
+    },
+    "_page_3_Figure_4.jpeg": {
+      "caption": "Figure 6 displays the typical reaction heat treatment process employed for the Nb3Sn coil, underscoring the temperature steps needed for effective heat treatment over time. This process ensures structural integrity and reliability of the superconducting coils .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/_page_3_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_4.jpeg"
+    },
+    "0__page_7_Figure_2.jpeg": {
+      "caption": "Figure 14 demonstrates the lowest value of the minimum temperature margin against varying current ramp rates during cyclic operations. Identifying these limits helps in defining operational parameters maintaining superconductivity without transitioning to a resistive state.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/0__page_7_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_7_Figure_2.jpeg"
+    },
+    "_page_5_Figure_14.jpeg": {
+      "caption": "Figure 8 shows the distribution of magnetic field and current sharing temperature along the cooling path for the A1 channel at 56 kA. The magnetic field, measured in Tesla (T), and the current sharing temperature, in Kelvin (K), are plotted against the cooling length in meters (m). This figure highlights how magnetic field strengths and current sharing temperatures are distributed along the channel, revealing critical points for stability and performance evaluation .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/_page_5_Figure_14.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_14.jpeg"
+    },
+    "_page_2_Figure_7.jpeg": {
+      "caption": "Figure 6 depicts the shear stress distribution in the insulation layer of the superconducting magnet. Different shear stress levels are represented, providing insights into the integrity and reliability of the insulation under operational magnetic and thermal stresses. This analysis is crucial to ensure the structural safety and compliance with design criteria .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/_page_2_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_7.jpeg"
+    },
+    "0__page_8_Figure_1.jpeg": {
+      "caption": "Figure 17 illustrates the evolution of hot spot temperature as a function of time for the A1 channel. This progression aids in understanding thermal behavior under quench conditions, showcasing the dynamic thermal response and ensuring it remains within safe operational limits as per design specifications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/0__page_8_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_1.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Figure 4 presents the Tresca stress distribution within the jacket of the superconducting magnet. The variation of stress across different regions is crucial for assessing mechanical stability under electromagnetic and thermal influences, helping to ensure the magnet's performance aligns with structural integrity guidelines .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    },
+    "_page_1_Figure_1.jpeg": {
+      "caption": "Figure 2 represents the distribution of magnetic fields within the superconducting magnet when operational at full capacity (56 kA). The visualization emphasizes various gradient health across the setup's segments, helping refine design to optimize consistent magnetic performance across the magnet application .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1512.00845/images/_page_1_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.2115,
+    "api_cost": 0.2115,
+    "file_storage_cost": 0.0,
+    "total_time": 136.8,
+    "request_count": 3,
+    "average_cost_per_request": 0.0705,
+    "average_time_per_request": 45.6,
+    "files_uploaded": 24,
+    "total_file_size": 1371300
+  }
+}

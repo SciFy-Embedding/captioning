@@ -1,0 +1,74 @@
+{
+  "paper_id": "1fde74a22234bd802052e7ad21799123",
+  "pdf_path": "apl/Superconductors/arXiv:0903.3286.pdf",
+  "processing_timestamp": "2025-06-23T13:20:15.789577",
+  "figure_analysis": {
+    "_page_3_Figure_1.jpeg": {
+      "caption": "This figure displays a series of STM images taken at various voltages (-1500 mV to 1500 mV) at a temperature of 7.3 K on the reconstructed V3Si(001) surface, highlighting voltage-dependent changes in line profiles. The top row portrays the STM images, where structural features become distinct at low voltages, indicative of localized electronic states around the Fermi level. The bottom panels show cross-sectional height profiles at select locations, using dashed and solid lines in the corresponding images, illustrating the voltage-dependent topography changes. This visualization supports research into atomically resolved surface reconstructions induced by impurities such as carbon, contributing critical insights into electronic structures relevant to surface states .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0903.3286/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "_page_5_Figure_5.jpeg": {
+      "caption": "This figure illustrates the differential conductance (dI/dV) spectra across different junction conductances (0.7 G0 to 5.9 G0) displayed in arbitrary units against voltage (mV). The data points are represented as dots, while solid lines depict fit curves for each conductance, showing good agreement with experimental results. The spectra are normalized to the conductance value at -14 mV, and the spectra shifts demonstrate changes in the energy gap behavior, providing evidence of Andreev reflections at the normal-metal/superconductor interface. The variations represent differential changes in energy gap properties as junction conductance increases, thereby reflecting physical interactions governed by superconducting properties of the material .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0903.3286/images/_page_5_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_5.jpeg"
+    },
+    "_page_1_Figure_9.jpeg": {
+      "caption": "The figure shows an STM image coupled with an Auger electron spectrum of a V3Si(001) surface under specific reconstruction conditions. The visual highlights the reconstructed surface morphology evident through terrace formations. The associated Auger spectrum indicates the surface's chemical composition, displaying distinct vanadium, silicon, and carbon peaks. These observations underscore the complex role of carbon in the stabilization and alteration of surface structure, proposing carbon segregation as a key factor in surface development and subsequent reconstruction .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0903.3286/images/_page_1_Figure_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_9.jpeg"
+    },
+    "_page_3_Figure_5.jpeg": {
+      "caption": "This figure presents a structural model of the V3Si(001) reconstructed surface, showing the arrangement of silicon, vanadium, and carbon atoms. Part (a) presents a schematic of the unreconstructed surface, while part (b) displays an STM image used to validate the proposed structural model. Part (c) offers a side and top view of the reconstructed model, depicting dimer and zigzag lines formed by the atomic arrangement through STM imaging. This highlights the contribution of atomic-scale rearrangement to the observed geometric features on the surface.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0903.3286/images/_page_3_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_5.jpeg"
+    },
+    "_page_4_Figure_5.jpeg": {
+      "caption": "The figure shows a BCS-type quasiparticle density of states (DOS) fit (solid line) to a normalized differential conductance (dI/dV) spectrum (dots) obtained from the V3Si(001) surface. The BCS fit is enhanced by considerations of broadening due to temperature and instrumental modulation, showcasing the superconducting energy gap characteristics near the Fermi level. This result implies notable understanding into superconductive transitions and coupling interactions at low temperatures, with empirical alignment to theoretical models .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0903.3286/images/_page_4_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_5.jpeg"
+    },
+    "_page_2_Picture_0.jpeg": {
+      "caption": "STM image of a V3Si(001) terrace at 7.3 K, emphasizing characteristic dimer (D) and zigzag (Z) line structures derived from carbon atom arrangements. The close-up inset details these structural lines' spatial relationship, signifying lattice modulation patterns. Measurement indicates distances approximately double the lattice constant, supporting hypotheses on surface segregated carbon atoms inducing visible reconstruction. Such visualization serves as evidence for atomic arrangement models explaining surface state transitions .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0903.3286/images/_page_2_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Picture_0.jpeg"
+    },
+    "_page_5_Figure_1.jpeg": {
+      "caption": "This shows a comparison of dI/dV spectra at various surface positions within the reconstructed V3Si(001) sites, indicating energies at symmetric and asymmetric sites (A/C and B/D, respectively). The Lorentzian-subtracted spectrum (solid line) helps account for local variations in the density of states arising from reconstructed features. Spatially dependent spectral asymmetry underscores the significant influence of atomic neighborhood and offers detailed insights into electronic property variances instigated by local reconstruction .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0903.3286/images/_page_5_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.061,
+    "api_cost": 0.061,
+    "file_storage_cost": 0.0,
+    "total_time": 60.2,
+    "request_count": 1,
+    "average_cost_per_request": 0.061,
+    "average_time_per_request": 60.2,
+    "files_uploaded": 8,
+    "total_file_size": 391876
+  }
+}

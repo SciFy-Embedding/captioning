@@ -1,0 +1,50 @@
+{
+  "paper_id": "629cc6696f3f0f5ca89bb9afe2c3ef93",
+  "pdf_path": "apl/Superconductors/arXiv:1311.3420.pdf",
+  "processing_timestamp": "2025-06-23T13:36:54.997728",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "This figure illustrates the superfluid density as a function of reduced temperature (left panel) and the reduced lower critical field as a function of temperature (right panel) for V3Si. Open circles represent experimental results obtained via reversible magnetization, comparing favorably with single-band BCS theory indicated by the solid line. The broken and dot-dashed lines depict two-band-like superfluid densities from literature, while full diamonds show the two-band behavior of MgB₂. The reduced lower critical field in the right panel mirrors the behavior of the superfluid density, demonstrating congruence with the derived values from experiments and fitting data, reinforcing the single-band behavior of V3Si.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1311.3420/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "_page_1_Figure_4.jpeg": {
+      "caption": "The figure shows reversible magnetization of MgB₂ as a function of magnetic induction at varying orientations: parallel (H // c) and perpendicular (H // ab) to the sample axis at temperatures of 10, 20, and 30 K. Open circles denote experimental data, while solid lines correspond to fits based on the single-band Ginzburg-Landau model across the entire field range. Broken lines represent fits to specific field parts, indicating MgB₂'s characteristic two-band nature. Discrepancies arise in high-field fits, reflecting smaller lower critical fields than experiment.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1311.3420/images/_page_1_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_4.jpeg"
+    },
+    "_page_3_Figure_4.jpeg": {
+      "caption": "This figure presents the upper critical field (left panel) and the Ginzburg-Landau parameter (right panel) of V3Si as a function of temperature. Experimental data from a rotating sample magnetometer (open circles) and SQUID measurements (full circles) both conform closely to the clean-limit BCS behavior depicted by the solid line, predicting an upper critical field of 22.7 T at 0 K. The Ginzburg-Landau parameter shows a linear decrease from approximately 24 to 19 with increasing temperature, in line with single-band BCS expectations.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1311.3420/images/_page_3_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_4.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "This figure displays reversible magnetization of a V3Si single crystal under varying magnetic induction at temperatures of 15, 13, 11, 9, 7, and 5.2 K. Open circles represent experimental data; solid lines represent single-band Ginzburg-Landau model fits. Insets highlight irreversible magnetization at lower fields, emphasizing significant hysteresis. While fits correlate well at higher temperatures (9-15 K), divergence from experimental data increases with decreasing temperature. These observations highlight challenges in fitting lower temperature data within the single-band model.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1311.3420/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0562,
+    "api_cost": 0.0562,
+    "file_storage_cost": 0.0,
+    "total_time": 49.1,
+    "request_count": 1,
+    "average_cost_per_request": 0.0562,
+    "average_time_per_request": 49.1,
+    "files_uploaded": 5,
+    "total_file_size": 250085
+  }
+}

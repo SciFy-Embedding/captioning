@@ -1,0 +1,258 @@
+{
+  "paper_id": "d5b6ceb2464ca641c46d8d345d8fdb93",
+  "pdf_path": "apl/Superconductors/arXiv:1802.08289.pdf",
+  "processing_timestamp": "2025-06-23T14:08:23.949409",
+  "figure_analysis": {
+    "_page_7_Figure_1.jpeg": {
+      "caption": "Figure 1 showcases the longitudinal electric field profile of an electron gun along the axis from the cathode. The x-axis represents the distance from the cathode in meters, while the y-axis represents the longitudinal electric field in MV/m. The field profile is crucial for understanding the acceleration dynamics in the electron gun. This figure highlights the field uniformity necessary for achieving a consistent beam quality, critical for industrial applications of the electron beam technology discussed in the paper .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/_page_7_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_1.jpeg"
+    },
+    "2__page_30_Picture_0.jpeg": {
+      "caption": "This 3D rendering illustrates the components needed to assemble a hermetic string in a clean room. Key components include the copper-coated SRF cavity, the fundamental power couplers (FPC), and thermal isolation sections. This assembly is critical for maintaining the vacuum integrity and thermal management essential in superconducting radio frequency (SRF) applications, ensuring efficient power coupling and minimizing thermal loads on the cryocoolers .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/2__page_30_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_30_Picture_0.jpeg"
+    },
+    "_page_5_Figure_2.jpeg": {
+      "caption": "Figure 3 depicts the schematic layout of a continuous-wave (CW) superconducting radio frequency (SRF) electron accelerator designed for wastewater and flue gas treatment. With an overall length of 6 meters, this accelerator utilizes an SRF cavity coupled with cryocoolers, BLA, and a beam transport system to achieve efficient high-power operations, epitomizing sustainable technology for environmental mitigation .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/_page_5_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_2.jpeg"
+    },
+    "1__page_28_Figure_3.jpeg": {
+      "caption": "This is a 3D model of the cavity showing the copper bosses used for cryocooler attachment after the electroforming process. This figure is indicative of the intricate engineering and manufacturing processes involved in assembling the SRF cavity system, which is important for achieving optimal thermal performance and reliability in high-power SRF based accelerators .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/1__page_28_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_28_Figure_3.jpeg"
+    },
+    "1__page_28_Picture_1.jpeg": {
+      "caption": "Figure displays the electroformed bosses designed for attachment of cryocoolers, highlighting engineering processes like electroforming required in SRF cavity construction. This detailed view underpins discussions in the paper about manufacturing innovations necessary to support cryomodule assembly and maintain superconducting efficiency .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/1__page_28_Picture_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_28_Picture_1.jpeg"
+    },
+    "0__page_18_Figure_2.jpeg": {
+      "caption": "Cavity monopole impedance spectrum is shown with a solid line denoting wakefield simulation results and green dots indicating lossy eigenmode simulations. Frequencies up to 4.5 GHz are plotted on the x-axis and corresponding impedances in Ohms on the y-axis. This figure is critical for understanding how HOMs (higher-order modes) interact with SRF configurations, influencing design choices to manage power deposition effectively .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/0__page_18_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_18_Figure_2.jpeg"
+    },
+    "_page_9_Figure_0.jpeg": {
+      "caption": "Illustrates beam evolution through an accelerator showing: (a) average kinetic energy, (b) transverse RMS bunch size, (c) longitudinal RMS bunch size, and (d) RMS energy spread. These graphs, plotted against propagation distance z, provide insights into beam dynamics post-cavity passage, crucial for assessing beam stability and quality in industrial settings .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/_page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_9_Figure_0.jpeg"
+    },
+    "2__page_35_Picture_1.jpeg": {
+      "caption": "The figure outlines the interior layout configurations for facilities utilizing CPI klystron and MBIOTs, showcasing the relational setup between beamlines, utility lines, and radiation shielding. The setups highlight differences in required space and cooling for the two systems and the importance of facility design in SRF accelerator operation .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/2__page_35_Picture_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_35_Picture_1.jpeg"
+    },
+    "1__page_24_Figure_1.jpeg": {
+      "caption": "Shows temperature distribution and heat load boundaries in a single-cavity configuration operating at 5.6 MV/m stored power using RF protocols. Critical for evaluating design efficacy in maintaining low thermal resistance across the system, aiding in both cryogenic design and operational reliability .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/1__page_24_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_24_Figure_1.jpeg"
+    },
+    "1__page_23_Figure_0.jpeg": {
+      "caption": "Figure 13 presents the cooling power performance as a function of temperature for the SRDK-415D commercial cryocooler used in the SRF cavity system. The x-axis denotes the temperature at the first and second stages in Kelvin, while the contour lines represent the cooling power in Watts. These cooling curves are crucial for optimizing the cryogenic design, ensuring sufficient heat removal at varying operational temperatures, enabling reliable conduction cooling for industrial-scale superconducting radio frequency applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/1__page_23_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_23_Figure_0.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "Figure 5 shows the longitudinal phase space distribution at a distance of 2.4 m from the cathode and its histogram (b), alongside the transverse configuration space after cavity acceleration (c). It provides detailed insight into the energy distribution and particle positioning after beam acceleration, emphasizing minimal beam losses and high efficiency in the designed electron gun system .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "1__page_20_Figure_1.jpeg": {
+      "caption": "Figure 9 illustrates the real impedance of monopole modes plotted against beam current spectral lines for a 1 Ampere average beam current. The red line indicates the impedance spectrum, while green lines show current spectral distribution, emphasizing how in higher order modes, closely spaced lines can result in significant power deposition, necessitating effective cooling solutions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/1__page_20_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_20_Figure_1.jpeg"
+    },
+    "0__page_14_Figure_1.jpeg": {
+      "caption": "Figure 6 describes the geometry of the β=0.5 SRF cavity, presenting detailed dimensions in centimeters. This schematic underscores the design's emphasis on facilitating beam passage and reducing HOM power losses, relevant for achieving operational field strengths without incurring structural or resonance losses.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/0__page_14_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_14_Figure_1.jpeg"
+    },
+    "2__page_32_Picture_0.jpeg": {
+      "caption": "Figure 20 shows the hermetically sealed string assembly being inserted into the vacuum vessel. This imagery is central to the assembly process, depicting critical components such as the copper coated SRF cavity and beamline HOM dampers that mitigate RF losses during operation .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/2__page_32_Picture_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_32_Picture_0.jpeg"
+    },
+    "0__page_17_Figure_0.jpeg": {
+      "caption": "Figure demonstrates cavity monopole impedance across frequencies up to 4.5 GHz. Detailed results from wakefield (solid line) and eigenmode analyses (data points) highlight the design adjustments needed to suppress wakefield effects crucial for achieving an efficient electron accelerator operation.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/0__page_17_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_17_Figure_0.jpeg"
+    },
+    "2__page_34_Picture_1.jpeg": {
+      "caption": "Figure 24 captures the MW-class, 700 MHz CW commercial klystron manufactured by CPI, illustrating its robust design for high power delivery, substantiated by efficacious results in prior applications. Considerations in employing similar technologies for RF amplification are outlined, reinforcing its pivotal role in effective accelerator function .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/2__page_34_Picture_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_34_Picture_1.jpeg"
+    },
+    "1__page_22_Figure_2.jpeg": {
+      "caption": "Figure 12 graphs the temperature-dependent surface resistance of Nb3Sn employed in the SRF cavity, vital for optimizing superconducting surface designs by articulating resistance dynamics as a function of temperature, enhancing superconducting efficiency at cryogenic operation.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/1__page_22_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Figure_2.jpeg"
+    },
+    "2__page_32_Figure_2.jpeg": {
+      "caption": "Figure 21 illustrates the complete cryomodule assembly with its cryocoolers, fundamental power coupler top-hats, and internal magnetic shields. It serves as a key reference for the systematic integration of cooling, shielding, and component systems required to maintain superconductivity under operational stress .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/2__page_32_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_32_Figure_2.jpeg"
+    },
+    "1__page_25_Figure_0.jpeg": {
+      "caption": "Figure 15 represents the temperature distribution along the SRF cavity surface. This distribution is essential to evaluate the thermal performance under operational conditions involving 600 kW RF power fed into the cavity, essential for achieving stable superconducting conditions at approximately 6 K with the assistance of cryocoolers.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/1__page_25_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_25_Figure_0.jpeg"
+    },
+    "1__page_21_Figure_0.jpeg": {
+      "caption": "Figure 10 displays the 3D model used for thermal analysis, highlighting material composition such as Nb3Sn and stainless steel, and their roles in maintaining thermal isolation and efficiency. The setup ensures the efficient conduction cooling of the cavity by Gifford-McMahon cryocoolers.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/1__page_21_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_21_Figure_0.jpeg"
+    },
+    "1__page_26_Figure_1.jpeg": {
+      "caption": "Figure 16 shows the temperature dependence of the surface resistance in YBCO coatings for high-frequency applications, scaled from 8 GHz data. This information is used to assess potential reductions in cooling requirements if a YBCO coating is utilized on cavity power couplers.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/1__page_26_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_26_Figure_1.jpeg"
+    },
+    "2__page_33_Figure_2.jpeg": {
+      "caption": "Figure 21 illustrates the SRF cryomodule setup with installed cryocoolers, fundamental power coupler top-hats, and inner magnetic shields. This figure underscores the integration strategy to maintain thermal and electromagnetic integrity within high-power accelerator systems.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/2__page_33_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_33_Figure_2.jpeg"
+    },
+    "3__page_48_Figure_1.jpeg": {
+      "caption": "Figure 28 gives a breakdown of the operating costs associated with the RF-driven SRF accelerator system. It highlights the contributions of electric power, amortization, and maintenance, with electric power consumption accounting for the largest portion.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/3__page_48_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_48_Figure_1.jpeg"
+    },
+    "1__page_22_Figure_0.jpeg": {
+      "caption": "Figure 11 provides a view of the temperature-dependent thermal conductivity of materials integral to the thermal design of the SRF system, such as Nb3Sn and other alloys, forming a part of the broader thermal analysis to enhance system efficiency.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/1__page_22_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "1__page_22_Figure_0.jpeg"
+    },
+    "3__page_44_Figure_2.jpeg": {
+      "caption": "Figure 27 is a simplified energy flow diagram for the SRF accelerator, illustrating the comprehensive electricity consumption and cooling requirements necessary to produce the electron beam, emphasizing the substantial power needed for RF amplification.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/3__page_44_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_44_Figure_2.jpeg"
+    },
+    "3__page_42_Figure_0.jpeg": {
+      "caption": "Figure provides interior layouts for facilities employing CPI klystrons or MBIOTs, demonstrating spatial and technical considerations such as utility line placements and radiation shielding essential for operational safety and efficacy.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/3__page_42_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_42_Figure_0.jpeg"
+    },
+    "2__page_30_Picture_2.jpeg": {
+      "caption": "Figure 19 highlights a MW-class, 748 MHz CW coaxial fundamental power coupler by CPI. This component is vital for efficient RF energy transmission into the SRF cavity, ensuring optimal power coupling and functionality.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/2__page_30_Picture_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "2__page_30_Picture_2.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "Figure 2 presents an in-depth look at two critical components of the SRF electron accelerator for environmental remediation. Part (a) displays the thermionic cathode assembly, highlighting components like the RF gridded thermionic gun and corrective magnet system crucial for beam quality. Meanwhile, part (b) shows the cryomodule assembly which consists of a hermetically sealed SRF cavity, magnetic shielding, and cryocoolers. This design supports efficient operation at cryogenic temperatures, mitigating high-order mode power losses.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    },
+    "4__page_52_Figure_0.jpeg": {
+      "caption": "Figure 29 illustrates the sensitivity of the processing costs of an RF-powered industrial accelerator to variations in RF power efficiency and annual operation hours. Part (a) plots cost dependence on RF power efficiency, revealing a decrease in cost with improved efficiency, while (b) explores how extended operational time reduces cost per processed unit. These insights emphasize the importance of high-efficiency RF systems and sustained operational times for cost-effectiveness in environmental remediation applications.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/4__page_52_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "4__page_52_Figure_0.jpeg"
+    },
+    "3__page_43_Figure_2.jpeg": {
+      "caption": "Figure 26 provides schematics of facility layouts housing either a CPI klystron (a) or MBIOT system (b) for RF power generation in an SRF-based accelerator. This figure illustrates the space allocation for essential components like cryogenic compressors, injectors, and shielding. The layout facilitates efficient waveguide routing and safety measures against X-ray generation, essential for reliable accelerator operation in industrial and environmental settings.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1802.08289/images/3__page_43_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "3__page_43_Figure_2.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.2981,
+    "api_cost": 0.2981,
+    "file_storage_cost": 0.0,
+    "total_time": 206.41,
+    "request_count": 4,
+    "average_cost_per_request": 0.0745,
+    "average_time_per_request": 51.6,
+    "files_uploaded": 31,
+    "total_file_size": 1436284
+  }
+}

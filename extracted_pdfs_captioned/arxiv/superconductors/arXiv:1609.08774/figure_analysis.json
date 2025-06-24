@@ -1,0 +1,42 @@
+{
+  "paper_id": "156541543c9224acb033881e9f0e3294",
+  "pdf_path": "apl/Superconductors/arXiv:1609.08774.pdf",
+  "processing_timestamp": "2025-06-23T13:57:27.541431",
+  "figure_analysis": {
+    "_page_3_Figure_8.jpeg": {
+      "caption": "This figure presents the infrared (IR) spectra of the Mott insulating phase of Cs3C60 in its A15 structure, compared at two different temperatures: 28 K and 300 K. The middle panel shows the empirically obtained spectrum at 28 K, while the bottom panel shows the spectrum at 300 K, both are exemplified alongside theoretical predictions at 46 K (top panel) and 300 K. The horizontal axis represents the frequency in cm^-1, and the vertical axis shows IR intensity in arbitrary units. Key findings highlight the temperature-dependent IR spectral modifications, including the attenuation of distortion-related peaks at higher temperatures due to thermal population of the orbital excitation from the ground state T2 to H2 state, rather than simple washing out of distortions. Scientifically, this highlights the significance of orbital excitations in the molecular Mott insulator, offering insights into the dynamic interplay between electronic and vibrational states enhanced by the transition between different orbital states at varied temperatures.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1609.08774/images/_page_3_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_8.jpeg"
+    },
+    "_page_2_Figure_7.jpeg": {
+      "caption": "This figure illustrates the calculated IR spectra of neutral C60 (scaled up by a factor of 2.5 for visibility) and its anionic form C3^-60 in different electronic states: α, β, and γ. Each panel represents a different electronic configuration with corresponding IR spectral features. The spectra display various IR-active modes with notable differences between undistorted (α) and distorted (γ) states. New spectral peaks are identified in the γ state due to distortion-induced IR activity of modes previously silent in the undistorted state. This visualization method demonstrates the impact of molecular deformation on the IR spectral profile, providing a critical understanding of how structural perturbations influence electronic transitions and vibrational modes within molecular Mott insulators.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1609.08774/images/_page_2_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_7.jpeg"
+    },
+    "_page_1_Figure_1.jpeg": {
+      "caption": "Figure 1 (a) depicts the cubic arrangement of C60 molecules with cesium atoms (red spheres) positioned symmetrically, forming a K-intercalation between the fullerenes. This illustrates the crystal lattice structure relevant to the molecular interactions within the A15 Cs3C60 system. Figure 1 (b) further details the geometric framework with interatomic distances indicated, capturing essential spatial relationships that contribute to its electronic and vibrational properties in the accommodating crystal field. This architectural layout outlines the significance of the C60-based framework in influencing electron localization and energetics, crucial for understanding the overall behavior of the molecular Mott insulator.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1609.08774/images/_page_1_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_1.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0553,
+    "api_cost": 0.0553,
+    "file_storage_cost": 0.0,
+    "total_time": 34.58,
+    "request_count": 1,
+    "average_cost_per_request": 0.0553,
+    "average_time_per_request": 34.58,
+    "files_uploaded": 4,
+    "total_file_size": 189340
+  }
+}

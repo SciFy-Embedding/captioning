@@ -1,0 +1,74 @@
+{
+  "paper_id": "0982e905a01bfd315519ffedab36d2fb",
+  "pdf_path": "apl/Superconductors/arXiv:0907.0411.pdf",
+  "processing_timestamp": "2025-06-23T13:20:04.892087",
+  "figure_analysis": {
+    "0__page_9_Figure_0.jpeg": {
+      "caption": "Figure 3 shows the specific heat versus temperature for four Nb3Sn single crystal samples between 42 K and 53 K, highlighting the martensitic transition (TM). The data are recorded during warming and cooling cycles and reveal no apparent hysteresis, indicating a weak first or second order thermodynamic transition. There are significant variations in the size and onset of the martensitic anomaly between samples, with the martensitic temperature onset correlated inversely to the superconducting temperature onset. These differences may result from strain, compositional variances, or intrinsic properties linking the two transitions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0907.0411/images/0__page_9_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_0.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "Figure 4 displays the specific heat as a function of temperature for four Nb3Sn samples near their superconducting transition temperatures. It highlights the determination of the transition onsets and finals through straight line intersections on the plot. The sample onset temperatures vary slightly with the 9.5 mg sample showing the highest onset temperature. This variation implies a linkage between the density of electronic states at the Fermi level and the observed transitions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0907.0411/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_13_Figure_0.jpeg": {
+      "caption": "Figure 7 compares the normalized specific heat C/γT versus temperature for four single-crystal specimens of Nb3Sn below 6 K and previous measurements on polycrystalline samples. Unlike earlier findings that suggested anomalies related to a second energy gap, these high-quality single crystal measurements reveal no such anomalies, reinforcing the conclusion of a single superconducting energy gap below 6 K.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0907.0411/images/0__page_13_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_13_Figure_0.jpeg"
+    },
+    "0__page_12_Figure_0.jpeg": {
+      "caption": "Figure 6 presents thermal relaxation data for Nb3Sn (A) and Cu-Zn-Al (B) crystal samples, illustrating differences between second and first-order phase transitions. The exponential decay fitting lines and arrows indicate the end of the martensitic transition. The inset in B demonstrates specific heat curves over warming and cooling cycles, exhibiting hysteresis typical of first-order transitions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0907.0411/images/0__page_12_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_0.jpeg"
+    },
+    "0__page_11_Figure_0.jpeg": {
+      "caption": "Figure 5 correlates the onset and final transition temperatures for both superconducting (TCO, TCF) and martensitic (TMO, TMF) phases across seven Nb3Sn crystal samples. A clear relationship between TC and TM is noted, with error bars indicating the difficulty in precisely determining onset and final points for some samples.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0907.0411/images/0__page_11_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_0.jpeg"
+    },
+    "_page_5_Figure_0.jpeg": {
+      "caption": "Figure 1 (A) shows the calculated powder diffraction pattern for Nb3Sn using X-ray data from the NS1 single crystal, consistent with prior crystallography findings. Panel B shows scans of specific reflections (0,-1,-2) and (3,3,-6), demonstrating symmetry and ideal crystallinity through well-defined and symmetric Bragg peaks. Panel C defines the crystalline structure of Nb3Sn with gray and red spheres representing Sn and Nb atoms, respectively.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0907.0411/images/_page_5_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_0.jpeg"
+    },
+    "0__page_8_Figure_0.jpeg": {
+      "caption": "Figure 2 plots the specific heat as a function of temperature (2 K to 60 K) for four Nb3Sn single crystal samples, highlighting the martensitic anomaly with different shapes and sizes. The absence of additional anomalies below the superconducting transition suggests the presence of a single superconducting gap like other samples studied at low temperature.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:0907.0411/images/0__page_8_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_8_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.0598,
+    "api_cost": 0.0598,
+    "file_storage_cost": 0.0,
+    "total_time": 46.6,
+    "request_count": 1,
+    "average_cost_per_request": 0.0598,
+    "average_time_per_request": 46.6,
+    "files_uploaded": 8,
+    "total_file_size": 314298
+  }
+}

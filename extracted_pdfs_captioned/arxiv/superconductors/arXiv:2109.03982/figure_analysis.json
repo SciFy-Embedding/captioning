@@ -1,0 +1,66 @@
+{
+  "paper_id": "fd668c0279f6905b3cbb239017493b44",
+  "pdf_path": "apl/Superconductors/arXiv:2109.03982.pdf",
+  "processing_timestamp": "2025-06-23T14:40:35.119305",
+  "figure_analysis": {
+    "_page_4_Figure_0.jpeg": {
+      "caption": "Figure 4 presents the variation of voltage (V), hot spot temperature (K), and normal zone length (m) in the ReBCO conductor and NbTi detector as a function of time (s). The subfigures compared the quench and recovery cases, revealing that the voltage in the LTS sensor, despite having a small current in the LTS wire and large copper cross section, increases in less than 1 ms once the LTS reaches its critical temperature surface (Tcs). This figure illustrates that LTS quench detectors do not primarily rely on fast normal zone propagation velocities to be effective. The significant observation is that the LTS detector's voltage can serve as an early indicator for quench detection faster than traditional HTS monitoring, making them superior for early detection, thus preventing damage due to quenching events.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2109.03982/images/_page_4_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_0.jpeg"
+    },
+    "_page_0_Figure_8.jpeg": {
+      "caption": "Figure 1 depicts the variation of critical current as a function of temperature and magnetic field for ReBCO and several low temperature superconductors (LTS), including NbTi, Nb3Sn, and MgB2. The visualization shows how the critical current (Ic) of HTS materials decreases with temperature much slower than that of LTS materials. The figure highlights that despite the slower normal zone propagation velocity in HTS like ReBCO, the temperature dependency differences between LTS and HTS make LTS an effective quench detector for HTS systems. Such temperature-dependent diversity allows for reliable quench detection using LTS without over-reliance on fast normal zone propagation.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2109.03982/images/_page_0_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_0_Figure_8.jpeg"
+    },
+    "_page_2_Figure_0.jpeg": {
+      "caption": "Figure 2 demonstrates the resistance (mΩ/m) variation per unit length as a function of temperature (K), across different magnetic fields, for ReBCO, Nb3Sn, and NbTi. The figure indicates a sharp voltage transition in NbTi a few kelvin above the operating temperature, which is due to the loss of superconductivity. This makes NbTi, with its high magneto-resistive properties, an effective quench detector for ReBCO. Resistance is observed to increase due to the rising resistivity of copper and further illustrates the disparity in resistance-temperature characteristics between HTS and LTS materials, emphasizing how LTS can serve as quench detectors without relying on normal zone propagation.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2109.03982/images/_page_2_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Figure_0.jpeg"
+    },
+    "_page_6_Figure_1.jpeg": {
+      "caption": "Figure 6 depicts the voltage and hot spot temperature variations in a ReBCO conductor and attached LTS candidates for high field application under assumed good thermal contact. The result shows significant voltage transition in the Nb3Sn wire at 15 T, stressing its potential as a quench detector for high-field ReBCO magnets. Despite a reduction in critical current due to strain, Nb3Sn remains effective, providing evidence for its utility in high-field environments.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2109.03982/images/_page_6_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_1.jpeg"
+    },
+    "_page_5_Figure_0.jpeg": {
+      "caption": "Figure 5 explores the variation of voltage, hot spot temperature, and normal zone in the ReBCO conductor and NbTi detector as a function of time, with different thermal contact resistances (TCRs). This analysis shows that even with high TCR rates, an LTS detector like NbTi can still detect a quench event in a significantly shorter time window compared to the threshold voltage detection in HTS, highlighting the superiority of LTS detectors in detecting quenching due to their sensitivity to temperature changes.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2109.03982/images/_page_5_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_0.jpeg"
+    },
+    "_page_3_Figure_2.jpeg": {
+      "caption": "Figure 3 presents the temperature profiles of the ReBCO stack (solid lines) and the attached NbTi wire (dashed lines) at varying times. This time evolution of temperature profiles suggests that there is no faster normal zone propagation in the LTS detector compared to the ReBCO cable, asserting that it is the ReBCO's role as a heat sink coupled with the NbTi's sensitivity to temperature rise that allows it to detect quenches effectively.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2109.03982/images/_page_3_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_2.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.06,
+    "api_cost": 0.06,
+    "file_storage_cost": 0.0,
+    "total_time": 60.7,
+    "request_count": 1,
+    "average_cost_per_request": 0.06,
+    "average_time_per_request": 60.7,
+    "files_uploaded": 7,
+    "total_file_size": 297204
+  }
+}

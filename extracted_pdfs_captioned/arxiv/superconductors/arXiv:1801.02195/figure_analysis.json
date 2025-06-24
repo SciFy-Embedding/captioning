@@ -1,0 +1,114 @@
+{
+  "paper_id": "82b602e9f7e18dcda14610a7b141ff64",
+  "pdf_path": "apl/Superconductors/arXiv:1801.02195.pdf",
+  "processing_timestamp": "2025-06-23T14:08:17.833702",
+  "figure_analysis": {
+    "0__page_12_Figure_4.jpeg": {
+      "caption": "Tomographic cross sections of Bi-2212 wire acquired after in situ heat treatment to (a) Tmax=875 °C and (b) Tmax=915 °C. This figure shows the impact of complete melting of the Bi-2212 phase on filament connectivity. At 875 °C, filamentary structures remain interrupted by lens-shaped voids, whereas at 915 °C a more continuous structure is observed due to full melting and recrystallization of Bi-2212, enhancing filament connectivity. The insets provide 3D reconstructed images of selected filaments, illustrating how complete melting at higher temperatures resolves void structure issues, contributing to better electrical performance and highlighting the critical temperature threshold for optimal superconducting wire processing.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1801.02195/images/0__page_12_Figure_4.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_12_Figure_4.jpeg"
+    },
+    "_page_1_Figure_3.jpeg": {
+      "caption": "Image of experimental setup for in situ X-ray diffraction (XRD) and tomography studies. Panel (a) shows the ID15 furnace used for ambient pressure XRD and tomography, while panel (b) represents the furnace configured for XRD at pressures up to 200 bar. The setup allows for simultaneous studies of structural and phase transformations in superconductors under various environmental conditions, providing critical insights into the material behavior under operational stresses.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1801.02195/images/_page_1_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_3.jpeg"
+    },
+    "0__page_9_Figure_1.jpeg": {
+      "caption": "Axial and transverse Nb(110) diffraction peaks from Nb3Al conductors. The figure illustrates two components of the peak, indicating reflections characteristic for pure Nb and the Nb(Al)SS supersaturated solid solution. The intensity difference between axial and transverse peaks highlights the crystallographic texture retained during processing, a crucial aspect affecting superconducting wire performance. Such texture monitoring through synchrotron X-ray diffraction provides insights into phase orientation and material processing efficacy.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1801.02195/images/0__page_9_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_9_Figure_1.jpeg"
+    },
+    "_page_7_Figure_0.jpeg": {
+      "caption": "3D visualization of porosity in an Internal Tin Nb3Sn wire, acquired in situ via synchrotron micro-computed tomography (µ-CT) at various temperatures. This analysis reveals how temperature influences void formation and distribution within the superconducting wire, crucial for understanding the microstructure's impact on current-carrying capacity. The study highlights the importance of controlling porosity to maintain superconducting properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1801.02195/images/_page_7_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_0.jpeg"
+    },
+    "_page_3_Figure_0.jpeg": {
+      "caption": "A composite of diffraction patterns acquired in situ during the reaction heat treatment of Nb3Sn PIT wire. The sequence visually captures phase transformations and the presence of intermetallic phases like Sn, NbSn2, and CuNbSn, which are significant for understanding the wire's superconducting characteristics and influencing processing strategies.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1801.02195/images/_page_3_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_0.jpeg"
+    },
+    "0__page_10_Figure_0.jpeg": {
+      "caption": "Sequence of XRD patterns acquired during Bi-2212 wire heat treatment in ambient air. The detected peaks reveal phase transitions with temperature increases, notably identifying a Cu-free phase, Bi2(Sr4-yCay)O7, around 880 °C. This highlights the effect of oxygen environments on phase stability during processing, crucial for achieving high critical current densities in superconducting wires.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1801.02195/images/0__page_10_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_10_Figure_0.jpeg"
+    },
+    "0__page_11_Figure_2.jpeg": {
+      "caption": "Longitudinal tomographic cross sections of Bi-2212 wire during in situ heat treatment to Tmax=915 °C, showing microstructure evolution. Initially, finely divided porosity transforms into lens-shaped defects at about 850 °C. Upon melting and cooling, Bi-2212 begins to bridge void spaces, demonstrating the significant impact of temperature on the structural integrity of superconducting wires.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1801.02195/images/0__page_11_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "0__page_11_Figure_2.jpeg"
+    },
+    "_page_0_Figure_5.jpeg": {
+      "caption": "X-ray transmission as a function of X-ray energy for different filament diameters (0.7 mm, 1.0 mm, and 1.3 mm). The graph demonstrates how X-ray penetration varies with energy level adjustments and filament thickness, providing insights into optimizing imaging techniques for characterizing superconducting materials.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1801.02195/images/_page_0_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_0_Figure_5.jpeg"
+    },
+    "_page_7_Figure_3.jpeg": {
+      "caption": "Comparison of diffraction peak areas for Sn-containing phases in an Internal Tin Nb3Sn wire up to 540 °C. This figure correlates phase transformation data with porosity volume, observed via concurrent tomograms, offering insights into the interplay between microstructural changes and chemical phase dynamics during heat treatment.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1801.02195/images/_page_7_Figure_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_7_Figure_3.jpeg"
+    },
+    "_page_4_Figure_2.jpeg": {
+      "caption": "Evolution of integrated intensities of Nb3Sn (200) + (210) + (320) + (321) reflections during heat treatment (HT) of Nb3Sn wires with different architectures: Restacked Rod Process (RRP), Powder-In-Tube (PIT) with diameters Ø=0.8 mm and Ø=1.25 mm. The figure tracks Nb3Sn phase development against HT duration and temperature, illustrating faster formation and more complete transformation in RRP wires compared to PIT wires, which correlates with improved microstructural homogeneity and superconducting properties. This comparison underscores the impact of wire processing architecture on Nb3Sn growth kinetics.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1801.02195/images/_page_4_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_2.jpeg"
+    },
+    "_page_6_Figure_0.jpeg": {
+      "caption": "X-ray diffraction patterns of Nb3Sn wires made by three different processing routes: Bronze Route (BR), Powder-In-Tube (PIT), and Restacked Rod Process (RRP). This image highlights differences in texturing, evidenced by variations in intensity distributions along the Nb3Sn (200) rings. The BR method shows randomly oriented crystallites, whereas PIT and RRP examples exhibit distinct preferred orientations, <110> texture in PIT, and <100> in the RRP wire along the axis. These findings are significant for understanding the influence of fabrication method on wire texture, which affects the wire's superconducting properties.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1801.02195/images/_page_6_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_0.jpeg"
+    },
+    "_page_5_Figure_0.jpeg": {
+      "caption": "Graph illustrating the evolution of average Nb3Sn crystallite size and volume (panel a), and lattice parameter changes (panel b) during heat treatment. Initial detection at 540 °C shows crystallite size ~60 nm. At 700 °C plateau, crystallite size grows from ~110 nm to ~180 nm, indicative of phase transformation with increased Sn content, boosting critical field strength. Lattice parameter shifts from 5.3140 Å to 5.3156 Å correlate with Sn content variations, crucial for optimizing supercurrent carrying capability. These data elucidate critical parameters governing microstructural changes affecting Nb3Sn superconductor performance during growth.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:1801.02195/images/_page_5_Figure_0.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_0.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1265,
+    "api_cost": 0.1265,
+    "file_storage_cost": 0.0,
+    "total_time": 230.38,
+    "request_count": 2,
+    "average_cost_per_request": 0.0633,
+    "average_time_per_request": 115.19,
+    "files_uploaded": 13,
+    "total_file_size": 1113446
+  }
+}

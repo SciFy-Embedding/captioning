@@ -1,0 +1,106 @@
+{
+  "paper_id": "d80337bf01012737bf43d1ba2af78e76",
+  "pdf_path": "apl/Superconductors/arXiv:2504.12028.pdf",
+  "processing_timestamp": "2025-06-23T15:31:26.024041",
+  "figure_analysis": {
+    "_page_3_Figure_1.jpeg": {
+      "caption": "Figure 1 presents the magnetic field intensity (in the top section) and Lorentz forces (in the bottom section) within the Bi-2212 strands as determined using ANSYS for the heterogeneous model. The color gradient denotes the magnetic field strength, measured in teslas (T), while the superimposed streamline pattern outlines regions of differing field intensity. The plot indicates significant variances in field intensity across the aperture, coils, and iron yoke. The bottom section shows Lorentz forces (in N/m) acting on the strands, demonstrating the forces distributed around the serpentine path of the Bi-2212 conductor. This analysis is pivotal for understanding the mechanical stresses imposed under operational magnetic fields, contributing crucial insight for the improved mechanical performance of superconducting materials in high-field applications .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2504.12028/images/_page_3_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_1.jpeg"
+    },
+    "_page_5_Figure_2.jpeg": {
+      "caption": "Figure 2 illustrates the stress history comparison (in MPa) of HTS Dipole components across different models (heterogeneous 'het_' vs homogeneous 'hom_') over three load steps: pre-stress (PS), cool-down (PS-Th), and energization (EN). The stress distribution, noted for components like mandrel, epoxy insulation, and coil, highlights the mechanical impact during the energization phase (at 4.8 T) using ANSYS simulations. The plot emphasizes disparities between models, with stress peaks notably around PS-Th load steps in het_Bi2O3 and het_Epoxy/Coil series. Such data underline the structural integrity and reliability of HTS dipoles under rigorous operational conditions.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2504.12028/images/_page_5_Figure_2.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_2.jpeg"
+    },
+    "_page_1_Picture_9.jpeg": {
+      "caption": "Figure 3 offers a schematic comparison between original (left) and final (right) transverse designs of a superconducting insert coil, showcasing differences in coil layer configurations. The evolution features adjustments to enhance field homogeneity and mechanical resilience, optimizing the support structure to suit Bi-2212 strand placement while ensuring integrity during high-stress operations .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2504.12028/images/_page_1_Picture_9.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Picture_9.jpeg"
+    },
+    "_page_2_Picture_3.jpeg": {
+      "caption": "Figure 4 shows a 3D-printed model of a 2-layer mandrel utilized to test winding methodologies and validate procedural soundness for the Bi-2212 insert coil. Each layer's composition and construction are detailed, underscoring the transition from inner to outer via specified component parts numbered to indicate integral role assignment in the winding process. This model serves as a tool for validating mechanical stability against thermal and electromagnetic stresses .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2504.12028/images/_page_2_Picture_3.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_2_Picture_3.jpeg"
+    },
+    "_page_4_Figure_1.jpeg": {
+      "caption": "Figure 5 displays the tensile stress-strain curves for Bi-2212 strand samples, highlighting variations between heat-treated (top) and non-heat-treated (bottom) samples. The stress (σ) is plotted against strain (ε), showing mechanical properties such as yield strength around 140 MPa and a near-linear elasticity limit. The heat-treated samples exhibit improved plasticity properties critical for optimizing the resilience of superconducting cables under operational loading .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2504.12028/images/_page_4_Figure_1.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_4_Figure_1.jpeg"
+    },
+    "_page_6_Figure_10.jpeg": {
+      "caption": "Figure 6 presents stress distribution maps for varying Strand Shape Parameters (SP), ranging from 0.0 to 1.0, depicted in multiple panels (a-d). These maps demonstrate the mechanical impact of cable compaction on the stress profile across the Bi-2212 strands at the energization step (EN). These findings illustrate the relationship between cable geometry and mechanical stress, aiding in the refinement of strand and winding configurations for optimal performance in superconducting magnet systems .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2504.12028/images/_page_6_Figure_10.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_6_Figure_10.jpeg"
+    },
+    "_page_5_Figure_7.jpeg": {
+      "caption": "Figure 7 details maximum equivalent Von Mises stress (in MPa) from analysis through different load conditions for insert components like mandrel, and epoxy insulation at 'EN' (energization) step. It contrasts homogeneous ('hom_') versus heterogeneous ('het_') model results, revealing disparities that guide structural optimizations. The heterogeneous model nuances mechanical performance predictions critical for complex, stress-induced superconductor behavior.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2504.12028/images/_page_5_Figure_7.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_5_Figure_7.jpeg"
+    },
+    "_page_3_Figure_5.jpeg": {
+      "caption": "Figure 8 depicts magnetic flux intensity profiles (in Telsa) in an HTS Insert as analyzed. It profiles the magnetic field across multiple axes (X, Y, radial axes at angles) using both homogeneous ('hom_') and heterogeneous ('het_') models. This data is vital in calibrating structural elements responding to varying magnetic flux intensities, optimizing the HTS insert design under operational magnetic loads.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2504.12028/images/_page_3_Figure_5.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_5.jpeg"
+    },
+    "_page_3_Figure_8.jpeg": {
+      "caption": "Figure 9 showcases the cross-section composition of the HTS insert, detailing material components like iron yoke, mandrel, epoxy insulation, silver, and Bi-2212. This visualization is imperative for understanding the layered architecture contributing to the overall electromagnetic and mechanical behavior of the superconducting structure under study .",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2504.12028/images/_page_3_Figure_8.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_3_Figure_8.jpeg"
+    },
+    "_page_1_Figure_12.jpeg": {
+      "caption": "Figure 12 displays the magnetic field distribution across the cosine-theta HTS dipole insert as simulated with ROXIE. This illustration shows the uniformity of field intensity along the coil structure at a 10 kA current. The color scale bar indicates magnetic field strength in teslas (T), with distinct color bands highlighting field variations across the coil. Roxie simulations confirm the applicability of this configuration to achieve a consistent field profile, advantageous for minimizing field-induced mechanical stress on the Bi-2212 strands, thus signifying relevance in high-precision and robust superconducting magnet designs for applications requiring stable magnetic fields.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2504.12028/images/_page_1_Figure_12.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_1_Figure_12.jpeg"
+    },
+    "_page_0_Figure_13.jpeg": {
+      "caption": "Figure 13 provides a composite overview of the HTS cosine-theta dipole insert, showcasing detailed components from mandrels to Bi-2212 strands. The sequence illustrates the transition from the Inconel-718 mandrels to the complete Rutherford cable assembly, emphasizing the structural hierarchy and constituent materials such as epoxy and mullite. This comprehensive view highlights material integration aiding in mechanical stability and functional harmony, crucial for the robust performance of high-field superconducting magnets.",
+      "queries": [],
+      "image_path": "extracted_pdfs/arxiv/superconductors/arXiv:2504.12028/images/_page_0_Figure_13.jpeg",
+      "method": "assistants_api_batch",
+      "context_used": "complete_paper",
+      "matched_key": "_page_0_Figure_13.jpeg"
+    }
+  },
+  "usage_summary": {
+    "total_cost": 0.1263,
+    "api_cost": 0.1263,
+    "file_storage_cost": 0.0,
+    "total_time": 99.87,
+    "request_count": 2,
+    "average_cost_per_request": 0.0631,
+    "average_time_per_request": 49.94,
+    "files_uploaded": 12,
+    "total_file_size": 714910
+  }
+}
